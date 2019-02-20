@@ -1,17 +1,18 @@
-# Islander - Greek islands for a Greek perspective
+# Islander - Greek islands from a Greek perspective
 
-The purpose of this repository is to get familiar with the Git and Github's concepts and practice some basic commands.
+The purpose of this repository is to get familiar with the Git and GitHub's concepts and practice some basic commands.
 The outcome will be published as an unofficial travel guide! [(Check last years' contributions)](http://www.tusharma.in/athens/taksidiotis-athens-travel-guide-by-the-greeks/)
 
 **Important:** Please send your GitHub username to Antonis (if you have not shared it yet either in the lab or via email) so that you can contribute to this repository as a collaborator.
 
 ## Tasks
 - Clone this repository
-- Add interesting places (such as museum, bar, or restaurant), activity (walking tour, or food/wine-tasting tour), or anything interesting for a tourist to the ```guide.md``` file
-- Contribute to at least 3 categories
-- The important thing is – you, as a Greek, are recommending it
+- Add information about Greek islands or anything interesting for a tourist to the guide.md file
+- Contribute generously
+- Add interesting things
+- Make categories, organize things
+- Feel free to add images/videos
 - You may change/modify text added by others
-- Try to arrange the entries in categories (such as ‘Tour’, ‘Food’, ‘History’, 'Beaches')
 - Commit your changes
 - Push to the GitHub repository (if required pull and resolve merge conflicts)
 
