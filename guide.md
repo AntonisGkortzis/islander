@@ -1,11 +1,11 @@
 ## Greek Islands
 This guide provides people who would like to visit a Greek island with tips regarding food, entertainment, places to visit etc.
 
-* [Ionian Islands](#Ionian Islands)
+* [Ionian Islands](#ionian_islands)
   * [Cephalonia](#cephalonia)
 
 
-# <a name="Ionian Islands"></a>Ionian Islands
+# <a name="ionian_islands"></a>Ionian Islands
 
 ## <a name="cephalonia"></a>Cephalonia
 * [Info](#info)
