@@ -4,6 +4,9 @@ This guide provides people who would like to visit a Greek island with tips rega
 * [Ionian Islands](#ionian islands)
   * [Cephalonia](#cephalonia)
 * [Cyclades](#cyclades)
+* [Sporades](#sporades)
+* [Dodecanese](#dodecanese)
+* [North-East Aegean Islands](#north-east aegean islands)
 
 # <a name="ionian islands"></a>Ionian Islands
 
