@@ -1,8 +1,11 @@
 ## Greek Islands
 This guide provides people who would like to visit a Greek island with tips regarding food, entertainment, places to visit etc.
 
-* [Cephalonia](#cephalonia)
+*[Ionian Islands](#Ionian Islands)
+  * [Cephalonia](#cephalonia)
 
+
+# <a name="Ionian Islands"></>Ionian Islands
 
 ## <a name="cephalonia"></a>Cephalonia
 * [Info](#info)
@@ -13,7 +16,7 @@ This guide provides people who would like to visit a Greek island with tips rega
 
 ## <a name="info"></a>Info
 Cephalonia is the largest of the Ionian Islands. Marked by its sandy coves and dry rugged landscapes it provides an ideal place for Summer Vacations.
-By many, Cephalonia is considered as the Homeric Ithaca, the home of Odysseus. 
+By many, Cephalonia is considered as the Homeric Ithaca, the home of Odysseus.
 
 ## <a name="food"></a>Food
 * [Old Plaka](http://paliaplaka.gr/)
