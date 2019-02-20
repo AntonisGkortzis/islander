@@ -1,4 +1,4 @@
-# Islander - Greek islands from a Greek perspective
+# Islander - Greek islands guide from the Greeks
 
 The purpose of this repository is to get familiar with the Git and GitHub's concepts and practice some basic commands.
 The outcome will be published as an unofficial travel guide! [(Check last years' contributions)](http://www.tusharma.in/athens/taksidiotis-athens-travel-guide-by-the-greeks/)
