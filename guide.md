@@ -7,7 +7,7 @@ This guide provides people who would like to visit a Greek island with tips rega
 ## <a name="cephalonia"></a>Cephalonia
 * [Info](#info)
 * [Food](#food)
-* [Beches](#beaches)
+* [Beaches](#beaches)
 * [Entertainment](#entertainment)
 
 
