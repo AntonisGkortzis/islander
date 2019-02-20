@@ -1,7 +1,7 @@
 ## Greek Islands
 This guide provides people who would like to visit a Greek island with tips regarding food, entertainment, places to visit etc.
 
-* [Ionian Islands](#ionian islands)
+* [Ionian Islands](#ionian_islands)
   * [Cephalonia](#cephalonia)
 * [Cyclades](#cyclades)
 * [Sporades](#sporades)
@@ -9,7 +9,7 @@ This guide provides people who would like to visit a Greek island with tips rega
 * [North-East Aegean Islands](#north-east aegean islands)
 
 
-# <a name="Ionian Islands"></a>Ionian Islands
+# <a name="ionian_islands"></a>Ionian Islands
 
 ## <a name="cephalonia"></a>Cephalonia
 * [Info](#info)
