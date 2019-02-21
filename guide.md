@@ -87,13 +87,13 @@ Top 5: Plaka,Agios Prokopios, Agia Anna, Orkos and Mikri Vigla
 #### <a name="eat"></a>Where to eat 
 Did you know that Naxos is the most fertile island of Cyclades? Then now you know.
 Trust me, you will eat the most tasty potatoes!
-*[Matsouna](hhttp://www.ostria.com/naxos_restaurant/?utm_source=tripadvisor&utm_medium=referral)
-*[Agia Anna](https://www.facebook.com/dimitris563/?utm_source=tripadvisor&utm_medium=referral)
-*[Kastraki](http://www.apolafsinaxos.gr/?utm_source=tripadvisor&utm_medium=referral)
+* [Matsouna](hhttp://www.ostria.com/naxos_restaurant/?utm_source=tripadvisor&utm_medium=referral)
+* [Agia Anna](https://www.facebook.com/dimitris563/?utm_source=tripadvisor&utm_medium=referral)
+* [Kastraki](http://www.apolafsinaxos.gr/?utm_source=tripadvisor&utm_medium=referral)
 
 #### <a name="drink"></a>Where to drink
 If you like Cocktail bars next to the sea with loud music till dawn then Naxos is surely your perfect choice.
 Top 3: 
-*[520 Bar](https://www.tripadvisor.com.gr/Attraction_Review-g580192-d6720618-Reviews-520_Bar-Naxos_Town_Naxos_Cyclades_South_Aegean.html)
-*[The Ocean Club](https://www.tripadvisor.com.gr/Attraction_Review-g580192-d8332563-Reviews-The_Ocean_Club-Naxos_Town_Naxos_Cyclades_South_Aegean.html)
-*[The Rum Bar Cocktail & Spirits](https://www.tripadvisor.com.gr/Attraction_Review-g580192-d12146313-Reviews-The_Rum_Bar_Cocktail_Spirits-Naxos_Town_Naxos_Cyclades_South_Aegean.html)
+* [520 Bar](https://www.tripadvisor.com.gr/Attraction_Review-g580192-d6720618-Reviews-520_Bar-Naxos_Town_Naxos_Cyclades_South_Aegean.html)
+* [The Ocean Club](https://www.tripadvisor.com.gr/Attraction_Review-g580192-d8332563-Reviews-The_Ocean_Club-Naxos_Town_Naxos_Cyclades_South_Aegean.html)
+* [The Rum Bar Cocktail & Spirits](https://www.tripadvisor.com.gr/Attraction_Review-g580192-d12146313-Reviews-The_Rum_Bar_Cocktail_Spirits-Naxos_Town_Naxos_Cyclades_South_Aegean.html)
