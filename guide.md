@@ -102,6 +102,21 @@ Top 3:
 ## <a name="dodecanese"></a>Dodecanese
 
 ### <a name="symi"></a>Symi
-* [Discover Symi](#discover)
-* [Where to swim](#swim)
-* [Where to eat](#eat)
+* [Discover Symi](#discoverSymi)
+* [Where to swim](#swimSymi)
+* [Where to eat](#eatSymi)
+
+#### <a name="discover"></a>Discover Symi
+Symi is a small island located just 30 minutes by boat from Rhodes. It's a perfect destination for people who want to see the Greek way of life, get away from their daily routine and find themselves.
+
+#### <a name="swim"></a>Where to swim
+Are you bored of taking the car or the local buses to finally reach, after a long and hot journey, the beach? Well if the answer is yes look no further than Symi. You take the local boats and you can reach all beaches within a few minutes. Don't let the small size of the island fool you. There are some great and very different choices.
+* [Nanou Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189450-d7125012-Reviews-Nanou_Beach-Symi_Dodecanese_South_Aegean.html)
+Nanou is one of the largest beaches of Symi and it is definitely one of the most beautiful ones. Sunbeds and umbrellas are included so you will be able to stay there and relax the whole day. Want a snack or something to drink? Don't worry there is a restaurant just behind the beach.
+Pro tip: Ask the son of the owner what kind of fish he recommends. He certainly knows what to recommend you and you will not be disappointed.
+* [Marathounda Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189450-d4889454-Reviews-Marathounda_Beach-Symi_Dodecanese_South_Aegean.html)
+If you love scuba diving or just like exploring the sea then you should absolutely visit Marathounda. Very clear water, quiet beach and perfect for families.
+* [Saint Nicholas Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189450-d4889451-Reviews-St_Nicholas_Beach-Symi_Dodecanese_South_Aegean.html)
+How can you not like a beach that you can just relax under the shade of trees? Saint Nicholas is the number one place to go if you want to relax, listen to the sound of the waves and read your book.
+* [Saint George Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189450-d11644964-Reviews-Agios_Georgios_Dysalona_Beach-Symi_Dodecanese_South_Aegean.html)
+Probably one of the most amazing sceneries in the island. No buildings, no trace of human contact with this amazing place. Shade is provided only by the giant cliff that stands above of the beach and its white color along with the turquoise color of the sea produces a breathtaking result.
