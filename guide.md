@@ -70,13 +70,24 @@ Now it's your time! ✈️ 600m above ground and with a breathtaking view, it is
 
 ### <a name="paksoi"></a>Paksoi
 * [Basic Info](#paksoiInfo)
+* [Antipaksoi](#antipaksoi)
 * [Beaches](#swimPaksoi)
 * [Where to eat?](#food)
 * [Boat Trips](#boatTrips)
-* [Antipaksoi](#antipaksoi)
 
 #### <a name="paksoiInfo"></a>Basic Info
-How about visiting the island that was first mentioned by the greatest of ancient Greek epic poets, Homer? Paksoi in Greek is actually in plural, due to the existence of an island chain including Antipaksoi which is located 5.5 miles far away from Paksoi. The central port of Paksoi is called Gaios, where you can find plenty of restaurants and cafeterias and enjoy the beautiful view.
+How about visiting the island that was first mentioned by the greatest of ancient Greek epic poets, Homer? Paksoi in Greek is actually in plural, due to the existence of an island chain including Antipaksoi (MUST visit!) which is located 5.5 miles far away from Paksoi. The central port of Paksoi is called Gaios, where you can find plenty of restaurants and cafeterias and enjoy the beautiful view.
+
+Are you wondering how to get there? Every day, the ferry-boats of Igoumenitsa transfer a lot of tourists who aim to explore Paksoi. If you go to Igoumenitsa by car, bare in mind that you' d better use the new highway in order to "gain" time (2 hours). Unless you want to drive for 5 1/2 hours:frowning:!
+
+<details>
+  <summary>Ticket Information</summary>
+  <p>Adults: 11€</p>
+  <p>Children (over 4 ears-old): 5,50€</p>
+  <p>Car: 42,30€</p>
+  <p>Motorcycle: (lower than 250cc) 9€, (over 250cc) 12,80€</p>
+</details>
+
 
 ## <a name="cyclades"></a>Cyclades
 
