@@ -12,6 +12,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Naxos](#naxos)
 * [Sporades](#sporades)
 * [Dodecanese](#dodecanese)
+  * [Symi](#symi)
 * [North-East Aegean Islands](#north_east_aegean_islands)
 
 
@@ -78,13 +79,13 @@ Now it's your time! ✈️ 600m above ground and with a breathtaking view, it is
 Imaginary white long beaches, romantic alleys, peaceful sunsets and unforgettable nights are what Naxos island is all about.
 ![](/images/naxos.jpg)
 
-#### <a name="swim"></a>Where to swim 
+#### <a name="swim"></a>Where to swim
 You'll never face a problem with that. I promise!
 There are so many different beaches and each of them has it's own beauty that will definitely seduce you.
-Top 5: Plaka,Agios Prokopios, Agia Anna, Orkos and Mikri Vigla 
+Top 5: Plaka,Agios Prokopios, Agia Anna, Orkos and Mikri Vigla
 ![](/images/naxos_beach.jpg)
 
-#### <a name="eat"></a>Where to eat 
+#### <a name="eat"></a>Where to eat
 Did you know that Naxos is the most fertile island of Cyclades? Then now you know.
 Trust me, you will eat the most tasty potatoes!
 * [Matsouna](hhttp://www.ostria.com/naxos_restaurant/?utm_source=tripadvisor&utm_medium=referral)
@@ -93,7 +94,14 @@ Trust me, you will eat the most tasty potatoes!
 
 #### <a name="drink"></a>Where to drink
 If you like Cocktail bars next to the sea with loud music till dawn then Naxos is surely your perfect choice.
-Top 3: 
+Top 3:
 * [520 Bar](https://www.tripadvisor.com.gr/Attraction_Review-g580192-d6720618-Reviews-520_Bar-Naxos_Town_Naxos_Cyclades_South_Aegean.html)
 * [The Ocean Club](https://www.tripadvisor.com.gr/Attraction_Review-g580192-d8332563-Reviews-The_Ocean_Club-Naxos_Town_Naxos_Cyclades_South_Aegean.html)
 * [The Rum Bar Cocktail & Spirits](https://www.tripadvisor.com.gr/Attraction_Review-g580192-d12146313-Reviews-The_Rum_Bar_Cocktail_Spirits-Naxos_Town_Naxos_Cyclades_South_Aegean.html)
+
+## <a name="dodecanese"></a>Dodecanese
+
+### <a name="symi"></a>Symi
+* [Discover Symi](#discover)
+* [Where to swim](#swim)
+* [Where to eat](#eat)
