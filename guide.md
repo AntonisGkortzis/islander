@@ -82,10 +82,11 @@ Are you wondering how to get there? Every day, the ferry-boats of Igoumenitsa tr
 
 <details>
   <summary>Ticket Information</summary>
-  <p>Adults: 11€</p>
-  <p>Children (over 4 ears-old): 5,50€</p>
-  <p>Car: 42,30€</p>
-  <p>Motorcycle: (lower than 250cc) 9€, (over 250cc) 12,80€</p>
+  <p>Adults: 11€
+     Children (over 4 ears-old): 5,50€
+     Car: 42,30€</p>
+     Motorcycle: (lower than 250cc) 9€, (over 250cc) 12,80€
+  </p>
 </details>
 
 
