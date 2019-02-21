@@ -107,17 +107,29 @@ Top 3:
 * [Where to swim](#swimSymi)
 * [Where to eat](#eatSymi)
 
-#### <a name="discover"></a>Discover Symi
+#### <a name="discoverSymi"></a>Discover Symi
 Symi is a small island located just 30 minutes by boat from Rhodes. It's a perfect destination for people who want to see the Greek way of life, get away from their daily routine and find themselves.
 
-#### <a name="swim"></a>Where to swim
+#### <a name="swimSymi"></a>Where to swim
 Are you bored of taking the car or the local buses to finally reach, after a long and hot journey, the beach? Well if the answer is yes look no further than Symi. You take the local boats and you can reach all beaches within a few minutes. Don't let the small size of the island fool you. There are some great and very different choices.
-* [Nanou Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189450-d7125012-Reviews-Nanou_Beach-Symi_Dodecanese_South_Aegean.html)
+* [Nanou Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189450-d7125012-Reviews-Nanou_Beach-Symi_Dodecanese_South_Aegean.html):
 Nanou is one of the largest beaches of Symi and it is definitely one of the most beautiful ones. Sunbeds and umbrellas are included so you will be able to stay there and relax the whole day. Want a snack or something to drink? Don't worry there is a restaurant just behind the beach.
 Pro tip: Ask the son of the owner what kind of fish he recommends. He certainly knows what to recommend you and you will not be disappointed.
-* [Marathounda Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189450-d4889454-Reviews-Marathounda_Beach-Symi_Dodecanese_South_Aegean.html)
+* [Marathounda Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189450-d4889454-Reviews-Marathounda_Beach-Symi_Dodecanese_South_Aegean.html):
 If you love scuba diving or just like exploring the sea then you should absolutely visit Marathounda. Very clear water, quiet beach and perfect for families.
-* [Saint Nicholas Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189450-d4889451-Reviews-St_Nicholas_Beach-Symi_Dodecanese_South_Aegean.html)
+* [Saint Nicholas Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189450-d4889451-Reviews-St_Nicholas_Beach-Symi_Dodecanese_South_Aegean.html):
 How can you not like a beach that you can just relax under the shade of trees? Saint Nicholas is the number one place to go if you want to relax, listen to the sound of the waves and read your book.
-* [Saint George Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189450-d11644964-Reviews-Agios_Georgios_Dysalona_Beach-Symi_Dodecanese_South_Aegean.html)
+* [Saint George Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189450-d11644964-Reviews-Agios_Georgios_Dysalona_Beach-Symi_Dodecanese_South_Aegean.html):
 Probably one of the most amazing sceneries in the island. No buildings, no trace of human contact with this amazing place. Shade is provided only by the giant cliff that stands above of the beach and its white colour along with the turquoise colour of the sea produces a breathtaking result.
+
+#### <a name="eatSymi"></a>Where to eat
+Symi despite being a very small island has a great variety of restaurants and can accommodate the needs of even the most demanding customers. You can find everything from gourmet restaurants and Italian places to seafood "tavernas" and souvlaki stores.
+* [Mythos of Symi](https://www.facebook.com/mythosofsimi/?ref=py_c):
+If you want a combination of a great atmosphere, an amazing view and great food then Mythos of Symi is the place for you. Although it can be a bit pricey it is absolutely worth it.
+Pro tip: go before the sun sets and you will not be disappointed.
+* [Taverna o Charis](https://www.tripadvisor.com.gr/Restaurant_Review-g1188751-d4270385-Reviews-Taverna_O_Haris-Gialos_Symi_Dodecanese_South_Aegean.html):
+If you want to try traditional Greek food and want to have a taste of the delicious fish that exist in the Greek sea then you ought to pay Taverna o Charis a visit.
+* [To Spitiko](https://www.tripadvisor.com.gr/Restaurant_Review-g1188751-d4869613-Reviews-Taverna_To_Spitiko-Gialos_Symi_Dodecanese_South_Aegean.html):
+Who wouldn't want the most fresh fish you can find? The family that owns the restaurant go every morning to fish and later at noon you can go and see what they caught. A true and unique experience.
+* [Meraklis](https://www.tripadvisor.com.gr/Restaurant_Review-g1188751-d2198368-Reviews-Taverna_Meraklis-Gialos_Symi_Dodecanese_South_Aegean.html):
+How can you visit Greece and not try souvlaki? Meraklis tavern offers one of the best in the island and it is definitely a must visit.
