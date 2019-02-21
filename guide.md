@@ -76,13 +76,13 @@ Now it's your time! ✈️ 600m above ground and with a breathtaking view, it is
 
 #### <a name="discover"></a>Discover Naxos
 Imaginary white long beaches, romantic alleys, peaceful sunsets and unforgettable nights are what Naxos island is all about.
-![](/images/naxos.jpeg)
+![](/images/naxos.jpg)
 
 #### <a name="swim"></a>Where to swim 
 You'll never face a problem with that. I promise!
 There are so many different beaches and each of them has it's own beauty that will definitely seduce you.
 Top 5: Plaka,Agios Prokopios, Agia Anna, Orkos and Mikri Vigla 
-![](/images/naxos_beach.jpeg)
+![](/images/naxos_beach.jpg)
 
 #### <a name="eat"></a>Where to eat 
 Did you know that Naxos is the most fertile island of Cyclades? Then now you know.
