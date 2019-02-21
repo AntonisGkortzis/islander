@@ -5,6 +5,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Cephalonia](#cephalonia)
   * [Leukada](#leukada)
   * [Paksoi](#paksoi)
+  * [Kythira](#kythira)
 * [Cyclades](#cyclades)
   * [Santorini](#santorini)
   * [Ios](#ios)
@@ -88,6 +89,16 @@ Are you wondering how to get there? Every day, the ferry-boats of Igoumenitsa tr
      Motorcycle: (lower than 250cc) 9€, (over 250cc) 12,80€
   </p>
 </details>
+
+### <a name="kythira"></a>Kythira
+    *[Is that an island?](#infokyth)
+    *[Astonishing Beaches](#beacheskyth)
+    *[Breathtaking Views](#viewskyth)
+    *[Great nature](#naturekyth)
+    *[So,why kythira?](#whykyth)
+    
+####    <a name="infokyth"></a>Well it is...
+And it's beautiful. It is located under Pelopponese and the combination of the 3 open seas around it and the various influences from a wide variety of civilisations occupiing it through the centuries ,has created a unique scenery. The island was a crossroad for merchants since the ancient times and also a fortress during wars due to its significant strategic position. The result of that reflects on the island's architecture, traditions and customs. Beside it's diversity, kythira is also believed to be the island of Aphrodite,an ancient godess-protector of pure love. Due to that, during the modern days the island is believed to have an ability to create and maintain pure forever-lasting relationships for its occupants and visitors ,which is also the reason why many couples visit the island annualy.   
 
 
 ## <a name="cyclades"></a>Cyclades
