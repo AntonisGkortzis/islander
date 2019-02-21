@@ -4,6 +4,7 @@ This guide provides people who would like to visit a Greek island with tips rega
 * [Ionian Islands](#ionian_islands)
   * [Cephalonia](#cephalonia)
   * [Leukada](#leukada)
+  * [Paksoi](#paksoi)
 * [Cyclades](#cyclades)
   * [Santorini](#santorini)
   * [Ios](#ios)
