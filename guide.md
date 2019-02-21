@@ -1,6 +1,6 @@
 # Greek Islands
 This guide provides people who would like to visit a Greek island with tips regarding food, entertainment,places to visit etc.
-## Menu
+## <a name="menu"></a>Menu
 * [Ionian Islands](#ionian_islands)
   * [Cephalonia](#cephalonia)
   * [Leukada](#leukada)
@@ -13,9 +13,11 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Paros](#paros)
   * [Antiparos](#antiparos)
   * [Naxos](#naxos)
+  * [Kythnos](#kythnos)
 * [Sporades](#sporades)
 * [Dodecanese](#dodecanese)
   * [Symi](#symi)
+  * [Leros](#leros)
 * [North-East Aegean Islands](#north_east_aegean_islands)
 
 
@@ -163,6 +165,34 @@ Top 3:
 * [The Ocean Club](https://www.tripadvisor.com.gr/Attraction_Review-g580192-d8332563-Reviews-The_Ocean_Club-Naxos_Town_Naxos_Cyclades_South_Aegean.html)
 * [The Rum Bar Cocktail & Spirits](https://www.tripadvisor.com.gr/Attraction_Review-g580192-d12146313-Reviews-The_Rum_Bar_Cocktail_Spirits-Naxos_Town_Naxos_Cyclades_South_Aegean.html)
 
+### <a name="kythnos"></a>Kythnos
+
+* [Why Kythnos?](#why_kythnos)
+* [Beaches](#beaches_kythnos)
+* [Things to do](#things_to_do_kythnos)
+* [Nightlife](#nightlife_kythnos)
+
+#### <a name="why_kythnos"></a>Why Kythnos?
+For those of you that want to relax on your vacation and do not want to share a beach with an endless stream of tourists, Kythnos is the right place for you! Close to the ports of Lavrio and Piraeus, it makes for a great weekend destination to blow some steam off after a long week.
+
+#### <a name="beaches_kythnos"></a>Beaches
+
+* *Kolona* - the most famous of the bunch and truly stunning
+![Kolona beach](./images/kolona.jpg)
+* *Agios Dimitrios* - a personal favourite
+* *Episkopi*
+
+#### <a name="things_to_do_kythnos"></a>Things to do
+
+| **Type**      | **Name**      | **Location**    | **Definitely-non-subjective Rating** |
+| ------------- | ------------- | --------------- | ------------------------------------ |
+| Tavern        | O Milas       | Agios Dimitrios | ***                                  |
+| Nightclub     | Akrotiri      | Merichas        | **                                   |
+| Restaurant    | Fermina       | Merichas        | ****                                 |
+
+#### <a name="nightlife_kythnos"></a>Nightlife
+Error 404- If you're looking for nightlife, look [Elsewhere](#menu). There is a nightclub called *Akrotiri*  and a couple of bars, but that is pretty much it.
+
 ## <a name="dodecanese"></a>Dodecanese
 
 ### <a name="symi"></a>Symi
@@ -196,3 +226,25 @@ If you want to try traditional Greek food and want to have a taste of the delici
 Who wouldn't want the most fresh fish you can find? The family that owns the restaurant go every morning to fish and later at noon you can go and see what they caught. A true and unique experience.
 * [Meraklis](https://www.tripadvisor.com.gr/Restaurant_Review-g1188751-d2198368-Reviews-Taverna_Meraklis-Gialos_Symi_Dodecanese_South_Aegean.html):
 How can you visit Greece and not try souvlaki? Meraklis tavern offers one of the best in the island and it is definitely a must visit.
+
+### <a name="leros"></a>Leros
+
+* [Why Leros?](#why_leros)
+* [Beaches](#beaches_leros)
+* [Nightlife](#nightlife_leros)
+
+#### <a name="why_leros"></a>Why Leros?
+
+A beautiful island of the Dodecanese, worthy of its long distance from Athens. Characterized by its natural beauty, Leros has managed to be beautiful with its own uniquely recognizable, but exceptional style.
+
+#### <a name="beaches_leros"></a>Beaches
+
+Leros' most famous beaches are listed below:
+
+* *Alinta*
+* *Paradeisos*
+* *Kokkina*
+
+#### <a name="nightlife_leros"></a>Nightlife
+
+Mostly located at the Agia Marina region, it proudly has bars and clubs, like **Faros**, **Meltemi**, **Yolo** and **Thalassa**
