@@ -106,10 +106,10 @@ Top 3:
 * [Where to swim](#swimSymi)
 * [Where to eat](#eatSymi)
 
-#### <a name="discover"></a>Discover Symi
+#### <a name="discoverSymi"></a>Discover Symi
 Symi is a small island located just 30 minutes by boat from Rhodes. It's a perfect destination for people who want to see the Greek way of life, get away from their daily routine and find themselves.
 
-#### <a name="swim"></a>Where to swim
+#### <a name="swimSymi"></a>Where to swim
 Are you bored of taking the car or the local buses to finally reach, after a long and hot journey, the beach? Well if the answer is yes look no further than Symi. You take the local boats and you can reach all beaches within a few minutes. Don't let the small size of the island fool you. There are some great and very different choices.
 * [Nanou Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189450-d7125012-Reviews-Nanou_Beach-Symi_Dodecanese_South_Aegean.html):
 Nanou is one of the largest beaches of Symi and it is definitely one of the most beautiful ones. Sunbeds and umbrellas are included so you will be able to stay there and relax the whole day. Want a snack or something to drink? Don't worry there is a restaurant just behind the beach.
@@ -121,7 +121,7 @@ How can you not like a beach that you can just relax under the shade of trees? S
 * [Saint George Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189450-d11644964-Reviews-Agios_Georgios_Dysalona_Beach-Symi_Dodecanese_South_Aegean.html):
 Probably one of the most amazing sceneries in the island. No buildings, no trace of human contact with this amazing place. Shade is provided only by the giant cliff that stands above of the beach and its white colour along with the turquoise colour of the sea produces a breathtaking result.
 
-#### <a name="eat"></a>Where to eat
+#### <a name="eatSymi"></a>Where to eat
 Symi despite being a very small island has a great variety of restaurants and can accommodate the needs of even the most demanding customers. You can find everything from gourmet restaurants and Italian places to seafood "tavernas" and souvlaki stores.
 * [Mythos of Symi](https://www.facebook.com/mythosofsimi/?ref=py_c):
 If you want a combination of a great atmosphere, an amazing view and great food then Mythos of Symi is the place for you. Although it can be a bit pricey it is absolutely worth it.
