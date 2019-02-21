@@ -21,33 +21,34 @@ This guide provides people who would like to visit a Greek island with tips rega
 ## <a name="ionian_islands"></a>Ionian Islands
 
 ### <a name="cephalonia"></a>Cephalonia
-* [Info](#info)
-* [Food](#food)
+* [Some History](#info)
+* [Where to eat](#food)
 * [Beaches](#beaches)
 * [Entertainment](#entertainment)
 
 
-#### <a name="info"></a>Info
-Cephalonia is the largest of the Ionian Islands. Marked by its sandy coves and dry rugged landscapes it provides an ideal place for Summer Vacations.
-By many, Cephalonia is considered as the Homeric Ithaca, the home of Odysseus.
+#### <a name="info"></a>Some History
+![](/images/cephalonia.png)
+Cephalonia is the largest of the Ionian Islands. The sapphire waters of Cephalonia are steeped with history. Cephalonia is considered by many the home to Odysseus, the legendary king hailed in Homer’s The Odyssey. Fortunately, it won’t take you ten years to get there. Explore the enchanting caverns of the Drogarati caves, sail to Ithaca on a glass-bottomed boat or marvel at the ancient artifacts inside the Archaeological Museum of Argostoli, Cephalonia’s main town. Or just hide from it all at one of the island’s many private beach coves.
 
-#### <a name="food"></a>Food
+#### <a name="food"></a>Where to eat
 * [Old Plaka](http://paliaplaka.gr/)
 * [Tassia Restaurant](http://www.tassia.gr/)
+* [Ladokolla stin Plagia](https://www.tripadvisor.com/Restaurant_Review-g651972-d7063210-Reviews-Ladokolla_stin_Plagia-Lixouri_Cephalonia_Ionian_Islands.html)
 
 #### <a name="beaches"></a>Beaches
-* Myrtos
-* Antisamos
-* Makris Gialos
-* Skala Beach
-* Lourdas
-* Foki Fiskardo
+* [Myrtos](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-myrtos.htm)
+* [Antisamos](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-antisamos.htm)
+* [Makris Gialos](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-makris_gialos.htm)
+* [Skala Beach](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-skala_beach.htm)
+* [Lourdas](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-lourdas.htm)
+* [Foki Fiskardo](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-foki_fiskardo.htm)
 
 #### <a name="entertainment"></a>Entertainment
-* Gymland
-* Captain Vangelis Cruises
-* Bee's Knees The Bar
-* Costa Costa Beach Bar
+* [Gymland](https://www.facebook.com/Gymland-413803865346952/)
+* [Captain Vangelis Cruises](https://kefalonia-cruises.gr/)
+* [Bee's Knees The Bar](http://beeskneesthebar.com/)
+* [Costa Costa Beach Bar](https://www.facebook.com/costacostakefalonia/)
 
 ### <a name="leukada"></a>Leukada
 * [Pack your bags](#pack)
