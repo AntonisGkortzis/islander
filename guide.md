@@ -53,9 +53,9 @@ By many, Cephalonia is considered as the Homeric Ithaca, the home of Odysseus.
 * [Happy Hour](#happy_hour)
 
 #### <a name="pack"></a>Pack your bags
-What if I tell you that there is a place in Leukada from which you can see earth's curvature. (take that Flat Earth Society! 🌍)
+What if I tell you that there is a place in Leukada from which you can see earth's curvature. (take that Flat Earth Society! :earth_asia:)
 ![](/images/leukada.png)
-It's simple. Grab your +1 😻, get in the car(yes you can drive to the island) and start the most exciting experience of your life.
+It's simple. Grab your +1 😻, get in the car (yes you can drive to the island) and start the most exciting experience of your life.
 
 #### <a name="hungry"></a>Mom's spagetti
 * [O Molos](https://www.facebook.com/omolos.lefkada/?ref=bookmarks&utm_source=tripadvisor&utm_medium=referral) (try "mom's spaggeti" from the menu! 🍝)
@@ -63,7 +63,13 @@ It's simple. Grab your +1 😻, get in the car(yes you can drive to the island) 
 
 #### <a name="happy_hour"></a>Happy Hour
 "From ancient times man wanted to fly like a bird and see the world from above." We have all heard stories like Icarus with the feathered sandals of Hermes.
+<<<<<<< HEAD
 Now it's your time! ✈️ 600m above groud and with a breathtaking view, it is a one-time experience. ![](/images/para.png)
+
+
+=======
+Now it's your time! ✈️ 600m above ground and with a breathtaking view, it is a one-time experience. ![](/images/para.png)
+>>>>>>> 3d6a4c3bb10113f69b990bb577ca6dd7b7742194
 
 ## <a name="cyclades"></a>Cyclades
 
