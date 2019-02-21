@@ -63,13 +63,8 @@ It's simple. Grab your +1 😻, get in the car (yes you can drive to the island)
 
 #### <a name="happy_hour"></a>Happy Hour
 "From ancient times man wanted to fly like a bird and see the world from above." We have all heard stories like Icarus with the feathered sandals of Hermes.
-<<<<<<< HEAD
-Now it's your time! ✈️ 600m above groud and with a breathtaking view, it is a one-time experience. ![](/images/para.png)
 
-
-=======
 Now it's your time! ✈️ 600m above ground and with a breathtaking view, it is a one-time experience. ![](/images/para.png)
->>>>>>> 3d6a4c3bb10113f69b990bb577ca6dd7b7742194
 
 ## <a name="cyclades"></a>Cyclades
 
