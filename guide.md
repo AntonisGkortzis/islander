@@ -35,7 +35,7 @@ This guide provides people who would like to visit a Greek island with tips rega
 
 
 #### <a name="info"></a>Some History
-![](/images/cephalonia.png)
+![](/images/cephalonia.jpg)
 Cephalonia is the largest of the Ionian Islands. The sapphire waters of Cephalonia are steeped with history. Cephalonia is considered by many the home to Odysseus, the legendary king hailed in Homer’s The Odyssey. Fortunately, it won’t take you ten years to get there. Explore the enchanting caverns of the Drogarati caves, sail to Ithaca on a glass-bottomed boat or marvel at the ancient artifacts inside the Archaeological Museum of Argostoli, Cephalonia’s main town. Or just hide from it all at one of the island’s many private beach coves.
 
 #### <a name="food"></a>Where to eat
