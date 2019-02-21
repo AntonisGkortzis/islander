@@ -4,7 +4,7 @@ This guide provides people who would like to visit a Greek island with tips rega
 * [Ionian Islands](#ionian_islands)
   * [Cephalonia](#cephalonia)
   * [Leukada](#leukada)
-  * [Paksoi](#paksoi)
+  * [Paxoi](#paxoi)
 * [Cyclades](#cyclades)
   * [Santorini](#santorini)
   * [Ios](#ios)
@@ -68,26 +68,41 @@ It's simple. Grab your +1 😻, get in the car (yes you can drive to the island)
 
 Now it's your time! ✈️ 600m above ground and with a breathtaking view, it is a one-time experience. ![](/images/para.png)
 
-### <a name="paksoi"></a>Paksoi
-* [Basic Info](#paksoiInfo)
-* [Antipaksoi](#antipaksoi)
-* [Beaches](#swimPaksoi)
-* [Where to eat?](#food)
-* [Boat Trips](#boatTrips)
+### <a name="paxoi"></a>Paxoi
+* [Discover Paxoi](#paxoiInfo)
+* [Antipaxoi](#antipaxoi)
+* [Where to swim](#swimPaxoi)
+* [Where to eat](#foodPaxoi)
 
-#### <a name="paksoiInfo"></a>Basic Info
-How about visiting the island that was first mentioned by the greatest of ancient Greek epic poets, Homer? Paksoi in Greek is actually in plural, due to the existence of an island chain including Antipaksoi (MUST visit!) which is located 5.5 miles far away from Paksoi. The central port of Paksoi is called Gaios, where you can find plenty of restaurants and cafeterias and enjoy the beautiful view.
+#### <a name="paxoiInfo"></a>Discover Paxoi
+How about visiting the island that was first mentioned by the greatest of ancient Greek epic poets, Homer? Paxoi in Greek is actually in plural, due to the existence of an island chain including Antipaxoi (MUST visit!) which is located 5.5 miles far away from Paxoi. The central port of Paxoi is called Gaios, where you can find plenty of restaurants and cafeterias and enjoy the beautiful view.
 
-Are you wondering how to get there? Every day, the ferry-boats of Igoumenitsa transfer a lot of tourists who aim to explore Paksoi. If you go to Igoumenitsa by car, bare in mind that you' d better use the new highway in order to "gain" time (2 hours). Unless you want to drive for 5 1/2 hours:frowning:!
+Are you wondering how to get there? Every day, the ferry-boats of Igoumenitsa transfer a lot of tourists who aim to explore Paxoi. If you go to Igoumenitsa by car, bare in mind that you' d better use the new highway in order to "gain" time (2 hours). Unless you want to drive for 5 1/2 hours:frowning:!
 
 <details>
   <summary>Ticket Information</summary>
-  <p>Adults: 11€
-     Children (over 4 ears-old): 5,50€
-     Car: 42,30€</p>
-     Motorcycle: (lower than 250cc) 9€, (over 250cc) 12,80€
-  </p>
+  <p>Adults: 11€</p>
+  <p>Children (over 4 ears-old): 5,50€</p>
+  <p>Car: 42,30€</p>
+  <p>Motorcycle: (lower than 250cc) 9€, (over 250cc) 12,80€</p>
 </details>
+
+#### <a name='antipaxoi'></a>Antipaxoi
+**How to get to Antipaxoi?**: The easiest way to get to Antipaxoi is take a small boat :boat: from Gaios. The departure point of these boats is very easy to find-you just need to take a walk around Gaios! The first stop after you take the boat is an amazing beach you can see below :ocean:. If you are a fan of camping you can also try it in Antipaxoi. ![](/images/Antipaxoi.jpg)
+**What else to see in Antipaxoi?**: After you finish your relaxing time at the beautiful beach of Antipaxoi you can retake the same small boat and visit the wonderful caves that are located in different spots around the island but are accessible only by boat. By the way, you can rent your own boat! ![](/images/antipaxoi-blue-caves-cruise.jpg)
+
+#### <a name='swimPaxoi'></a>Where to swim
+Excpet for the beaches you can reach by boat, in order to reach the most remarkable ones (of course, all beaches are beautiful) you need to take the car or use the local means of transport. Here are some of the most beautiful beaches you can find in Paxoi and Antipaxoi:
+
+* [Vrika Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189461-d2061955-Reviews-Vrika_Beach-Paxos_Ionian_Islands.html):
+One of the most beautiful beaches which is located in the north part of Antipaxoi is called Vrika Beach. The light-blue and green water can be easily visible when approaching the beach with the boat. The almost white sand in combination with the landscape and the clear sea will impress you. It is a well-organized beach where you can rent an umbrella and/or sunbeds and enjoy the hot summer days.
+* [Monodendri Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189461-d7071058-Reviews-Monodendri_Beach-Paxos_Ionian_Islands.html):
+If you are looking for a non-organized beach, Monodendri is your solution. Though unorganized, you can lay on the sand, swim safely and at 7 p.m. you can enjoy the wonderful sunset. At a glance you may face some difficulties on accessing Monodendri Beach, but in reality it is not that difficult and it is absolutely worth making an effort to reach this beach.
+* [Moggonisi](https://www.tripadvisor.com.gr/Attraction_Review-g189461-d8561139-Reviews-Mongonissi-Paxos_Ionian_Islands.html): Moggonisi is
+
+
+
+
 
 
 ## <a name="cyclades"></a>Cyclades
