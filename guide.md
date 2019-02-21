@@ -68,6 +68,16 @@ It's simple. Grab your +1 😻, get in the car (yes you can drive to the island)
 
 Now it's your time! ✈️ 600m above ground and with a breathtaking view, it is a one-time experience. ![](/images/para.png)
 
+### <a name="paksoi"></a>Paksoi
+* [Basic Info](#paksoiInfo)
+* [Beaches](#swimPaksoi)
+* [Where to eat?](#food)
+* [Boat Trips](#boatTrips)
+* [Antipaksoi](#antipaksoi)
+
+#### <a name="paksoiInfo"></a>Basic Info
+How about visiting the island that was first mentioned by the greatest of ancient Greek epic poets, Homer? Paksoi in Greek is actually in plural, due to the existence of an island chain including Antipaksoi which is located 5.5 miles far away from Paksoi. The central port of Paksoi is called Gaios, where you can find plenty of restaurants and cafeterias and enjoy the beautiful view.
+
 ## <a name="cyclades"></a>Cyclades
 
 ### <a name="naxos"></a>Naxos
