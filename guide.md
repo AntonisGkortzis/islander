@@ -79,7 +79,7 @@ Now it's your time! ✈️ 600m above ground and with a breathtaking view, it is
 #### <a name="paksoiInfo"></a>Basic Info
 How about visiting the island that was first mentioned by the greatest of ancient Greek epic poets, Homer? Paksoi in Greek is actually in plural, due to the existence of an island chain including Antipaksoi (MUST visit!) which is located 5.5 miles far away from Paksoi. The central port of Paksoi is called Gaios, where you can find plenty of restaurants and cafeterias and enjoy the beautiful view.
 
-Are you wondering how to get there? Every day, the ferry-boats of Igoumenitsa transfer a lot of tourists who aim to explore Paksoi. If you go to Igoumenitsa by car, bare in mind that you' d better use the new highway in order to "gain" time (2 hours). Unless you want to drive for 5 1/2 hours:frowning:!
+Are you wondering how to get there? Every day, the ferry-boats of Igoumenitsa transfer a lot of tourists who aim to explore Paksoi. If you go to Igoumenitsa by car, bare in mind that you'd better use the new highway in order to "gain" time (2 hours). Unless you want to drive for 5 1/2 hours:frowning:!
 
 <details>
   <summary>Ticket Information</summary>
@@ -96,9 +96,9 @@ Are you wondering how to get there? Every day, the ferry-boats of Igoumenitsa tr
 * [Breathtaking Views](#viewskyth)
 * [Great nature](#naturekyth)
 * [So,why kythira](#whykyth)
-    
+
 ####    <a name="infokyth"></a>Well it is...
-And it's beautiful. It is located under Pelopponese and the combination of the 3 open seas around it and the various influences from a wide variety of civilisations occupiing it through the centuries ,has created a unique scenery. The island was a crossroad for merchants since the ancient times and also a fortress during wars due to its significant strategic position. The result of that reflects on the island's architecture, traditions and customs. Beside it's diversity, kythira is also believed to be the island of Aphrodite,an ancient godess-protector of pure love. Due to that, during the modern days the island is believed to have an ability to create and maintain pure forever-lasting relationships for its occupants and visitors ,which is also the reason why many couples visit the island annualy.
+And it's beautiful. It is located under Pelopponese and the combination of the 3 open seas around it and the various influences from a wide variety of civilizations occupying it through the centuries ,has created a unique scenery. The island was a crossroad for merchants since the ancient times and also a fortress during wars due to its significant strategic position. The result of that reflects on the island's architecture, traditions and customs. Beside it's diversity, Kythira is also believed to be the island of Aphrodite,an ancient godess-protector of pure love. Due to that, during the modern days the island is believed to have an ability to create and maintain pure forever-lasting relationships for its occupants and visitors ,which is also the reason why many couples visit the island annually.
 
 
 ## <a name="cyclades"></a>Cyclades
