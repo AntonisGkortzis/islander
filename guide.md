@@ -22,6 +22,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Symi](#symi)
   * [Leros](#leros)
   * [Halki](#halki)
+  * [Astypalaia](#astypalaia)
 * [North-East Aegean Islands](#north_east_aegean_islands)
   * [Ikaria](#ikaria)
 
