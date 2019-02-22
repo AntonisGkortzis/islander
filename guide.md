@@ -284,35 +284,43 @@ And yes this tiny island has an amazing italian restaurant that you should defin
 * [Sightseeing](#sightseeing_ikaria)
 
 #### <a name="general_info_ikaria"></a>General Info
-Ikaria is a Greek island of North-East Aegean.Agios Kyrikos is the capital of the island and is located in the north-east coast of the island.The second most developing port is Eydilos in the north coast.The island is named after the son of Daidalos, Ikaros, whose body was found in the coast of this island.
+Ikaria is a Greek island of North-East Aegean. Agios Kyrikos is the capital of the island and is located in the north-east coast of the island. The second most developing port is Eydilos in the north coast. The island is named after the son of Daidalos, Ikaros, whose body was found in the coast of this island.
 
-The locals are mostly working in shipping.They have really strong relationships among while they are famous for not taking things seriously.
+The locals are mostly working in shipping. They have really strong relationships among them while they are famous for not taking things seriously.
 
-<b>Fun Fact</b>: Average lifetime of people that live in Ikaria is 88,1 years, surpassing the country's average of 79,8 .
+<b>Fun Fact</b>: <i> Average lifetime of people that live in Ikaria is 88,1 years, surpassing the country's average of 79,8.</i>
 
 #### <a name="beaches_ikaria"></a>Beaches
 
-  Iero beach
+  <b>Iero beach</b>
+
   ![](/images/iero_beach.jpg)
-    .jpg)
+
+
     It is located in the north-east side of the island, close to the airport.It is usually a quiet beach that not many people know. Until recently the access to this beach was impossible by car. This beach was named after the region that the temple of god Dionysos exists.
 
 
-  Seychelles beach
+  <b>Seychelles beach</b>
+
   ![](/images/seychelles_beach.jpg)
-    One of the most beautiful beaches of the island.It was created hundreds of years ago from rocks crashing during the cutting of a tunnel that was leading towards Magganiti village. It is considered an exotic beach as its name reveals.
 
 
-  Mesakti beach
+    One of the most beautiful beaches of the island. It was created hundreds of years ago from rocks crashing during the cutting of a tunnel that was leading towards Magganiti village. It is considered an exotic beach as its name reveals.
+
+
+  <b>Mesakti beach</b>
+
   ![](/images/mesakti_beach.jpg)
-    The most famous beach of the island which you must visit if you pass by the island.The view to the iconic little church of Analipseos in the port is what makes the beach a must-visit.
+
+
+    The most famous beach of the island which you must visit if you pass by the island. The view to the iconic little church of Analipseos in the port is what makes the beach a must-visit.
 
 
 #### <a name="sightseeing_ikaria"></a>Sightseeing
 
-  * Xristos Rachwn : The little gaulatic village. During the early hours you can't hear anything happening in the area. An informal rule says that the stores open after 9 in the night ,as the locals work in the morning cropping their fields.This custom is still going on and Raches is unofficialy the heart of Ikaria.
+  * <b>Xristos Rachwn</b> : The little gaulatic village. During the early hours you can't hear anything happening in the area. An informal rule says that the stores open after 9 in the night ,as the locals work in the morning cropping their fields. This custom is still going on and Raches is unofficially the heart of Ikaria.
 
-  * Mounte Monastery: Is a female monastery established in the 13th century with really iconic old pictures.It is located close to Xristos Rachwn in a magnificent green area with amazing view. If it happens you visit this monastery it is worth trying the handmade treats of the nun.
+  * <b>Mounte Monastery</b>: Is a female monastery established in the 13th century with really iconic old pictures. It is located close to Xristos Rachwn in a magnificent green area with amazing view. If it happens you visit this monastery it is worth trying the handmade treats of the nun.
 
 
-  * Koskina Castle: It is located in the center of Ikaria. This castle is also named castle of Nikarias because once is was the most important fort of the island. Having a 10 minute walk you will see the main fort that the legend says it was occupied only once.
+  * <b>Koskina Castle</b>: It is located in the center of Ikaria. This castle is also named castle of Nikarias because once is was the most important fort of the island. Having a 10 minute walk you will see the main fort that the legend says it was occupied only once.
