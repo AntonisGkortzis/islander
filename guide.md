@@ -98,12 +98,6 @@ Excpet for the beaches you can reach by boat, in order to reach the most remarka
 One of the most beautiful beaches which is located in the north part of Antipaxoi is called Vrika Beach. The light-blue and green water can be easily visible when approaching the beach with the boat. The almost white sand in combination with the landscape and the clear sea will impress you. It is a well-organized beach where you can rent an umbrella and/or sunbeds and enjoy the hot summer days.
 * [Monodendri Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189461-d7071058-Reviews-Monodendri_Beach-Paxos_Ionian_Islands.html):
 If you are looking for a non-organized beach, Monodendri is your solution. Though unorganized, you can lay on the sand, swim safely and at 7 p.m. you can enjoy the wonderful sunset. At a glance you may face some difficulties on accessing Monodendri Beach, but in reality it is not that difficult and it is absolutely worth making an effort to reach this beach.
-* [Moggonisi](https://www.tripadvisor.com.gr/Attraction_Review-g189461-d8561139-Reviews-Mongonissi-Paxos_Ionian_Islands.html): Moggonisi is
-
-
-
-
-
 
 ## <a name="cyclades"></a>Cyclades
 
