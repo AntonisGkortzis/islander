@@ -317,6 +317,14 @@ One of the best restaurants of the island. Experience the amazing Greek food tha
 Want to try some barbecue or Greek traditional meat? Then don't forget to try Valantis Restaurant.
 * [Remezzo](https://www.tripadvisor.com.gr/Restaurant_Review-g189443-d2157683-Reviews-Remezzo-Halki_Dodecanese_South_Aegean.html):
 And yes this tiny island has an amazing italian restaurant that you should definitely visit. Its pizza is simply phenomenal.
+
+### <a name="astypalaia"></a>Astypalaia
+* [A brief note by a traveller..](#brief_note)
+* [Beaches](#beaches_astypalaia)
+* [Food](#food_astypalaia)
+
+#### <a name="brief_note"></a>A brief note by a traveller..
+
 ## <a name="north_east_aegean_islands"></a>North East Aegean Islands
 
 ### <a name="ikaria"></a>Ikaria
