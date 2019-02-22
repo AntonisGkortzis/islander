@@ -1,6 +1,11 @@
 # Greek Islands
 This guide provides people who would like to visit a Greek island with tips regarding food, entertainment,places to visit etc.
 ## Menu
+This guide provides people who would like to visit a Greek island with tips regarding food, entertainment, places to visit etc.
+
+<i>Work tip: Stand up. Stretch. Take a walk. Go to the airport. Get on a plane. Go to a <b>Greek Island</b>. Never return. </i>
+
+## <a name="menu"></a>Menu
 * [Ionian Islands](#ionian_islands)
   * [Cephalonia](#cephalonia)
   * [Leukada](#leukada)
@@ -14,7 +19,11 @@ This guide provides people who would like to visit a Greek island with tips rega
 * [Sporades](#sporades)
 * [Dodecanese](#dodecanese)
   * [Symi](#symi)
+  * [Leros](#leros)
+  * [Halki](#halki)
+  * [Astypalaia](#astypalaia)
 * [North-East Aegean Islands](#north_east_aegean_islands)
+  * [Ikaria](#ikaria)
 
 
 ## <a name="ionian_islands"></a>Ionian Islands
@@ -101,6 +110,71 @@ If you are looking for a non-organized beach, Monodendri is your solution. Thoug
 
 ## <a name="cyclades"></a>Cyclades
 
+### <a name="santorini"></a>Santorini
+* [General Info](#general_info_santorini)
+* [Beaches](#beaches_santorini)
+* [Sightseeing](#sightseeing_santorini)
+
+#### <a name="general_info_santorini"></a>General Info
+Santorini or Thira or Stroggylh (older name) is an island located in the south of Aegean Sea, part of Cyclades. Today Santorini is one of the most famous touristic destinations worldwide. The ground is volcanious and from the side of the volcano the island is extremely rocky. Fira is the capital of the island. The most iconic things of the island is the mesmerising sunsets you can see, combined with the volcanic rocks.
+
+#### <a name="beaches_santorini"></a>Beaches
+The volcanic nature of Santorini is what makes this place unique. All the beaches are totally different compared to the other beaches in the Aegean. The black beaches in <b>Kamari</b> and <b>Perissa</b> and the enormous beach in <b>Blychada</b> reminds of a lunar landscape. Some more famous beaches are the <b>Red Beach</b>, <b>White Beach</b>, <b>Armeni</b>, <b>Peribolos</b> and <b>Ammoudi</b>.
+
+
+#### <a name="sightseeing_santorini"></a>Sightseeing
+
+  * <b>Foundings of Minoan Town</b> : This archeological place is located close to the Akrotiri, south of the island. Experts have found ruins from the rich Minoan town, which was first destroyed from an earthquake and later was buried because of a destructive volcanic eruption in the 17th century B.C
+
+  * <b>Foundings of Ancient Thira in the Big Mountain</b> : This archeological place is located in the southeast side of the island and is a must-see. There you will observe some buildings from Greek and Roman period  including the temples of Artemidwforou and Dionysou, combined with ruins from other monuments like the theater , which were built between 3rd - 4th century B.C by Ptolemaious
+
+  * <b>Thermal Baths of New & Old Kameni</b>: One of the most famous places you can see in Santorini is the volcanic islands in the center of Kaldera, in which you can explore with touristic boats. There you will p climb to the volcano and swim in thermal baths.
+
+
+<b>Red Beach</b>
+
+![](/images/Red_beach.jpg)
+
+
+<b>Kamari</b>
+
+![](/images/kamari_beach.jpg)
+
+
+<b>Vlychada</b>
+
+![](/images/vlychada_beach.jpg)
+
+
+
+### <a name="antiparos"></a>Antiparos
+* [Some History](#info)
+* [Where to eat](#food)
+* [Beaches](#beaches)
+* [Entertainment](#entertainment)
+
+
+#### <a name="info"></a>Some History
+![](/images/antiparos.jpg)
+Antiparos is a small island of Cyclades, located just next to Paros island. Antiparos is a nice destination for one day excursion from Paros. Nudism and camping are particularly popular on these beaches. Chora, the capital and only village of Antiparos Greece, has traditional Cycladic architecture with narrow paved streets, whitewashed houses and lovely blue-domed churches. On the southern side, there is an impressive cave with stalactites and stalagmites.
+
+#### <a name="food"></a>Where to eat
+* [Kalokeri](https://www.tripadvisor.com/Restaurant_Review-g3569526-d10445320-Reviews-Kalokeri-Antiparos_Town_Antiparos_Cyclades_South_Aegean.html)
+* [Pavlos Place](https://www.tripadvisor.com/Restaurant_Review-g189425-d3222333-Reviews-Pavlos_Place-Antiparos_Cyclades_South_Aegean.html)
+* [Argo Restaurant](https://www.tripadvisor.com/Restaurant_Review-g189425-d2307690-Reviews-Argo_Restaurant-Antiparos_Cyclades_South_Aegean.html)
+* [Vicky's Ice Cream](http://www.vickys.gr/): Best Ice cream in town --> Highly recommended
+
+#### <a name="beaches"></a>Beaches
+* [Faneromeni Beach](https://www.tripadvisor.com/Attraction_Review-g189425-d7019954-Reviews-Faneromeni_Beach-Antiparos_Cyclades_South_Aegean.html)
+* [Saint George Beach](https://www.tripadvisor.com/Attraction_Review-g189425-d4893887-Reviews-Saint_George_Beach-Antiparos_Cyclades_South_Aegean.html)
+* [Nudist Beach](https://www.tripadvisor.com/Attraction_Review-g3569526-d7070930-Reviews-Nudist_Beach-Antiparos_Town_Antiparos_Cyclades_South_Aegean.html)
+* [Soros Beach](https://www.tripadvisor.com/Attraction_Review-g189425-d8670305-Reviews-Soros_Beach-Antiparos_Cyclades_South_Aegean.html)
+* [Sifneikos Gialos](https://www.tripadvisor.com/Attraction_Review-g3569526-d14966918-Reviews-Sifneikos_Gialos-Antiparos_Town_Antiparos_Cyclades_South_Aegean.html)
+
+#### <a name="entertainment"></a>Entertainment
+* [Sunset Desao](https://www.google.com/search?q=antiparos%20sunset%20beach&oq=antiparos+sun&aqs=chrome.1.69i57j0l5.4852j0j4&sourceid=chrome&ie=UTF-8&npsic=0&rflfq=1&rlha=0&rllag=37042586,25075926,126&tbm=lcl&rldimm=14111529459053696804&ved=2ahUKEwijtJuN9s3gAhVF6qQKHV71DfQQvS4wAXoECAAQHg&rldoc=1&tbs=lrf:!2m1!1e2!2m1!1e16!3sIAE,lf:1,lf_ui:2#rlfi=hd:;si:14111529459053696804;mv:!1m2!1d37.0438204!2d25.0763062!2m2!1d37.041353!2d25.075545800000004;tbs:lrf:!2m1!1e2!2m1!1e16!3sIAE,lf:1,lf_ui:2): Best Sunset View
+
+
 ### <a name="naxos"></a>Naxos
 * [Discover Naxos](#discover)
 * [Where to swim](#swim)
@@ -164,3 +238,109 @@ If you want to try traditional Greek food and want to have a taste of the delici
 Who wouldn't want the most fresh fish you can find? The family that owns the restaurant go every morning to fish and later at noon you can go and see what they caught. A true and unique experience.
 * [Meraklis](https://www.tripadvisor.com.gr/Restaurant_Review-g1188751-d2198368-Reviews-Taverna_Meraklis-Gialos_Symi_Dodecanese_South_Aegean.html):
 How can you visit Greece and not try souvlaki? Meraklis tavern offers one of the best in the island and it is definitely a must visit.
+
+### <a name="leros"></a>Leros
+
+* [Why Leros?](#why_leros)
+* [Beaches](#beaches_leros)
+* [Nightlife](#nightlife_leros)
+
+#### <a name="why_leros"></a>Why Leros?
+
+A beautiful island of the Dodecanese, worthy of its long distance from Athens. Characterized by its natural beauty, Leros has managed to be beautiful with its own uniquely recognizable, but exceptional style.
+
+#### <a name="beaches_leros"></a>Beaches
+
+Leros' most famous beaches are listed below:
+
+* *Alinta*
+* *Paradeisos*
+* *Kokkina*
+
+#### <a name="nightlife_leros"></a>Nightlife
+
+Mostly located at the Agia Marina region, it proudly has bars and clubs, like **Faros**, **Meltemi**, **Yolo** and **Thalassa**
+
+### <a name="halki"></a>Halki
+* [Discover Halki](#discoverHalki)
+* [Where to swim](#swimHalki)
+* [Where to eat](#eatHalki)
+
+#### <a name="discoverHalki"></a>Discover Halki
+Halki is a lesser-known Greek island that even most Greeks will not know about. And that is a good thing. It offers an amazing scenery and beauty and it is not packed with tourists. What more can you ask?
+
+#### <a name="swimHalki"></a>Where to swim
+* [Kania Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189443-d4885218-Reviews-Kania_Beach-Halki_Dodecanese_South_Aegean.html):
+I honestly don't think that places with more clear waters than Kania exist. Don't forget to try the snacks that are offered by the local taverna; they are delicious.
+* [Potamos](https://www.tripadvisor.com.gr/Attraction_Review-g189443-d8721050-Reviews-Potamos_Beach-Halki_Dodecanese_South_Aegean.html):
+Want to explore the sea? Or build sandcastles? Or do both and then enjoy some ouzo? Well then Potamos is the perfect choice.
+* [Ftenagia](https://www.tripadvisor.com.gr/Attraction_Review-g189443-d8744594-Reviews-Ftenagia_Beach-Halki_Dodecanese_South_Aegean.html):
+Combine this beautiful beach with a visit to the small church of Saint Catherine.
+
+#### <a name="eatHalki"></a>Where to eat
+Even though Halki is a really small island and it does not have a wide variety of different restaurants it can still appeal to most travelers through it high quality offerings.
+
+* [Magefseis Restaurant](https://www.tripadvisor.com.gr/Restaurant_Review-g189443-d4312092-Reviews-Magefseis_Restaurant-Halki_Dodecanese_South_Aegean.html):
+One of the best restaurants of the island. Experience the amazing Greek food that is cooked by the owner's grandmother. You can also see the beautiful sunset from your table.
+* [Valantis Restaurant](https://www.tripadvisor.com.gr/Restaurant_Review-g189443-d1848949-Reviews-Valantis_Restaurant-Halki_Dodecanese_South_Aegean.html):
+Want to try some barbecue or Greek traditional meat? Then don't forget to try Valantis Restaurant.
+* [Remezzo](https://www.tripadvisor.com.gr/Restaurant_Review-g189443-d2157683-Reviews-Remezzo-Halki_Dodecanese_South_Aegean.html):
+And yes this tiny island has an amazing italian restaurant that you should definitely visit. Its pizza is simply phenomenal.
+
+### <a name="astypalaia"></a>Astypalaia
+* [General Information](#general_info_astypalaia)
+* [A brief note by a traveller..](#brief_note)
+* [Beaches](#beaches_astypalaia)
+* [Food](#food_astypalaia)
+
+#### <a name="general_info_astypalaia"></a>General Information about Astypalaia
+Astypalaia, widely known also as "Butterfly of the Aegean" because of it's butterfly like shape, is an island of the Dodecanese which is definitely worth visiting. If you have a glance at the map o Greece you will notice that Astypalaia island is exactly between the island chains of Dodecanese and Cyclades. This unique position makes Astypalaia an extraordinary cultural mixture of those two island chains and the culture that follows them. Astypalaia is an island that both Greek and foreign tourists prefer for peaceful and family moments during which you can relax both physically and mentally.
+
+## <a name="north_east_aegean_islands"></a>North East Aegean Islands
+
+### <a name="ikaria"></a>Ikaria
+* [General Info](#general_info_ikaria)
+* [Beaches](#beaches_ikaria)
+* [Sightseeing](#sightseeing_ikaria)
+
+#### <a name="general_info_ikaria"></a>General Info
+Ikaria is a Greek island of North-East Aegean. Agios Kyrikos is the capital of the island and is located in the north-east coast of the island. The second most developing port is Eydilos in the north coast. The island is named after the son of Daidalos, Ikaros, whose body was found in the coast of this island.
+
+The locals are mostly working in shipping. They have really strong relationships among them while they are famous for not taking things seriously.
+
+<b>Fun Fact</b>: <i> Average lifetime of people that live in Ikaria is 88,1 years, surpassing the country's average of 79,8.</i>
+
+#### <a name="beaches_ikaria"></a>Beaches
+
+  <b>Iero beach</b>
+
+  ![](/images/iero_beach.jpg)
+
+
+    It is located in the north-east side of the island, close to the airport.It is usually a quiet beach that not many people know. Until recently the access to this beach was impossible by car. This beach was named after the region that the temple of god Dionysos exists.
+
+
+  <b>Seychelles beach</b>
+
+  ![](/images/seychelles_beach.jpg)
+
+
+    One of the most beautiful beaches of the island. It was created hundreds of years ago from rocks crashing during the cutting of a tunnel that was leading towards Magganiti village. It is considered an exotic beach as its name reveals.
+
+
+  <b>Mesakti beach</b>
+
+  ![](/images/mesakti_beach.jpg)
+
+
+    The most famous beach of the island which you must visit if you pass by the island. The view to the iconic little church of Analipseos in the port is what makes the beach a must-visit.
+
+
+#### <a name="sightseeing_ikaria"></a>Sightseeing
+
+  * <b>Xristos Rachwn</b> : The little gaulatic village. During the early hours you can't hear anything happening in the area. An informal rule says that the stores open after 9 in the night ,as the locals work in the morning cropping their fields. This custom is still going on and Raches is unofficially the heart of Ikaria.
+
+  * <b>Mounte Monastery</b>: Is a female monastery established in the 13th century with really iconic old pictures. It is located close to Xristos Rachwn in a magnificent green area with amazing view. If it happens you visit this monastery it is worth trying the handmade treats of the nun.
+
+
+  * <b>Koskina Castle</b>: It is located in the center of Ikaria. This castle is also named castle of Nikarias because once is was the most important fort of the island. Having a 10 minute walk you will see the main fort that the legend says it was occupied only once.
