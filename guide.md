@@ -14,6 +14,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Ios](#ios)
   * [Mykonos](#mykonos)
   * [Paros](#paros)
+  * [Antiparos](#antiparos)
   * [Naxos](#naxos)
 * [Sporades](#sporades)
 * [Dodecanese](#dodecanese)
