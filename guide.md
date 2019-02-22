@@ -258,7 +258,7 @@ Mostly located at the Agia Marina region, it proudly has bars and clubs, like **
 #### <a name="discoverHalki"></a>Discover Halki
 Halki is a lesser-known Greek island that even most Greeks will not know about. And that is a good thing. It offers an amazing scenery and beauty and it is not packed with tourists. What more can you ask?
 
-#### <a name="swim"></a>Where to swim
+#### <a name="swimHalki"></a>Where to swim
 * [Kania Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189443-d4885218-Reviews-Kania_Beach-Halki_Dodecanese_South_Aegean.html):
 I honestly don't think that places with more clear waters than Kania exist. Don't forget to try the snacks that are offered by the local taverna; they are delicious.
 * [Potamos](https://www.tripadvisor.com.gr/Attraction_Review-g189443-d8721050-Reviews-Potamos_Beach-Halki_Dodecanese_South_Aegean.html):
