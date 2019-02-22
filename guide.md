@@ -18,6 +18,7 @@ This guide provides people who would like to visit a Greek island with tips rega
 * [Dodecanese](#dodecanese)
   * [Symi](#symi)
   * [Leros](#leros)
+  * [Halki](#halki)
 * [North-East Aegean Islands](#north_east_aegean_islands)
 
 
@@ -248,3 +249,11 @@ Leros' most famous beaches are listed below:
 #### <a name="nightlife_leros"></a>Nightlife
 
 Mostly located at the Agia Marina region, it proudly has bars and clubs, like **Faros**, **Meltemi**, **Yolo** and **Thalassa**
+
+### <a name="halki"></a>Halki
+* [Discover Halki](#discoverHalki)
+* [Where to swim](#swimHalki)
+* [Where to eat](#eatHalki)
+
+#### <a name="discoverHalki"></a>Discover Halki
+Halki is a lesser-known Greek island that even most Greeks will not know about. And that is a good thing. It offers an amazing scenery and beauty and it is not packed with tourists. What more can you ask?
