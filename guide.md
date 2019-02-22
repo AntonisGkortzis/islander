@@ -149,8 +149,8 @@ The volcanic nature of Santorini is what makes this place unique. All the beache
 
 ### <a name="mykonos"></a>Mykonos
 * [General Info](#general_info_mykonos)
-* [Beaches](#adrenaline_mykonos)
-* [Sightseeing](#food_mykonos)
+* [Entertainment](#adrenaline_mykonos)
+* [Food](#food_mykonos)
 * [Nightlife](#nightlife_mykonos)
 
 #### <a name="general_info_mykonos"></a>General Info
