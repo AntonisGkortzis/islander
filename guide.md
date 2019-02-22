@@ -155,7 +155,7 @@ The volcanic nature of Santorini is what makes this place unique. All the beache
 * [Entertainment](#entertainment_antiparos)
 
 
-#### <a name="info"></a>Some History
+#### <a name="info_antiparos"></a>Some History
 ![](/images/antiparos.jpg)
 Antiparos is a small island of Cyclades, located just next to Paros island. Antiparos is a nice destination for one day excursion from Paros. Nudism and camping are particularly popular on these beaches. Chora, the capital and only village of Antiparos Greece, has traditional Cycladic architecture with narrow paved streets, whitewashed houses and lovely blue-domed churches. On the southern side, there is an impressive cave with stalactites and stalagmites.
 
