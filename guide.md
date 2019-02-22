@@ -319,11 +319,13 @@ Want to try some barbecue or Greek traditional meat? Then don't forget to try Va
 And yes this tiny island has an amazing italian restaurant that you should definitely visit. Its pizza is simply phenomenal.
 
 ### <a name="astypalaia"></a>Astypalaia
+* [General Information](#general_info_astypalaia)
 * [A brief note by a traveller..](#brief_note)
 * [Beaches](#beaches_astypalaia)
 * [Food](#food_astypalaia)
 
-#### <a name="brief_note"></a>A brief note by a traveller..
+#### <a name="general_info_astypalaia"></a>General Information about Astypalaia
+Astypalaia, widely known also as "Butterfly of the Aegean" because of it's butterfly like shape, is an island of the Dodecanese which is definitely worth visiting. If you have a glance at the map o Greece you will notice that Astypalaia island is exactly between the island chains of Dodecanese and Cyclades. This unique position makes Astypalaia an extraordinary cultural mixture of those two island chains and the culture that follows them. Astypalaia is an island that both Greek and foreign tourists prefer for peaceful and family moments during which you can relax both physically and mentally.
 
 ## <a name="north_east_aegean_islands"></a>North East Aegean Islands
 
