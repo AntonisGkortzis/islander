@@ -265,3 +265,13 @@ I honestly don't think that places with more clear waters than Kania exist. Don'
 Want to explore the sea? Or build sandcastles? Or do both and then enjoy some ouzo? Well then Potamos is the perfect choice.
 * [Ftenagia](https://www.tripadvisor.com.gr/Attraction_Review-g189443-d8744594-Reviews-Ftenagia_Beach-Halki_Dodecanese_South_Aegean.html):
 Combine this beautiful beach with a visit to the small church of Saint Catherine.
+
+#### <a name="eatHalki"></a>Where to eat
+Even though Halki is a really small island and it does not have a wide variety of different restaurants it can still appeal to most travelers through it high quality offerings.
+
+* [Magefseis Restaurant](https://www.tripadvisor.com.gr/Restaurant_Review-g189443-d4312092-Reviews-Magefseis_Restaurant-Halki_Dodecanese_South_Aegean.html):
+One of the best restaurants of the island. Experience the amazing Greek food that is cooked by the owner's grandmother. You can also see the beautiful sunset from your table.
+* [Valantis Restaurant](https://www.tripadvisor.com.gr/Restaurant_Review-g189443-d1848949-Reviews-Valantis_Restaurant-Halki_Dodecanese_South_Aegean.html):
+Want to try some barbecue or Greek traditional meat? Then don't forget to try Valantis Restaurant.
+* [Remezzo](https://www.tripadvisor.com.gr/Restaurant_Review-g189443-d2157683-Reviews-Remezzo-Halki_Dodecanese_South_Aegean.html):
+And yes this tiny island has an amazing italian restaurant that you should definitely visit. Its pizza is simply phenomenal.
