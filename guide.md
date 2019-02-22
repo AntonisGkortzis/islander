@@ -29,22 +29,22 @@ This guide provides people who would like to visit a Greek island with tips rega
 ## <a name="ionian_islands"></a>Ionian Islands
 
 ### <a name="cephalonia"></a>Cephalonia
-* [Some History](#info)
-* [Where to eat](#food)
-* [Beaches](#beaches)
-* [Entertainment](#entertainment)
+* [Some History](#info_cephalonia)
+* [Where to eat](#food_cephalonia)
+* [Beaches](#beaches_cephalonia)
+* [Entertainment](#entertainment_cephalonia)
 
 
-#### <a name="info"></a>Some History
+#### <a name="info_cephalonia"></a>Some History
 ![](/images/cephalonia.jpg)
 Cephalonia is the largest of the Ionian Islands. The sapphire waters of Cephalonia are steeped with history. Cephalonia is considered by many the home to Odysseus, the legendary king hailed in Homer’s The Odyssey. Fortunately, it won’t take you ten years to get there. Explore the enchanting caverns of the Drogarati caves, sail to Ithaca on a glass-bottomed boat or marvel at the ancient artifacts inside the Archaeological Museum of Argostoli, Cephalonia’s main town. Or just hide from it all at one of the island’s many private beach coves.
 
-#### <a name="food"></a>Where to eat
+#### <a name="food_cephalonia"></a>Where to eat
 * [Old Plaka](http://paliaplaka.gr/)
 * [Tassia Restaurant](http://www.tassia.gr/)
 * [Ladokolla stin Plagia](https://www.tripadvisor.com/Restaurant_Review-g651972-d7063210-Reviews-Ladokolla_stin_Plagia-Lixouri_Cephalonia_Ionian_Islands.html)
 
-#### <a name="beaches"></a>Beaches
+#### <a name="beaches_cephalonia"></a>Beaches
 * [Myrtos](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-myrtos.htm)
 * [Antisamos](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-antisamos.htm)
 * [Makris Gialos](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-makris_gialos.htm)
@@ -52,7 +52,7 @@ Cephalonia is the largest of the Ionian Islands. The sapphire waters of Cephalon
 * [Lourdas](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-lourdas.htm)
 * [Foki Fiskardo](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-foki_fiskardo.htm)
 
-#### <a name="entertainment"></a>Entertainment
+#### <a name="entertainment_cephalonia"></a>Entertainment
 * [Gymland](https://www.facebook.com/Gymland-413803865346952/)
 * [Captain Vangelis Cruises](https://kefalonia-cruises.gr/)
 * [Bee's Knees The Bar](http://beeskneesthebar.com/)
@@ -149,30 +149,30 @@ The volcanic nature of Santorini is what makes this place unique. All the beache
 
 
 ### <a name="antiparos"></a>Antiparos
-* [Some History](#info)
-* [Where to eat](#food)
-* [Beaches](#beaches)
-* [Entertainment](#entertainment)
+* [Some History](#info_antiparos)
+* [Where to eat](#food_antiparos)
+* [Beaches](#beaches_antiparos)
+* [Entertainment](#entertainment_antiparos)
 
 
 #### <a name="info"></a>Some History
 ![](/images/antiparos.jpg)
 Antiparos is a small island of Cyclades, located just next to Paros island. Antiparos is a nice destination for one day excursion from Paros. Nudism and camping are particularly popular on these beaches. Chora, the capital and only village of Antiparos Greece, has traditional Cycladic architecture with narrow paved streets, whitewashed houses and lovely blue-domed churches. On the southern side, there is an impressive cave with stalactites and stalagmites.
 
-#### <a name="food"></a>Where to eat
+#### <a name="food_antiparos"></a>Where to eat
 * [Kalokeri](https://www.tripadvisor.com/Restaurant_Review-g3569526-d10445320-Reviews-Kalokeri-Antiparos_Town_Antiparos_Cyclades_South_Aegean.html)
 * [Pavlos Place](https://www.tripadvisor.com/Restaurant_Review-g189425-d3222333-Reviews-Pavlos_Place-Antiparos_Cyclades_South_Aegean.html)
 * [Argo Restaurant](https://www.tripadvisor.com/Restaurant_Review-g189425-d2307690-Reviews-Argo_Restaurant-Antiparos_Cyclades_South_Aegean.html)
 * [Vicky's Ice Cream](http://www.vickys.gr/): Best Ice cream in town --> Highly recommended
 
-#### <a name="beaches"></a>Beaches
+#### <a name="beaches_antiparos"></a>Beaches
 * [Faneromeni Beach](https://www.tripadvisor.com/Attraction_Review-g189425-d7019954-Reviews-Faneromeni_Beach-Antiparos_Cyclades_South_Aegean.html)
 * [Saint George Beach](https://www.tripadvisor.com/Attraction_Review-g189425-d4893887-Reviews-Saint_George_Beach-Antiparos_Cyclades_South_Aegean.html)
 * [Nudist Beach](https://www.tripadvisor.com/Attraction_Review-g3569526-d7070930-Reviews-Nudist_Beach-Antiparos_Town_Antiparos_Cyclades_South_Aegean.html)
 * [Soros Beach](https://www.tripadvisor.com/Attraction_Review-g189425-d8670305-Reviews-Soros_Beach-Antiparos_Cyclades_South_Aegean.html)
 * [Sifneikos Gialos](https://www.tripadvisor.com/Attraction_Review-g3569526-d14966918-Reviews-Sifneikos_Gialos-Antiparos_Town_Antiparos_Cyclades_South_Aegean.html)
 
-#### <a name="entertainment"></a>Entertainment
+#### <a name="entertainment_antiparos"></a>Entertainment
 * [Sunset Desao](https://www.google.com/search?q=antiparos%20sunset%20beach&oq=antiparos+sun&aqs=chrome.1.69i57j0l5.4852j0j4&sourceid=chrome&ie=UTF-8&npsic=0&rflfq=1&rlha=0&rllag=37042586,25075926,126&tbm=lcl&rldimm=14111529459053696804&ved=2ahUKEwijtJuN9s3gAhVF6qQKHV71DfQQvS4wAXoECAAQHg&rldoc=1&tbs=lrf:!2m1!1e2!2m1!1e16!3sIAE,lf:1,lf_ui:2#rlfi=hd:;si:14111529459053696804;mv:!1m2!1d37.0438204!2d25.0763062!2m2!1d37.041353!2d25.075545800000004;tbs:lrf:!2m1!1e2!2m1!1e16!3sIAE,lf:1,lf_ui:2): Best Sunset View
 
 
