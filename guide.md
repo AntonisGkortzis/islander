@@ -147,6 +147,41 @@ The volcanic nature of Santorini is what makes this place unique. All the beache
 ![](/images/vlychada_beach.jpg)
 
 
+### <a name="mykonos"></a>Mykonos
+* [General Info](#general_info_mykonos)
+* [Beaches](#adrenaline_mykonos)
+* [Sightseeing](#food_mykonos)
+* [Nightlife](#nightlife_mykonos)
+
+#### <a name="general_info_mykonos"></a>General Info
+Mykonos is a Greek island, part of the Cyclades, lying between Tinos, Syros, Paros and Naxos.Mykonos's nickname is "The Island of the Winds". Tourism is a major industry and Mykonos is known for its vibrant nightlife and has many establishments catering for the LGBT community. It is considered the most famous cosmopolitan island in the world. According to mythology, Mykonos was formed from the petrified bodies of giants killed by Hercules. The island took its name from the grandson of Apollo, “Mykonos”.
+
+#### <a name="adrenaline_mykonos"></a>Need an adrenaline rush?
+The island is a paradise for water sport enthusiasts! It is only natural that the “Island of the Winds” should attract surfers and sailors from all over the world! There is a great choice of beaches for windsurfing; however, the most secluded ones are considered to be the best. Choose from <b>Kórfos, Fteliá, Meyáli Ámmos and Kalafátis</b>, where surfing lessons are also available. Play tennis or mini golf at <b>Ayios Stéfanos</b>, beach volleyball at <b>Ayia Anna</b> or try sea parachuting or jet skiing at <b>Eliá</b> or <b>Kalafátis</b>. Diving fans can do a little exciting exploration of the underwater magic of <b>Mykonos</b>. September is thought to be the best month for diving, as the water is warm and visibility is good down at the seabed.
+
+#### <a name="food_mykonos"></a>What about food?
+Don’t miss the opportunity to treat yourself to some local Aegean specialties! Pepper flavoured <b>kopanistí</b>, a soft cheese seasoned with pepper, is the island’s gastronomic trademark. Try it as a topping on a round rusk spread with grated tomato, a favourite local mezés (appetiser). Meat eaters can sample <b>“loúzes”</b> (cooked pork filet with spices) and tasty local sausages sprinkled with pepper, and local oregano that has been caressed by the sun and dried in the north wind. To finish off your meal you can sample two exceptionally good local pastries, <b>“amigdalotá”</b> (small round cakes with ground almond, rosewater and caster sugar) and <b>honey pie</b>.
+
+#### <a name="nightlife_mykonos"></a>Nightlife!
+Mykonos is the top destination for the active nightlife and crazy throughout Greece: nightlife and fun, main ingredients, able to attract every year many young people from around the world. Paradise beaches, elegant nightclubs and beach bars with djs and international parties at all hours of day and night: Mykonos won rightfully the nickname “party island”, the island of the feast, and as for fun can compete with the famous Ibiza.
+
+
+* [Paradise Club](http://www.paradiseclubmykonos.com/) (Paradise Beach, Mykonos) 
+Situated on the beach of Paradise Beach, the Paradise Club is considered as the most famous nightclub in Mykonos and assaulted daily by a thick festive throng, gathering on this beach to have a cocktail and dance or listen to House music, techno and rock, from the afternoon until the wee hours of the morning.
+* [Tropicana Beach Bar](https://www.tropicanamykonos.com/) (Paradise beach, Mykonos) 
+Open daily from 9.00 to 1.00.
+Located Paradise Beach, the Tropicana Beach Bar is one of the most known for partying in Mykonos, a veritable institution for its Wild beach parties which attract many young people coming from all over Europe with the sole purpose of having fun.
+* [Cavo Paradiso](https://www.cavoparadiso.gr/) (Paradise Beach, Mykonos) 
+Open daily from 23.30 to 7.30.
+Located on a hill that overlooks Paradise Bay and with a breathtaking view of the sea, the disco Cavo Paradiso is another highlight of the Mykonos nightlife. Here the party starts around 2.00 and continues until late morning. Cavo Paradiso, In addition to being considered one of the the most beautiful clubs of Mykonos, It is certainly the most expensive: the entrance ticket can cost 30 or 40 euros.
+* [Super Paradise](https://www.superparadise.com.gr/) (Super Paradise Beach, Mykonos) 
+Super Paradise Beach and the club are a party continues, between sea, animation, dancers and dancers, dance performances and music blaring, that focuses on Greek and international hits. But above all, lots of people having fun from morning to night.
+* [Scandinavian Bar](http://www.skandinavianbar.com/) (Agios Ioannis Barkia, Mykonos) 
+Open daily from 20.00 to 6.00.
+True icon of Mykonos nightlife Since 1978, lo Scandinavian Bar over the years remained one of the most beloved and popular night hangout spots on the island. A must for many young people and tourists who begin their evenings: the bar serves a variety of cocktails and great music, which ranges from dance, Rock and carefree songs.
+
+
+
 
 ### <a name="antiparos"></a>Antiparos
 * [Some History](#info_antiparos)
