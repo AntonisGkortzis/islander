@@ -14,6 +14,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Ios](#ios)
   * [Mykonos](#mykonos)
   * [Paros](#paros)
+  * [Antiparos](#antiparos)
   * [Naxos](#naxos)
 * [Sporades](#sporades)
 * [Dodecanese](#dodecanese)
@@ -109,6 +110,33 @@ One of the most beautiful beaches which is located in the north part of Antipaxo
 If you are looking for a non-organized beach, Monodendri is your solution. Though unorganized, you can lay on the sand, swim safely and at 7 p.m. you can enjoy the wonderful sunset. At a glance you may face some difficulties on accessing Monodendri Beach, but in reality it is not that difficult and it is absolutely worth making an effort to reach this beach.
 
 ## <a name="cyclades"></a>Cyclades
+
+### <a name="antiparos"></a>Antiparos
+* [Some History](#info)
+* [Where to eat](#food)
+* [Beaches](#beaches)
+* [Entertainment](#entertainment)
+
+
+ #### <a name="info"></a>Some History
+![](/images/antiparos.jpg)
+Antiparos is a small island of Cyclades, located just next to Paros island. Antiparos is a nice destination for one day excursion from Paros. Nudism and camping are particularly popular on these beaches. Chora, the capital and only village of Antiparos Greece, has traditional Cycladic architecture with narrow paved streets, whitewashed houses and lovely blue-domed churches. On the southern side, there is an impressive cave with stalactites and stalagmites.
+
+ #### <a name="food"></a>Where to eat
+* [Kalokeri](https://www.tripadvisor.com/Restaurant_Review-g3569526-d10445320-Reviews-Kalokeri-Antiparos_Town_Antiparos_Cyclades_South_Aegean.html)
+* [Pavlos Place](https://www.tripadvisor.com/Restaurant_Review-g189425-d3222333-Reviews-Pavlos_Place-Antiparos_Cyclades_South_Aegean.html)
+* [Argo Restaurant](https://www.tripadvisor.com/Restaurant_Review-g189425-d2307690-Reviews-Argo_Restaurant-Antiparos_Cyclades_South_Aegean.html)
+* [Vicky's Ice Cream](http://www.vickys.gr/): Best Ice cream in town --> Highly recommended
+
+ #### <a name="beaches"></a>Beaches
+* [Faneromeni Beach](https://www.tripadvisor.com/Attraction_Review-g189425-d7019954-Reviews-Faneromeni_Beach-Antiparos_Cyclades_South_Aegean.html)
+* [Saint George Beach](https://www.tripadvisor.com/Attraction_Review-g189425-d4893887-Reviews-Saint_George_Beach-Antiparos_Cyclades_South_Aegean.html)
+* [Nudist Beach](https://www.tripadvisor.com/Attraction_Review-g3569526-d7070930-Reviews-Nudist_Beach-Antiparos_Town_Antiparos_Cyclades_South_Aegean.html)
+* [Soros Beach](https://www.tripadvisor.com/Attraction_Review-g189425-d8670305-Reviews-Soros_Beach-Antiparos_Cyclades_South_Aegean.html)
+* [Sifneikos Gialos](https://www.tripadvisor.com/Attraction_Review-g3569526-d14966918-Reviews-Sifneikos_Gialos-Antiparos_Town_Antiparos_Cyclades_South_Aegean.html)
+
+ #### <a name="entertainment"></a>Entertainment
+* [Sunset Desao](https://www.google.com/search?q=antiparos%20sunset%20beach&oq=antiparos+sun&aqs=chrome.1.69i57j0l5.4852j0j4&sourceid=chrome&ie=UTF-8&npsic=0&rflfq=1&rlha=0&rllag=37042586,25075926,126&tbm=lcl&rldimm=14111529459053696804&ved=2ahUKEwijtJuN9s3gAhVF6qQKHV71DfQQvS4wAXoECAAQHg&rldoc=1&tbs=lrf:!2m1!1e2!2m1!1e16!3sIAE,lf:1,lf_ui:2#rlfi=hd:;si:14111529459053696804;mv:!1m2!1d37.0438204!2d25.0763062!2m2!1d37.041353!2d25.075545800000004;tbs:lrf:!2m1!1e2!2m1!1e16!3sIAE,lf:1,lf_ui:2): Best Sunset View
 
 ### <a name="santorini"></a>Santorini
 * [General Info](#general_info_santorini)
