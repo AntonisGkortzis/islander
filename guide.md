@@ -1,7 +1,7 @@
 # Greek Islands
-This guide provides people who would like to visit a Greek island with tips regarding food, entertainment,places to visit etc.
+This guide provides people who would like to visit a Greek island with tips regarding food, entertainment, places to visit etc.
 
-##<i>Work tip:Stand up. Stretch. Take a walk. Go to the airport. Get on a plane. Go to a <b>Greek Island</b>. Never return. </i>
+<i>Work tip: Stand up. Stretch. Take a walk. Go to the airport. Get on a plane. Go to a <b>Greek Island</b>. Never return. </i>
 
 ## <a name="menu"></a>Menu
 * [Ionian Islands](#ionian_islands)
@@ -112,6 +112,43 @@ And it's beautiful. It is located under Pelopponese and the combination of the 3
 
 
 ## <a name="cyclades"></a>Cyclades
+
+### <a name="santorini"></a>Santorini
+* [General Info](#general_info_santorini)
+* [Beaches](#beaches_santorini)
+* [Sightseeing](#sightseeing_santorini)
+
+#### <a name="general_info_santorini"></a>General Info
+Santorini or Thira or Stroggylh (older name) is an island located in the south of Aegean Sea, part of Cyclades. Today Santorini is one of the most famous touristic destinations worldwide. The ground is volcanious and from the side of the volcano the island is extremely rocky. Fira is the capital of the island. The most iconic things of the island is the mesmerising sunsets you can see, combined with the volcanic rocks.
+
+#### <a name="beaches_santorini"></a>Beaches
+The volcanic nature of Santorini is what makes this place unique. All the beaches are totally different compared to the other beaches in the Aegean. The black beaches in <b>Kamari</b> and <b>Perissa</b> and the enormous beach in <b>Blychada</b> reminds of a lunar landscape. Some more famous beaches are the <b>Red Beach</b>, <b>White Beach</b>, <b>Armeni</b>, <b>Peribolos</b> and <b>Ammoudi</b>.
+
+
+#### <a name="sightseeing_santorini"></a>Sightseeing
+
+  * <b>Foundings of Minoan Town</b> : This archeological place is located close to the Akrotiri, south of the island. Experts have found ruins from the rich Minoan town, which was first destroyed from an earthquake and later was buried because of a destructive volcanic eruption in the 17th century B.C
+
+  * <b>Foundings of Ancient Thira in the Big Mountain</b> : This archeological place is located in the southeast side of the island and is a must-see. There you will observe some buildings from Greek and Roman period  including the temples of Artemidwforou and Dionysou, combined with ruins from other monuments like the theater , which were built between 3rd - 4th century B.C by Ptolemaious
+
+  * <b>Thermal Baths of New & Old Kameni</b>: One of the most famous places you can see in Santorini is the volcanic islands in the center of Kaldera, in which you can explore with touristic boats. There you will p climb to the volcano and swim in thermal baths.
+
+
+<b>Red Beach</b>
+
+![](/images/Red_beach.jpg)
+
+
+<b>Kamari</b>
+
+![](/images/kamari_beach.jpg)
+
+
+<b>Vlychada</b>
+
+![](/images/vlychada_beach.jpg)
+
+
 
 ### <a name="antiparos"></a>Antiparos
 * [Some History](#info)
