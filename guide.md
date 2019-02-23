@@ -285,17 +285,24 @@ How can you visit Greece and not try souvlaki? Meraklis tavern offers one of the
 
 A beautiful island of the Dodecanese, worthy of its long distance from Athens. Characterized by its natural beauty, Leros has managed to be beautiful with its own uniquely recognizable, but exceptional style.
 
+![Leros](./images/leros.jpg)
+
 #### <a name="beaches_leros"></a>Beaches
 
 Leros' most famous beaches are listed below:
 
-* *Alinta*
-* *Paradeisos*
+* *Alinta* - here you can find a beach bar, clean sand and, of course, beautiful, clean, blue sea.
+* *Paradeisos* - How can you go wrong with a name like that?
 * *Kokkina*
+![paralia kokkina](./images/paralia_kokkina.jpg)
 
 #### <a name="nightlife_leros"></a>Nightlife
 
-Mostly located at the Agia Marina region, it proudly has bars and clubs, like **Faros**, **Meltemi**, **Yolo** and **Thalassa**
+Mostly located at the Agia Marina region, it proudly has bars and clubs, such as:
+* [**Faros**](https://el-gr.facebook.com/farosleros)
+* [**Meltemi**](https://el-gr.facebook.com/pages/category/Pub/Meltemi-Bar-374233895978957/)
+* [**Yolo**](https://el-gr.facebook.com/yoloclubvratsd/)
+* [**Thalassa**](https://www.tripadvisor.com.gr/Attraction_Review-g189445-d5838832-Reviews-Thalassa_Cocktail_Bar-Leros_Dodecanese_South_Aegean.html)
 
 ### <a name="halki"></a>Halki
 * [Discover Halki](#discoverHalki)
