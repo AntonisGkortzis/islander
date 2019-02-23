@@ -1,6 +1,5 @@
 # Greek Islands
-This guide provides people who would like to visit a Greek island with tips regarding food, entertainment,places to visit etc.
-## Menu
+
 This guide provides people who would like to visit a Greek island with tips regarding food, entertainment, places to visit etc.
 
 <i>Work tip: Stand up. Stretch. Take a walk. Go to the airport. Get on a plane. Go to a <b>Greek Island</b>. Never return. </i>
@@ -15,6 +14,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Ios](#ios)
   * [Mykonos](#mykonos)
   * [Paros](#paros)
+  * [Antiparos](#antiparos)
   * [Naxos](#naxos)
 * [Sporades](#sporades)
 * [Dodecanese](#dodecanese)
@@ -22,6 +22,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Leros](#leros)
   * [Halki](#halki)
   * [Astypalaia](#astypalaia)
+  * [Nisiros](#nisiros)
 * [North-East Aegean Islands](#north_east_aegean_islands)
   * [Ikaria](#ikaria)
 
@@ -29,33 +30,34 @@ This guide provides people who would like to visit a Greek island with tips rega
 ## <a name="ionian_islands"></a>Ionian Islands
 
 ### <a name="cephalonia"></a>Cephalonia
-* [Info](#info)
-* [Food](#food)
-* [Beaches](#beaches)
-* [Entertainment](#entertainment)
+* [Some History](#info_cephalonia)
+* [Where to eat](#food_cephalonia)
+* [Beaches](#beaches_cephalonia)
+* [Entertainment](#entertainment_cephalonia)
 
 
-#### <a name="info"></a>Info
-Cephalonia is the largest of the Ionian Islands. Marked by its sandy coves and dry rugged landscapes it provides an ideal place for Summer Vacations.
-By many, Cephalonia is considered as the Homeric Ithaca, the home of Odysseus.
+#### <a name="info_cephalonia"></a>Some History
+![](/images/cephalonia.jpg)
+Cephalonia is the largest of the Ionian Islands. The sapphire waters of Cephalonia are steeped with history. Cephalonia is considered by many the home to Odysseus, the legendary king hailed in Homer’s The Odyssey. Fortunately, it won’t take you ten years to get there. Explore the enchanting caverns of the Drogarati caves, sail to Ithaca on a glass-bottomed boat or marvel at the ancient artifacts inside the Archaeological Museum of Argostoli, Cephalonia’s main town. Or just hide from it all at one of the island’s many private beach coves.
 
-#### <a name="food"></a>Food
+#### <a name="food_cephalonia"></a>Where to eat
 * [Old Plaka](http://paliaplaka.gr/)
 * [Tassia Restaurant](http://www.tassia.gr/)
+* [Ladokolla stin Plagia](https://www.tripadvisor.com/Restaurant_Review-g651972-d7063210-Reviews-Ladokolla_stin_Plagia-Lixouri_Cephalonia_Ionian_Islands.html)
 
-#### <a name="beaches"></a>Beaches
-* Myrtos
-* Antisamos
-* Makris Gialos
-* Skala Beach
-* Lourdas
-* Foki Fiskardo
+#### <a name="beaches_cephalonia"></a>Beaches
+* [Myrtos](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-myrtos.htm)
+* [Antisamos](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-antisamos.htm)
+* [Makris Gialos](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-makris_gialos.htm)
+* [Skala Beach](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-skala_beach.htm)
+* [Lourdas](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-lourdas.htm)
+* [Foki Fiskardo](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-foki_fiskardo.htm)
 
-#### <a name="entertainment"></a>Entertainment
-* Gymland
-* Captain Vangelis Cruises
-* Bee's Knees The Bar
-* Costa Costa Beach Bar
+#### <a name="entertainment_cephalonia"></a>Entertainment
+* [Gymland](https://www.facebook.com/Gymland-413803865346952/)
+* [Captain Vangelis Cruises](https://kefalonia-cruises.gr/)
+* [Bee's Knees The Bar](http://beeskneesthebar.com/)
+* [Costa Costa Beach Bar](https://www.facebook.com/costacostakefalonia/)
 
 ### <a name="leukada"></a>Leukada
 * [Pack your bags](#pack)
@@ -159,18 +161,48 @@ The volcanic nature of Santorini is what makes this place unique. All the beache
 ![](/images/vlychada_beach.jpg)
 
 
+### <a name="mykonos"></a>Mykonos
+* [General Info](#general_info_mykonos)
+* [Entertainment](#adrenaline_mykonos)
+* [Food](#food_mykonos)
+* [Nightlife](#nightlife_mykonos)
+
+#### <a name="general_info_mykonos"></a>General Info
+Mykonos is a Greek island, part of the Cyclades, lying between Tinos, Syros, Paros and Naxos.Mykonos's nickname is "The Island of the Winds". Tourism is a major industry and Mykonos is known for its vibrant nightlife and has many establishments catering for the LGBT community. It is considered the most famous cosmopolitan island in the world. According to mythology, Mykonos was formed from the petrified bodies of giants killed by Hercules. The island took its name from the grandson of Apollo, “Mykonos”.
+
+#### <a name="adrenaline_mykonos"></a>Need an adrenaline rush?
+The island is a paradise for water sport enthusiasts! It is only natural that the “Island of the Winds” should attract surfers and sailors from all over the world! There is a great choice of beaches for windsurfing; however, the most secluded ones are considered to be the best. Choose from <b>Kórfos, Fteliá, Meyáli Ámmos and Kalafátis</b>, where surfing lessons are also available. Play tennis or mini golf at <b>Ayios Stéfanos</b>, beach volleyball at <b>Ayia Anna</b> or try sea parachuting or jet skiing at <b>Eliá</b> or <b>Kalafátis</b>. Diving fans can do a little exciting exploration of the underwater magic of <b>Mykonos</b>. September is thought to be the best month for diving, as the water is warm and visibility is good down at the seabed.
+
+#### <a name="food_mykonos"></a>What about food?
+Don’t miss the opportunity to treat yourself to some local Aegean specialties! Pepper flavoured <b>kopanistí</b>, a soft cheese seasoned with pepper, is the island’s gastronomic trademark. Try it as a topping on a round rusk spread with grated tomato, a favourite local mezés (appetiser). Meat eaters can sample <b>“loúzes”</b> (cooked pork filet with spices) and tasty local sausages sprinkled with pepper, and local oregano that has been caressed by the sun and dried in the north wind. To finish off your meal you can sample two exceptionally good local pastries, <b>“amigdalotá”</b> (small round cakes with ground almond, rosewater and caster sugar) and <b>honey pie</b>.
+
+#### <a name="nightlife_mykonos"></a>Nightlife!
+Mykonos is the top destination for the active nightlife and crazy throughout Greece: nightlife and fun, main ingredients, able to attract every year many young people from around the world. Paradise beaches, elegant nightclubs and beach bars with djs and international parties at all hours of day and night: Mykonos won rightfully the nickname “party island”, the island of the feast, and as for fun can compete with the famous Ibiza.
+
+
+* [Paradise Club](http://www.paradiseclubmykonos.com/) (Paradise Beach, Mykonos)
+Situated on the beach of Paradise Beach, the Paradise Club is considered as the most famous nightclub in Mykonos and assaulted daily by a thick festive throng, gathering on this beach to have a cocktail and dance or listen to House music, techno and rock, from the afternoon until the wee hours of the morning.
+* [Tropicana Beach Bar](https://www.tropicanamykonos.com/) (Paradise beach, Mykonos)
+Open daily from 9.00 to 1.00.
+Located Paradise Beach, the Tropicana Beach Bar is one of the most known for partying in Mykonos, a veritable institution for its Wild beach parties which attract many young people coming from all over Europe with the sole purpose of having fun.
+* [Cavo Paradiso](https://www.cavoparadiso.gr/) (Paradise Beach, Mykonos)
+Open daily from 23.30 to 7.30.
+Located on a hill that overlooks Paradise Bay and with a breathtaking view of the sea, the disco Cavo Paradiso is another highlight of the Mykonos nightlife. Here the party starts around 2.00 and continues until late morning. Cavo Paradiso, In addition to being considered one of the the most beautiful clubs of Mykonos, It is certainly the most expensive: the entrance ticket can cost 30 or 40 euros.
+* [Super Paradise](https://www.superparadise.com.gr/) (Super Paradise Beach, Mykonos)
+Super Paradise Beach and the club are a party continues, between sea, animation, dancers and dancers, dance performances and music blaring, that focuses on Greek and international hits. But above all, lots of people having fun from morning to night.
+* [Scandinavian Bar](http://www.skandinavianbar.com/) (Agios Ioannis Barkia, Mykonos)
+Open daily from 20.00 to 6.00.
+True icon of Mykonos nightlife Since 1978, lo Scandinavian Bar over the years remained one of the most beloved and popular night hangout spots on the island. A must for many young people and tourists who begin their evenings: the bar serves a variety of cocktails and great music, which ranges from dance, Rock and carefree songs.
+
+
+
 
 ### <a name="antiparos"></a>Antiparos
-* [Some History](#info)
-* [Where to eat](#food)
-* [Beaches](#beaches)
-* [Entertainment](#entertainment)
+
 * [Some History](#info_antiparos)
 * [Where to eat](#food_antiparos)
 * [Beaches](#beaches_antiparos)
 * [Entertainment](#entertainment_antiparos)
-
-
 
 #### <a name="info_antiparos"></a>Some History
 ![](/images/antiparos.jpg)
@@ -182,14 +214,12 @@ Antiparos is a small island of Cyclades, located just next to Paros island. Anti
 * [Argo Restaurant](https://www.tripadvisor.com/Restaurant_Review-g189425-d2307690-Reviews-Argo_Restaurant-Antiparos_Cyclades_South_Aegean.html)
 * [Vicky's Ice Cream](http://www.vickys.gr/): Best Ice cream in town --> Highly recommended
 
-
 #### <a name="beaches_antiparos"></a>Beaches
 * [Faneromeni Beach](https://www.tripadvisor.com/Attraction_Review-g189425-d7019954-Reviews-Faneromeni_Beach-Antiparos_Cyclades_South_Aegean.html)
 * [Saint George Beach](https://www.tripadvisor.com/Attraction_Review-g189425-d4893887-Reviews-Saint_George_Beach-Antiparos_Cyclades_South_Aegean.html)
 * [Nudist Beach](https://www.tripadvisor.com/Attraction_Review-g3569526-d7070930-Reviews-Nudist_Beach-Antiparos_Town_Antiparos_Cyclades_South_Aegean.html)
 * [Soros Beach](https://www.tripadvisor.com/Attraction_Review-g189425-d8670305-Reviews-Soros_Beach-Antiparos_Cyclades_South_Aegean.html)
 * [Sifneikos Gialos](https://www.tripadvisor.com/Attraction_Review-g3569526-d14966918-Reviews-Sifneikos_Gialos-Antiparos_Town_Antiparos_Cyclades_South_Aegean.html)
-
 
 #### <a name="entertainment_antiparos"></a>Entertainment
 * [Sunset Desao](https://www.google.com/search?q=antiparos%20sunset%20beach&oq=antiparos+sun&aqs=chrome.1.69i57j0l5.4852j0j4&sourceid=chrome&ie=UTF-8&npsic=0&rflfq=1&rlha=0&rllag=37042586,25075926,126&tbm=lcl&rldimm=14111529459053696804&ved=2ahUKEwijtJuN9s3gAhVF6qQKHV71DfQQvS4wAXoECAAQHg&rldoc=1&tbs=lrf:!2m1!1e2!2m1!1e16!3sIAE,lf:1,lf_ui:2#rlfi=hd:;si:14111529459053696804;mv:!1m2!1d37.0438204!2d25.0763062!2m2!1d37.041353!2d25.075545800000004;tbs:lrf:!2m1!1e2!2m1!1e16!3sIAE,lf:1,lf_ui:2): Best Sunset View
@@ -269,17 +299,24 @@ How can you visit Greece and not try souvlaki? Meraklis tavern offers one of the
 
 A beautiful island of the Dodecanese, worthy of its long distance from Athens. Characterized by its natural beauty, Leros has managed to be beautiful with its own uniquely recognizable, but exceptional style.
 
+![Leros](./images/leros.jpg)
+
 #### <a name="beaches_leros"></a>Beaches
 
 Leros' most famous beaches are listed below:
 
-* *Alinta*
-* *Paradeisos*
+* *Alinta* - here you can find a beach bar, clean sand and, of course, beautiful, clean, blue sea.
+* *Paradeisos* - How can you go wrong with a name like that?
 * *Kokkina*
+![paralia kokkina](./images/paralia_kokkina.jpg)
 
 #### <a name="nightlife_leros"></a>Nightlife
 
-Mostly located at the Agia Marina region, it proudly has bars and clubs, like **Faros**, **Meltemi**, **Yolo** and **Thalassa**
+Mostly located at the Agia Marina region, it proudly has bars and clubs, such as:
+* [**Faros**](https://el-gr.facebook.com/farosleros)
+* [**Meltemi**](https://el-gr.facebook.com/pages/category/Pub/Meltemi-Bar-374233895978957/)
+* [**Yolo**](https://el-gr.facebook.com/yoloclubvratsd/)
+* [**Thalassa**](https://www.tripadvisor.com.gr/Attraction_Review-g189445-d5838832-Reviews-Thalassa_Cocktail_Bar-Leros_Dodecanese_South_Aegean.html)
 
 ### <a name="halki"></a>Halki
 * [Discover Halki](#discoverHalki)
@@ -315,6 +352,81 @@ And yes this tiny island has an amazing italian restaurant that you should defin
 
 #### <a name="general_info_astypalaia"></a>General Information about Astypalaia
 Astypalaia, widely known also as "Butterfly of the Aegean" because of it's butterfly like shape, is an island of the Dodecanese which is definitely worth visiting. If you have a glance at the map o Greece you will notice that Astypalaia island is exactly between the island chains of Dodecanese and Cyclades. This unique position makes Astypalaia an extraordinary cultural mixture of those two island chains and the culture that follows them. Astypalaia is an island that both Greek and foreign tourists prefer for peaceful and family moments during which you can relax both physically and mentally.
+
+### <a name="nisiros"></a>Nisiros
+* [General Information](#gen-info-nisiros)
+* [History](#history-nisiros)
+* [Volcano of Nisiros](#volcano-nisiros)
+* [Beaches](#beaches-nisiros)
+
+#### <a name="gen-info-nisiros"></a>General Information
+Nisyros is an island in the southern Aegean and one of the Dodecanese islands.
+It belongs to the group of ancient southern Sporades, and is located northwest of Rhodes,
+between Kos, Tilos and Astypalea. Specifically, it is 8 miles north west of Tilos, and 10 miles south
+of Kos, to which it administratively belongs, and 9 nautical miles east of Cape Natsa, Turkey.
+Nisyros has an area of ​​about 41 square kilometers and a total coastline of about 24 kilometers.
+
+Its population in 1950 numbered 2,516 inhabitants. At the last census (2011), its population was
+987 inhabitants. The capital of the island is Mandraki. Other villages of Nisyros are Emborios,
+Paloi, Nikia and Loutra.
+
+#### <a name="history-nisiros"></a>History
+During the Persian wars, Nisyros, along with Kalymnos and Kos, were subject to the Kingdom of
+Bodrum under Artemisia. Then he followed the fate of the rest of the islands. It seems that
+colonists from the island founded Nisyros in Caria of Asia Minor. It was captured by the
+Italians in 1912, who ruled the island until its annexation to Greece in 1948.
+
+#### <a name="volcano-nisiros"></a>Volcano of Nisiros
+Nisyros, along with Methana, Milos and Santorini, is among the active volcanoes of our country.
+ The oldest rocks of the island date back to 160,000 years while the newest (prehistoric) is
+ 15,000 years old and cover the whole island.\
+
+
+Polybotis is the largest crater in the volcano, with a diameter of 260m and a depth of 30m.
+There are five other craters in the area, the largest of which is "Stefanos", with a diameter
+of 30 meters and a depth of 30 meters. Also, the volcano surrounds a valley (caldera), with a
+length of 2,400m and a width of 950m.
+
+
+Estimations show that two explosions occurred 25,000 years ago.The volcano erupted in 1422,
+and four centuries later, in 1872, the eruption of the volcano caused earthquakes. Ash
+and other materials covered the ground of Rammus. The territory of the Lakki and Rammos
+areas had been transformed into a lake with warm, salt water, overflowing with the crater.
+The most recent strong explosion occurred in 1888. A cylindrical conduit of volcanic
+ elements with a diameter of at least 25 meters was created.
+
+ ![](/images/nisiros-volcano-1.jpg)
+
+     Photo captured from heigh altitude.
+
+ ![](/images/nisiros-volcano-2.jpg)
+
+     Photo captured inside the crater.
+
+
+#### <a name="beaches-nisiros"></a>Beaches
+
+##### Gialiskari
+   ![](/images/nisiros-gialiskari-beach.jpg)
+
+    It is located on the north side of the island, 2 km east of Mandraki,
+    on the way to Palous.
+
+##### Lies
+   ![](/images/nisiros-lies-beach.jpg)
+
+
+    The beach starts about 3 km after Palus and is located on the northeastern
+    side of the island, from the point where it ends
+
+##### Pahia Ammos
+   ![](/images/nisiros-pahia-ammos-beach.jpg)
+
+
+    It is located on the eastern side, about 10 km from Mandraki. A very long
+    beach of about 350 meters.
+
+
 
 ## <a name="north_east_aegean_islands"></a>North East Aegean Islands
 
