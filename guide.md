@@ -26,6 +26,8 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Rhodes](#Rhodes)
 * [North-East Aegean Islands](#north_east_aegean_islands)
   * [Ikaria](#ikaria)
+* [Saronic Gulf](#saronic)
+  * [Aegina](#aegina)
 
 
 ## <a name="ionian_islands"></a>Ionian Islands
