@@ -23,6 +23,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Halki](#halki)
   * [Astypalaia](#astypalaia)
   * [Nisiros](#nisiros)
+  * [Rhodes](#Rhodes)
 * [North-East Aegean Islands](#north_east_aegean_islands)
   * [Ikaria](#ikaria)
 
@@ -100,6 +101,7 @@ Are you wondering how to get there? Every day, the ferry-boats of Igoumenitsa tr
 
 #### <a name='antipaxoi'></a>Antipaxoi
 **How to get to Antipaxoi?**: The easiest way to get to Antipaxoi is take a small boat :boat: from Gaios. The departure point of these boats is very easy to find-you just need to take a walk around Gaios! The first stop after you take the boat is an amazing beach you can see below :ocean:. If you are a fan of camping you can also try it in Antipaxoi. ![](/images/Antipaxoi.jpg)
+
 **What else to see in Antipaxoi?**: After you finish your relaxing time at the beautiful beach of Antipaxoi you can retake the same small boat and visit the wonderful caves that are located in different spots around the island but are accessible only by boat. By the way, you can rent your own boat! ![](/images/antipaxoi-blue-caves-cruise.jpg)
 
 #### <a name='swimPaxoi'></a>Where to swim
@@ -109,6 +111,18 @@ Excpet for the beaches you can reach by boat, in order to reach the most remarka
 One of the most beautiful beaches which is located in the north part of Antipaxoi is called Vrika Beach. The light-blue and green water can be easily visible when approaching the beach with the boat. The almost white sand in combination with the landscape and the clear sea will impress you. It is a well-organized beach where you can rent an umbrella and/or sunbeds and enjoy the hot summer days.
 * [Monodendri Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189461-d7071058-Reviews-Monodendri_Beach-Paxos_Ionian_Islands.html):
 If you are looking for a non-organized beach, Monodendri is your solution. Though unorganized, you can lay on the sand, swim safely and at 7 p.m. you can enjoy the wonderful sunset. At a glance you may face some difficulties on accessing Monodendri Beach, but in reality it is not that difficult and it is absolutely worth making an effort to reach this beach.
+
+#### <a name='foodPaxoi'></a>Where to eat
+In order to get in real touch with the atmosphere of an island you need to taste the greek traditional food with a view to the sea during the sunset. Here is a list of restos you can find in the most beautiful spots of the island:
+
+* [La Conchiglia](https://www.tripadvisor.co.za/Restaurant_Review-g776011-d10449525-Reviews-La_Conchiglia-Loggos_Paxos_Ionian_Islands.html):
+It is a high-quality restaurant where you can try fresh seafood almost at the edge of the waves. You can also find most of the traditional greek dishes except for the seafood ones. It is necessary to mention that the products that the chefs use in La Conchiglia originate from the local trade, while the oil is produced by the restaurant's owner. Of course, you can call and make a reservation a few days ahead in order to make sure that you will enjoy your meal without waiting. For more contact info, please visit the link.
+
+* [Akis Fish Bar Restaurant](https://www.tripadvisor.com/Restaurant_Review-g1402870-d1860390-Reviews-Akis_Fish_Bar_Restaurant-Lakka_Paxos_Ionian_Islands.html):
+Akis Fish Bar & Restaurant located at the edge of the harbor of Lakka, is one of the best restaurants you will find on the island of Paxos. The courtyrad of the restaurant is basically the end of the harbor of Lakka, so we can say that cannot get any closer to the sea. Not to mention the view of the incredible coastline of Lakka, which offers one the most beautiful sunsets you will ever see. But we didn't mention anything about food! For people looking to eat lunch or dinner, the restaurant offers a quality range of choices containing mainly seafood. There is also a mediterranian menu, for the lovers of the mediterranian gastronomy. Central role to this, play the fresh seafood. Various meats are also offered to complete the menu.
+
+* [La Vista](https://www.tripadvisor.co.za/Restaurant_Review-g1402868-d12550993-Reviews-La_Vista-Gaios_Paxos_Ionian_Islands.html):
+You want a restaurant where you will find a very different concept from the conventional perception prevailing in the other restaurants? La Vista is your solution! The La Vista is a new restaurant, run by young people, who have more than a decade of work experince, making them knowledgable and good at what they do. At La Vist having ordered just someof their appetisers and salads you can have a great time and leave full and satisfied, without spending an arm and a leg in comparison with a lot of restos around in the island. The La Vista serves mainly seafood, while everyday there are different homemade "mum's" dishes (moussaka, lasagne, briam).
 
 ## <a name="cyclades"></a>Cyclades
 
@@ -185,11 +199,11 @@ True icon of Mykonos nightlife Since 1978, lo Scandinavian Bar over the years re
 
 
 ### <a name="antiparos"></a>Antiparos
+
 * [Some History](#info_antiparos)
 * [Where to eat](#food_antiparos)
 * [Beaches](#beaches_antiparos)
 * [Entertainment](#entertainment_antiparos)
-
 
 #### <a name="info_antiparos"></a>Some History
 ![](/images/antiparos.jpg)
@@ -430,7 +444,65 @@ The most recent strong explosion occurred in 1888. A cylindrical conduit of volc
     It is located on the eastern side, about 10 km from Mandraki. A very long
     beach of about 350 meters.
 
+### <a name="Rhodes"></a>Rhodes
+* [General Information](#gen-info-Rhodes)
+* [History](#history-Rhodes)
+* [Archaeology](#archaeology-Rhodes)
+* [Beaches](#beaches-Rhodes)
+* [Nightlife](#nightlife-Rhodes)
 
+#### <a name="gen-info-Rhodes"></a>General Information
+Rhodes is the largest of the Dodecanese islands of Greece and is also the island group's historical capital. Administratively the island forms a separate municipality within the Rhodes regional unit, which is part of the South Aegean administrative region. The principal town of the island and seat of the municipality is Rhodes. The city of Rhodes had 50,636 inhabitants in 2011.
+It is located northeast of Crete, southeast of Athens and just off the Anatolian coast of Turkey. Rhodes' nickname is The island of the Knights, named after the Knights of Saint John of Jerusalem, who once conquered the land.
+
+#### <a name="history-Rhodes"></a>History
+In the 8th century BC, the island's settlements started to form, with the coming of the Dorians, who built the three important cities of Lindos, Ialyssos and Kameiros, which together with Kos, Cnidus and Halicarnassus (on the mainland) made up the so-called Dorian Hexapolis
+(Greek for six cities).
+
+In Pindar's ode, the island was said to be born of the union of Helios the sun god and the nymph Rhodos, and the cities were named for their three sons. The rhoda is a pink hibiscus, native to the island. Diodorus Siculus added that Actis, one of the sons of Helios and Rhode, travelled to Egypt. He built the city of Heliopolis and taught the Egyptians astrology.
+
+In the second half of the 8th century, the sanctuary of Athena received votive gifts that are markers for cultural contacts: small ivories from the Near East and bronze objects from Syria. At Kameiros on the northwest coast, a former Bronze Age site, where the temple was founded in the 8th century, there is another notable contemporaneous sequence of carved ivory figurines. The cemeteries of Kameiros and Ialyssos yielded several exquisite exemplars of the Orientalizing Rhodian jewellery, dated in the 7th and early 6th centuries BC.Phoenician presence on the island at Ialysos is attested in traditions recorded much later by Rhodian historians.
+
+#### <a name="archaeology-Rhodes"></a>Archaeology
+The Colossus of Rhodes was considered to be one of the Seven Wonders of the Ancient World. This giant bronze statue was documented as once standing at the harbour. It was completed in 280 BC and destroyed in an earthquake in 224 BC. No trace of the statue remains today.
+
+Historical sites on the island of Rhodes include the Acropolis of Lindos, the Acropolis of Rhodes with the Temple of Pythian Apollo and an ancient theatre and stadium, ancient Ialysos, ancient Kamiros, the Governor's Palace, Rhodes Old Town (walled medieval city), the Palace of the Grand Masters, Kahal Shalom Synagogue in the Jewish Quarter, the Archeological Museum, the ruins of the castle of Monolithos, the castle of Kritinia, St. Catherine Hospice and Rhodes Footbridge.
+
+![](/images/kolossos.jpg)
+
+#### <a name="beaches-Rhodes"></a>Beaches
+
+![](/images/kallithea_beach.jpg)
+
+Kallithea Springs
+
+![](/images/tsambika_beach.jpg)
+
+Tsambika Beach
+
+![](/images/lindos_beach.jpg)
+
+Lindos Beach
+
+#### <a name="nightlife-Rhodes"></a>Nightlife
+On an island of contrasts, Rhodes’ nightlife can take you from lively and raucous to chilled and romantic in the space of a single evening. For sheer number and variety, Rhodes’ nightclubs are the places to be seen, while plentiful tavernas and eateries leave you spoilt for choice too. Here’s our guide to Rhodes’ four main locations and their evening hotspots.
+
+<b>Faliraki</b>
+Rhodes nightlife doesn’t get better than this. Faliraki’s reputation as a 24-hour party town makes it the first stop for anyone looking to cut loose on this fascinating Greek island. With two strips of bars, clubs and restaurants to choose from, you can easily find a cosy restaurant corner, a sophisticated cocktail bar or a dance-till-dawn, strobe-lit club with resident DJ. Most people head to Bar Street for drinks before switching to Club Street for the best of Rhodes’ nightclubs around 1am.
+
+Ziggy’s on Bar Street is cocktail heaven and the place where the fishbowl was invented, so a great spot for a group photo. Once on Club Street, the Matrix garden lets clubbers clear their heads or cool off, while the Bed Club has all the big name DJs in the summer months. But leave time for the famous Q Club for great tunes and dancing till 5am.
+
+<b>Rhodes Town</b>
+Less crowded but endlessly lively and fascinating, nightlife in Rhodes Town is laid back and relaxed. Make a beeline for the popular Hippocrates Square in the medieval old town, where bars, tavernas and eateries surround a pretty fountain in the shadow of the palace.
+
+You’ll love the centrally-located Ammoyiali Restaurant on Voriou Ipirou for its deliciously modern take on traditional Greek fare, while cocktails at Flaws Bar always means the best service in chicer than chic surroundings. Or, for a classic Greek taverna playing live, traditional music, head to Blue Lagoon and dance like the locals do.
+
+<b>Pefkos and Lindos</b>
+Off the beaten track but adored by locals, the resorts of Lindos and Pefkos on the eastern shores of the island are both stunning and secluded. But don’t be fooled. While both villages are quiet and idyllic during daylight hours, they liven up considerably in the evening.
+
+A surprise find in such a balmy location is Lindos Ice Bar on Krana Square. Partygoers seek out this refuge from the Grecian sunshine, donning big coats and huge smiles as they drink at an ice bar from glasses made from the same. The beats and light show are equally cool. Meanwhile, the Eclipse Bar in Pefkos attracts a young crowd with something for everyone, from pool and games to music and dancing, plus the only cliff-jumping waterfall in Greece.
+
+Food-wise, you’ll find some stunning locations for watching the sunset, while enjoying a glass of local wine and the catch of the day. Try Philosophia Beach Taverna In Pefkos for romantic views of the bay and a chance to dip your toes in the water. In a similar vein is Dapapa on Kavos Beach, where the seafood is glorious with a backdrop to match. Ambrosia Restaurant in Lindos is sheer foodie heaven. Call in after a day exploring the acropolis, for a family-friendly atmosphere and seafood you’ll remember long after your tan fades.
 
 ## <a name="north_east_aegean_islands"></a>North East Aegean Islands
 
@@ -480,3 +552,25 @@ The locals are mostly working in shipping. They have really strong relationships
 
 
   * <b>Koskina Castle</b>: It is located in the center of Ikaria. This castle is also named castle of Nikarias because once is was the most important fort of the island. Having a 10 minute walk you will see the main fort that the legend says it was occupied only once.
+
+
+## <a name="saronic"></a>Saronic Gulf
+
+### <a name="aegina"></a>Aegina
+* [Some History](#history_aegina)
+* [Why Aegina?](#why_aegina)
+* [Where to swim](#swim_aegina)
+* [Where to eat](#eat_aegina)
+
+#### <a name="history_aegina"></a>Some History
+Aegina dates back to 20th century BC, meaning that it has a large historical background to offer. At first, the island was a site of trade for people living in Attica and the Peloponnesus. Throughout the history, Aegina passed through a lot of wars and rivalries, especially with Athens. However, it was dominated by many different tribes, such as the Macedonians, the Achaeans etc. During the Byzantine period, Aegina belonged to the East Roman Empire in 395. The island flourished during the early 9th century, as evidenced by church construction activity, but suffered greatly from Arab raids originating from Crete. The first devastating hit for the island took place in 1654 during the Ottoman Empire. Almost 2 centuries later, during the Greek War of Independence, Aegina became an administrative centre for the Greek revolutionary authorities. That period, Ioannis Kapodistrias was briefly established on the island.
+
+#### <a name="why_aegina"></a>Why Aegina?
+Aegina belongs to the Saronic Gulf, a part of sea which is surrounded be Attica's urban area. All the islands of the Saronic gulf-Aegina, Salamis, Poros- are very close destinations for just a day-trip as the port of Piraeus, Athen's port, lies on the northeastern edge of the gulf. In combination with the beauty that Aegina offers, if you just came in Athens for a couple of days, don't hesitate to go to Piraeus, buy a ferry-boat ticket and travel to Aegina.
+
+#### <a name="swim_aegina"></a>Where to swim
+* [Marathonas Beach](https://www.tripadvisor.com.gr/Attraction_Review-g1189162-d8603416-Reviews-Marathonas_Beach-Aegina_Town_Aegina_Saronic_Gulf_Islands_Attica.html):
+Beachlife on Marathonas starts at Greek Easter when the beach restaurants open for the first time. At the beginning of June, the entire beach is fully operating with all sunbeds and umbrellas in place. The beach season finishes at the end of October. It ios a very busy beach and that's the reason why you need to arrive early in the morning. When the sky is clear, you can enjoy the view towards Moni island on your left with Methana behind it, and more in front you can see the island of Agistri with the Peloponnese in the background. In the autumn you can experience the most spectacular sunsets when the sun sets behind the island of Moni. ![](/images/Aegina - Marathonas.jpg)
+
+* [Akrogiali | Agia Marina Beach](https://www.tripadvisor.com/Restaurant_Review-g1069027-d3569753-Reviews-Akrogiali_Cafe_Ouzeri-Agia_Marina_Aegina_Saronic_Gulf_Islands_Attica.html):
+Akrogiali is open for breakfast, lunch and dinner. At night, Pavlos gives Akrogiali a very special romantic atmosphere by putting sometimes torches in the sea in frontand having lots of candles on the tables. The perfect place for your romantic dinner at the beach, especially with full moon! From your table you can see the moonrise, coming out of the sea! You can even take a swim in the moonlight. ![](/images/Aegina - Agia Marina.jpg)
