@@ -536,6 +536,7 @@ The locals are mostly working in shipping. They have really strong relationships
 
   * <b>Koskina Castle</b>: It is located in the center of Ikaria. This castle is also named castle of Nikarias because once is was the most important fort of the island. Having a 10 minute walk you will see the main fort that the legend says it was occupied only once.
 
+
 ## <a name="saronic"></a>Saronic Gulf
 
 ### <a name="aegina"></a>Aegina
