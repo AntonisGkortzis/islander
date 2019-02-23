@@ -22,6 +22,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Leros](#leros)
   * [Halki](#halki)
   * [Astypalaia](#astypalaia)
+  * [Nisiros](#nisiros)
 * [North-East Aegean Islands](#north_east_aegean_islands)
   * [Ikaria](#ikaria)
 
@@ -339,6 +340,81 @@ And yes this tiny island has an amazing italian restaurant that you should defin
 #### <a name="general_info_astypalaia"></a>General Information about Astypalaia
 Astypalaia, widely known also as "Butterfly of the Aegean" because of it's butterfly like shape, is an island of the Dodecanese which is definitely worth visiting. If you have a glance at the map o Greece you will notice that Astypalaia island is exactly between the island chains of Dodecanese and Cyclades. This unique position makes Astypalaia an extraordinary cultural mixture of those two island chains and the culture that follows them. Astypalaia is an island that both Greek and foreign tourists prefer for peaceful and family moments during which you can relax both physically and mentally.
 
+### <a name="nisiros"></a>Nisiros
+* [General Information](#gen-info-nisiros)
+* [History](#history-nisiros)
+* [Volcano of Nisiros](#volcano-nisiros)
+* [Beaches](#beaches-nisiros)
+
+#### <a name="gen-info-nisiros"></a>General Information
+Nisyros is an island in the southern Aegean and one of the Dodecanese islands. 
+It belongs to the group of ancient southern Sporades, and is located northwest of Rhodes, 
+between Kos, Tilos and Astypalea. Specifically, it is 8 miles north west of Tilos, and 10 miles south 
+of Kos, to which it administratively belongs, and 9 nautical miles east of Cape Natsa, Turkey. 
+Nisyros has an area of ​​about 41 square kilometers and a total coastline of about 24 kilometers.
+
+Its population in 1950 numbered 2,516 inhabitants. At the last census (2011), its population was
+987 inhabitants. The capital of the island is Mandraki. Other villages of Nisyros are Emborios,
+Paloi, Nikia and Loutra.
+
+#### <a name="history-nisiros"></a>History
+During the Persian wars, Nisyros, along with Kalymnos and Kos, were subject to the Kingdom of 
+Bodrum under Artemisia. Then he followed the fate of the rest of the islands. It seems that 
+colonists from the island founded Nisyros in Caria of Asia Minor. It was captured by the 
+Italians in 1912, who ruled the island until its annexation to Greece in 1948.
+
+#### <a name="volcano-nisiros"></a>Volcano of Nisiros
+Nisyros, along with Methana, Milos and Santorini, is among the active volcanoes of our country.
+ The oldest rocks of the island date back to 160,000 years while the newest (prehistoric) is 
+ 15,000 years old and cover the whole island.\
+ 
+ 
+Polybotis is the largest crater in the volcano, with a diameter of 260m and a depth of 30m. 
+There are five other craters in the area, the largest of which is "Stefanos", with a diameter 
+of 30 meters and a depth of 30 meters. Also, the volcano surrounds a valley (caldera), with a 
+length of 2,400m and a width of 950m.
+
+
+Estimations show that two explosions occurred 25,000 years ago.The volcano erupted in 1422, 
+and four centuries later, in 1872, the eruption of the volcano caused earthquakes. Ash 
+and other materials covered the ground of Rammus. The territory of the Lakki and Rammos 
+areas had been transformed into a lake with warm, salt water, overflowing with the crater. 
+The most recent strong explosion occurred in 1888. A cylindrical conduit of volcanic
+ elements with a diameter of at least 25 meters was created.
+ 
+ ![](/images/nisiros-volcano-1.jpg)
+             
+     Photo captured from heigh altitude.
+     
+ ![](/images/nisiros-volcano-2.jpg)
+             
+     Photo captured inside the crater.
+
+
+#### <a name="beaches-nisiros"></a>Beaches
+
+##### Gialiskari
+   ![](/images/nisiros-gialiskari-beach.jpg)
+            
+    It is located on the north side of the island, 2 km east of Mandraki,
+    on the way to Palous.
+
+##### Lies
+   ![](/images/nisiros-lies-beach.jpg)
+            
+    
+    The beach starts about 3 km after Palus and is located on the northeastern 
+    side of the island, from the point where it ends
+          
+##### Pahia Ammos
+   ![](/images/nisiros-pahia-ammos-beach.jpg)
+            
+    
+    It is located on the eastern side, about 10 km from Mandraki. A very long 
+    beach of about 350 meters.
+                 
+          
+       
 ## <a name="north_east_aegean_islands"></a>North East Aegean Islands
 
 ### <a name="ikaria"></a>Ikaria
