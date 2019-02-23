@@ -98,6 +98,7 @@ Are you wondering how to get there? Every day, the ferry-boats of Igoumenitsa tr
 
 #### <a name='antipaxoi'></a>Antipaxoi
 **How to get to Antipaxoi?**: The easiest way to get to Antipaxoi is take a small boat :boat: from Gaios. The departure point of these boats is very easy to find-you just need to take a walk around Gaios! The first stop after you take the boat is an amazing beach you can see below :ocean:. If you are a fan of camping you can also try it in Antipaxoi. ![](/images/Antipaxoi.jpg)
+
 **What else to see in Antipaxoi?**: After you finish your relaxing time at the beautiful beach of Antipaxoi you can retake the same small boat and visit the wonderful caves that are located in different spots around the island but are accessible only by boat. By the way, you can rent your own boat! ![](/images/antipaxoi-blue-caves-cruise.jpg)
 
 #### <a name='swimPaxoi'></a>Where to swim
@@ -107,6 +108,18 @@ Excpet for the beaches you can reach by boat, in order to reach the most remarka
 One of the most beautiful beaches which is located in the north part of Antipaxoi is called Vrika Beach. The light-blue and green water can be easily visible when approaching the beach with the boat. The almost white sand in combination with the landscape and the clear sea will impress you. It is a well-organized beach where you can rent an umbrella and/or sunbeds and enjoy the hot summer days.
 * [Monodendri Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189461-d7071058-Reviews-Monodendri_Beach-Paxos_Ionian_Islands.html):
 If you are looking for a non-organized beach, Monodendri is your solution. Though unorganized, you can lay on the sand, swim safely and at 7 p.m. you can enjoy the wonderful sunset. At a glance you may face some difficulties on accessing Monodendri Beach, but in reality it is not that difficult and it is absolutely worth making an effort to reach this beach.
+
+#### <a name='foodPaxoi'></a>Where to eat
+In order to get in real touch with the atmosphere of an island you need to taste the greek traditional food with a view to the sea during the sunset. Here is a list of restos you can find in the most beautiful spots of the island:
+
+* [La Conchiglia](https://www.tripadvisor.co.za/Restaurant_Review-g776011-d10449525-Reviews-La_Conchiglia-Loggos_Paxos_Ionian_Islands.html):
+It is a high-quality restaurant where you can try fresh seafood almost at the edge of the waves. You can also find most of the traditional greek dishes except for the seafood ones. It is necessary to mention that the products that the chefs use in La Conchiglia originate from the local trade, while the oil is produced by the restaurant's owner. Of course, you can call and make a reservation a few days ahead in order to make sure that you will enjoy your meal without waiting. For more contact info, please visit the link.
+
+* [Akis Fish Bar Restaurant](https://www.tripadvisor.com/Restaurant_Review-g1402870-d1860390-Reviews-Akis_Fish_Bar_Restaurant-Lakka_Paxos_Ionian_Islands.html):
+Akis Fish Bar & Restaurant located at the edge of the harbor of Lakka, is one of the best restaurants you will find on the island of Paxos. The courtyrad of the restaurant is basically the end of the harbor of Lakka, so we can say that cannot get any closer to the sea. Not to mention the view of the incredible coastline of Lakka, which offers one the most beautiful sunsets you will ever see. But we didn't mention anything about food! For people looking to eat lunch or dinner, the restaurant offers a quality range of choices containing mainly seafood. There is also a mediterranian menu, for the lovers of the mediterranian gastronomy. Central role to this, play the fresh seafood. Various meats are also offered to complete the menu.
+
+* [La Vista](https://www.tripadvisor.co.za/Restaurant_Review-g1402868-d12550993-Reviews-La_Vista-Gaios_Paxos_Ionian_Islands.html):
+You want a restaurant where you will find a very different concept from the conventional perception prevailing in the other restaurants? La Vista is your solution! The La Vista is a new restaurant, run by young people, who have more than a decade of work experince, making them knowledgable and good at what they do. At La Vist having ordered just someof their appetisers and salads you can have a great time and leave full and satisfied, without spending an arm and a leg in comparison with a lot of restos around in the island. The La Vista serves mainly seafood, while everyday there are different homemade "mum's" dishes (moussaka, lasagne, briam).
 
 ## <a name="cyclades"></a>Cyclades
 
@@ -152,19 +165,26 @@ The volcanic nature of Santorini is what makes this place unique. All the beache
 * [Where to eat](#food)
 * [Beaches](#beaches)
 * [Entertainment](#entertainment)
+* [Some History](#info_antiparos)
+* [Where to eat](#food_antiparos)
+* [Beaches](#beaches_antiparos)
+* [Entertainment](#entertainment_antiparos)
 
 
 #### <a name="info"></a>Some History
+#### <a name="info_antiparos"></a>Some History
 ![](/images/antiparos.jpg)
 Antiparos is a small island of Cyclades, located just next to Paros island. Antiparos is a nice destination for one day excursion from Paros. Nudism and camping are particularly popular on these beaches. Chora, the capital and only village of Antiparos Greece, has traditional Cycladic architecture with narrow paved streets, whitewashed houses and lovely blue-domed churches. On the southern side, there is an impressive cave with stalactites and stalagmites.
 
 #### <a name="food"></a>Where to eat
+#### <a name="food_antiparos"></a>Where to eat
 * [Kalokeri](https://www.tripadvisor.com/Restaurant_Review-g3569526-d10445320-Reviews-Kalokeri-Antiparos_Town_Antiparos_Cyclades_South_Aegean.html)
 * [Pavlos Place](https://www.tripadvisor.com/Restaurant_Review-g189425-d3222333-Reviews-Pavlos_Place-Antiparos_Cyclades_South_Aegean.html)
 * [Argo Restaurant](https://www.tripadvisor.com/Restaurant_Review-g189425-d2307690-Reviews-Argo_Restaurant-Antiparos_Cyclades_South_Aegean.html)
 * [Vicky's Ice Cream](http://www.vickys.gr/): Best Ice cream in town --> Highly recommended
 
 #### <a name="beaches"></a>Beaches
+#### <a name="beaches_antiparos"></a>Beaches
 * [Faneromeni Beach](https://www.tripadvisor.com/Attraction_Review-g189425-d7019954-Reviews-Faneromeni_Beach-Antiparos_Cyclades_South_Aegean.html)
 * [Saint George Beach](https://www.tripadvisor.com/Attraction_Review-g189425-d4893887-Reviews-Saint_George_Beach-Antiparos_Cyclades_South_Aegean.html)
 * [Nudist Beach](https://www.tripadvisor.com/Attraction_Review-g3569526-d7070930-Reviews-Nudist_Beach-Antiparos_Town_Antiparos_Cyclades_South_Aegean.html)
@@ -172,6 +192,7 @@ Antiparos is a small island of Cyclades, located just next to Paros island. Anti
 * [Sifneikos Gialos](https://www.tripadvisor.com/Attraction_Review-g3569526-d14966918-Reviews-Sifneikos_Gialos-Antiparos_Town_Antiparos_Cyclades_South_Aegean.html)
 
 #### <a name="entertainment"></a>Entertainment
+#### <a name="entertainment_antiparos"></a>Entertainment
 * [Sunset Desao](https://www.google.com/search?q=antiparos%20sunset%20beach&oq=antiparos+sun&aqs=chrome.1.69i57j0l5.4852j0j4&sourceid=chrome&ie=UTF-8&npsic=0&rflfq=1&rlha=0&rllag=37042586,25075926,126&tbm=lcl&rldimm=14111529459053696804&ved=2ahUKEwijtJuN9s3gAhVF6qQKHV71DfQQvS4wAXoECAAQHg&rldoc=1&tbs=lrf:!2m1!1e2!2m1!1e16!3sIAE,lf:1,lf_ui:2#rlfi=hd:;si:14111529459053696804;mv:!1m2!1d37.0438204!2d25.0763062!2m2!1d37.041353!2d25.075545800000004;tbs:lrf:!2m1!1e2!2m1!1e16!3sIAE,lf:1,lf_ui:2): Best Sunset View
 
 
