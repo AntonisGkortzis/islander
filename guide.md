@@ -167,17 +167,17 @@ Don’t miss the opportunity to treat yourself to some local Aegean specialties!
 Mykonos is the top destination for the active nightlife and crazy throughout Greece: nightlife and fun, main ingredients, able to attract every year many young people from around the world. Paradise beaches, elegant nightclubs and beach bars with djs and international parties at all hours of day and night: Mykonos won rightfully the nickname “party island”, the island of the feast, and as for fun can compete with the famous Ibiza.
 
 
-* [Paradise Club](http://www.paradiseclubmykonos.com/) (Paradise Beach, Mykonos) 
+* [Paradise Club](http://www.paradiseclubmykonos.com/) (Paradise Beach, Mykonos)
 Situated on the beach of Paradise Beach, the Paradise Club is considered as the most famous nightclub in Mykonos and assaulted daily by a thick festive throng, gathering on this beach to have a cocktail and dance or listen to House music, techno and rock, from the afternoon until the wee hours of the morning.
-* [Tropicana Beach Bar](https://www.tropicanamykonos.com/) (Paradise beach, Mykonos) 
+* [Tropicana Beach Bar](https://www.tropicanamykonos.com/) (Paradise beach, Mykonos)
 Open daily from 9.00 to 1.00.
 Located Paradise Beach, the Tropicana Beach Bar is one of the most known for partying in Mykonos, a veritable institution for its Wild beach parties which attract many young people coming from all over Europe with the sole purpose of having fun.
-* [Cavo Paradiso](https://www.cavoparadiso.gr/) (Paradise Beach, Mykonos) 
+* [Cavo Paradiso](https://www.cavoparadiso.gr/) (Paradise Beach, Mykonos)
 Open daily from 23.30 to 7.30.
 Located on a hill that overlooks Paradise Bay and with a breathtaking view of the sea, the disco Cavo Paradiso is another highlight of the Mykonos nightlife. Here the party starts around 2.00 and continues until late morning. Cavo Paradiso, In addition to being considered one of the the most beautiful clubs of Mykonos, It is certainly the most expensive: the entrance ticket can cost 30 or 40 euros.
-* [Super Paradise](https://www.superparadise.com.gr/) (Super Paradise Beach, Mykonos) 
+* [Super Paradise](https://www.superparadise.com.gr/) (Super Paradise Beach, Mykonos)
 Super Paradise Beach and the club are a party continues, between sea, animation, dancers and dancers, dance performances and music blaring, that focuses on Greek and international hits. But above all, lots of people having fun from morning to night.
-* [Scandinavian Bar](http://www.skandinavianbar.com/) (Agios Ioannis Barkia, Mykonos) 
+* [Scandinavian Bar](http://www.skandinavianbar.com/) (Agios Ioannis Barkia, Mykonos)
 Open daily from 20.00 to 6.00.
 True icon of Mykonos nightlife Since 1978, lo Scandinavian Bar over the years remained one of the most beloved and popular night hangout spots on the island. A must for many young people and tourists who begin their evenings: the bar serves a variety of cocktails and great music, which ranges from dance, Rock and carefree songs.
 
@@ -333,12 +333,29 @@ And yes this tiny island has an amazing italian restaurant that you should defin
 
 ### <a name="astypalaia"></a>Astypalaia
 * [General Information](#general_info_astypalaia)
-* [A brief note by a traveller..](#brief_note)
 * [Beaches](#beaches_astypalaia)
 * [Food](#food_astypalaia)
+* [A brief note by a traveller..](#brief_note)
 
 #### <a name="general_info_astypalaia"></a>General Information about Astypalaia
 Astypalaia, widely known also as "Butterfly of the Aegean" because of it's butterfly like shape, is an island of the Dodecanese which is definitely worth visiting. If you have a glance at the map o Greece you will notice that Astypalaia island is exactly between the island chains of Dodecanese and Cyclades. This unique position makes Astypalaia an extraordinary cultural mixture of those two island chains and the culture that follows them. Astypalaia is an island that both Greek and foreign tourists prefer for peaceful and family moments during which you can relax both physically and mentally.
+
+There are four basic settlements on the island. First of all, the capital of the island which is called Chora. This settlement is considered as one of the most beautiful of the islands of the aegean sea. The old port of the island which is settled in this area is called "Pera Gialos". On the top of the hill, stands the Castle of the island which provided safety to the citizens whenever pirates invaded the island and was built mainly from stone. The white houses on the hill of the island and the 8 traditional windmills made from stone are the distinctive signs of the island. Many years before, those windmills were used to serve the needs of the inhabitants. Secondly, Livadi is a settlement provided with both a fertile land and a golden sandy coast. This fertile land produces mandarins, lemons, oranges, vineyards and pomegranates. In Livadi you can find places to eat (fresh meat and fish etc.) and accommodate yourself. Thirdly, Maltezana is a settlement which probably took its name from Maltese pirates who used to stay in the area. Maltezana is a peaceful place to stay and has a little picturesque port with the small boats and the lied nets of the local fishermen. Those fishermen are the ones who provide fresh fish to the whole island. The last settlement is called Vathi which is mainly consisted of fields and does not have many inhabitants.
+
+#### <a name="beaches_astypalaia"></a>Beaches of Astypalaia
+In Astypalaia you can find both sandy coasts and rocky bays which can be characterized as "hidden treasures". Pera Gialos is a beach located very close to the center of Chora and can be accessed very easily for a quick swim. Two beaches that are located far from the center of the island and are a bit difficult to reach are Kaminakia and Vatses but they are totally worth the visit. Plakes is not actually a beach but is consisted of many solid rocks and rocky surfaces making it a perfect place for the lovers of diving. Other worthy beaches of the island are Tzanakia, Agios Konstantinos, Tria Marmaria, Vathi, Analipsi and Mple Limanaki. All the beaches that were mentioned before, are not actually organized; the only organized beach of the island is Livadi. Daily boat tours are organized, with the destination of two small remote islands called Koutsomitis and Kounoupa. The colors of the sea there are truly magnificent to watch and enjoy.
+
+Friendly note: Kaminakia, Vatses, Pera Gialos and Mple Limanaki are the best ones.
+
+#### <a name="food_astypalaia"></a>Food of Astypalaia
+
+In the island of Astypalaia you can find plenty types of fish, honey, cheese and meat. The best delicacies that you can find are Pougkia (a type of cheese pie with Kopanisti (spicy cheese) and honey), Lampriano (goat filled with rice and its liver) and many other local and greek tastes.
+
+Friendly note: The best place to eat is a small "taverna" located on the beach of Steno which provides excellent tastes of local food, great service and lovely, kind personnel. It is the perfect place to eat, drink your coffee, and relax listening to the sound of the waves.
+
+#### <a name="brief_note"></a>A brief note by a traveller..
+
+Astypalaia is a great island for everyone who wants to enjoy the beauty and the tranquility of the nature. The island is known for having one of the best camping facilities among all the Greek islands. If you stay at the camping you can enjoy the musical nights that it provides but also attend the festivals that are held in August and are a landmark for all the inhabitants and the visitors of the island. The nature, the history and the unique architectural structure of the island make it a one of the most unique islands of the Aegean sea.  
 
 ### <a name="nisiros"></a>Nisiros
 * [General Information](#gen-info-nisiros)
@@ -347,10 +364,10 @@ Astypalaia, widely known also as "Butterfly of the Aegean" because of it's butte
 * [Beaches](#beaches-nisiros)
 
 #### <a name="gen-info-nisiros"></a>General Information
-Nisyros is an island in the southern Aegean and one of the Dodecanese islands. 
-It belongs to the group of ancient southern Sporades, and is located northwest of Rhodes, 
-between Kos, Tilos and Astypalea. Specifically, it is 8 miles north west of Tilos, and 10 miles south 
-of Kos, to which it administratively belongs, and 9 nautical miles east of Cape Natsa, Turkey. 
+Nisyros is an island in the southern Aegean and one of the Dodecanese islands.
+It belongs to the group of ancient southern Sporades, and is located northwest of Rhodes,
+between Kos, Tilos and Astypalea. Specifically, it is 8 miles north west of Tilos, and 10 miles south
+of Kos, to which it administratively belongs, and 9 nautical miles east of Cape Natsa, Turkey.
 Nisyros has an area of ​​about 41 square kilometers and a total coastline of about 24 kilometers.
 
 Its population in 1950 numbered 2,516 inhabitants. At the last census (2011), its population was
@@ -358,36 +375,36 @@ Its population in 1950 numbered 2,516 inhabitants. At the last census (2011), it
 Paloi, Nikia and Loutra.
 
 #### <a name="history-nisiros"></a>History
-During the Persian wars, Nisyros, along with Kalymnos and Kos, were subject to the Kingdom of 
-Bodrum under Artemisia. Then he followed the fate of the rest of the islands. It seems that 
-colonists from the island founded Nisyros in Caria of Asia Minor. It was captured by the 
+During the Persian wars, Nisyros, along with Kalymnos and Kos, were subject to the Kingdom of
+Bodrum under Artemisia. Then he followed the fate of the rest of the islands. It seems that
+colonists from the island founded Nisyros in Caria of Asia Minor. It was captured by the
 Italians in 1912, who ruled the island until its annexation to Greece in 1948.
 
 #### <a name="volcano-nisiros"></a>Volcano of Nisiros
 Nisyros, along with Methana, Milos and Santorini, is among the active volcanoes of our country.
- The oldest rocks of the island date back to 160,000 years while the newest (prehistoric) is 
+ The oldest rocks of the island date back to 160,000 years while the newest (prehistoric) is
  15,000 years old and cover the whole island.\
- 
- 
-Polybotis is the largest crater in the volcano, with a diameter of 260m and a depth of 30m. 
-There are five other craters in the area, the largest of which is "Stefanos", with a diameter 
-of 30 meters and a depth of 30 meters. Also, the volcano surrounds a valley (caldera), with a 
+
+
+Polybotis is the largest crater in the volcano, with a diameter of 260m and a depth of 30m.
+There are five other craters in the area, the largest of which is "Stefanos", with a diameter
+of 30 meters and a depth of 30 meters. Also, the volcano surrounds a valley (caldera), with a
 length of 2,400m and a width of 950m.
 
 
-Estimations show that two explosions occurred 25,000 years ago.The volcano erupted in 1422, 
-and four centuries later, in 1872, the eruption of the volcano caused earthquakes. Ash 
-and other materials covered the ground of Rammus. The territory of the Lakki and Rammos 
-areas had been transformed into a lake with warm, salt water, overflowing with the crater. 
+Estimations show that two explosions occurred 25,000 years ago.The volcano erupted in 1422,
+and four centuries later, in 1872, the eruption of the volcano caused earthquakes. Ash
+and other materials covered the ground of Rammus. The territory of the Lakki and Rammos
+areas had been transformed into a lake with warm, salt water, overflowing with the crater.
 The most recent strong explosion occurred in 1888. A cylindrical conduit of volcanic
  elements with a diameter of at least 25 meters was created.
- 
+
  ![](/images/nisiros-volcano-1.jpg)
-             
+
      Photo captured from heigh altitude.
-     
+
  ![](/images/nisiros-volcano-2.jpg)
-             
+
      Photo captured inside the crater.
 
 
@@ -395,26 +412,26 @@ The most recent strong explosion occurred in 1888. A cylindrical conduit of volc
 
 ##### Gialiskari
    ![](/images/nisiros-gialiskari-beach.jpg)
-            
+
     It is located on the north side of the island, 2 km east of Mandraki,
     on the way to Palous.
 
 ##### Lies
    ![](/images/nisiros-lies-beach.jpg)
-            
-    
-    The beach starts about 3 km after Palus and is located on the northeastern 
+
+
+    The beach starts about 3 km after Palus and is located on the northeastern
     side of the island, from the point where it ends
-          
+
 ##### Pahia Ammos
    ![](/images/nisiros-pahia-ammos-beach.jpg)
-            
-    
-    It is located on the eastern side, about 10 km from Mandraki. A very long 
+
+
+    It is located on the eastern side, about 10 km from Mandraki. A very long
     beach of about 350 meters.
-                 
-          
-       
+
+
+
 ## <a name="north_east_aegean_islands"></a>North East Aegean Islands
 
 ### <a name="ikaria"></a>Ikaria
