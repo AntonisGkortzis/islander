@@ -435,11 +435,11 @@ The most recent strong explosion occurred in 1888. A cylindrical conduit of volc
 * [Nightlife](#nightlife-Rhodes)
 
 #### <a name="gen-info-Rhodes"></a>General Information
-Rhodes is the largest of the Dodecanese islands of Greece and is also the island group's historical capital. Administratively the island forms a separate municipality within the Rhodes regional unit, which is part of the South Aegean administrative region. The principal town of the island and seat of the municipality is Rhodes. The city of Rhodes had 50,636 inhabitants in 2011. 
+Rhodes is the largest of the Dodecanese islands of Greece and is also the island group's historical capital. Administratively the island forms a separate municipality within the Rhodes regional unit, which is part of the South Aegean administrative region. The principal town of the island and seat of the municipality is Rhodes. The city of Rhodes had 50,636 inhabitants in 2011.
 It is located northeast of Crete, southeast of Athens and just off the Anatolian coast of Turkey. Rhodes' nickname is The island of the Knights, named after the Knights of Saint John of Jerusalem, who once conquered the land.
 
 #### <a name="history-Rhodes"></a>History
-In the 8th century BC, the island's settlements started to form, with the coming of the Dorians, who built the three important cities of Lindos, Ialyssos and Kameiros, which together with Kos, Cnidus and Halicarnassus (on the mainland) made up the so-called Dorian Hexapolis 
+In the 8th century BC, the island's settlements started to form, with the coming of the Dorians, who built the three important cities of Lindos, Ialyssos and Kameiros, which together with Kos, Cnidus and Halicarnassus (on the mainland) made up the so-called Dorian Hexapolis
 (Greek for six cities).
 
 In Pindar's ode, the island was said to be born of the union of Helios the sun god and the nymph Rhodos, and the cities were named for their three sons. The rhoda is a pink hibiscus, native to the island. Diodorus Siculus added that Actis, one of the sons of Helios and Rhode, travelled to Egypt. He built the city of Heliopolis and taught the Egyptians astrology.
@@ -535,3 +535,25 @@ The locals are mostly working in shipping. They have really strong relationships
 
 
   * <b>Koskina Castle</b>: It is located in the center of Ikaria. This castle is also named castle of Nikarias because once is was the most important fort of the island. Having a 10 minute walk you will see the main fort that the legend says it was occupied only once.
+
+
+## <a name="saronic"></a>Saronic Gulf
+
+### <a name="aegina"></a>Aegina
+* [Some History](#history_aegina)
+* [Why Aegina?](#why_aegina)
+* [Where to swim](#swim_aegina)
+* [Where to eat](#eat_aegina)
+
+#### <a name="history_aegina"></a>Some History
+Aegina dates back to 20th century BC, meaning that it has a large historical background to offer. At first, the island was a site of trade for people living in Attica and the Peloponnesus. Throughout the history, Aegina passed through a lot of wars and rivalries, especially with Athens. However, it was dominated by many different tribes, such as the Macedonians, the Achaeans etc. During the Byzantine period, Aegina belonged to the East Roman Empire in 395. The island flourished during the early 9th century, as evidenced by church construction activity, but suffered greatly from Arab raids originating from Crete. The first devastating hit for the island took place in 1654 during the Ottoman Empire. Almost 2 centuries later, during the Greek War of Independence, Aegina became an administrative centre for the Greek revolutionary authorities. That period, Ioannis Kapodistrias was briefly established on the island.
+
+#### <a name="why_aegina"></a>Why Aegina?
+Aegina belongs to the Saronic Gulf, a part of sea which is surrounded be Attica's urban area. All the islands of the Saronic gulf-Aegina, Salamis, Poros- are very close destinations for just a day-trip as the port of Piraeus, Athen's port, lies on the northeastern edge of the gulf. In combination with the beauty that Aegina offers, if you just came in Athens for a couple of days, don't hesitate to go to Piraeus, buy a ferry-boat ticket and travel to Aegina.
+
+#### <a name="swim_aegina"></a>Where to swim
+* [Marathonas Beach](https://www.tripadvisor.com.gr/Attraction_Review-g1189162-d8603416-Reviews-Marathonas_Beach-Aegina_Town_Aegina_Saronic_Gulf_Islands_Attica.html):
+Beachlife on Marathonas starts at Greek Easter when the beach restaurants open for the first time. At the beginning of June, the entire beach is fully operating with all sunbeds and umbrellas in place. The beach season finishes at the end of October. It ios a very busy beach and that's the reason why you need to arrive early in the morning. When the sky is clear, you can enjoy the view towards Moni island on your left with Methana behind it, and more in front you can see the island of Agistri with the Peloponnese in the background. In the autumn you can experience the most spectacular sunsets when the sun sets behind the island of Moni. ![](/images/Aegina - Marathonas.jpg)
+
+* [Akrogiali | Agia Marina Beach](https://www.tripadvisor.com/Restaurant_Review-g1069027-d3569753-Reviews-Akrogiali_Cafe_Ouzeri-Agia_Marina_Aegina_Saronic_Gulf_Islands_Attica.html):
+Akrogiali is open for breakfast, lunch and dinner. At night, Pavlos gives Akrogiali a very special romantic atmosphere by putting sometimes torches in the sea in frontand having lots of candles on the tables. The perfect place for your romantic dinner at the beach, especially with full moon! From your table you can see the moonrise, coming out of the sea! You can even take a swim in the moonlight. ![](/images/Aegina - Agia Marina.jpg)
