@@ -171,19 +171,18 @@ The volcanic nature of Santorini is what makes this place unique. All the beache
 * [Entertainment](#entertainment_antiparos)
 
 
-#### <a name="info"></a>Some History
+
 #### <a name="info_antiparos"></a>Some History
 ![](/images/antiparos.jpg)
 Antiparos is a small island of Cyclades, located just next to Paros island. Antiparos is a nice destination for one day excursion from Paros. Nudism and camping are particularly popular on these beaches. Chora, the capital and only village of Antiparos Greece, has traditional Cycladic architecture with narrow paved streets, whitewashed houses and lovely blue-domed churches. On the southern side, there is an impressive cave with stalactites and stalagmites.
 
-#### <a name="food"></a>Where to eat
 #### <a name="food_antiparos"></a>Where to eat
 * [Kalokeri](https://www.tripadvisor.com/Restaurant_Review-g3569526-d10445320-Reviews-Kalokeri-Antiparos_Town_Antiparos_Cyclades_South_Aegean.html)
 * [Pavlos Place](https://www.tripadvisor.com/Restaurant_Review-g189425-d3222333-Reviews-Pavlos_Place-Antiparos_Cyclades_South_Aegean.html)
 * [Argo Restaurant](https://www.tripadvisor.com/Restaurant_Review-g189425-d2307690-Reviews-Argo_Restaurant-Antiparos_Cyclades_South_Aegean.html)
 * [Vicky's Ice Cream](http://www.vickys.gr/): Best Ice cream in town --> Highly recommended
 
-#### <a name="beaches"></a>Beaches
+
 #### <a name="beaches_antiparos"></a>Beaches
 * [Faneromeni Beach](https://www.tripadvisor.com/Attraction_Review-g189425-d7019954-Reviews-Faneromeni_Beach-Antiparos_Cyclades_South_Aegean.html)
 * [Saint George Beach](https://www.tripadvisor.com/Attraction_Review-g189425-d4893887-Reviews-Saint_George_Beach-Antiparos_Cyclades_South_Aegean.html)
@@ -191,7 +190,7 @@ Antiparos is a small island of Cyclades, located just next to Paros island. Anti
 * [Soros Beach](https://www.tripadvisor.com/Attraction_Review-g189425-d8670305-Reviews-Soros_Beach-Antiparos_Cyclades_South_Aegean.html)
 * [Sifneikos Gialos](https://www.tripadvisor.com/Attraction_Review-g3569526-d14966918-Reviews-Sifneikos_Gialos-Antiparos_Town_Antiparos_Cyclades_South_Aegean.html)
 
-#### <a name="entertainment"></a>Entertainment
+
 #### <a name="entertainment_antiparos"></a>Entertainment
 * [Sunset Desao](https://www.google.com/search?q=antiparos%20sunset%20beach&oq=antiparos+sun&aqs=chrome.1.69i57j0l5.4852j0j4&sourceid=chrome&ie=UTF-8&npsic=0&rflfq=1&rlha=0&rllag=37042586,25075926,126&tbm=lcl&rldimm=14111529459053696804&ved=2ahUKEwijtJuN9s3gAhVF6qQKHV71DfQQvS4wAXoECAAQHg&rldoc=1&tbs=lrf:!2m1!1e2!2m1!1e16!3sIAE,lf:1,lf_ui:2#rlfi=hd:;si:14111529459053696804;mv:!1m2!1d37.0438204!2d25.0763062!2m2!1d37.041353!2d25.075545800000004;tbs:lrf:!2m1!1e2!2m1!1e16!3sIAE,lf:1,lf_ui:2): Best Sunset View
 
