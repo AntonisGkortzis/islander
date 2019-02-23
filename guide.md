@@ -25,6 +25,10 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Nisiros](#nisiros)
 * [North-East Aegean Islands](#north_east_aegean_islands)
   * [Ikaria](#ikaria)
+* [Saronic Gulf](#saronic)
+  * [Aegina](#aegina)
+
+
 
 
 ## <a name="ionian_islands"></a>Ionian Islands
@@ -476,3 +480,16 @@ The locals are mostly working in shipping. They have really strong relationships
 
 
   * <b>Koskina Castle</b>: It is located in the center of Ikaria. This castle is also named castle of Nikarias because once is was the most important fort of the island. Having a 10 minute walk you will see the main fort that the legend says it was occupied only once.
+
+
+
+## <a name="saronic"></a>Saronic Gulf
+
+### <a name="aegina"></a>Aegina
+* [Some History](#history_aegina)
+* [Why Aegina?](#why_aegina)
+* [Where to swim](#swim_aegina)
+* [Where to eat](#eat_aegina)
+
+#### <a name="history_aegina"></a>Some History
+Aegina dates back to 20th century BC, meaning that it has a large historical background to offer. At first, the island was a site of trade for people living in Attica and the Peloponnesus. Throughout the history, Aegina passed through a lot of wars and rivalries, especially with Athens. However, it was dominated by many different tribes, such as the Macedonians, the Achaeans etc. During the Byzantine period, Aegina belonged to the East Roman Empire in 395. The island flourished during the early 9th century, as evidenced by church construction activity, but suffered greatly from Arab raids originating from Crete. The first devastating hit for the island took place in 1654 during the Ottoman Empire. Almost 2 centuries later, during the Greek War of Independence, Aegina became an administrative centre for the Greek revolutionary authorities. That period, Ioannis Kapodistrias was briefly established on the island.
