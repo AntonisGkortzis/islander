@@ -247,6 +247,50 @@ The volcanic nature of Santorini is what makes this place unique. All the beache
 ![](/images/vlychada_beach.jpg)
 
 
+### <a name="ios"></a>Ios
+* [General Info](#general_info_ios)
+* [Beaches](#beaches_ios)
+* [Activities](#activities_ios)
+* [Sightseeing](#sightseeing_ios)
+
+#### <a name="general_info_ios"></a>General Info
+Located in Aegean between <a name="santorini"></a>Santorini , <a name="naxos"></a>Naxos you can find one of the most beautiful islands  of Greece. Small island which stands out with it's golden beaches and crystal clear waters.
+
+#### <a name="beaches_ios"></a>Beaches
+
+Most famous beach of Ios is Mylopotas, which is located in a very close distance from the town. More beautiful beaches are Magganari, Gyalos , Kolitsani, Koumpara, Kalamos and many more. There are also some smaller ones which is really hard to access.
+
+<b>Mylopotas Beach</b>
+
+![](/images/mylopotas_beach.jpg)
+
+
+<b>Magganari Beach</b>
+
+![](/images/magganari_beach.jpg)
+
+
+#### <a name="activities_ios"></a>Activities
+
+<i> In <b>Mylopotas</b> beach you can find this water sport activities </i>
+
+  ![Mylopotas Water Sports](https://www.tripadvisor.com.gr/Attraction_Review-g1189855-d1453894-Reviews-Mylopotas_Watersport-Milopotas_Ios_Cyclades_South_Aegean.html)
+
+* Windsurfing
+* Wake-boarding
+* Jet-ski
+* Scuba diving
+* Kitesurfing (Highly Recommended)
+
+
+#### <a name="sightseeing_ios"></a>Sightseeing
+
+* Little church of <b>Agias Eirinis</b> (17th century), it is built on the right side of the port
+*  <b> Tomb of Homer </b> in Plakoto
+*  <b> Ruins of byzantine fort </b> in Paliokastro
+*  Area of <b> Windmills </b> (12 in number)
+*  <b> Archeological Museum </b> of Ios
+
 ### <a name="mykonos"></a>Mykonos
 * [General Info](#general_info_mykonos)
 * [Entertainment](#adrenaline_mykonos)
@@ -254,7 +298,7 @@ The volcanic nature of Santorini is what makes this place unique. All the beache
 * [Nightlife](#nightlife_mykonos)
 
 #### <a name="general_info_mykonos"></a>General Info
-Mykonos is a Greek island, part of the Cyclades, lying between Tinos, Syros, Paros and Naxos.Mykonos's nickname is "The Island of the Winds". Tourism is a major industry and Mykonos is known for its vibrant nightlife and has many establishments catering for the LGBT community. It is considered the most famous cosmopolitan island in the world. According to mythology, Mykonos was formed from the petrified bodies of giants killed by Hercules. The island took its name from the grandson of Apollo, “Mykonos”.
+Mykonos is a Greek island, part of the Cyclades, lying between Tinos, Syros, Paros and Naxos. Mykonos's nickname is "The Island of the Winds". Tourism is a major industry and Mykonos is known for its vibrant nightlife and has many establishments catering for the LGBT community. It is considered the most famous cosmopolitan island in the world. According to mythology, Mykonos was formed from the petrified bodies of giants killed by Hercules. The island took its name from the grandson of Apollo, “Mykonos”.
 
 #### <a name="adrenaline_mykonos"></a>Need an adrenaline rush?
 The island is a paradise for water sport enthusiasts! It is only natural that the “Island of the Winds” should attract surfers and sailors from all over the world! There is a great choice of beaches for windsurfing; however, the most secluded ones are considered to be the best. Choose from <b>Kórfos, Fteliá, Meyáli Ámmos and Kalafátis</b>, where surfing lessons are also available. Play tennis or mini golf at <b>Ayios Stéfanos</b>, beach volleyball at <b>Ayia Anna</b> or try sea parachuting or jet skiing at <b>Eliá</b> or <b>Kalafátis</b>. Diving fans can do a little exciting exploration of the underwater magic of <b>Mykonos</b>. September is thought to be the best month for diving, as the water is warm and visibility is good down at the seabed.
