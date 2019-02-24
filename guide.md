@@ -359,10 +359,14 @@ Astypalaia, widely known also as "Butterfly of the Aegean" because of it's butte
 
 There are four basic settlements on the island. First of all, the capital of the island which is called Chora. This settlement is considered as one of the most beautiful of the islands of the aegean sea. The old port of the island which is settled in this area is called "Pera Gialos". On the top of the hill, stands the Castle of the island which provided safety to the citizens whenever pirates invaded the island and was built mainly from stone. The white houses on the hill of the island and the 8 traditional windmills made from stone are the distinctive signs of the island. Many years before, those windmills were used to serve the needs of the inhabitants. Secondly, Livadi is a settlement provided with both a fertile land and a golden sandy coast. This fertile land produces mandarins, lemons, oranges, vineyards and pomegranates. In Livadi you can find places to eat (fresh meat and fish etc.) and accommodate yourself. Thirdly, Maltezana is a settlement which probably took its name from Maltese pirates who used to stay in the area. Maltezana is a peaceful place to stay and has a little picturesque port with the small boats and the lied nets of the local fishermen. Those fishermen are the ones who provide fresh fish to the whole island. The last settlement is called Vathi which is mainly consisted of fields and does not have many inhabitants.
 
+![](/images/windmills-astypalaia.jpg)
+
 #### <a name="beaches_astypalaia"></a>Beaches of Astypalaia
 In Astypalaia you can find both sandy coasts and rocky bays which can be characterized as "hidden treasures". Pera Gialos is a beach located very close to the center of Chora and can be accessed very easily for a quick swim. Two beaches that are located far from the center of the island and are a bit difficult to reach are Kaminakia and Vatses but they are totally worth the visit. Plakes is not actually a beach but is consisted of many solid rocks and rocky surfaces making it a perfect place for the lovers of diving. Other worthy beaches of the island are Tzanakia, Agios Konstantinos, Tria Marmaria, Vathi, Analipsi and Mple Limanaki. All the beaches that were mentioned before, are not actually organized; the only organized beach of the island is Livadi. Daily boat tours are organized, with the destination of two small remote islands called Koutsomitis and Kounoupa. The colors of the sea there are truly magnificent to watch and enjoy.
 
 Friendly note: Kaminakia, Vatses, Pera Gialos and Mple Limanaki are the best ones.
+
+![](/images/astypalaia-waters.jpg)
 
 #### <a name="food_astypalaia"></a>Food of Astypalaia
 
