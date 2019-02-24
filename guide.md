@@ -32,6 +32,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Nisiros](#nisiros)
   * [Rhodes](#Rhodes)
   * [Tilos](#tilos)
+  * [Kastellorizo](#kastellorizo)
 * [North-East Aegean Islands](#north_east_aegean_islands)
   * [Ikaria](#ikaria)
 * [Saronic Gulf](#saronic)
@@ -912,6 +913,18 @@ Eristos is the most popular beach of the island. The crystal waters in combinati
 
 #### <a name="nightTilos"></a>Nightlife
 Tilos is a pretty quiet island with only a few offerings for nightlife. One small bus starts picking people up at 23:00 (11:00pm) with direction to Mikro Chorio (Small Village). I can guarantee you that nobody is expecting what they are about to see. It is an abandoned and half-broken village which has been bombed and deserted by its inhabitants on the second World War. However, this village is becoming alive every night. Lighted by generators in a way that makes every house to have trembling lights giving off a magical vibe. The stars are countless, and the atmosphere is something nobody has experienced before. People start by just drinking a few drinks and end up dancing and singing all together until the morning when the small bus will get them down at the Megalo Chorio.
+
+### <a name="kastellorizo"></a>Kastellorizo
+* [Discover Kastellorizo](#discoverKastellorizo)
+* [Where to swim](#swimKastellorizo)
+* [Where to eat](#eatKastellorizo)
+
+#### <a name="discoverKastellorizo"></a>Discover Kastellorizo
+The journey to Kastellorizo is a very lengthy one, but the scene that will welcome the daring travellers is absolutely worth it. Colourful houses all over the place, their reflections shining through the crystal-clear waters. The scenery is amazing and magical. The island was destroyed by both world wars and was rebuilt again and again. Most of its old inhabitants migrated to Australia and now only 492 people live the whole year there.
+
+The ruins of the Castle of the Knights are sitting above the small village at the hill of Kastell Roso from which the island was named. It is located next to Turkey and, therefore, many Turkish ships are visiting all the time.
+You will definitely not need a car as you can go everywhere by foot.
+It is worth mentioning that a very small airport exists in the island that makes the access to the island a bit easier but the flights are very few.
 
 ## <a name="north_east_aegean_islands"></a>North East Aegean Islands
 
