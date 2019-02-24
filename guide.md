@@ -24,6 +24,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Kythnos](#kythnos)
 * [Sporades](#sporades)
   * [Skopelos](#skopelos)
+  * [Alonnisos](#alonnisos)
 * [Dodecanese](#dodecanese)
   * [Symi](#symi)
   * [Leros](#leros)
@@ -564,7 +565,7 @@ Error 404- If you're looking for nightlife, look [Elsewhere](#menu). There is a 
 ### <a name="skopelos"></a>Skopelos
 * [Discover Skopelos](#discoverSkopelos)
 * [History of Skopelos](#historyOfSkopelos)
-* [Getting there](#gettingThere)
+* [Getting there](#gettingThereSkopelos)
 * [Where to swim](#swimSkopelos)
 * [Where to eat](#eatSkopelos)
 * [Things to do](#toDoInSkopelos)
@@ -575,7 +576,7 @@ If your holiday priorities are tranquillity, relaxation and natural beauty, then
 #### <a name="historyOfSkopelos"></a>History of Skopelos
 According to the legend, Skopelos was founded by Staphylos or Staphylus (Greek for grape), one of the sons of the god Dionysos and the princess Ariadne of Crete. Historically, in the Late Bronze Age the island, then known as Peparethos or Peparethus, was colonised by Cretans, who introduced viticulture to the island.
 
-#### <a name="gettingThere"></a>Getting there
+#### <a name="gettingThereSkopelos"></a>Getting there
 * By ferry or high speed boat from the port of Volos or Ayios Konstantinos
 * By ferry from the port of Thessaloniki (only during summertime)
 
@@ -627,6 +628,37 @@ The majority of places to eat and drink in Skopelos are found in Skopelos Town. 
   * [Wine Festival](https://www.greeka.com/sporades/skopelos/skopelos-festivals.htm): The Wine Festival is organized by the Cultural Society of Glossa in the middle of September. In this festival, visitors are offered free wine and the dancing lasts till the early hours.
 
   * [International Film Festival for Youth](https://www.greeka.com/sporades/skopelos/skopelos-festivals.htm): The Skopelos International Film Festival for Youth takes place in July and August in Skopelos Town. It includes cinema workshops and film screenings with the participation of artists from all the world.
+
+### <a name="alonnisos"></a>Alonnisos
+* [Discover Alonnisos](#discoverAlonnisos)
+* [History of Alonnisos](#historyOfAlonnisos)
+* [Getting there](#gettingThereAlonnisos)
+* [Where to swim](#swimAlonnisos)
+* [Where to eat](#eatAlonnisos)
+* [Things to do](#toDoInAlonnisos)
+
+#### <a name="discoverAlonnisos"></a>Discover Alonnisos
+On the western side of the Aegean, on the edge of the Sporades, you’ll find one of the less developed islands, Alonnisos. It will captivate you  with its unpretentious magic. Charming and pure, its lush, green landscape and pristine beaches with crystal-clear water make it the perfect destination for a relaxing holiday in Greece, filled with beautiful imagery. If you’re looking for a quiet vacation, ensconced in nature, you need  look no further. Unspoiled and authentic, it discreetly lets the wind share its secrets.
+
+#### <a name="historyOfAlonnisos"></a>History of Alonnisos
+"Ikos", as was named the island in antiquity, was first inhabited by Stafylos, the son of Dionysus and Ariadne. This myth explains the island’s strong bonds with viticulture from ancient times until today. Urns bearing the stamp "IKION" were exported all around the ancient world confirming the island’s great fame as excellent wine-producing region. According to the myth, Pileas, the father of Achilles, was buried on Alonnisos. This is the reason why the island’s second name is "Achilliodromia". Different versions of this name have survived throughout the years: "Hiliodromia", "Liadromia", "Diadromia".
+
+#### <a name="gettingThereAlonnisos"></a>Getting there
+* From Athens or any major Greek city you can travel by bus or car to Volos, which is daily connected to Alonnisos by ferry or hydrofoil.
+* The low cost airline Ryanair has established new routes to Volos from Brussels Charleroi, Frankfurt Hahn, Rome and Bergamo.
+* From Alonnisos you can also travel by ferry or hydrofoil to the islands of Skiathos and Skopelos.
+
+#### <a name="swimAlonnisos"></a>Where to swim
+Alonnisos is an amazing island famous for its clean water and the green landscape. Surrounded by pine trees, beaches in Alonnisos offer a picturesque environment to relax. Votsi, Chrissi Milia, Glyfa and Rousoum Gialos are the most famous Alonnisos beaches.
+
+* [Votsi](https://www.greeka.com/sporades/alonissos/alonissos-beaches/alonissos-votsi_beach.htm): The little shingle beach has place only for a few visitors. It is a real jewel, accessible by stone steps descending from the main road of the settlement of Votsi. Opposite this little marvel is a picturesque, charming tiny harbour with one lovely traditional fish tavern and little fishing boats mooring at the port.
+
+* [Chrissi Milia](https://www.greeka.com/sporades/alonissos/alonissos-beaches/alonissos-chrisi_milia.htm): The sand on Chrissi Milia is soft and golden and the waters are limpid of an amazing turquoise colour. It is one of the very few organized beaches on the island which offers sun beds, umbrellas and some water sports. A nice tavern is standing on a little hill on a side of the beach.
+
+* [Glyfa](https://www.greeka.com/sporades/alonissos/alonissos-beaches/alonissos-glyfa.htm): Glyfa beach is a nice sandy beach with some small pebbles that is worth a visit for its tranquil atmosphere. Fortunately, the place has not been spoiled by mass tourism, and is the ideal location for those who like seclusion and peace. Tourists enjoy watching the green fertile valleys, taking or hiring small boats to visit the islands nearby or sitting on the beach while watching the soft waves in the clean greenish blue waters.
+
+* [Rousoum Gialos](https://www.greeka.com/sporades/alonissos/alonissos-beaches/alonissos-roussoum_gialos.htm): This is an area with great tourist development and is considered an important pole of attraction for many tourists due to its unique beauty. The beach has clean waters and small white pebbles along the coastline. After swimming, you can have lunch in the coastal taverns and taste many of the local recipes.
+
 
 ## <a name="dodecanese"></a>Dodecanese
 
