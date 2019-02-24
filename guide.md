@@ -19,6 +19,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Antiparos](#antiparos)
   * [Naxos](#naxos)
   * [Syros](#syros)
+  * [Amorgos](#amorgos)
 * [Sporades](#sporades)
 * [Dodecanese](#dodecanese)
   * [Symi](#symi)
@@ -391,6 +392,61 @@ Top 3:
 
 #### <a name="general_info_syros"></a>General Information
 Syros is a Greek island and Ermoupoli is its capital, which is currently the capital of Cyclades. Syros flourished after the year of 1826 when refugees from Chios, Crete, Psara and Mikra Asia joined the island. Syros has been a naval, industrial and cultural center of the modern Greek nation. Syros consists of many settlements such as Ano Syros, Galissas, Kini, Foinikas, Ntelagratsia, Vari , Azolymnos and others. The island is widely known for its musical tradition as it has contributed to the Greek music history with the songs of Markos Vamvakaris and the musical myth that follows him. Syros, has been a "hot" destination for tourists throughout the years, but especially the last 3 years it has become the center of attention because of an athletic exhibition that is held in July (AegeanBall Festival).
+
+### <a name="Amorgos"></a>Amorgos
+* [Discover Amorgos](#discoverAmorgos)
+* [Where to swim](#swimAmorgos)
+* [Where to eat](#eatAmorgos)
+* [What  to see](#seeAmorgos)
+
+#### <a name="discoverAmorgos"></a>Discover Amorgos
+Hidden-away Amorgos, with its secret beaches and untouched timelessness, is one of the most intriguing of all the Greek Islands, turning up surprises wherever you look.
+![](/images/amorgos_1.jpg)
+
+#### <a name="swimAmorgos"></a>Where to swim
+* The beach of Agia Anna
+
+ ![](/images/amorgos_2.jpg)
+* Mourou Beach
+![](/images/amorgos_3.jpg)
+
+* Aegiali Beach
+
+ ![](/images/amorgos_4.jpg)
+#### <a name="eatAmorgos"></a>Where to eat
+  * Kamara
+
+    Kamara is a cafe restaurant located in a wonderful spot in Potamos, on the hill above Aegialis. It is housed in an old house of more than two centuries old. After the needed renovations, the house has turned into a lounge and roof terrace offering a wonderful view to the sunset. The place is decorated with plants and also historic accessories along with fabrics and furniture. The food in Kamara is traditional Greek.
+  * To Limani tis Kyra Katinas
+
+    To Limani tis Kyra Katinas (the port of Mrs Katina, in Greek) is a lovely cafe-restaurant, well known for its hospitality and the excellent quality of food. The restaurant is located in the main street of Aegialis offering a great view to people passing by, the flowered yards of the village and the sea.
+  * Mouragio
+
+   Mouragio is a fish tavern in Katapola. It serves many fish and seafood delicacies, along with great appetizers and drinks. It is situated in the main road of Katapola offering a great view to the port.   
+  * Captain Dimos
+
+  The captain, who is seriously into good food, whips up mouthwatering dishes to serve on his convivial harbourside patio. Crowding the tempting menu are dishes like octopus cooked in ouzo with lemongrass and ginger, and pork cooked with beer, apples and prunes. Creative pastas and pizza too.
+
+ 	* Kath Odon
+
+  The setting is idyllic: tables under trees in a lovely little plateia at the top end of the main street, nestled between whitewashed churches. The menu of this unpretentious bistro presents tasty Amorgon produce, including goat, sausage, cheese, and some excellent zucchini balls.
+
+#### <a name="seeAmorgos"></a>What to see
+
+* Monastery of Panagia Hozoviotissa (Grace of Panagia -Virgin Mary)
+  ![](/images/amorgos_5.jpg)
+*	Chora
+  ![](/images/amorgos_6.jpg)
+*	Monastery of Theologos
+  ![](/images/amorgos_7.jpg)
+* Tholaria Village
+
+  Tholaria Village Amorgos: The settlement of Tholaria is situated 18 km north east of the capital of Amorgos at an altitude of 182 meters above sea. Tholaria is built near Vigla, the acropolis of the ancient city of Aegiali. From the village of Tholaria one can have magnificent views of Kampos and Gialos.
+
+
+
+
+
 
 ## <a name="dodecanese"></a>Dodecanese
 
