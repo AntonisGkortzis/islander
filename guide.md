@@ -918,6 +918,7 @@ Tilos is a pretty quiet island with only a few offerings for nightlife. One smal
 * [Discover Kastellorizo](#discoverKastellorizo)
 * [Where to swim](#swimKastellorizo)
 * [Where to eat](#eatKastellorizo)
+* [Trips](#tripsKastellorizo)
 
 #### <a name="discoverKastellorizo"></a>Discover Kastellorizo
 The journey to Kastellorizo is a very lengthy one, but the scene that will welcome the daring travellers is absolutely worth it. Colourful houses all over the place, their reflections shining through the crystal-clear waters. The scenery is amazing and magical. The island was destroyed by both world wars and was rebuilt again and again. Most of its old inhabitants migrated to Australia and now only 492 people live the whole year there.
@@ -934,6 +935,11 @@ You can dive at the amazing sea at [Mandraki]( https://www.tripadvisor.com.gr/Sh
 * [Akrothalassi](https://www.petitfute.com/v43226-kastellorizo-megisti/c1165-restaurants/c1031-cuisines-du-monde/124981-akrothalassi.html): The local tavern has many traditional dishes that vary from day to day. Amazing view and really affordable choices.
 * [Lazarakis](https://www.tripadvisor.com.gr/Restaurant_Review-g189441-d1036581-Reviews-Lazarakis-Kastellorizo_Dodecanese_South_Aegean.html): Lazarakis restaurant is the place where all shipowners meet and eat. Fresh fish and lobsters are the specials and, as one might suspect, the prices are pretty high.
 * [Ta Platania](https://www.tripadvisor.com.gr/Restaurant_Review-g189441-d3642175-Reviews-Ta_Platania-Kastellorizo_Dodecanese_South_Aegean.html): This famous and traditional tavern is located at the village’s square and attracts a lot (well they are not that many but still) local people.
+
+#### <a name="tripsKastellorizo"></a>Trips
+* If you visit Kastellorizo you definitely cannot miss visiting Ro (or Rho). You will go to that tiny island with a boat and see the statue of Despoina Achladioti, also known as Madam of Ro (Rho) who for so many years every day she would raise the Greek flag to show that this small and tiny island still belonged to Greece
+
+* [Blue Cave](https://www.tripadvisor.com.gr/Attraction_Review-g189441-d629575-Reviews-Blue_Grotto-Kastellorizo_Dodecanese_South_Aegean.html): One of the most beautiful caves of Greece. You can reach the cave with a small boat; the opening is really small and sometimes you can’t even see it. The tourists get in a very small boat and then they lie down so they can go through the opening. But then they come across one of the most magical images and sceneries they have ever encountered. Stalactites in combination with the water and the sunlight create a turquoise and green scenery that will mesmerize you and you will definitely remember it for your whole life.
 
 ## <a name="north_east_aegean_islands"></a>North East Aegean Islands
 
