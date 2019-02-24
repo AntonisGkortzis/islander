@@ -22,6 +22,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Amorgos](#amorgos)
   * [Sifnos](#Sifnos)
   * [Kythnos](#kythnos)
+  * [Milos](#milos)
 * [Sporades](#sporades)
   * [Skopelos](#skopelos)
   * [Alonnisos](#alonnisos)
@@ -157,7 +158,7 @@ Corfu is the second largest of the ionian islands. It has been a part of greek m
 * [Cape Drastis & Canal D'Amour](https://www.tripadvisor.com/Attraction_Review-g1187633-d12619113-Reviews-Cape_Drastis-Peroulades_Corfu_Ionian_Islands.html): Corfu also has an abundance of natural clay especially in this beach. It is located in the northernmost part of the island and it consists of magnificent formations of the ground which in many cases is clay creating a beautiful landscape that does not lack in green either. The road is a bit difficult so you will need a jeep or you can just walk down and arrive in a small beach where you can either enjoy the sun and do a spa with natural clay mask you can just pick up from the ground or the rocks or take a boat to the famous [Canal D'Amour](https://www.tripadvisor.com/Attraction_Review-g676295-d2469814-Reviews-Canal_D_Amour-Sidari_Corfu_Ionian_Islands.html):heart: so you can enjoy the view on the way and possibly fall in love:heart_eyes: with the person you will swim with as the legend says.
 
 #### <a name="foods_corfu"></a>Foods you need to try :yum:
-Here is a handy list to keep track and make sure you try them all
+
 * [Bourdeto](https://en.wikipedia.org/wiki/Bourdeto) :stew:: _Without a doubt Corfu as an island bases a lot of its recipes on fish. Bourdeto is a fish soup with some special spices and red sauce_
 * [Kumquat](https://en.wikipedia.org/wiki/Kumquat) :tangerine:: _Corfu is one of two places in Europe where you can find Kumquat a kind of tangerine. In most cases you will find it as a liqueur almost everywhere especially in the touristic part of the town and in many different flavours_
 * [Tsitsibira](https://greencorfu.com/tsitsibira-the-ginger-beer-of-corfu/): _A very refreshing beverage with a unique taste made from fresh lemon juice, water, sugar and ginger_
@@ -261,7 +262,7 @@ The volcanic nature of Santorini is what makes this place unique. All the beache
 * [Beaches](#beaches_ios)
 * [Activities](#activities_ios)
 * [Sightseeing](#sightseeing_ios)
-* [What about the party?](#ios_party)
+* [What about the party?](#party_ios)
 
 #### <a name="general_info_ios"></a>General Info
 Located in Aegean between <a name="santorini"></a>Santorini , <a name="naxos"></a>Naxos you can find one of the most beautiful islands  of Greece. Small island which stands out with it's golden beaches and crystal clear waters.
@@ -299,7 +300,7 @@ Most famous beach of Ios is Mylopotas, which is located in a very close distance
 *  Area of <b> Windmills </b> (12 in number)
 *  <b> Archeological Museum </b> of Ios
 
-#### <a name="ios_party"></a>What about the party?
+#### <a name="party_ios"></a>What about the party?
 
 * [Far Out Beach Club](https://www.hostelworld.com/hosteldetails.php/Far-Out-Beach-Club/Ios/4118): One of the most crowded places in Ios, a club near the beach that offers also accommodation and a pool. The best place to party in summer you can be in your swimsuit dancing all day with great Djs on deck and get a temporary colorful "i :heart: Ios" tattoo from the body painters.
 
@@ -559,6 +560,14 @@ For those of you that want to relax on your vacation and do not want to share a 
 
 #### <a name="nightlife_kythnos"></a>Nightlife
 Error 404- If you're looking for nightlife, look [Elsewhere](#menu). There is a nightclub called *Akrotiri*  and a couple of bars, but that is pretty much it.
+
+### <a name="milos"></a>Milos
+* [Info](#info_milos)
+* [Lets go to the beach](#beahces_milos)
+* [Sights to see](#sights_milos)
+
+#### <a name="info_milos"></a>Info
+Milos is the southwesternmost island in the Cyclades group. Milos is known mostly for its wonderful beaches that become the go to holiday place for couples that want a romantic vacation so if you go alone be prepared to see a lot of love but do not let it affect you in a bad way:joy:.
 
 ## <a name="sporades"></a>Sporades
 
