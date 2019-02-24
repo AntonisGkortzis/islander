@@ -251,6 +251,14 @@ Trust me, you will eat the most tasty potatoes!
 * [Agia Anna](https://www.facebook.com/dimitris563/?utm_source=tripadvisor&utm_medium=referral)
 * [Kastraki](http://www.apolafsinaxos.gr/?utm_source=tripadvisor&utm_medium=referral)
 
+<b>Bonus Tip:</b>
+Near Hawaii beach, there is a small food truck called FBI SA, where you can find burgers, hot dogs, bao buns etc. made with traditional Naxian ingredients. It is AMAZING!
+
+![](/images/fbi.jpg)
+
+Front: The Mafia Burger with caramelized panseta with bbq sauce and arseniko cheese of Naxos
+Back: The Hula dog with chicken, caramelized pineapple, yogurt sauce and graviera of Naxos
+
 #### <a name="drink"></a>Where to drink
 If you like Cocktail bars next to the sea with loud music till dawn then Naxos is surely your perfect choice.
 Top 3:
@@ -349,12 +357,29 @@ And yes this tiny island has an amazing italian restaurant that you should defin
 
 ### <a name="astypalaia"></a>Astypalaia
 * [General Information](#general_info_astypalaia)
-* [A brief note by a traveller..](#brief_note)
 * [Beaches](#beaches_astypalaia)
 * [Food](#food_astypalaia)
+* [A brief note by a traveller..](#brief_note)
 
 #### <a name="general_info_astypalaia"></a>General Information about Astypalaia
 Astypalaia, widely known also as "Butterfly of the Aegean" because of it's butterfly like shape, is an island of the Dodecanese which is definitely worth visiting. If you have a glance at the map o Greece you will notice that Astypalaia island is exactly between the island chains of Dodecanese and Cyclades. This unique position makes Astypalaia an extraordinary cultural mixture of those two island chains and the culture that follows them. Astypalaia is an island that both Greek and foreign tourists prefer for peaceful and family moments during which you can relax both physically and mentally.
+
+There are four basic settlements on the island. First of all, the capital of the island which is called Chora. This settlement is considered as one of the most beautiful of the islands of the aegean sea. The old port of the island which is settled in this area is called "Pera Gialos". On the top of the hill, stands the Castle of the island which provided safety to the citizens whenever pirates invaded the island and was built mainly from stone. The white houses on the hill of the island and the 8 traditional windmills made from stone are the distinctive signs of the island. Many years before, those windmills were used to serve the needs of the inhabitants. Secondly, Livadi is a settlement provided with both a fertile land and a golden sandy coast. This fertile land produces mandarins, lemons, oranges, vineyards and pomegranates. In Livadi you can find places to eat (fresh meat and fish etc.) and accommodate yourself. Thirdly, Maltezana is a settlement which probably took its name from Maltese pirates who used to stay in the area. Maltezana is a peaceful place to stay and has a little picturesque port with the small boats and the lied nets of the local fishermen. Those fishermen are the ones who provide fresh fish to the whole island. The last settlement is called Vathi which is mainly consisted of fields and does not have many inhabitants.
+
+#### <a name="beaches_astypalaia"></a>Beaches of Astypalaia
+In Astypalaia you can find both sandy coasts and rocky bays which can be characterized as "hidden treasures". Pera Gialos is a beach located very close to the center of Chora and can be accessed very easily for a quick swim. Two beaches that are located far from the center of the island and are a bit difficult to reach are Kaminakia and Vatses but they are totally worth the visit. Plakes is not actually a beach but is consisted of many solid rocks and rocky surfaces making it a perfect place for the lovers of diving. Other worthy beaches of the island are Tzanakia, Agios Konstantinos, Tria Marmaria, Vathi, Analipsi and Mple Limanaki. All the beaches that were mentioned before, are not actually organized; the only organized beach of the island is Livadi. Daily boat tours are organized, with the destination of two small remote islands called Koutsomitis and Kounoupa. The colors of the sea there are truly magnificent to watch and enjoy.
+
+Friendly note: Kaminakia, Vatses, Pera Gialos and Mple Limanaki are the best ones.
+
+#### <a name="food_astypalaia"></a>Food of Astypalaia
+
+In the island of Astypalaia you can find plenty types of fish, honey, cheese and meat. The best delicacies that you can find are Pougkia (a type of cheese pie with Kopanisti (spicy cheese) and honey), Lampriano (goat filled with rice and its liver) and many other local and greek tastes.
+
+Friendly note: The best place to eat is a small "taverna" located on the beach of Steno which provides excellent tastes of local food, great service and lovely, kind personnel. It is the perfect place to eat, drink your coffee, and relax listening to the sound of the waves.
+
+#### <a name="brief_note"></a>A brief note by a traveller..
+
+Astypalaia is a great island for everyone who wants to enjoy the beauty and the tranquility of the nature. The island is known for having one of the best camping facilities among all the Greek islands. If you stay at the camping you can enjoy the musical nights that it provides but also attend the festivals that are held in August and are a landmark for all the inhabitants and the visitors of the island. The nature, the history and the unique architectural structure of the island make it a one of the most unique islands of the Aegean sea.  
 
 ### <a name="nisiros"></a>Nisiros
 * [General Information](#gen-info-nisiros)
@@ -437,11 +462,11 @@ The most recent strong explosion occurred in 1888. A cylindrical conduit of volc
 * [Nightlife](#nightlife-Rhodes)
 
 #### <a name="gen-info-Rhodes"></a>General Information
-Rhodes is the largest of the Dodecanese islands of Greece and is also the island group's historical capital. Administratively the island forms a separate municipality within the Rhodes regional unit, which is part of the South Aegean administrative region. The principal town of the island and seat of the municipality is Rhodes. The city of Rhodes had 50,636 inhabitants in 2011.
+Rhodes is the largest of the Dodecanese islands of Greece and is also the island group's historical capital. Administratively the island forms a separate municipality within the Rhodes regional unit, which is part of the South Aegean administrative region. The principal town of the island and seat of the municipality is Rhodes. The city of Rhodes had 50,636 inhabitants in 2011. 
 It is located northeast of Crete, southeast of Athens and just off the Anatolian coast of Turkey. Rhodes' nickname is The island of the Knights, named after the Knights of Saint John of Jerusalem, who once conquered the land.
 
 #### <a name="history-Rhodes"></a>History
-In the 8th century BC, the island's settlements started to form, with the coming of the Dorians, who built the three important cities of Lindos, Ialyssos and Kameiros, which together with Kos, Cnidus and Halicarnassus (on the mainland) made up the so-called Dorian Hexapolis
+In the 8th century BC, the island's settlements started to form, with the coming of the Dorians, who built the three important cities of Lindos, Ialyssos and Kameiros, which together with Kos, Cnidus and Halicarnassus (on the mainland) made up the so-called Dorian Hexapolis 
 (Greek for six cities).
 
 In Pindar's ode, the island was said to be born of the union of Helios the sun god and the nymph Rhodos, and the cities were named for their three sons. The rhoda is a pink hibiscus, native to the island. Diodorus Siculus added that Actis, one of the sons of Helios and Rhode, travelled to Egypt. He built the city of Heliopolis and taught the Egyptians astrology.
@@ -454,6 +479,8 @@ The Colossus of Rhodes was considered to be one of the Seven Wonders of the Anci
 Historical sites on the island of Rhodes include the Acropolis of Lindos, the Acropolis of Rhodes with the Temple of Pythian Apollo and an ancient theatre and stadium, ancient Ialysos, ancient Kamiros, the Governor's Palace, Rhodes Old Town (walled medieval city), the Palace of the Grand Masters, Kahal Shalom Synagogue in the Jewish Quarter, the Archeological Museum, the ruins of the castle of Monolithos, the castle of Kritinia, St. Catherine Hospice and Rhodes Footbridge.
 
 ![](/images/kolossos.jpg)
+
+Kolossos of Rhodes
 
 #### <a name="beaches-Rhodes"></a>Beaches
 
@@ -472,17 +499,17 @@ Lindos Beach
 #### <a name="nightlife-Rhodes"></a>Nightlife
 On an island of contrasts, Rhodes’ nightlife can take you from lively and raucous to chilled and romantic in the space of a single evening. For sheer number and variety, Rhodes’ nightclubs are the places to be seen, while plentiful tavernas and eateries leave you spoilt for choice too. Here’s our guide to Rhodes’ four main locations and their evening hotspots.
 
-<b>Faliraki</b>
+<b>Faliraki:</b>
 Rhodes nightlife doesn’t get better than this. Faliraki’s reputation as a 24-hour party town makes it the first stop for anyone looking to cut loose on this fascinating Greek island. With two strips of bars, clubs and restaurants to choose from, you can easily find a cosy restaurant corner, a sophisticated cocktail bar or a dance-till-dawn, strobe-lit club with resident DJ. Most people head to Bar Street for drinks before switching to Club Street for the best of Rhodes’ nightclubs around 1am.
 
 Ziggy’s on Bar Street is cocktail heaven and the place where the fishbowl was invented, so a great spot for a group photo. Once on Club Street, the Matrix garden lets clubbers clear their heads or cool off, while the Bed Club has all the big name DJs in the summer months. But leave time for the famous Q Club for great tunes and dancing till 5am.
 
-<b>Rhodes Town</b>
+<b>Rhodes Town:</b>
 Less crowded but endlessly lively and fascinating, nightlife in Rhodes Town is laid back and relaxed. Make a beeline for the popular Hippocrates Square in the medieval old town, where bars, tavernas and eateries surround a pretty fountain in the shadow of the palace.
 
 You’ll love the centrally-located Ammoyiali Restaurant on Voriou Ipirou for its deliciously modern take on traditional Greek fare, while cocktails at Flaws Bar always means the best service in chicer than chic surroundings. Or, for a classic Greek taverna playing live, traditional music, head to Blue Lagoon and dance like the locals do.
 
-<b>Pefkos and Lindos</b>
+<b>Pefkos and Lindos:</b>
 Off the beaten track but adored by locals, the resorts of Lindos and Pefkos on the eastern shores of the island are both stunning and secluded. But don’t be fooled. While both villages are quiet and idyllic during daylight hours, they liven up considerably in the evening.
 
 A surprise find in such a balmy location is Lindos Ice Bar on Krana Square. Partygoers seek out this refuge from the Grecian sunshine, donning big coats and huge smiles as they drink at an ice bar from glasses made from the same. The beats and light show are equally cool. Meanwhile, the Eclipse Bar in Pefkos attracts a young crowd with something for everyone, from pool and games to music and dancing, plus the only cliff-jumping waterfall in Greece.
@@ -537,25 +564,3 @@ The locals are mostly working in shipping. They have really strong relationships
 
 
   * <b>Koskina Castle</b>: It is located in the center of Ikaria. This castle is also named castle of Nikarias because once is was the most important fort of the island. Having a 10 minute walk you will see the main fort that the legend says it was occupied only once.
-
-
-## <a name="saronic"></a>Saronic Gulf
-
-### <a name="aegina"></a>Aegina
-* [Some History](#history_aegina)
-* [Why Aegina?](#why_aegina)
-* [Where to swim](#swim_aegina)
-* [Where to eat](#eat_aegina)
-
-#### <a name="history_aegina"></a>Some History
-Aegina dates back to 20th century BC, meaning that it has a large historical background to offer. At first, the island was a site of trade for people living in Attica and the Peloponnesus. Throughout the history, Aegina passed through a lot of wars and rivalries, especially with Athens. However, it was dominated by many different tribes, such as the Macedonians, the Achaeans etc. During the Byzantine period, Aegina belonged to the East Roman Empire in 395. The island flourished during the early 9th century, as evidenced by church construction activity, but suffered greatly from Arab raids originating from Crete. The first devastating hit for the island took place in 1654 during the Ottoman Empire. Almost 2 centuries later, during the Greek War of Independence, Aegina became an administrative centre for the Greek revolutionary authorities. That period, Ioannis Kapodistrias was briefly established on the island.
-
-#### <a name="why_aegina"></a>Why Aegina?
-Aegina belongs to the Saronic Gulf, a part of sea which is surrounded be Attica's urban area. All the islands of the Saronic gulf-Aegina, Salamis, Poros- are very close destinations for just a day-trip as the port of Piraeus, Athen's port, lies on the northeastern edge of the gulf. In combination with the beauty that Aegina offers, if you just came in Athens for a couple of days, don't hesitate to go to Piraeus, buy a ferry-boat ticket and travel to Aegina.
-
-#### <a name="swim_aegina"></a>Where to swim
-* [Marathonas Beach](https://www.tripadvisor.com.gr/Attraction_Review-g1189162-d8603416-Reviews-Marathonas_Beach-Aegina_Town_Aegina_Saronic_Gulf_Islands_Attica.html):
-Beachlife on Marathonas starts at Greek Easter when the beach restaurants open for the first time. At the beginning of June, the entire beach is fully operating with all sunbeds and umbrellas in place. The beach season finishes at the end of October. It ios a very busy beach and that's the reason why you need to arrive early in the morning. When the sky is clear, you can enjoy the view towards Moni island on your left with Methana behind it, and more in front you can see the island of Agistri with the Peloponnese in the background. In the autumn you can experience the most spectacular sunsets when the sun sets behind the island of Moni. ![](/images/Aegina - Marathonas.jpg)
-
-* [Akrogiali | Agia Marina Beach](https://www.tripadvisor.com/Restaurant_Review-g1069027-d3569753-Reviews-Akrogiali_Cafe_Ouzeri-Agia_Marina_Aegina_Saronic_Gulf_Islands_Attica.html):
-Akrogiali is open for breakfast, lunch and dinner. At night, Pavlos gives Akrogiali a very special romantic atmosphere by putting sometimes torches in the sea in frontand having lots of candles on the tables. The perfect place for your romantic dinner at the beach, especially with full moon! From your table you can see the moonrise, coming out of the sea! You can even take a swim in the moonlight. ![](/images/Aegina - Agia Marina.jpg)
