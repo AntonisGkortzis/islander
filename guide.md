@@ -580,6 +580,13 @@ Milos is the southwesternmost island in the Cyclades group. Milos is known mostl
 
 * [Kalogries](https://www.tripadvisor.com/Attraction_Review-g494953-d7038059-Reviews-Kalogries_Beach-Milos_Cyclades_South_Aegean.html): It is accessible by a good car although it is not recommended so again a boat:boat: is the way for this one. It is award-winning beach with clear waters and sand since it has won a blue flag.
 
+#### <a name="sites_milos"></a>Sights to see :eyes:
+* <b>Boat Around the Island</b>: There are many organised excursions going on daily with different types of boats and programs so you can choose the one that suits you the most or you can even rent your own and have a completely personalised itinerary.
+
+* [Bomb Shelter](https://www.tripadvisor.com/Attraction_Review-g635606-d6888602-Reviews-Adamas_World_War_Two_Bomb_Shelter-Adamas_Milos_Cyclades_South_Aegean.html):bomb: : As the name implies if you are wondering how a bomb shelter looked like Adamas world war two bomb shelter is the place to answer all your questions
+
+* [Explore the Papafragkas Caves](https://www.tripadvisor.com/Attraction_Review-g494953-d2171345-Reviews-Papafragas_Cave-Milos_Cyclades_South_Aegean.html): Along the main road to Pollonia (which also very nice to walk around) you will find the three Sea Caves of Papafragkas. These huge rocks were used as a base for Byzantine pirates. The pathways to the beach are troubling, but the reward is sweet. You can swim through mesmerizing waters that seem to change colours depending on the temperature and lighting.
+
 ## <a name="sporades"></a>Sporades
 
 ### <a name="skopelos"></a>Skopelos
