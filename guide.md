@@ -23,6 +23,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Sifnos](#Sifnos)
   * [Kythnos](#kythnos)
 * [Sporades](#sporades)
+  * [Skopelos](#skopelos)
 * [Dodecanese](#dodecanese)
   * [Symi](#symi)
   * [Leros](#leros)
@@ -546,6 +547,71 @@ For those of you that want to relax on your vacation and do not want to share a 
 
 #### <a name="nightlife_kythnos"></a>Nightlife
 Error 404- If you're looking for nightlife, look [Elsewhere](#menu). There is a nightclub called *Akrotiri*  and a couple of bars, but that is pretty much it.
+
+## <a name="sporades"></a>Sporades
+
+### <a name="skopelos"></a>Skopelos
+* [Discover Skopelos](#discoverSkopelos)
+* [History of Skopelos](#historyOfSkopelos)
+* [Getting there](#gettingThere)
+* [Where to swim](#swimSkopelos)
+* [Where to eat & drink](#eatSkopelos)
+* [Things to do](#toDoInSkopelos)
+
+#### <a name="discoverSkopelos"></a>Discover Skopelos
+If your holiday priorities are tranquillity, relaxation and natural beauty, then make your way to Skopelos in the Sporades. Layer upon layer of luscious shades of green make a stunning vista; a pine trees stretching out for the seashore, hidden coves with their fishing boats, winding paths through dense virgin forests. Banish any thoughts of timetables or deadlines and spend whole afternoons wandering around the picturesque main town, a cluster of cobblestone streets, tiny chapels and neoclassical buildings. Art comes to life everywhere here in Skopelos; in the hand-crafted vases and hand-painted plates, in the embroidery and miniature model boats. The star of the hit musical Mamma Mia, which gave the island its recent fame, will also be the star of your holiday.
+
+#### <a name="historyOfSkopelos"></a>History of Skopelos
+According to the legend, Skopelos was founded by Staphylos or Staphylus (Greek for grape), one of the sons of the god Dionysos and the princess Ariadne of Crete. Historically, in the Late Bronze Age the island, then known as Peparethos or Peparethus, was colonised by Cretans, who introduced viticulture to the island.
+
+#### <a name="gettingThere"></a>Getting there
+* By ferry or high speed boat from the port of Volos or Ayios Konstantinos
+* By ferry from the port of Thessaloniki (only during summertime)
+
+#### <a name="swimSkopelos"></a>Where to swim
+Beaches in Skopelos are known for their crystal waters and the marvelous green landscape that surrounds them. Skopelos has a rare quality because it is rich in vegetation, mainly pine trees, that grow densely until the water edge. Among the most popular Skopelos beaches are Stafylos, Hovolo, Panormos, and Elios. You will find below a list with the best beaches in Skopelos island.
+
+* Panormos
+Panormos is considered among the most beautiful beaches on Skopelos. It has sandy coast, sparkling water and gives a great view to the sunset.
+
+* Stafilos
+Stafilos, on the southern side of Skopelos, is among the most popular and picturesque beaches on the island. It is surrounded by high cliffs and the coast is organized.
+
+* Hovolo
+This is an amazing beach close to Elios. Surrounded by greenery, Hovolo has exotic water and a calm ambience.
+
+* Milia
+This is a fine beach with white pebbles and crystal water. Part of this beach is organized with sunbeds and umbrellas.
+
+* Elios
+Elios, or else Neo Klima, is a fine tourist resort surrounded by a dense pine forest. Small boats moor in the port of Elios.
+
+* Perivolou
+This is a remote beach on the northernmost part of the island. Due to its secluded spot, it doesn't get frequented at all.
+
+#### <a name="eatSkopelos"></a>Where to eat & drink
+The majority of places to eat and drink in Skopelos are found in Skopelos Town. This is the main nightlife spot on the island, with family restaurants with seafood and grilled dishes, cafeterias by the port promenade and lounge bars in the narrow streets of the Old Town. Except for one or two bars in Glossa, all the other bars on the island are found in Skopelos Town.
+
+* Agnanti Restaurant
+Agnanti is completely different from any other eating establishment on the island and one of the most famous restaurants in the whole Aegean. The cooking is lighter and finer than you will find in the hearty tavernas of Skopelos.
+
+#### <a name="toDoInSkopelos"></a>Things to do
+* Visit church of Agios Ioannis Kastri
+The small church of Agios Ioannis is located in the region of Kastri, about 7 km east of Glossa, northern Skopelos. This lovely church stands on top of a rock and provides an amazing view to the coasts of Skopelos and to Alonissos. Its name actually means Saint John on the Castle, assuming that probably there was a small castle there in the past to protect the island from pirates and enemy invasions. This small church gained a huge reputation after the Hollywood movie Mamma Mia was released, where many scenes from the wedding were actually filmed there. The impressive rock is linked to the rest of the island through a narrow path with 110 steps carved into the stone. A small beach is formed right beneath the rock and it gets pretty crowded in summer. The interior of the church has beautiful icons and old ecclesiastical items to see.
+
+* Painting courses
+Skopelos Art offers painting classes during the spring and summer months for people of all levels of experience, from absolute beginners to those who have previous experience looking to refresh or enhance their skills in a new environment.
+
+* Cultural events
+
+  * Loizia Festival
+  One of the major festivals in Skopelos is the Loizia Festival which is held in August in Glossa. The festival includes concerts with songs of Loizos, theatrical performances, traditional dances, storytelling nights and a great feast where food and wine is served for free.
+  
+  * Wine Festival
+  The Wine Festival is organized by the Cultural Society of Glossa in the middle of September. In this festival, visitors are offered free wine and the dancing lasts till the early hours.
+  
+  * International Film Festival for Youth
+  The Skopelos International Film Festival for Youth takes place in July and August in Skopelos Town. It includes cinema workshops and film screenings with the participation of artists from all the world.
 
 ## <a name="dodecanese"></a>Dodecanese
 
