@@ -697,7 +697,7 @@ Some of the best places to eat in Alonnisos are:
 
 * [Bistro Cafe Helios](https://www.tripadvisor.com.gr/Restaurant_Review-g1187882-d3327046-Reviews-Bistro_Cafe_Helios-Patitiri_Alonnisos_Sporades.html)
 
-[Tip](): Don't forget to buy some "fouskakia" (traditional donuts), "hamalia" (triangle shaped sweets with delicious staffing sprinkled with castor sugar) and mouth watering almond delicatessen, the so-called "amigdalota" to offer to your beloved ones back home!
+[Tip](#tip): Don't forget to buy some "fouskakia" (traditional donuts), "hamalia" (triangle shaped sweets with delicious staffing sprinkled with castor sugar) and mouth watering almond delicatessen, the so-called "amigdalota" to offer to your beloved ones back home!
 
 #### <a name="toDoInAlonnisos"></a>Things to do
 * Visit the [National Marine Park of Alonnisos](https://www.greeka.com/sporades/alonissos/alonissos-excursions/alonissos-marine-park.htm): It is the first marine park in Greece comprising of Alonnisos and six smaller islands as well as some uninhabited rocky outcrops. The area is rich in marine life and is the habitat of the endangered species, the Mediterranean Monk Seal (Monachus Monachus), one of the rarest animals in Europe with only around 800 surviving worldwide.
