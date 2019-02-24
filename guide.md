@@ -155,6 +155,13 @@ Here is a handy list to keep track and make sure you try them all
 * [Greek Salad](https://en.wikipedia.org/wiki/Greek_salad): _Greek Salad is a well known greek starter and a part of the mediterranean diet_
 * [Souvlaki](https://en.wikipedia.org/wiki/Souvlaki): _Probably the most popular and widely known greek food. If you know the slightest thing about Greece then you've heard of it already but have you ever tried one?_
 
+#### <a name="nightlife_corfu"></a>Nightlife
+* [54](https://www.tripadvisor.com/Attraction_Review-g662629-d10796223-Reviews-54_Dreamy_Nights-Corfu_Town_Corfu_Ionian_Islands.html): One of the biggest and for sure the most popular club in Corfu .It is also the home of a video clip to a greek song that became very popular and was played in almost every club. More detailed information can be found on their [website](http://54dreamynights.com/).
+
+* [Barocco Beach Bar](https://www.tripadvisor.com/Attraction_Review-g1073595-d6988087-Reviews-Barocco_Beach_Bar-Messonghi_Corfu_Ionian_Islands.html): If you want a quieter night out maybe to get to know some new friends you can visit this bar placed right in front of the sea and enjoy your cocktails:cocktail: in comfy sofas, sunbeds or hammocks
+
+* <b>Kavos</b>: If you are in a mood to party hard:dancer::wine_glass: with no control Kavos:tada: is the place for you. It is at the bottom of corfu where on the main streets are filled with bars and clubs right next to each other and usually the party goes from club to club as well as on the street.Each one has a different setting and a different theme party most of the times. They usually begin at noon and keep on going until early in the morning. It is especially popular among British people.
+
 ## <a name="cyclades"></a>Cyclades
 
 ### <a name="santorini"></a>Santorini
