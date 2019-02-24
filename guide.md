@@ -9,6 +9,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Cephalonia](#cephalonia)
   * [Leukada](#leukada)
   * [Paxoi](#paxoi)
+  * [Corfu (Kerkyra)](#corfu)
 * [Cyclades](#cyclades)
   * [Santorini](#santorini)
   * [Ios](#ios)
@@ -126,6 +127,40 @@ Akis Fish Bar & Restaurant located at the edge of the harbor of Lakka, is one of
 
 * [La Vista](https://www.tripadvisor.co.za/Restaurant_Review-g1402868-d12550993-Reviews-La_Vista-Gaios_Paxos_Ionian_Islands.html):
 You want a restaurant where you will find a very different concept from the conventional perception prevailing in the other restaurants? La Vista is your solution! The La Vista is a new restaurant, run by young people, who have more than a decade of work experince, making them knowledgable and good at what they do. At La Vist having ordered just someof their appetisers and salads you can have a great time and leave full and satisfied, without spending an arm and a leg in comparison with a lot of restos around in the island. The La Vista serves mainly seafood, while everyday there are different homemade "mum's" dishes (moussaka, lasagne, briam).
+
+### <a name="corfu"></a>Corfu (Kerkyra)
+* [History/Why Corfu?](#info_corfu)
+* [Beaches](#beaches_corfu)
+* [Foods you need to try](#foods_corfu)
+* [Nightlife](#nightlife_corfu)
+* [Attractions](#attractions_corfu)
+
+#### <a name="info_corfu"></a>History/Why Corfu?
+Corfu is the second largest of the ionian islands. It has been a part of greek mythology many times but now it is mostly known for its aged venetian architecture. The name Kerkyra is a modern version but it is only used in Greece. Now why visit Corfu? Well if you are not intrigued by an island that has amazing beaches, mountains to climb, lush vegetation to give you all the green you want to see, traditions and nice cuisine then at least visit it to see a landmark protected by [UNESCO](https://whc.unesco.org/en/list/978)
+
+#### <a name="beaches_corfu"></a>Beaches :shell:
+* [Porto Timoni](https://www.tripadvisor.com/Attraction_Review-g5485027-d8115796-Reviews-Porto_Timoni_Beach-Afionas_Corfu_Ionian_Islands.html):After going down a mountain for about half an hour (which of course you will have to climb back up at the end but i promise you it is totally worth it) you will find yourself in the middle of two sand beaches. Now you might be wondering:thought_balloon: what does this mean exactly? Well it means that in just a few steps you can go from one beach to another. The view from above where you can actually see that it is two different parts, because once you are down due to the dense vegetation you cannot really see it, is mesmerizing. Nevertheless the feeling of just being there is unique.
+
+* [Pazuzu](https://www.tripadvisor.com/Restaurant_Review-g2667806-d8421341-Reviews-Pazuzu-Glyfada_Corfu_Ionian_Islands.html): A really nice organised beach with both a beautiful scenery and a very well designed beach bar called Pazuzu offers all the amenities from the comfortable sunbeams and beanbags to the amazing parties organised on the weekends and often during the week with popular artists.
+
+* [Cape Drastis & Canal D'Amour](https://www.tripadvisor.com/Attraction_Review-g1187633-d12619113-Reviews-Cape_Drastis-Peroulades_Corfu_Ionian_Islands.html): Corfu also has an abundance of natural clay especially in this beach. It is located in the northernmost part of the island and it consists of magnificent formations of the ground which in many cases is clay creating a beautiful landscape that does not lack in green either. The road is a bit difficult so you will need a jeep or you can just walk down and arrive in a small beach where you can either enjoy the sun and do a spa with natural clay mask you can just pick up from the ground or the rocks or take a boat to the famous [Canal D'Amour](https://www.tripadvisor.com/Attraction_Review-g676295-d2469814-Reviews-Canal_D_Amour-Sidari_Corfu_Ionian_Islands.html):heart: so you can enjoy the view on the way and possibly fall in love:heart_eyes: with the person you will swim with as the legend says.
+
+#### <a name="foods_corfu"></a>Foods you need to try :yum:
+Here is a handy list to keep track and make sure you try them all
+* [Bourdeto](https://en.wikipedia.org/wiki/Bourdeto) :stew:: _Without a doubt Corfu as an island bases a lot of its recipes on fish. Bourdeto is a fish soup with some special spices and red sauce_
+* [Kumquat](https://en.wikipedia.org/wiki/Kumquat) :tangerine:: _Corfu is one of two places in Europe where you can find Kumquat a kind of tangerine. In most cases you will find it as a liqueur almost everywhere especially in the touristic part of the town and in many different flavours_
+* [Tsitsibira](https://greencorfu.com/tsitsibira-the-ginger-beer-of-corfu/): _A very refreshing beverage with a unique taste made from fresh lemon juice, water, sugar and ginger_
+* [Nouboulo](https://en.wikipedia.org/wiki/Noumboulo): _Also called the corfiot prosciutto, it is pork marinated in red wine, seasoned and smocked with aromatic plants_
+* [Pastitsada](https://en.wikipedia.org/wiki/Pastitsada): _A dish made with rooster, octopus, veel or beef and macaroni in a red spicy sauce_
+* [Greek Salad](https://en.wikipedia.org/wiki/Greek_salad): _Greek Salad is a well known greek starter and a part of the mediterranean diet_
+* [Souvlaki](https://en.wikipedia.org/wiki/Souvlaki): _Probably the most popular and widely known greek food. If you know the slightest thing about Greece then you've heard of it already but have you ever tried one?_
+
+#### <a name="nightlife_corfu"></a>Nightlife
+* [54](https://www.tripadvisor.com/Attraction_Review-g662629-d10796223-Reviews-54_Dreamy_Nights-Corfu_Town_Corfu_Ionian_Islands.html): One of the biggest and for sure the most popular club in Corfu .It is also the home of a video clip to a greek song that became very popular and was played in almost every club. More detailed information can be found on their [website](http://54dreamynights.com/).
+
+* [Barocco Beach Bar](https://www.tripadvisor.com/Attraction_Review-g1073595-d6988087-Reviews-Barocco_Beach_Bar-Messonghi_Corfu_Ionian_Islands.html): If you want a quieter night out maybe to get to know some new friends you can visit this bar placed right in front of the sea and enjoy your cocktails:cocktail: in comfy sofas, sunbeds or hammocks
+
+* <b>Kavos</b>: If you are in a mood to party hard:dancer::wine_glass: with no control Kavos:tada: is the place for you. It is at the bottom of corfu where on the main streets are filled with bars and clubs right next to each other and usually the party goes from club to club as well as on the street.Each one has a different setting and a different theme party most of the times. They usually begin at noon and keep on going until early in the morning. It is especially popular among British people.
 
 ## <a name="cyclades"></a>Cyclades
 
