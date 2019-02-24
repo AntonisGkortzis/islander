@@ -355,12 +355,29 @@ And yes this tiny island has an amazing italian restaurant that you should defin
 
 ### <a name="astypalaia"></a>Astypalaia
 * [General Information](#general_info_astypalaia)
-* [A brief note by a traveller..](#brief_note)
 * [Beaches](#beaches_astypalaia)
 * [Food](#food_astypalaia)
+* [A brief note by a traveller..](#brief_note)
 
 #### <a name="general_info_astypalaia"></a>General Information about Astypalaia
 Astypalaia, widely known also as "Butterfly of the Aegean" because of it's butterfly like shape, is an island of the Dodecanese which is definitely worth visiting. If you have a glance at the map o Greece you will notice that Astypalaia island is exactly between the island chains of Dodecanese and Cyclades. This unique position makes Astypalaia an extraordinary cultural mixture of those two island chains and the culture that follows them. Astypalaia is an island that both Greek and foreign tourists prefer for peaceful and family moments during which you can relax both physically and mentally.
+
+There are four basic settlements on the island. First of all, the capital of the island which is called Chora. This settlement is considered as one of the most beautiful of the islands of the aegean sea. The old port of the island which is settled in this area is called "Pera Gialos". On the top of the hill, stands the Castle of the island which provided safety to the citizens whenever pirates invaded the island and was built mainly from stone. The white houses on the hill of the island and the 8 traditional windmills made from stone are the distinctive signs of the island. Many years before, those windmills were used to serve the needs of the inhabitants. Secondly, Livadi is a settlement provided with both a fertile land and a golden sandy coast. This fertile land produces mandarins, lemons, oranges, vineyards and pomegranates. In Livadi you can find places to eat (fresh meat and fish etc.) and accommodate yourself. Thirdly, Maltezana is a settlement which probably took its name from Maltese pirates who used to stay in the area. Maltezana is a peaceful place to stay and has a little picturesque port with the small boats and the lied nets of the local fishermen. Those fishermen are the ones who provide fresh fish to the whole island. The last settlement is called Vathi which is mainly consisted of fields and does not have many inhabitants.
+
+#### <a name="beaches_astypalaia"></a>Beaches of Astypalaia
+In Astypalaia you can find both sandy coasts and rocky bays which can be characterized as "hidden treasures". Pera Gialos is a beach located very close to the center of Chora and can be accessed very easily for a quick swim. Two beaches that are located far from the center of the island and are a bit difficult to reach are Kaminakia and Vatses but they are totally worth the visit. Plakes is not actually a beach but is consisted of many solid rocks and rocky surfaces making it a perfect place for the lovers of diving. Other worthy beaches of the island are Tzanakia, Agios Konstantinos, Tria Marmaria, Vathi, Analipsi and Mple Limanaki. All the beaches that were mentioned before, are not actually organized; the only organized beach of the island is Livadi. Daily boat tours are organized, with the destination of two small remote islands called Koutsomitis and Kounoupa. The colors of the sea there are truly magnificent to watch and enjoy.
+
+Friendly note: Kaminakia, Vatses, Pera Gialos and Mple Limanaki are the best ones.
+
+#### <a name="food_astypalaia"></a>Food of Astypalaia
+
+In the island of Astypalaia you can find plenty types of fish, honey, cheese and meat. The best delicacies that you can find are Pougkia (a type of cheese pie with Kopanisti (spicy cheese) and honey), Lampriano (goat filled with rice and its liver) and many other local and greek tastes.
+
+Friendly note: The best place to eat is a small "taverna" located on the beach of Steno which provides excellent tastes of local food, great service and lovely, kind personnel. It is the perfect place to eat, drink your coffee, and relax listening to the sound of the waves.
+
+#### <a name="brief_note"></a>A brief note by a traveller..
+
+Astypalaia is a great island for everyone who wants to enjoy the beauty and the tranquility of the nature. The island is known for having one of the best camping facilities among all the Greek islands. If you stay at the camping you can enjoy the musical nights that it provides but also attend the festivals that are held in August and are a landmark for all the inhabitants and the visitors of the island. The nature, the history and the unique architectural structure of the island make it a one of the most unique islands of the Aegean sea.  
 
 ### <a name="nisiros"></a>Nisiros
 * [General Information](#gen-info-nisiros)
