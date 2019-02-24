@@ -930,6 +930,10 @@ It is worth mentioning that a very small airport exists in the island that makes
 Kastellorizo is an island without beaches. But how is that possible and what am I supposed to do you may ask. Don’t worry there are still choices for you.
 You can dive at the amazing sea at [Mandraki]( https://www.tripadvisor.com.gr/ShowUserReviews-g189441-d1013383-r527191631-Mediterreneo_Kastelorizo-Kastellorizo_Dodecanese_South_Aegean.html), [Plakes]( https://www.tripadvisor.com/LocationPhotoDirectLink-g189441-d11716888-i269725031-Daily_Cruises_Antonis-Kastellorizo_Dodecanese_South_Aegean.html) or at the port. There you can find many stairs and floating docks so that you can easily get in the sea and enjoy the, undoubtedly, cold waters. In addition, while you are swimming you will not be alone, but you will get some company. Sea turtles (Oh yes) will come near you as they have gotten used to the presence of people and they will come to you to play with them.
 
+#### <a name="eatKastellorizo"></a>Where to eat
+* [Akrothalassi](https://www.petitfute.com/v43226-kastellorizo-megisti/c1165-restaurants/c1031-cuisines-du-monde/124981-akrothalassi.html): The local tavern has many traditional dishes that vary from day to day. Amazing view and really affordable choices.
+* [Lazarakis](https://www.tripadvisor.com.gr/Restaurant_Review-g189441-d1036581-Reviews-Lazarakis-Kastellorizo_Dodecanese_South_Aegean.html): Lazarakis restaurant is the place where all shipowners meet and eat. Fresh fish and lobsters are the specials and, as one might suspect, the prices are pretty high.
+* [Ta Platania](https://www.tripadvisor.com.gr/Restaurant_Review-g189441-d3642175-Reviews-Ta_Platania-Kastellorizo_Dodecanese_South_Aegean.html): This famous and traditional tavern is located at the village’s square and attracts a lot (well they are not that many but still) local people.
 
 ## <a name="north_east_aegean_islands"></a>North East Aegean Islands
 
