@@ -579,4 +579,4 @@ Beachlife on Marathonas starts at Greek Easter when the beach restaurants open f
 
 * [Akrogiali | Agia Marina Beach](https://www.tripadvisor.com/Restaurant_Review-g1069027-d3569753-Reviews-Akrogiali_Cafe_Ouzeri-Agia_Marina_Aegina_Saronic_Gulf_Islands_Attica.html):
 Akrogiali is open for breakfast, lunch and dinner. At night, Pavlos gives Akrogiali a very special romantic atmosphere by putting sometimes torches in the sea in front and having lots of candles on the tables. The perfect place for your romantic dinner at the beach, especially with full moon! From your table you can see the moonrise, coming out of the sea! You can even take a swim in the moonlight.
-![](/images/Aegina-Agia Marina.jpg)
+![](/images/Aegina-Agia_Marina.jpg)
