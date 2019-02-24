@@ -315,17 +315,31 @@ Mykonos is the top destination for the active nightlife and crazy throughout Gre
 
 * [Paradise Club](http://www.paradiseclubmykonos.com/) (Paradise Beach, Mykonos)
 Situated on the beach of Paradise Beach, the Paradise Club is considered as the most famous nightclub in Mykonos and assaulted daily by a thick festive throng, gathering on this beach to have a cocktail and dance or listen to House music, techno and rock, from the afternoon until the wee hours of the morning.
+![](/images/paradise_mykonos.jpg)
+
+
 * [Tropicana Beach Bar](https://www.tropicanamykonos.com/) (Paradise beach, Mykonos)
 Open daily from 9.00 to 1.00.
 Located Paradise Beach, the Tropicana Beach Bar is one of the most known for partying in Mykonos, a veritable institution for its Wild beach parties which attract many young people coming from all over Europe with the sole purpose of having fun.
+![](/images/tropicana_mykonos.jpg)
+
+
+
 * [Cavo Paradiso](https://www.cavoparadiso.gr/) (Paradise Beach, Mykonos)
 Open daily from 23.30 to 7.30.
 Located on a hill that overlooks Paradise Bay and with a breathtaking view of the sea, the disco Cavo Paradiso is another highlight of the Mykonos nightlife. Here the party starts around 2.00 and continues until late morning. Cavo Paradiso, In addition to being considered one of the the most beautiful clubs of Mykonos, It is certainly the most expensive: the entrance ticket can cost 30 or 40 euros.
+![](/images/cavo_mykonos.jpg)
+
+
 * [Super Paradise](https://www.superparadise.com.gr/) (Super Paradise Beach, Mykonos)
 Super Paradise Beach and the club are a party continues, between sea, animation, dancers and dancers, dance performances and music blaring, that focuses on Greek and international hits. But above all, lots of people having fun from morning to night.
+![](/images/super_mykonos.jpg)
+
+
 * [Scandinavian Bar](http://www.skandinavianbar.com/) (Agios Ioannis Barkia, Mykonos)
 Open daily from 20.00 to 6.00.
 True icon of Mykonos nightlife Since 1978, lo Scandinavian Bar over the years remained one of the most beloved and popular night hangout spots on the island. A must for many young people and tourists who begin their evenings: the bar serves a variety of cocktails and great music, which ranges from dance, Rock and carefree songs.
+![](/images/scan_mykonos.jpg)
 
 
 
