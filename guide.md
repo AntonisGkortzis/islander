@@ -147,31 +147,13 @@ Corfu is the second largest of the ionian islands. It has been a part of greek m
 
 #### <a name="foods_corfu"></a>Foods you need to try :yum:
 Here is a handy list to keep track and make sure you try them all
-- [ ] [Bourdeto](https://en.wikipedia.org/wiki/Bourdeto) :stew:
-
- _Without a doubt Corfu as an island bases a lot of its recipes on fish. Bourdeto is a fish soup with some special spices and red sauce_
-
-- [ ] [Kumquat](https://en.wikipedia.org/wiki/Kumquat) :tangerine:
-
- _Corfu is one of two places in Europe where you can find Kumquat a kind of tangerine. In most cases you will find it as a liqueur almost everywhere especially in the touristic part of the town and in many different flavours_
-
-- [ ] [Tsitsibira](https://greencorfu.com/tsitsibira-the-ginger-beer-of-corfu/)
-
-  _A very refreshing beverage with a unique taste made from fresh lemon juice, water, sugar and ginger_
-- [ ] [Nouboulo](https://en.wikipedia.org/wiki/Noumboulo)
-
-  _Also called the corfiot prosciutto, it is pork marinated in red wine, seasoned and smocked with aromatic plants_
-
-- [ ] [Pastitsada](https://en.wikipedia.org/wiki/Pastitsada)
-
-  _A dish made with rooster, octopus, veel or beef and macaroni in a red spicy sauce_
-
-- [ ] [Greek Salad](https://en.wikipedia.org/wiki/Greek_salad)
-
-  _Greek Salad is a well known greek starter and a part of the mediterranean diet_
-- [ ] [Souvlaki](https://en.wikipedia.org/wiki/Souvlaki)
-
-  _Probably the most popular and widely known greek food. If you know the slightest thing about Greece then you've heard of it already but have you ever tried one?_
+* [Bourdeto](https://en.wikipedia.org/wiki/Bourdeto) :stew:: _Without a doubt Corfu as an island bases a lot of its recipes on fish. Bourdeto is a fish soup with some special spices and red sauce_
+* [Kumquat](https://en.wikipedia.org/wiki/Kumquat) :tangerine:: _Corfu is one of two places in Europe where you can find Kumquat a kind of tangerine. In most cases you will find it as a liqueur almost everywhere especially in the touristic part of the town and in many different flavours_
+* [Tsitsibira](https://greencorfu.com/tsitsibira-the-ginger-beer-of-corfu/): _A very refreshing beverage with a unique taste made from fresh lemon juice, water, sugar and ginger_
+* [Nouboulo](https://en.wikipedia.org/wiki/Noumboulo): _Also called the corfiot prosciutto, it is pork marinated in red wine, seasoned and smocked with aromatic plants_
+* [Pastitsada](https://en.wikipedia.org/wiki/Pastitsada): _A dish made with rooster, octopus, veel or beef and macaroni in a red spicy sauce_
+* [Greek Salad](https://en.wikipedia.org/wiki/Greek_salad): _Greek Salad is a well known greek starter and a part of the mediterranean diet_
+* [Souvlaki](https://en.wikipedia.org/wiki/Souvlaki): _Probably the most popular and widely known greek food. If you know the slightest thing about Greece then you've heard of it already but have you ever tried one?_
 
 ## <a name="cyclades"></a>Cyclades
 
