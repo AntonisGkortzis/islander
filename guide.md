@@ -145,6 +145,34 @@ Corfu is the second largest of the ionian islands. It has been a part of greek m
 
 * [Cape Drastis & Canal D'Amour](https://www.tripadvisor.com/Attraction_Review-g1187633-d12619113-Reviews-Cape_Drastis-Peroulades_Corfu_Ionian_Islands.html): Corfu also has an abundance of natural clay especially in this beach. It is located in the northernmost part of the island and it consists of magnificent formations of the ground which in many cases is clay creating a beautiful landscape that does not lack in green either. The road is a bit difficult so you will need a jeep or you can just walk down and arrive in a small beach where you can either enjoy the sun and do a spa with natural clay mask you can just pick up from the ground or the rocks or take a boat to the famous [Canal D'Amour](https://www.tripadvisor.com/Attraction_Review-g676295-d2469814-Reviews-Canal_D_Amour-Sidari_Corfu_Ionian_Islands.html):heart: so you can enjoy the view on the way and possibly fall in love:heart_eyes: with the person you will swim with as the legend says.
 
+#### <a name="foods_corfu"></a>Foods you need to try :yum:
+Here is a handy list to keep track and make sure you try them all
+- [ ] [Bourdeto](https://en.wikipedia.org/wiki/Bourdeto) :stew:
+
+ _Without a doubt Corfu as an island bases a lot of its recipes on fish. Bourdeto is a fish soup with some special spices and red sauce_
+
+- [ ] [Kumquat](https://en.wikipedia.org/wiki/Kumquat) :tangerine:
+
+ _Corfu is one of two places in Europe where you can find Kumquat a kind of tangerine. In most cases you will find it as a liqueur almost everywhere especially in the touristic part of the town and in many different flavours_
+
+- [ ] [Tsitsibira](https://greencorfu.com/tsitsibira-the-ginger-beer-of-corfu/)
+
+  _A very refreshing beverage with a unique taste made from fresh lemon juice, water, sugar and ginger_
+- [ ] [Nouboulo](https://en.wikipedia.org/wiki/Noumboulo)
+
+  _Also called the corfiot prosciutto, it is pork marinated in red wine, seasoned and smocked with aromatic plants_
+
+- [ ] [Pastitsada](https://en.wikipedia.org/wiki/Pastitsada)
+
+  _A dish made with rooster, octopus, veel or beef and macaroni in a red spicy sauce_
+
+- [ ] [Greek Salad](https://en.wikipedia.org/wiki/Greek_salad)
+
+  _Greek Salad is a well known greek starter and a part of the mediterranean diet_
+- [ ] [Souvlaki](https://en.wikipedia.org/wiki/Souvlaki)
+
+  _Probably the most popular and widely known greek food. If you know the slightest thing about Greece then you've heard of it already but have you ever tried one?_
+
 ## <a name="cyclades"></a>Cyclades
 
 ### <a name="santorini"></a>Santorini
