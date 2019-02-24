@@ -339,6 +339,8 @@ Super Paradise Beach and the club are a party continues, between sea, animation,
 * [Scandinavian Bar](http://www.skandinavianbar.com/) (Agios Ioannis Barkia, Mykonos)
 Open daily from 20.00 to 6.00.
 True icon of Mykonos nightlife Since 1978, lo Scandinavian Bar over the years remained one of the most beloved and popular night hangout spots on the island. A must for many young people and tourists who begin their evenings: the bar serves a variety of cocktails and great music, which ranges from dance, Rock and carefree songs.
+
+
 ![](/images/scan_mykonos.jpg)
 
 
