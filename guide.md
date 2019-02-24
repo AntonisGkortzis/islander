@@ -9,6 +9,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Cephalonia](#cephalonia)
   * [Leukada](#leukada)
   * [Paxoi](#paxoi)
+  * [Corfu (Kerkyra)](#corfu(kerkyra)
 * [Cyclades](#cyclades)
   * [Santorini](#santorini)
   * [Ios](#ios)
@@ -126,6 +127,17 @@ Akis Fish Bar & Restaurant located at the edge of the harbor of Lakka, is one of
 
 * [La Vista](https://www.tripadvisor.co.za/Restaurant_Review-g1402868-d12550993-Reviews-La_Vista-Gaios_Paxos_Ionian_Islands.html):
 You want a restaurant where you will find a very different concept from the conventional perception prevailing in the other restaurants? La Vista is your solution! The La Vista is a new restaurant, run by young people, who have more than a decade of work experince, making them knowledgable and good at what they do. At La Vist having ordered just someof their appetisers and salads you can have a great time and leave full and satisfied, without spending an arm and a leg in comparison with a lot of restos around in the island. The La Vista serves mainly seafood, while everyday there are different homemade "mum's" dishes (moussaka, lasagne, briam).
+
+### <a name="corfu(kerkyra)"></a>Corfu (Kerkyra)
+* [History/Why Corfu?](#info_corfu)
+* [Beaches](#beaches_corfu)
+* [Foods you need to try](#foods_corfu)
+* [Nightlife](#nightlife_corfu)
+* [Attractions](#attractions_corfu)
+
+
+#### <a name="info_corfu"></a>History/Why Corfu?
+Corfu is the second largest of the ionian islands. It has been a part of greek mythology many times but now it is mostly known for its aged venetian architecture. The name Kerkyra is a modern version but it is only used in Greece. Now why visit Corfu? Well if you are not intrigued by an island that has amazing beaches, mountains to climb, lush vegetation to give you all the green you want to see, traditions and nice cuisine then at least visit it to see a landmark protected by [UNESCO](https://whc.unesco.org/en/list/978)
 
 ## <a name="cyclades"></a>Cyclades
 
