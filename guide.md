@@ -686,7 +686,25 @@ Alonnisos is an amazing island famous for its clean water and the green landscap
 
 * [Rousoum Gialos](https://www.greeka.com/sporades/alonissos/alonissos-beaches/alonissos-roussoum_gialos.htm): This is an area with great tourist development and is considered an important pole of attraction for many tourists due to its unique beauty. The beach has clean waters and small white pebbles along the coastline. After swimming, you can have lunch in the coastal taverns and taste many of the local recipes.
 
+#### <a name="eatAlonnisos"></a>Where to eat
 
+[Tip](): Don't forget to buy some "fouskakia" (traditional donuts), "hamalia" (triangle shaped sweets with delicious staffing sprinkled with castor sugar) and mouth watering almond delicatessen, the so-called "amigdalota" to offer to your beloved ones back home!
+
+#### <a name="toDoInAlonnisos"></a>Things to do
+* Visit the [National Marine Park of Alonnisos](https://www.greeka.com/sporades/alonissos/alonissos-excursions/alonissos-marine-park.htm): It is the first marine park in Greece comprising of Alonnisos and six smaller islands as well as some uninhabited rocky outcrops. The area is rich in marine life and is the habitat of the endangered species, the Mediterranean Monk Seal (Monachus Monachus), one of the rarest animals in Europe with only around 800 surviving worldwide.
+
+* Visit the [The Blue Cave of Alonnisos](https://www.greeka.com/sporades/alonissos/alonissos-excursions/blue-cave.htm): The wild and rocky coastline of Alonissos island is gifted with many small and amazing caves with deep and blue waters that impress every visitor. Water around the Blue Cave is so clear that the wild rocks around are reflected on them. This is a nice and impressive place to see. Usually, the boats that arrive there get inside the blue cave and tourists can take some nice dives.
+
+* Go hiking: Whether on a leisurely walk or more strenuous hike, you'll encounter dense pine forests, bushes, lush vegetation, cedar trees and holly  bushes, not to mention wild herbs of all kinds. Make a point of hiking to  one of the most stunning spots on the island, the chapel of Agion Anargyron.
+
+* Cultural events
+
+  * Thrasing Festival: Don't miss the threshing festival of Alonissos, where the island’s women prepare trahana (a soup of cracked wheat and fermented milk) and other homemade food, whilst musicians lift the spirits with traditional songs of the island. It makes a pleasant surprise during your holiday in Alonnisos.
+
+  * Fish-mongers Night: End of July, Alonnisos holds the fishmongers night, a local celebration of the bounty of the sea. Locally caught fish are grilled on charcoal fires and plenty of wine. An unforgettable night of flavours and local hospitality.
+  
+  * Cheese Pie Night: In July, Alonnisos' local women demonstrate the art of hand made pastry and prepare cheese pies for everyone attending. Alonnisos has a long history of making mouth watering pies. Enjoy a piece with local wine while local dance groups enterntain.
+  
 ## <a name="dodecanese"></a>Dodecanese
 
 ### <a name="symi"></a>Symi
