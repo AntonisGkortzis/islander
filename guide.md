@@ -555,7 +555,7 @@ Error 404- If you're looking for nightlife, look [Elsewhere](#menu). There is a 
 * [History of Skopelos](#historyOfSkopelos)
 * [Getting there](#gettingThere)
 * [Where to swim](#swimSkopelos)
-* [Where to eat & drink](#eatSkopelos)
+* [Where to eat](#eatSkopelos)
 * [Things to do](#toDoInSkopelos)
 
 #### <a name="discoverSkopelos"></a>Discover Skopelos
@@ -571,35 +571,37 @@ According to the legend, Skopelos was founded by Staphylos or Staphylus (Greek f
 #### <a name="swimSkopelos"></a>Where to swim
 Beaches in Skopelos are known for their crystal waters and the marvelous green landscape that surrounds them. Skopelos has a rare quality because it is rich in vegetation, mainly pine trees, that grow densely until the water edge. Among the most popular Skopelos beaches are Stafylos, Hovolo, Panormos, and Elios. You will find below a list with the best beaches in Skopelos island.
 
-* Panormos: Panormos is considered among the most beautiful beaches on Skopelos. It has sandy coast, sparkling water and gives a great view to the sunset.
+* [Panormos](https://www.tripadvisor.com.gr/Attraction_Review-g189501-d2283169-Reviews-Panormos_Beach-Skopelos_Sporades.html): Panormos is considered among the most beautiful beaches on Skopelos. It has sandy coast, sparkling water and gives a great view to the sunset.
 
-* Stafilos: Stafilos, on the southern side of Skopelos, is among the most popular and picturesque beaches on the island. It is surrounded by high cliffs and the coast is organized.
+* [Stafilos](https://www.tripadvisor.com.gr/Attraction_Review-g2201005-d2282961-Reviews-Stafilos_Beach-Stafylos_Skopelos_Sporades.html): Stafilos, on the southern side of Skopelos, is among the most popular and picturesque beaches on the island. It is surrounded by high cliffs and the coast is organized.
 
-* Hovolo: This is an amazing beach close to Elios. Surrounded by greenery, Hovolo has exotic water and a calm ambience.
+* [Hovolo](https://www.tripadvisor.com.gr/Attraction_Review-g2698254-d7187630-Reviews-Hovolo_Beach-Neo_Klima_Skopelos_Sporades.html): This is an amazing beach close to Elios. Surrounded by greenery, Hovolo has exotic water and a calm ambience.
 
-* Milia: This is a fine beach with white pebbles and crystal water. Part of this beach is organized with sunbeds and umbrellas.
+* [Milia](https://www.tripadvisor.com.gr/Attraction_Review-g189501-d2283275-Reviews-Milia_Beach-Skopelos_Sporades.html): This is a fine beach with white pebbles and crystal water. Part of this beach is organized with sunbeds and umbrellas.
 
-* Elios: Elios, or else Neo Klima, is a fine tourist resort surrounded by a dense pine forest. Small boats moor in the port of Elios.
+* [Elios](https://www.feelgreece.com/el/elios-beach-skopelos): Elios, or else Neo Klima, is a fine tourist resort surrounded by a dense pine forest. Small boats moor in the port of Elios.
 
-* Perivolou: This is a remote beach on the northernmost part of the island. Due to its secluded spot, it doesn't get frequented at all.
+* [Perivolou](https://www.feelgreece.com/el/elios-beach-skopelos): This is a remote beach on the northernmost part of the island. Due to its secluded spot, it doesn't get frequented at all.
 
-#### <a name="eatSkopelos"></a>Where to eat & drink
+#### <a name="eatSkopelos"></a>Where to eat
 The majority of places to eat and drink in Skopelos are found in Skopelos Town. This is the main nightlife spot on the island, with family restaurants with seafood and grilled dishes, cafeterias by the port promenade and lounge bars in the narrow streets of the Old Town. Except for one or two bars in Glossa, all the other bars on the island are found in Skopelos Town.
 
-* Agnanti Restaurant: Agnanti is completely different from any other eating establishment on the island and one of the most famous restaurants in the whole Aegean. The cooking is lighter and finer than you will find in the hearty tavernas of Skopelos.
+* [Agnanti Restaurant](https://www.tripadvisor.com.gr/Restaurant_Review-g2032935-d1580333-Reviews-Agnanti_Restaurant-Glossa_Skopelos_Sporades.html): Agnanti is completely different from any other eating establishment on the island and one of the most famous restaurants in the whole Aegean. The cooking is lighter and finer than you will find in the hearty tavernas of Skopelos.
+* [Stafilos Restaurant](https://www.tripadvisor.com.gr/Restaurant_Review-g189501-d3319288-Reviews-Stafilos_Restaurant-Skopelos_Sporades.html): Stafilos offers an amazing view to Stafilos beach and is perfect for romantic dinners next to the sea.
+* [Kymata](https://www.tripadvisor.com.gr/Restaurant_Review-g1187810-d4559856-Reviews-O_Aggelos_sta_Kymata-Skopelos_Town_Skopelos_Sporades.html): Kymata is probably the oldest taverna in town and a shrine of magireftá dishes like lamb and vegetables in a phyllo crust and beets with their greens.
 
 #### <a name="toDoInSkopelos"></a>Things to do
-* Visit church of Agios Ioannis Kastri: The small church of Agios Ioannis is located in the region of Kastri, about 7 km east of Glossa, northern Skopelos. This lovely church stands on top of a rock and provides an amazing view to the coasts of Skopelos and to Alonissos. Its name actually means Saint John on the Castle, assuming that probably there was a small castle there in the past to protect the island from pirates and enemy invasions. This small church gained a huge reputation after the Hollywood movie Mamma Mia was released, where many scenes from the wedding were actually filmed there. The impressive rock is linked to the rest of the island through a narrow path with 110 steps carved into the stone. A small beach is formed right beneath the rock and it gets pretty crowded in summer. The interior of the church has beautiful icons and old ecclesiastical items to see.
+* Visit [church of Agios Ioannis Kastri](https://www.skopelostravel.net/agios-ioannis/): The small church of Agios Ioannis is located in the region of Kastri, about 7 km east of Glossa, northern Skopelos. This lovely church stands on top of a rock and provides an amazing view to the coasts of Skopelos and to Alonissos. Its name actually means Saint John on the Castle, assuming that probably there was a small castle there in the past to protect the island from pirates and enemy invasions. This small church gained a huge reputation after the Hollywood movie Mamma Mia was released, where many scenes from the wedding were actually filmed there. The impressive rock is linked to the rest of the island through a narrow path with 110 steps carved into the stone. A small beach is formed right beneath the rock and it gets pretty crowded in summer. The interior of the church has beautiful icons and old ecclesiastical items to see.
 
-* Painting courses: Skopelos Art offers painting classes during the spring and summer months for people of all levels of experience, from absolute beginners to those who have previous experience looking to refresh or enhance their skills in a new environment.
+* [Painting courses](https://www.greeka.com/sporades/skopelos/other/painting_courses/skopelos-art.htm): Skopelos Art offers painting classes during the spring and summer months for people of all levels of experience, from absolute beginners to those who have previous experience looking to refresh or enhance their skills in a new environment.
 
 * Cultural events
 
-  * Loizia Festival: One of the major festivals in Skopelos is the Loizia Festival which is held in August in Glossa. The festival includes concerts with songs of Loizos, theatrical performances, traditional dances, storytelling nights and a great feast where food and wine is served for free.
+  * [Loizia Festival](https://www.greeka.com/sporades/skopelos/skopelos-festivals/loizia-festival.htm): One of the major festivals in Skopelos is the Loizia Festival which is held in August in Glossa. The festival includes concerts with songs of Loizos, theatrical performances, traditional dances, storytelling nights and a great feast where food and wine is served for free.
   
-  * Wine Festival: The Wine Festival is organized by the Cultural Society of Glossa in the middle of September. In this festival, visitors are offered free wine and the dancing lasts till the early hours.
+  * [Wine Festival](https://www.greeka.com/sporades/skopelos/skopelos-festivals.htm): The Wine Festival is organized by the Cultural Society of Glossa in the middle of September. In this festival, visitors are offered free wine and the dancing lasts till the early hours.
   
-  * International Film Festival for Youth: The Skopelos International Film Festival for Youth takes place in July and August in Skopelos Town. It includes cinema workshops and film screenings with the participation of artists from all the world.
+  * [International Film Festival for Youth](https://www.greeka.com/sporades/skopelos/skopelos-festivals.htm): The Skopelos International Film Festival for Youth takes place in July and August in Skopelos Town. It includes cinema workshops and film screenings with the participation of artists from all the world.
 
 ## <a name="dodecanese"></a>Dodecanese
 
