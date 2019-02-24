@@ -171,8 +171,12 @@ Here is a handy list to keep track and make sure you try them all
 * [Corfu Old Town](https://www.tripadvisor.com/Attraction_Review-g662629-d8498696-Reviews-Corfu_Old_Town-Corfu_Town_Corfu_Ionian_Islands.html): At some point of your trip you will have to visit the old town. There you can find the <b>old and</b> the <b>new fortress</b>, the <b>church :church: of [Saint Spyridon](https://en.wikipedia.org/wiki/Saint_Spyridon)</b> who is believed to have saved the island at the second great siege. He is loved and celebrated by all locals and you will notice that the name Spyridon is very popular among them. In the old venetian fortress you can find <b>Saint George church</b> :church:. Coming out of the fortress and to your right you can find the <b>[Spianada Square](https://www.tripadvisor.com/Attraction_Review-g662629-d196346-Reviews-Spianada_Square-Corfu_Town_Corfu_Ionian_Islands.html)</b>. Now walking towards the town before you enter you will see a big road only for pedestrians. This is the famous <b>[Liston](https://www.corfuhistory.eu/?p=2508)</b> a place where you can get a nice cup of coffee:coffee: relax and enjoy the fantastic view of the green park and fortress on one side and the first line of buildings on the other side.
 
 <b>Liston</b>
+
 ![](/images/corfu_Liston.jpg)
+
+
 <b>Kantounia</b>
+
 ![](/images/corfu_kantounia.jpg)
 
 * [Vlacherna Monastery & Mouse Island](https://www.tripadvisor.com/Attraction_Review-g189458-d6979708-Reviews-Vlacherna_Monastery-Corfu_Ionian_Islands.html): The most iconic site of Corfu. This monastery has its own island in which you can get to through a road over the water. Interesting enough if you stand on the road for a bit during flights rush hour you can get some amazing shots:camera: where you can pretend that you are touching the :airplane: since the airport is right next to the water so at this point the planes are flying low. From there you can also get a small boat and visit mouse island (Pontikonissi), which is said to be the ship that brought the king of Ithaca and the hero of Odyssey to the island of the Phaeacians that washed out on the shore and god later on turned it into this beautiful small green rock.
