@@ -272,9 +272,9 @@ Most famous beach of Ios is Mylopotas, which is located in a very close distance
 
 #### <a name="activities_ios"></a>Activities
 
-<i> In <b>Mylopotas</b> beach you can find this water sport activities </i>
+<i> In <b>Mylopotas</b> beach you can find these water sport activities </i>
 
-  ![Mylopotas Water Sports](https://www.tripadvisor.com.gr/Attraction_Review-g1189855-d1453894-Reviews-Mylopotas_Watersport-Milopotas_Ios_Cyclades_South_Aegean.html)
+  [Mylopotas Water Sports](https://www.tripadvisor.com.gr/Attraction_Review-g1189855-d1453894-Reviews-Mylopotas_Watersport-Milopotas_Ios_Cyclades_South_Aegean.html)
 
 * Windsurfing
 * Wake-boarding
