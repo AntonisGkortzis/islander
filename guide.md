@@ -32,6 +32,8 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Ikaria](#ikaria)
 * [Saronic Gulf](#saronic)
   * [Aegina](#aegina)
+* [Evia](#evia_island)
+* [Crete](#crete_island)
 
 
 ## <a name="ionian_islands"></a>Ionian Islands
@@ -313,17 +315,31 @@ Mykonos is the top destination for the active nightlife and crazy throughout Gre
 
 * [Paradise Club](http://www.paradiseclubmykonos.com/) (Paradise Beach, Mykonos)
 Situated on the beach of Paradise Beach, the Paradise Club is considered as the most famous nightclub in Mykonos and assaulted daily by a thick festive throng, gathering on this beach to have a cocktail and dance or listen to House music, techno and rock, from the afternoon until the wee hours of the morning.
+![](/images/paradise_mykonos.jpg)
+
+
 * [Tropicana Beach Bar](https://www.tropicanamykonos.com/) (Paradise beach, Mykonos)
 Open daily from 9.00 to 1.00.
 Located Paradise Beach, the Tropicana Beach Bar is one of the most known for partying in Mykonos, a veritable institution for its Wild beach parties which attract many young people coming from all over Europe with the sole purpose of having fun.
+![](/images/tropicana_mykonos.jpg)
+
+
+
 * [Cavo Paradiso](https://www.cavoparadiso.gr/) (Paradise Beach, Mykonos)
 Open daily from 23.30 to 7.30.
 Located on a hill that overlooks Paradise Bay and with a breathtaking view of the sea, the disco Cavo Paradiso is another highlight of the Mykonos nightlife. Here the party starts around 2.00 and continues until late morning. Cavo Paradiso, In addition to being considered one of the the most beautiful clubs of Mykonos, It is certainly the most expensive: the entrance ticket can cost 30 or 40 euros.
+![](/images/cavo_mykonos.jpg)
+
+
 * [Super Paradise](https://www.superparadise.com.gr/) (Super Paradise Beach, Mykonos)
 Super Paradise Beach and the club are a party continues, between sea, animation, dancers and dancers, dance performances and music blaring, that focuses on Greek and international hits. But above all, lots of people having fun from morning to night.
+![](/images/super_mykonos.jpg)
+
+
 * [Scandinavian Bar](http://www.skandinavianbar.com/) (Agios Ioannis Barkia, Mykonos)
 Open daily from 20.00 to 6.00.
 True icon of Mykonos nightlife Since 1978, lo Scandinavian Bar over the years remained one of the most beloved and popular night hangout spots on the island. A must for many young people and tourists who begin their evenings: the bar serves a variety of cocktails and great music, which ranges from dance, Rock and carefree songs.
+![](/images/scan_mykonos.jpg)
 
 
 
@@ -378,6 +394,16 @@ Trust me, you will eat the most tasty potatoes!
 * [Matsouna](hhttp://www.ostria.com/naxos_restaurant/?utm_source=tripadvisor&utm_medium=referral)
 * [Agia Anna](https://www.facebook.com/dimitris563/?utm_source=tripadvisor&utm_medium=referral)
 * [Kastraki](http://www.apolafsinaxos.gr/?utm_source=tripadvisor&utm_medium=referral)
+
+<b>Bonus Tip:</b>
+Near Hawaii beach, there is a small food truck called FBI SA, where you can find burgers, hot dogs, bao buns etc. made with traditional Naxian ingredients. It is AMAZING!
+
+![](/images/fbi.jpg)
+
+<p>
+Front: The Mafia Burger with caramelized panseta with bbq sauce and arseniko cheese of Naxos <br/>
+Back: The Hula dog with chicken, caramelized pineapple, yogurt sauce and graviera of Naxos
+</p>
 
 #### <a name="drink"></a>Where to drink
 If you like Cocktail bars next to the sea with loud music till dawn then Naxos is surely your perfect choice.
@@ -816,3 +842,15 @@ Beachlife on Marathonas starts at Greek Easter when the beach restaurants open f
 * [Akrogiali | Agia Marina Beach](https://www.tripadvisor.com/Restaurant_Review-g1069027-d3569753-Reviews-Akrogiali_Cafe_Ouzeri-Agia_Marina_Aegina_Saronic_Gulf_Islands_Attica.html):
 Akrogiali is open for breakfast, lunch and dinner. At night, Pavlos gives Akrogiali a very special romantic atmosphere by putting sometimes torches in the sea in front and having lots of candles on the tables. The perfect place for your romantic dinner at the beach, especially with full moon! From your table you can see the moonrise, coming out of the sea! You can even take a swim in the moonlight.
 ![](/images/Aegina-Agia_Marina.jpg)
+
+## <a name="evia_island"></a>Evia
+The island of Evia is one of the closest to Athens and yet it is one of the most unknown. That is because Evia is so large that there is much to know about it. Second in size to Crete, it stretches from the tip of the Pelion Peninsula all the way south to the coast of Attika. It's southern tip is just a short distance from the Cycladic islands of Andros and Kea though unfortunately there is no ferry connection. If there were, more tourists would come here. As it is, because it is so close to the mainland that you can drive to it, Evia has been and remains a popular summer holiday destination for Greeks and Greek-Americans, Canadians, Australians and others whose families originally came from the island.The topography of the island is as varied as anywhere in Greece, with sparkling Aegean beaches and coves on its east coast, a mountainous interior with rivers, streams and forests, a west coast that is a mix of beaches, the city of Halkida, large towns, industry, agriculture, beaches and wetlands. And in the northwest the town of Edipsos is the most popular spa in Greece, with hot water gushing from rocks and crevices into the sea and pools of the many hotels and healing centers.There are several ways to reach Evia from Athens. Which way you choose depends on where in Evia you want to go, because as I said; Evia is a very large island and a very long one. How large and long? From one tip to the other could take you four or five hours by car.  You could drive almost to Thessaloniki from Athens in that time. Of course much of the journey will be on narrow winding roads where there is a good possibility that you will be stuck behind a big slow moving truck with nowhere to pass for at least part of the journey. And most likely you will stop to wade in the cool waters of the Kirea river that runs alongside the road that goes north from the modern city of Halkida to the fishing village of Limni, the spas of Edipsos and the beautiful beaches of the northern coast.
+* [A nice video about Evia](https://www.youtube.com/watch?v=ZSLe_zK2qd8)
+
+## <a name="crete_island"></a>Crete
+Of all the Greek islands, Crete is one of the most distinctive and beautiful. Our guide lists great places to stay (from campsites to boutique hotels), the best tavernas and the island’s must sees.It is the largest Greek island, has the most diverse mix of landscapes, and stands far to the south of most of the rest of the country. Bits of it are reminiscent of other parts of Greece, but on the whole it stands alone and has its own unmistakeable culture and atmosphere.The north coast of the island is the most populated area, and most well known to tourists. Heraklion (or Iraklion) is the island’s capital and main entry point. A working city, it can be off-putting at first, but it has a world-class museum. Rethymnon and Hania to the west are much more pleasant and retain a distinct Venetian influence. To the east Agios Nikolaos, or Ag Nik to Brits, is one of the island’s major resort, but still retains some character.
+
+The interior is home to the White Mountains, which soar to over 2,000m in the western part of the island, and offer some spectacular hikes and drives. The mountains are a bit more gentle to the east, and in their midst they hide the extraordinary basin of the Lasithi plateau dotted with white windmills.The south coast is much more rugged and less visited than the north. It is crisscrossed with gorges and dotted with isolated villages and coves. It is also the stepping off point for the isolated islets to the south of Crete.
+
+The last thing that makes Crete stand out from the other islands is the breadth of its history: from the mysterious Minoans with their labyrinthine palaces, through Venetian control, to the daring deeds during the German occupation.
+* [A nice video about Crete](https://www.youtube.com/watch?v=NKxj-jmfxlA)
