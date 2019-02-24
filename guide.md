@@ -20,6 +20,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Naxos](#naxos)
   * [Syros](#syros)
   * [Amorgos](#amorgos)
+  * [Sifnos](#Sifnos)
   * [Kythnos](#kythnos)
 * [Sporades](#sporades)
 * [Dodecanese](#dodecanese)
