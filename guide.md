@@ -254,8 +254,8 @@ Near Hawaii beach, there is a small food truck called FBI SA, where you can find
 
 ![](/images/fbi.jpg)
 
-Front: The Mafia Burger with caramelized panseta with bbq sauce and arseniko cheese of Naxos
-Back: The Hula dog with chicken, caramelized pineapple, yogurt sauce and graviera of Naxos
+<p>Front: The Mafia Burger with caramelized panseta with bbq sauce and arseniko cheese of Naxos <br/>
+Back: The Hula dog with chicken, caramelized pineapple, yogurt sauce and graviera of Naxos </p>
 
 #### <a name="drink"></a>Where to drink
 If you like Cocktail bars next to the sea with loud music till dawn then Naxos is surely your perfect choice.
