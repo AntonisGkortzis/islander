@@ -889,11 +889,11 @@ Those who love hiking will not be disappointed as there are several paths to go 
 * [Eristos](https://www.tripadvisor.com.gr/Attraction_Review-g189448-d12802683-Reviews-Eristos_Beach-Tilos_Dodecanese_South_Aegean.html):
 Eristos is the most popular beach of the island. The crystal waters in combination with the shade provided by the natural trees promise you moments of tranquillity and relaxation. If you follow the path to the left side of the beach you will find two more isolated beaches with red sand. It is worth checking them.
 
-[Agios Antonis](https://www.tripadvisor.com.gr/ShowUserReviews-g189448-d484543-r162811802-Agios_Pandeleimonas-Tilos_Dodecanese_South_Aegean.html): a beautiful beach with rocks and it is only accessible from a dirt road. Be proactive and prepared and bring water, refreshments and some snacks because you can not buy them from here.
+* [Agios Antonis](https://www.tripadvisor.com.gr/ShowUserReviews-g189448-d484543-r162811802-Agios_Pandeleimonas-Tilos_Dodecanese_South_Aegean.html): a beautiful beach with rocks and it is only accessible from a dirt road. Be proactive and prepared and bring water, refreshments and some snacks because you can not buy them from here.
 
-[Livadia](https://www.tripadvisor.com.gr/Attraction_Review-g189448-d12818182-Reviews-Livadia_Beach-Tilos_Dodecanese_South_Aegean.html): is one of the largest beaches of Tilos. Umbrellas and sunbed have been put by the bars and restaurants all of which are located on the other side of the road. It is the most accessible beach, next to the port and near most of the hotels and rooms and, as a result, it attracts the most people. It is usually preferred by families.
+* [Livadia](https://www.tripadvisor.com.gr/Attraction_Review-g189448-d12818182-Reviews-Livadia_Beach-Tilos_Dodecanese_South_Aegean.html): is one of the largest beaches of Tilos. Umbrellas and sunbed have been put by the bars and restaurants all of which are located on the other side of the road. It is the most accessible beach, next to the port and near most of the hotels and rooms and, as a result, it attracts the most people. It is usually preferred by families.
 
-Pro Tip: At [Ilidi Rock Hotel](http://www.ilidirock.gr/) there are three small organized beaches. Access is very easy, you just have to cross a small bridge and continue straight until you see them. There is a snack bar that offers refreshments and some plates of the day which are cooked by the owner’s mother and served daily until 16:00 (4:00pm)
+<b>Pro Tip:</b> At [Ilidi Rock Hotel](http://www.ilidirock.gr/) there are three small organized beaches. Access is very easy, you just have to cross a small bridge and continue straight until you see them. There is a snack bar that offers refreshments and some plates of the day which are cooked by the owner’s mother and served daily until 16:00 (4:00pm)
 
 #### <a name="eatTilos"></a>Where to eat
 
