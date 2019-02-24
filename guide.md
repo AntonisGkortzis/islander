@@ -687,6 +687,15 @@ Alonnisos is an amazing island famous for its clean water and the green landscap
 * [Rousoum Gialos](https://www.greeka.com/sporades/alonissos/alonissos-beaches/alonissos-roussoum_gialos.htm): This is an area with great tourist development and is considered an important pole of attraction for many tourists due to its unique beauty. The beach has clean waters and small white pebbles along the coastline. After swimming, you can have lunch in the coastal taverns and taste many of the local recipes.
 
 #### <a name="eatAlonnisos"></a>Where to eat
+This might be a relatively small island, but it has thriving culinary traditions and that will delight the gourmet enthusiast. Seafood is of course a major ingredient on the island's table, and a small fleet of fishermen supplies it daily with fresh fish. The quality is so good that it is sold for premium prices not only in Athens, but also in fish-loving Japan. Delicious options include sea bream, white bait, red mullet, swordfish, octopus, squid (kalamari) and prawns. Alonissos is also known for its lobster pasta as well as the high-quality tuna that will appear often on menus across the island. Octopus on charcoal, called Kakavia, is another must if you're into seafood.
+
+Some of the best places to eat in Alonnisos are:
+
+* [Elaiwnas](https://www.tripadvisor.com.gr/Restaurant_Review-g189498-d2284385-Reviews-Eleonas-Alonnisos_Sporades.html)
+
+* [Corali](https://www.tripadvisor.com.gr/Restaurant_Review-g3735715-d4784099-Reviews-Corali-Kalamakia_Alonnisos_Sporades.html)
+
+* [Bistro Cafe Helios](https://www.tripadvisor.com.gr/Restaurant_Review-g1187882-d3327046-Reviews-Bistro_Cafe_Helios-Patitiri_Alonnisos_Sporades.html)
 
 [Tip](): Don't forget to buy some "fouskakia" (traditional donuts), "hamalia" (triangle shaped sweets with delicious staffing sprinkled with castor sugar) and mouth watering almond delicatessen, the so-called "amigdalota" to offer to your beloved ones back home!
 
