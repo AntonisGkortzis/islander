@@ -445,6 +445,49 @@ Hidden-away Amorgos, with its secret beaches and untouched timelessness, is one 
 
 
 
+### <a name="Sifnos"></a>Sifnos
+  * [Discover Sifnos](#discoverSifnos)
+  * [Where to swim](#swimSifnos)
+  * [Where to eat](#eatSifnos)
+  * [What  to see](#seeSifnos)
+
+#### <a name="discoverSifnos"></a>Discover Sifnos
+
+  If you are looking for that perfect Greek island with a balance of beautiful beaches, low-key nightlife, white Cycladic villages, low-impact tourism and maybe the best food in the Cyclades, then look no further than Sifnos
+
+#### <a name="swimSifnos"></a>Where to swim
+  * Kamares
+
+  ![](/images/sifnos_1.jpg)
+  * Vathy
+
+  ![](/images/sifnos_2.jpg)
+  * Platy Yialos
+
+  ![](/images/sifnos_3.jpg)
+
+#### <a name="eatSifnos"></a>Where to eat
+  * Nero Alati(Platis Gialos)
+
+  Fabulous location, perfect for a visit after spending the day on the beach. The food is really authentic and we may have had the best lamb dish ever, cooked in red wine in earthen pottery all day
+
+  * Felos(Ano Petali)
+
+  This restaurant and coffee shop has been around since 1900 and now operated by the family’s 5th generation
+
+  * Tsikali(Vathi)
+  An amazing location in a calm bay. All the produce is grown by the family, including the meat. Even the cheese is made by the owner. In terms of flavour, the food cannot be faulted
+
+#### <a name="seeSifnos"></a>What to seek
+ * Kastro
+
+  Kastro is one of the most facinating and mysterious places on Sifnos. The town has been inhabited for over 3000 years and was at one time the capital of the island.
+  ![](/images/sifnos_4.jpg)
+
+* Chrysopigi
+  The celebrated monastery of the island patron saint "Panagia Hrissopigi" (Our Lady of the Golden Spring) stands at the south-eastern end of the island in the Faros area. It was built in 1650 in a lovely area on the site of an older church. The icon of Zoodohos Pigi is mentioned in a great many legends which allege that it came from the sea.
+
+    ![](/images/sifnos_6.jpg) 
 
 
 
