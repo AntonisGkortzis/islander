@@ -924,7 +924,12 @@ The journey to Kastellorizo is a very lengthy one, but the scene that will welco
 
 The ruins of the Castle of the Knights are sitting above the small village at the hill of Kastell Roso from which the island was named. It is located next to Turkey and, therefore, many Turkish ships are visiting all the time.
 You will definitely not need a car as you can go everywhere by foot.
-It is worth mentioning that a very small airport exists in the island that makes the access to the island a bit easier but the flights are very few.
+It is worth mentioning that a very small airport exists in the island that makes the access to the island a bit easier, but the flights are very few.
+
+#### <a name="swimKastellorizo"></a>Where to swim
+Kastellorizo is an island without beaches. But how is that possible and what am I supposed to do you may ask. Don’t worry there are still choices for you.
+You can dive at the amazing sea at [Mandraki]( https://www.tripadvisor.com.gr/ShowUserReviews-g189441-d1013383-r527191631-Mediterreneo_Kastelorizo-Kastellorizo_Dodecanese_South_Aegean.html), [Plakes]( https://www.tripadvisor.com/LocationPhotoDirectLink-g189441-d11716888-i269725031-Daily_Cruises_Antonis-Kastellorizo_Dodecanese_South_Aegean.html) or at the port. There you can find many stairs and floating docks so that you can easily get in the sea and enjoy the, undoubtedly, cold waters. In addition, while you are swimming you will not be alone, but you will get some company. Sea turtles (Oh yes) will come near you as they have gotten used to the presence of people and they will come to you to play with them.
+
 
 ## <a name="north_east_aegean_islands"></a>North East Aegean Islands
 
