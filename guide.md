@@ -26,6 +26,8 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Rhodes](#Rhodes)
 * [North-East Aegean Islands](#north_east_aegean_islands)
   * [Ikaria](#ikaria)
+* [Evia](#evia_island)  
+* [Crete](#crete_island)
 
 
 ## <a name="ionian_islands"></a>Ionian Islands
@@ -105,7 +107,7 @@ Are you wondering how to get there? Every day, the ferry-boats of Igoumenitsa tr
 **What else to see in Antipaxoi?**: After you finish your relaxing time at the beautiful beach of Antipaxoi you can retake the same small boat and visit the wonderful caves that are located in different spots around the island but are accessible only by boat. By the way, you can rent your own boat! ![](/images/antipaxoi-blue-caves-cruise.jpg)
 
 #### <a name='swimPaxoi'></a>Where to swim
-Excpet for the beaches you can reach by boat, in order to reach the most remarkable ones (of course, all beaches are beautiful) you need to take the car or use the local means of transport. Here are some of the most beautiful beaches you can find in Paxoi and Antipaxoi:
+Except for the beaches you can reach by boat, in order to reach the most remarkable ones (of course, all beaches are beautiful) you need to take the car or use the local means of transport. Here are some of the most beautiful beaches you can find in Paxoi and Antipaxoi:
 
 * [Vrika Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189461-d2061955-Reviews-Vrika_Beach-Paxos_Ionian_Islands.html):
 One of the most beautiful beaches which is located in the north part of Antipaxoi is called Vrika Beach. The light-blue and green water can be easily visible when approaching the beach with the boat. The almost white sand in combination with the landscape and the clear sea will impress you. It is a well-organized beach where you can rent an umbrella and/or sunbeds and enjoy the hot summer days.
@@ -562,3 +564,17 @@ The locals are mostly working in shipping. They have really strong relationships
 
 
   * <b>Koskina Castle</b>: It is located in the center of Ikaria. This castle is also named castle of Nikarias because once is was the most important fort of the island. Having a 10 minute walk you will see the main fort that the legend says it was occupied only once.
+
+## <a name="evia_island"></a>Evia
+The island of Evia is one of the closest to Athens and yet it is one of the most unknown. That is because Evia is so large that there is much to know about it. Second in size to Crete, it stretches from the tip of the Pelion Peninsula all the way south to the coast of Attika. It's southern tip is just a short distance from the Cycladic islands of Andros and Kea. You can drive to it, Evia has been and remains a popular summer holiday destination for Greeks and Greek-Americans, French , Canadians, Australians and others whose families originally came from the island.The topography of the island is as varied as anywhere in Greece, with sparkling Aegean beaches and coves on its east coast, a mountainous interior with rivers, streams and forests, a west coast that is a mix of beaches, the city of Halkida, large towns, industry, agriculture, beaches and wetlands. And in the northwest the town of Edipsos is the most popular spa in Greece, with hot water gushing from rocks and crevices into the sea and pools of the many hotels and healing centers.
+
+There are several ways to reach Evia from Athens. Which way you choose depends on where in Evia you want to go, because as I said; Evia is a very large island and a very long one. How large and long? From one tip to the other could take you four or five hours by car.  You could drive almost to Thessaloniki from Athens in that time. Of course much of the journey will be on narrow winding roads where there is a good possibility that you will be stuck behind a big slow moving truck with nowhere to pass for at least part of the journey. And most likely you will stop to wade in the cool waters of the Kirea river that runs alongside the road that goes north from the modern city of Halkida to the fishing village of Limni, the spas of Edipsos and the beautiful beaches of the northern coast.
+
+## <a name="crete_island"></a>Crete
+Of all the Greek islands, Crete is one of the most distinctive and beautiful. It is the largest Greek island, has the most diverse mix of landscapes, and stands far to the south of most of the rest of the country. Bits of it are reminiscent of other parts of Greece, but on the whole it stands alone and has its own unmistakeable culture and atmosphere.
+
+The north coast of the island is the most populated area, and most well known to tourists. Heraklion (or Iraklion) is the island’s capital and main entry point. A working city, it can be off-putting at first, but it has a world-class museum. Rethymnon and Hania to the west are much more pleasant and retain a distinct Venetian influence. To the east Agios Nikolaos, or Ag Nik to Brits, is one of the island’s major resort, but still retains some character.The interior is home to the White Mountains, which soar to over 2,000m in the western part of the island, and offer some spectacular hikes and drives. The mountains are a bit more gentle to the east, and in their midst they hide the extraordinary basin of the Lasithi plateau dotted with white windmills.
+
+The south coast is much more rugged and less visited than the north. It is crisscrossed with gorges and dotted with isolated villages and coves. It is also the stepping off point for the isolated islets to the south of Crete.
+
+The last thing that makes Crete stand out from the other islands is the breadth of its history: from the mysterious Minoans with their labyrinthine palaces, through Venetian control, to the daring deeds during the German occupation.
