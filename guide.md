@@ -259,6 +259,7 @@ The volcanic nature of Santorini is what makes this place unique. All the beache
 * [Beaches](#beaches_ios)
 * [Activities](#activities_ios)
 * [Sightseeing](#sightseeing_ios)
+* [What about the party?](#ios_party)
 
 #### <a name="general_info_ios"></a>General Info
 Located in Aegean between <a name="santorini"></a>Santorini , <a name="naxos"></a>Naxos you can find one of the most beautiful islands  of Greece. Small island which stands out with it's golden beaches and crystal clear waters.
@@ -286,9 +287,7 @@ Most famous beach of Ios is Mylopotas, which is located in a very close distance
 * Windsurfing
 * Wake-boarding
 * Jet-ski
-* Scuba diving
 * Kitesurfing (Highly Recommended)
-
 
 #### <a name="sightseeing_ios"></a>Sightseeing
 
@@ -297,6 +296,16 @@ Most famous beach of Ios is Mylopotas, which is located in a very close distance
 *  <b> Ruins of byzantine fort </b> in Paliokastro
 *  Area of <b> Windmills </b> (12 in number)
 *  <b> Archeological Museum </b> of Ios
+
+#### <a name="ios_party"></a>What about the party?
+
+* [Far Out Beach Club](https://www.hostelworld.com/hosteldetails.php/Far-Out-Beach-Club/Ios/4118): One of the most crowded places in Ios, a club near the beach that offers also accommodation and a pool. The best place to party in summer you can be in your swimsuit dancing all day with great Djs on deck and get a temporary colorful "i :heart: Ios" tattoo from the body painters.
+
+* [Pathos Lounge Bar and Restaurant](https://www.tripadvisor.com/Restaurant_Review-g196481-d6940378-Reviews-Pathos_Lounge_Bar_Restaurant-Ios_Cyclades_South_Aegean.html): Breathtaking view, amazing people and organised events, and unique and beautiful designs in every corner giving you memories that will last forever.
+
+* [Steps](https://www.tripadvisor.com/Attraction_Review-g196481-d10458435-Reviews-Steps-Ios_Cyclades_South_Aegean.html): An alternative and more relaxed bar situated on some stairs. You can relax on the steps enjoy a chat and some drinks while sitting on pillows with a kind of a hippie vibe.
+
+* [Shush Bar Ios](https://www.facebook.com/ShushBarIos/?hc_ref=ARQLVvqDqghFoyGl-dDKltcVkCsjn_KOitqYvuKBbihc0wdei3yXuGH2GMa_yLELGLI&__xts__[0]=68.ARAgdxPIVLWT6D0xNXh6nwhNxkvlNqQ3Ki1yPCkDq6mHKCDHsWHmsJriBxDwNBC9XevYwaVdaskDsUzD0m3ItpLsht6qZ9sqksI_tZH6H8boCIigKykMreV3dWCBCxphq6IUKBhSi43SYjyDpuVnKq9ymMyYrnYxfK674YtOqzQhL99zQKkYZbjC5uYB90SSdl418PVOI_VZLPQDJECVKtFh3paqBpbIcD5M-dHCmB0eIWeEZgOcnsGT1X1oRerjlok4_U__9A&__tn__=kC-R): The first and only silent:mute: disco in Ios, Greece. You are able to listen to one of the three different music channels and sync with whoever you want to dance on the same tones trough the wireless headphones provided.
 
 ### <a name="mykonos"></a>Mykonos
 * [General Info](#general_info_mykonos)
