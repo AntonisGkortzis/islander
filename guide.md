@@ -31,7 +31,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Astypalaia](#astypalaia)
   * [Nisiros](#nisiros)
   * [Rhodes](#Rhodes)
-  * [Tilos](tilos)
+  * [Tilos](#tilos)
 * [North-East Aegean Islands](#north_east_aegean_islands)
   * [Ikaria](#ikaria)
 * [Saronic Gulf](#saronic)
