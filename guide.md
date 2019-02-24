@@ -680,11 +680,19 @@ Alonnisos is an amazing island famous for its clean water and the green landscap
 
 * [Votsi](https://www.greeka.com/sporades/alonissos/alonissos-beaches/alonissos-votsi_beach.htm): The little shingle beach has place only for a few visitors. It is a real jewel, accessible by stone steps descending from the main road of the settlement of Votsi. Opposite this little marvel is a picturesque, charming tiny harbour with one lovely traditional fish tavern and little fishing boats mooring at the port.
 
+![](./images/votsi.jpg)
+
 * [Chrissi Milia](https://www.greeka.com/sporades/alonissos/alonissos-beaches/alonissos-chrisi_milia.htm): The sand on Chrissi Milia is soft and golden and the waters are limpid of an amazing turquoise colour. It is one of the very few organized beaches on the island which offers sun beds, umbrellas and some water sports. A nice tavern is standing on a little hill on a side of the beach.
+
+![](./images/chrissimilia.jpg)
 
 * [Glyfa](https://www.greeka.com/sporades/alonissos/alonissos-beaches/alonissos-glyfa.htm): Glyfa beach is a nice sandy beach with some small pebbles that is worth a visit for its tranquil atmosphere. Fortunately, the place has not been spoiled by mass tourism, and is the ideal location for those who like seclusion and peace. Tourists enjoy watching the green fertile valleys, taking or hiring small boats to visit the islands nearby or sitting on the beach while watching the soft waves in the clean greenish blue waters.
 
+![](./images/glyfa.jpg)
+
 * [Rousoum Gialos](https://www.greeka.com/sporades/alonissos/alonissos-beaches/alonissos-roussoum_gialos.htm): This is an area with great tourist development and is considered an important pole of attraction for many tourists due to its unique beauty. The beach has clean waters and small white pebbles along the coastline. After swimming, you can have lunch in the coastal taverns and taste many of the local recipes.
+
+![](./images/rousoumgialos.jpg)
 
 #### <a name="eatAlonnisos"></a>Where to eat
 This might be a relatively small island, but it has thriving culinary traditions and that will delight the gourmet enthusiast. Seafood is of course a major ingredient on the island's table, and a small fleet of fishermen supplies it daily with fresh fish. The quality is so good that it is sold for premium prices not only in Athens, but also in fish-loving Japan. Delicious options include sea bream, white bait, red mullet, swordfish, octopus, squid (kalamari) and prawns. Alonissos is also known for its lobster pasta as well as the high-quality tuna that will appear often on menus across the island. Octopus on charcoal, called Kakavia, is another must if you're into seafood.
