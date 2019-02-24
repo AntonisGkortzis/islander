@@ -20,6 +20,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Naxos](#naxos)
   * [Syros](#syros)
   * [Amorgos](#amorgos)
+  * [Kythnos](#kythnos)
 * [Sporades](#sporades)
 * [Dodecanese](#dodecanese)
   * [Symi](#symi)
@@ -517,7 +518,33 @@ Hidden-away Amorgos, with its secret beaches and untouched timelessness, is one 
 
     ![](/images/sifnos_6.jpg) 
 
+### <a name="kythnos"></a>Kythnos
 
+* [Why Kythnos?](#why_kythnos)
+* [Beaches](#beaches_kythnos)
+* [Things to do](#things_to_do_kythnos)
+* [Nightlife](#nightlife_kythnos)
+
+#### <a name="why_kythnos"></a>Why Kythnos?
+For those of you that want to relax on your vacation and do not want to share a beach with an endless stream of tourists, Kythnos is the right place for you! Close to the ports of Lavrio and Piraeus, it makes for a great weekend destination to blow some steam off after a long week.
+
+#### <a name="beaches_kythnos"></a>Beaches
+
+* *Kolona* - the most famous of the bunch and truly stunning.
+![Kolona beach](./images/kolona.jpg)
+* *Agios Dimitrios* - a personal favourite, located at the north side of the island.
+* *Episkopi*
+
+#### <a name="things_to_do_kythnos"></a>Things to do
+
+| **Type**      | **Name**      | **Location**    | **Definitely-non-subjective Rating** | Want additional info? |
+| ------------- | ------------- | --------------- | ------------------------------------ | --------------------- |
+| Tavern        | O Milas       | Agios Dimitrios | ***                                  | [Link](https://www.tripadvisor.com.gr/Restaurant_Review-g4917550-d4814334-Reviews-O_Milas-Agios_Dimitrios_Kithnos_Cyclades_South_Aegean.html) |
+| Nightclub     | Akrotiri      | Merichas        | **                                   | [Link](https://el-gr.facebook.com/akrwthri.kithnos) |
+| Restaurant    | Fermina       | Merichas        | ****                                 | [Link](https://www.tripadvisor.com.gr/Restaurant_Review-g8009237-d8354231-Reviews-Fermina-Merichas_Kithnos_Cyclades_South_Aegean.html)
+
+#### <a name="nightlife_kythnos"></a>Nightlife
+Error 404- If you're looking for nightlife, look [Elsewhere](#menu). There is a nightclub called *Akrotiri*  and a couple of bars, but that is pretty much it.
 
 ## <a name="dodecanese"></a>Dodecanese
 
