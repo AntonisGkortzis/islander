@@ -876,6 +876,7 @@ Food-wise, you’ll find some stunning locations for watching the sunset, while 
 * [Discover Tilos](#discoverTilos)
 * [Where to swim](#swimTilos)
 * [Where to eat](#eatTilos)
+* [Nightlife](#nightTilos)
 
 #### <a name="discoverTilos"></a>Discover Tilos
 Tilos is a small island near Rhodes. It is quiet, authentic with some untouched physical scenery and it will magnetize you from the first moment. The statues, caves and churches of the island will say a lot about its culture.
@@ -899,6 +900,9 @@ Eristos is the most popular beach of the island. The crystal waters in combinati
 * [Nautilos](https://www.tripadvisor.com.gr/Restaurant_Review-g2654085-d2190055-Reviews-Nautilos_Restaurant-Livadia_Tilos_Dodecanese_South_Aegean.html): Nautilos in Livadia is a family-owned restaurant that offers a lot of sea-based snacks as well as many grill dishes. Relax while observing the amazing view! Sometimes it also has live music.
 
 * [Armenon](https://www.tripadvisor.com.gr/Restaurant_Review-g189448-d2190014-Reviews-Armenon-Tilos_Dodecanese_South_Aegean.html): Armenon tavern is one of the most traditional taverns of the island. It might be a little expensive but “mom’s meatballs” and “mother-in-law’s beef” are totally worth it
+
+#### <a name="nightTilos"></a>Nightlife
+Tilos is a pretty quiet island with only a few offerings for nightlife. One small bus starts picking people up at 23:00 (11:00pm) with direction to Mikro Chorio (Small Village). I can guarantee you that nobody is expecting what they are about to see. It is an abandoned and half-broken village which has been bombed and deserted by its inhabitants on the second World War. However, this village is becoming alive every night. Lighted by generators in a way that makes every house to have trembling lights giving off a magical vibe. The stars are countless, and the atmosphere is something nobody has experienced before. People start by just drinking a few drinks and end up dancing and singing all together until the morning when the small bus will get them down at the Megalo Chorio.
 
 ## <a name="north_east_aegean_islands"></a>North East Aegean Islands
 
