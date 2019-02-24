@@ -31,6 +31,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Astypalaia](#astypalaia)
   * [Nisiros](#nisiros)
   * [Rhodes](#Rhodes)
+  * [Tilos](tilos)
 * [North-East Aegean Islands](#north_east_aegean_islands)
   * [Ikaria](#ikaria)
 * [Saronic Gulf](#saronic)
@@ -518,7 +519,7 @@ Hidden-away Amorgos, with its secret beaches and untouched timelessness, is one 
 * Chrysopigi
   The celebrated monastery of the island patron saint "Panagia Hrissopigi" (Our Lady of the Golden Spring) stands at the south-eastern end of the island in the Faros area. It was built in 1650 in a lovely area on the site of an older church. The icon of Zoodohos Pigi is mentioned in a great many legends which allege that it came from the sea.
 
-    ![](/images/sifnos_6.jpg) 
+    ![](/images/sifnos_6.jpg)
 
 ### <a name="kythnos"></a>Kythnos
 
@@ -612,9 +613,9 @@ The majority of places to eat and drink in Skopelos are found in Skopelos Town. 
 * Cultural events
 
   * [Loizia Festival](https://www.greeka.com/sporades/skopelos/skopelos-festivals/loizia-festival.htm): One of the major festivals in Skopelos is the Loizia Festival which is held in August in Glossa. The festival includes concerts with songs of Loizos, theatrical performances, traditional dances, storytelling nights and a great feast where food and wine is served for free.
-  
+
   * [Wine Festival](https://www.greeka.com/sporades/skopelos/skopelos-festivals.htm): The Wine Festival is organized by the Cultural Society of Glossa in the middle of September. In this festival, visitors are offered free wine and the dancing lasts till the early hours.
-  
+
   * [International Film Festival for Youth](https://www.greeka.com/sporades/skopelos/skopelos-festivals.htm): The Skopelos International Film Festival for Youth takes place in July and August in Skopelos Town. It includes cinema workshops and film screenings with the participation of artists from all the world.
 
 ## <a name="dodecanese"></a>Dodecanese
@@ -870,6 +871,18 @@ Off the beaten track but adored by locals, the resorts of Lindos and Pefkos on t
 A surprise find in such a balmy location is Lindos Ice Bar on Krana Square. Partygoers seek out this refuge from the Grecian sunshine, donning big coats and huge smiles as they drink at an ice bar from glasses made from the same. The beats and light show are equally cool. Meanwhile, the Eclipse Bar in Pefkos attracts a young crowd with something for everyone, from pool and games to music and dancing, plus the only cliff-jumping waterfall in Greece.
 
 Food-wise, you’ll find some stunning locations for watching the sunset, while enjoying a glass of local wine and the catch of the day. Try Philosophia Beach Taverna In Pefkos for romantic views of the bay and a chance to dip your toes in the water. In a similar vein is Dapapa on Kavos Beach, where the seafood is glorious with a backdrop to match. Ambrosia Restaurant in Lindos is sheer foodie heaven. Call in after a day exploring the acropolis, for a family-friendly atmosphere and seafood you’ll remember long after your tan fades.
+
+### <a name="tilos"></a>Tilos
+* [Discover Tilos](#discoverTilos)
+* [Where to swim](#swimTilos)
+* [Where to eat](#eatTilos)
+
+#### <a name="discoverTilos"></a>Discover Tilos
+Tilos is a small island near Rhodes. It is quiet, authentic with some untouched physical scenery and it will magnetize you from the first moment. The statues, caves and churches of the island will say a lot about its culture.
+Tilos is also the first “green” island of the Mediterranean. It combines the wind and solar energy and saves it on special batteries. The total energy is estimated that will cover by far the energy needs of Tilos and there are plans in motion to transfer that energy under the sea to Kos.
+
+Megalo Chorio (The Big Village) is the capital of the island and there it is worth visiting the museum in which you can find bones of dwarf elephants.
+Those who love hiking will not be disappointed as there are several paths to go explore and admire the nature. You will also find several partridges but bear in mind that hunting is strongly prohibited.
 
 ## <a name="north_east_aegean_islands"></a>North East Aegean Islands
 
