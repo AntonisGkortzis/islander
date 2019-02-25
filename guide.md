@@ -41,6 +41,7 @@ This guide provides people who would like to visit a Greek island with tips rega
 * [Saronic Gulf](#saronic)
   * [Aegina](#aegina)
   * [Spetses](#spetses)
+  * [Hydra](#hydra)
 * [Evia](#evia_island)
 * [Crete](#crete_island)
 
