@@ -290,6 +290,7 @@ Most famous beach of Ios is Mylopotas, which is located in a very close distance
 * Windsurfing
 * Wake-boarding
 * Jet-ski
+* Scuba-diving
 * Kitesurfing (Highly Recommended)
 
 #### <a name="sightseeing_ios"></a>Sightseeing
@@ -719,9 +720,9 @@ Some of the best places to eat in Alonnisos are:
   * Thrasing Festival: Don't miss the threshing festival of Alonissos, where the island’s women prepare trahana (a soup of cracked wheat and fermented milk) and other homemade food, whilst musicians lift the spirits with traditional songs of the island. It makes a pleasant surprise during your holiday in Alonnisos.
 
   * Fish-mongers Night: End of July, Alonnisos holds the fishmongers night, a local celebration of the bounty of the sea. Locally caught fish are grilled on charcoal fires and plenty of wine. An unforgettable night of flavours and local hospitality.
-  
+
   * Cheese Pie Night: In July, Alonnisos' local women demonstrate the art of hand made pastry and prepare cheese pies for everyone attending. Alonnisos has a long history of making mouth watering pies. Enjoy a piece with local wine while local dance groups enterntain.
-  
+
 ## <a name="dodecanese"></a>Dodecanese
 
 ### <a name="symi"></a>Symi
