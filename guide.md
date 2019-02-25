@@ -1165,7 +1165,7 @@ Spetses is an affluent island and a municipality in the islands regional unit, A
 ### <a name="hydra"></a>Hydra
 * [Discover Hydra](#discoverHydra)
 * [Don't forget to visit](dontForgetHydra)
-* [Beaches] (#beachesHydra)
+* [Beaches](#beachesHydra)
 * [Where to eat](#foodHydra)
 
 #### <a name="discoverHydra"></a>Discover Hydra
@@ -1181,11 +1181,17 @@ The most beaches of Hydra are pebbled or a rocky coast with clean water. Three p
 
 <b>
 Vlichos - 2 km west of Hydra Town
-![](./images/vlichos.jpg)
+
+![](/images/vlichos.jpg)
+
 Kaminia - 1 km west of Hydra Town
-![](./images/kaminia.jpg)
+
+![](/images/kaminia.jpg)
+
 Hydroneta - In Hydra Town
-![](./images/hydronetta.jpg)
+
+![](/images/hydronetta.jpg)
+
 </b>
 
 #### <a name="foodHydra"></a>Where to eat
