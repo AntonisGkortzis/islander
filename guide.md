@@ -193,31 +193,36 @@ Corfu is the second largest of the ionian islands. It has been a part of greek m
 * [Vlacherna Monastery & Mouse Island](https://www.tripadvisor.com/Attraction_Review-g189458-d6979708-Reviews-Vlacherna_Monastery-Corfu_Ionian_Islands.html): The most iconic site of Corfu. This monastery has its own island in which you can get to through a road over the water. Interesting enough if you stand on the road for a bit during flights rush hour you can get some amazing shots:camera: where you can pretend that you are touching the :airplane: since the airport is right next to the water so at this point the planes are flying low. From there you can also get a small boat and visit mouse island (Pontikonissi), which is said to be the ship that brought the king of Ithaca and the hero of Odyssey to the island of the Phaeacians that washed out on the shore and god later on turned it into this beautiful small green rock.
 ![](/images/corfu_mouse_island.jpg)
 * [Achilleion](https://www.tripadvisor.com/Restaurant_Review-g662629-d1097320-Reviews-Achilleion-Corfu_Town_Corfu_Ionian_Islands.html): A palace built as a home for the Austrian Royalty Elisabeth of Bavaria also known as princess Sisi. Corfu was Sisis favourite vacation place so she wanted the palace to be as beautiful as her thoughts for the island. As a result the palace is stunning on the inside as well as on the outside with huge gardens filled with flowers and statues inspired from greek mythology.
-![](/images/corfu_achilleion.jpg)
 
+![](/images/corfu_achilleion.jpg)
 
 ### <a name="kythira"></a>Kythira
 * [Is that an island](#infokyth)
 * [Astonishing Beaches](#beacheskyth)
 * [Breathtaking Views](#viewskyth)
 * [Great nature](#naturekyth)
-* [So,why kythira](#whykyth)
+* [So, why kythira](#whykyth)
 
-####    <a name="infokyth"></a>Well it is...
+#### <a name="infokyth"></a>Well it is...
 And it's beautiful. It is located under Pelopponese and the combination of the 3 open seas around it and the various influences from a wide variety of civilizations occupying it through the centuries ,has created a unique scenery. The island was a crossroad for merchants since the ancient times and also a fortress during wars due to its significant strategic position. The result of that reflects on the island's architecture, traditions and customs. Beside it's diversity, Kythira is also believed to be the island of Aphrodite,an ancient godess-protector of pure love. Due to that, during the modern days the island is believed to have an ability to create and maintain pure forever-lasting relationships for its occupants and visitors ,which is also the reason why many couples visit the island annually.:heart:
 
 #### <a name="beacheskyth"></a>For every taste
-The island offers a wide variety of unique majestic beaches numbering more than 100. A high percentage of them is also honored with the [Blue Flag](http://www.blueflag.global/) ![](/images/kythira_beach.jpg)
+The island offers a wide variety of unique majestic beaches numbering more than 100. A high percentage of them is also honored with the [Blue Flag](http://www.blueflag.global/)
+
+![](/images/kythira_beach.jpg)
 
 #### <a name="viewskyth"></a>Views you need to see
 During sunset the siland hills provide a majestic view to the Aegean or the Ionian sea which no one should miss.(Not recommendable if you feel a bit tipsy :cold_sweat:)
 
 #### <a name ="naturekyth"></a>A Tropical nature
-During Summer if you feel like you need some place to chill under a tree after a long day in the sun ,there is a location on the island called Mylopotamos where you can see a while different scenery.You can find waterfallls and small lakes and you could also take the small path to the old watermills. A true majestic scenery :open_mouth: ![](/images/Kythira_nature.jpg)
+During Summer if you feel like you need some place to chill under a tree after a long day in the sun ,there is a location on the island called Mylopotamos where you can see a while different scenery.You can find waterfallls and small lakes and you could also take the small path to the old watermills. A true majestic scenery :open_mouth:
+
+![](/images/Kythira_nature.jpg)
 
 #### <a name="whykyth"></a> If you're not sure yet:
-Kythira can provide any traveller a while different experience, it's culture is so different from any other island and the locals are so friendly the will make you feel like you visited your grandmother's house.All the traditional food, the scenery,the beaches and even the long walks in the cliffs during sunset will make you feel like you are in heaven. At last, as the locals say "If you visit Kythira once, you will fall in love with it"!![](/images/Kythira_cave.jpg)
+Kythira can provide any traveller a while different experience, it's culture is so different from any other island and the locals are so friendly the will make you feel like you visited your grandmother's house.All the traditional food, the scenery,the beaches and even the long walks in the cliffs during sunset will make you feel like you are in heaven. At last, as the locals say "If you visit Kythira once, you will fall in love with it"!
 
+![](/images/Kythira_cave.jpg)
 
 ## <a name="cyclades"></a>Cyclades
 
@@ -404,7 +409,7 @@ Imaginary white long beaches, romantic alleys, peaceful sunsets and unforgettabl
 #### <a name="swim"></a>Where to swim
 You'll never face a problem with that. I promise!
 There are so many different beaches and each of them has it's own beauty that will definitely seduce you.
-Top 5: Plaka,Agios Prokopios, Agia Anna, Orkos and Mikri Vigla
+Top 5: Plaka, Agios Prokopios, Agia Anna, Orkos and Mikri Vigla
 ![](/images/naxos_beach.jpg)
 
 #### <a name="eat"></a>Where to eat
@@ -453,6 +458,7 @@ Hidden-away Amorgos, with its secret beaches and untouched timelessness, is one 
 
  ![](/images/amorgos_2.jpg)
 * Mourou Beach
+
 ![](/images/amorgos_3.jpg)
 
 * Aegiali Beach
