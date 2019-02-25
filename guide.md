@@ -1162,7 +1162,7 @@ Spetses is an affluent island and a municipality in the islands regional unit, A
 
 * Thousands of visitors descend upon the island to experience the annual **Armata – a week-long celebration** (starting September 8, as Spetses is worth visiting during September, too), in honour of the naval victories of Spetses, Hydra and Psara against the Turks in 1822. In addition to the impressive fireworks and religious rituals, it is a week filled to the brim with cultural happenings, feasting and festivities.
 
-#### <a name="hydra"></a>Hydra
+### <a name="hydra"></a>Hydra
 * [Discover Hydra](#discoverHydra)
 * [Don't forget to visit](dontForgetHydra)
 * [Beaches] (#beachesHydra)
@@ -1176,16 +1176,16 @@ The towns and villages close to Hydra Town that you can visit are Vlichos and Ma
 - <b>The Historical Archives Museum</b>: Founded in 1918 and located in the port of Hydra, the museum hosts historical objects such as archives, maps, traditional costumes, paintings etc.
 - <b>The Bastions with Cannons</b>: The cannons used to protect the town during the war of 18th century can still be seen. 
 
-#### <a name="beaches Hydra"></a>Beaches
+#### <a name="beachesHydra"></a>Beaches
 The most beaches of Hydra are pebbled or a rocky coast with clean water. Three popoular ones are the folloowing: 
 
 <b>
 Vlichos - 2 km west of Hydra Town
-![](/images/vlichos.jpg)
+![](./images/vlichos.jpg)
 Kaminia - 1 km west of Hydra Town
-![](/images/kaminia.jpg)
+![](./images/kaminia.jpg)
 Hydroneta - In Hydra Town
-![](/images/hydronetta.jpg)
+![](./images/hydronetta.jpg)
 </b>
 
 #### <a name="foodHydra"></a>Where to eat
