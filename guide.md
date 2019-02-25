@@ -1143,14 +1143,23 @@ Akrogiali is open for breakfast, lunch and dinner. At night, Pavlos gives Akrogi
 
 ![](/images/Aegina-Agia_Marina.jpg)
 
-## <a name="spetses"></a>Spetses
+### <a name="spetses"></a>Spetses
 * [Discover Spetses](#discoverSpetses)
-* [Where to swim](swimSpetses)
+* [Don't forget to visit](dontForgetSpetses)
 * [Where to eat](#foodSpetses)
 * [Photos](#photosSpetses)
 * [Map](#mapSpetses)
 
+#### <a name="discoverSpetses"></a>Discover Spetses
+Spetses is an affluent island and a municipality in the islands regional unit, Attica, Greece. It is sometimes included as one of the Saronic Islands. Until 1948, it was part of the old prefecture of Argolidocrinthia, whichis now split intoArgolis and Corinthia. In ancient times, it was known as Pityoussa, and later as Petses. Spetses is an ideal destination for a quick retreat, while it has the ability to make you feel unique, special, exclusive. Once you travel to Spetses you will experience horse-drawn carriages, people riding their bicycles as motorcycles are forbidden by the local authorities. The island of Spetses has forever been a favourite destination for high-society, as reflected in the smart cafes, art stores and stylish boutiques that populate the Old port. Luxury and local tradition coexist on this beautiful island.
 
+#### <a name="dontForgetSpetses"></a>Don't forget to visit
+
+* Admire the **local architecture**: neoclassical captains' homes and cannons from the revolution of 1821. This island is steeped in 5,000 years of rich history, and locals are eager to tell the tales of their nautical victories and local heroes. Archaeological finds on the island date back to 3,000 B.C.  Don’t miss the **Bouboulina Museum**, where a plethora of her personal items is on display. **The Mansion of Hatzigianni Mexi** (the first governor of Spetses) is another must-see, as it’s one of the most spectacular stately homes.
+
+* Wander around the **neighbourhood** of Kounoupitsas and don’t miss the legendary **Anargirio and Korgialenio School**. Take a stroll in its well-tended  gardens and admire the beautiful neoclassical buildings on this side of the island.
+
+* Thousands of visitors descend upon the island to experience the annual **Armata – a week-long celebration** (starting September 8, as Spetses is worth visiting during September, too), in honour of the naval victories of Spetses, Hydra and Psara against the Turks in 1822. In addition to the impressive fireworks and religious rituals, it is a week filled to the brim with cultural happenings, feasting and festivities.
 
 ## <a name="evia_island"></a>Evia
 The island of Evia is one of the closest to Athens and yet it is one of the most unknown. That is because Evia is so large that there is much to know about it. Second in size to Crete, it stretches from the tip of the Pelion Peninsula all the way south to the coast of Attika. It's southern tip is just a short distance from the Cycladic islands of Andros and Kea though unfortunately there is no ferry connection. If there were, more tourists would come here. As it is, because it is so close to the mainland that you can drive to it, Evia has been and remains a popular summer holiday destination for Greeks and Greek-Americans, Canadians, Australians and others whose families originally came from the island.The topography of the island is as varied as anywhere in Greece, with sparkling Aegean beaches and coves on its east coast, a mountainous interior with rivers, streams and forests, a west coast that is a mix of beaches, the city of Halkida, large towns, industry, agriculture, beaches and wetlands. And in the northwest the town of Edipsos is the most popular spa in Greece, with hot water gushing from rocks and crevices into the sea and pools of the many hotels and healing centers.There are several ways to reach Evia from Athens. Which way you choose depends on where in Evia you want to go, because as I said; Evia is a very large island and a very long one. How large and long? From one tip to the other could take you four or five hours by car.  You could drive almost to Thessaloniki from Athens in that time. Of course much of the journey will be on narrow winding roads where there is a good possibility that you will be stuck behind a big slow moving truck with nowhere to pass for at least part of the journey. And most likely you will stop to wade in the cool waters of the Kirea river that runs alongside the road that goes north from the modern city of Halkida to the fishing village of Limni, the spas of Edipsos and the beautiful beaches of the northern coast.
