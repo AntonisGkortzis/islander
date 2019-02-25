@@ -40,6 +40,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Ikaria](#ikaria)
 * [Saronic Gulf](#saronic)
   * [Aegina](#aegina)
+  * [Spetses](#spetses)
 * [Evia](#evia_island)
 * [Crete](#crete_island)
 
@@ -604,7 +605,7 @@ Donousa is the northernmost island of the Lesser Eastern Cyclades group and lies
 Donousa has a population of 160; its inhabitants make their living from fishing, livestock keeping, and, recently, tourism.
 
 Donoussa has been known by this name since the Geometric era, a fact confirmed by the identification of Geometric-era ruins at several sites on the island.
-According to the mythology, the island is where Dionyssos hid Ariadne so Theseus would not be able to find her. 
+According to the mythology, the island is where Dionyssos hid Ariadne so Theseus would not be able to find her.
 
 #### <a name="beaches></a>Lets go to beach
 * [Kedros]
@@ -1141,6 +1142,15 @@ Beachlife on Marathonas starts at Greek Easter when the beach restaurants open f
 Akrogiali is open for breakfast, lunch and dinner. At night, Pavlos gives Akrogiali a very special romantic atmosphere by putting sometimes torches in the sea in front and having lots of candles on the tables. The perfect place for your romantic dinner at the beach, especially with full moon! From your table you can see the moonrise, coming out of the sea! You can even take a swim in the moonlight.
 
 ![](/images/Aegina-Agia_Marina.jpg)
+
+## <a name="spetses"></a>Spetses
+* [Discover Spetses](#discoverSpetses)
+* [Where to swim](swimSpetses)
+* [Where to eat](#foodSpetses)
+* [Photos](#photosSpetses)
+* [Map](#mapSpetses)
+
+
 
 ## <a name="evia_island"></a>Evia
 The island of Evia is one of the closest to Athens and yet it is one of the most unknown. That is because Evia is so large that there is much to know about it. Second in size to Crete, it stretches from the tip of the Pelion Peninsula all the way south to the coast of Attika. It's southern tip is just a short distance from the Cycladic islands of Andros and Kea though unfortunately there is no ferry connection. If there were, more tourists would come here. As it is, because it is so close to the mainland that you can drive to it, Evia has been and remains a popular summer holiday destination for Greeks and Greek-Americans, Canadians, Australians and others whose families originally came from the island.The topography of the island is as varied as anywhere in Greece, with sparkling Aegean beaches and coves on its east coast, a mountainous interior with rivers, streams and forests, a west coast that is a mix of beaches, the city of Halkida, large towns, industry, agriculture, beaches and wetlands. And in the northwest the town of Edipsos is the most popular spa in Greece, with hot water gushing from rocks and crevices into the sea and pools of the many hotels and healing centers.There are several ways to reach Evia from Athens. Which way you choose depends on where in Evia you want to go, because as I said; Evia is a very large island and a very long one. How large and long? From one tip to the other could take you four or five hours by car.  You could drive almost to Thessaloniki from Athens in that time. Of course much of the journey will be on narrow winding roads where there is a good possibility that you will be stuck behind a big slow moving truck with nowhere to pass for at least part of the journey. And most likely you will stop to wade in the cool waters of the Kirea river that runs alongside the road that goes north from the modern city of Halkida to the fishing village of Limni, the spas of Edipsos and the beautiful beaches of the northern coast.
