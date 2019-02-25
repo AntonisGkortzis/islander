@@ -1162,6 +1162,37 @@ Spetses is an affluent island and a municipality in the islands regional unit, A
 
 * Thousands of visitors descend upon the island to experience the annual **Armata – a week-long celebration** (starting September 8, as Spetses is worth visiting during September, too), in honour of the naval victories of Spetses, Hydra and Psara against the Turks in 1822. In addition to the impressive fireworks and religious rituals, it is a week filled to the brim with cultural happenings, feasting and festivities.
 
+#### <a name="hydra"></a>Hydra
+* [Discover Hydra](#discoverHydra)
+* [Don't forget to visit](dontForgetHydra)
+* [Beaches] (#beachesHydra)
+* [Where to eat](#foodHydra)
+
+#### <a name="discoverHydra"></a>Discover Hydra
+Hydra is a pisturesque island close to Athens known for the stone mansions and the lack of cars or other motor vehicles. The transport is done on foot, by boat or riding a donkey. Strolling across the island is fully recommended if you are a fan of walking in the nature seeing the sea from above. 
+The towns and villages close to Hydra Town that you can visit are Vlichos and Mandraki but there are also Zogkeika, Limnioza, Klimaki, Zogeri, Molos and Palamidas further away.
+
+#### <a name="dontForgetHydra"></a>Don't forget to visit
+- <b>The Historical Archives Museum</b>: Founded in 1918 and located in the port of Hydra, the museum hosts historical objects such as archives, maps, traditional costumes, paintings etc.
+- <b>The Bastions with Cannons</b>: The cannons used to protect the town during the war of 18th century can still be seen. 
+
+#### <a name="beaches Hydra"></a>Beaches
+The most beaches of Hydra are pebbled or a rocky coast with clean water. Three popoular ones are the folloowing: 
+
+<b>
+Vlichos - 2 km west of Hydra Town
+![](/images/vlichos.jpg)
+Kaminia - 1 km west of Hydra Town
+![](/images/kaminia.jpg)
+Hydroneta - In Hydra Town
+![](/images/hydronetta.jpg)
+</b>
+
+#### <a name="foodHydra"></a>Where to eat
+- <b>Omilos</b>: It offers great dishes and it is next to the sea.
+- <b>Bratsera</b>: Its service and food are taken really seriously so that they make it an excellent restaurant.
+- <b>Kai Kremmidi</b>: The ideal option to taste souvlaki.
+
 ## <a name="evia_island"></a>Evia
 The island of Evia is one of the closest to Athens and yet it is one of the most unknown. That is because Evia is so large that there is much to know about it. Second in size to Crete, it stretches from the tip of the Pelion Peninsula all the way south to the coast of Attika. It's southern tip is just a short distance from the Cycladic islands of Andros and Kea though unfortunately there is no ferry connection. If there were, more tourists would come here. As it is, because it is so close to the mainland that you can drive to it, Evia has been and remains a popular summer holiday destination for Greeks and Greek-Americans, Canadians, Australians and others whose families originally came from the island.The topography of the island is as varied as anywhere in Greece, with sparkling Aegean beaches and coves on its east coast, a mountainous interior with rivers, streams and forests, a west coast that is a mix of beaches, the city of Halkida, large towns, industry, agriculture, beaches and wetlands. And in the northwest the town of Edipsos is the most popular spa in Greece, with hot water gushing from rocks and crevices into the sea and pools of the many hotels and healing centers.There are several ways to reach Evia from Athens. Which way you choose depends on where in Evia you want to go, because as I said; Evia is a very large island and a very long one. How large and long? From one tip to the other could take you four or five hours by car.  You could drive almost to Thessaloniki from Athens in that time. Of course much of the journey will be on narrow winding roads where there is a good possibility that you will be stuck behind a big slow moving truck with nowhere to pass for at least part of the journey. And most likely you will stop to wade in the cool waters of the Kirea river that runs alongside the road that goes north from the modern city of Halkida to the fishing village of Limni, the spas of Edipsos and the beautiful beaches of the northern coast.
 * [A nice video about Evia](https://www.youtube.com/watch?v=ZSLe_zK2qd8)
