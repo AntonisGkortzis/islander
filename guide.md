@@ -23,6 +23,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Sifnos](#Sifnos)
   * [Kythnos](#kythnos)
   * [Milos](#milos)
+  * [Donousa](#donousa)
 * [Sporades](#sporades)
   * [Skopelos](#skopelos)
   * [Alonnisos](#alonnisos)
@@ -592,6 +593,34 @@ Milos is the southwesternmost island in the Cyclades group. Milos is known mostl
 * [Bomb Shelter](https://www.tripadvisor.com/Attraction_Review-g635606-d6888602-Reviews-Adamas_World_War_Two_Bomb_Shelter-Adamas_Milos_Cyclades_South_Aegean.html):bomb: : As the name implies if you are wondering how a bomb shelter looked like Adamas world war two bomb shelter is the place to answer all your questions
 
 * [Explore the Papafragkas Caves](https://www.tripadvisor.com/Attraction_Review-g494953-d2171345-Reviews-Papafragas_Cave-Milos_Cyclades_South_Aegean.html): Along the main road to Pollonia (which also very nice to walk around) you will find the three Sea Caves of Papafragkas. These huge rocks were used as a base for Byzantine pirates. The pathways to the beach are troubling, but the reward is sweet. You can swim through mesmerizing waters that seem to change colours depending on the temperature and lighting.
+
+### <a name="donousa"></a>Donousa
+* [Info](#info)
+* [Beaches](#beaches)
+* [Sights](#sights_don)
+
+#### <a name="info"></a>Info
+Donousa is the northernmost island of the Lesser Eastern Cyclades group and lies east of Naxos and north of Amorgos. Its area is 13 square kilometers. The terrain is rocky, while the shore forms numerous coves with small, sand beaches.
+Donousa has a population of 160; its inhabitants make their living from fishing, livestock keeping, and, recently, tourism.
+
+Donoussa has been known by this name since the Geometric era, a fact confirmed by the identification of Geometric-era ruins at several sites on the island.
+According to the mythology, the island is where Dionyssos hid Ariadne so Theseus would not be able to find her. 
+
+#### <a name="beaches></a>Lets go to beach
+* [Kedros]
+![](./images/kedros.jpg)
+
+* [Meltemi]
+![](./images/meltemi.jpg)
+
+* [Mirsini]
+![](./images/mirsini.jpg)
+
+
+#### <a name="sights_don"></a>Sights to see :eyes:
+* <b>Warship ruins in Kedros beach</b>:  the ruins of a German warship sunk by the Allied Forces in the second world war, can be seen on the seabed.
+![](./images/warship.jpg)
+
 
 ## <a name="sporades"></a>Sporades
 
