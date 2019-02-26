@@ -42,6 +42,8 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Tilos](#tilos)
   * [Kastellorizo](#kastellorizo)
   * [Kalymnos](#kalymnos)
+* [North Aegean Sea](#northAegean)
+  * [Thasos](#thasos)
 * [North-East Aegean Islands](#north_east_aegean_islands)
   * [Ikaria](#ikaria)
   * [Lesvos](#lesvos)
@@ -1379,6 +1381,17 @@ Kalymnos has become one of the major rock climbing destinations for professional
 
 * [Aegean Tavern](http://www.aegeancuisine.org/Aigaiopelagitiko)
 
+## <a name="northAegean"></a>North Aegean Sea Islands
+
+## <a name="thasos"></a>thasos
+* [Discover Thasos](#discoverThasos)
+* [Must-see](#mustSeeThasos)
+* [Beaches](#beachesThasos)
+* [Where to eat](#foodThasos)
+* [Photos](#photosThasos)
+
+
+
 ## <a name="north_east_aegean_islands"></a>North East Aegean Islands
 
 ### <a name="ikaria"></a>Ikaria
@@ -1508,19 +1521,19 @@ Spetses is an affluent island and a municipality in the islands regional unit, A
 * Thousands of visitors descend upon the island to experience the annual **Armata – a week-long celebration** (starting September 8, as Spetses is worth visiting during September, too), in honour of the naval victories of Spetses, Hydra and Psara against the Turks in 1822. In addition to the impressive fireworks and religious rituals, it is a week filled to the brim with cultural happenings, feasting and festivities.
 
 #### <a name="foodSpetses"></a>Where to eat
-* [La Luz](#https://www.tripadvisor.com/Restaurant_Review-g2699968-d4274946-Reviews-La_Luz-Spetses_Town_Spetses_Saronic_Gulf_Islands_Attica.html):
+* [La Luz](https://www.tripadvisor.com/Restaurant_Review-g2699968-d4274946-Reviews-La_Luz-Spetses_Town_Spetses_Saronic_Gulf_Islands_Attica.html):
 Established in the March of 2011 in an amazing location in the Old Port of Spetses, La Luz has quickly became one of the most entertainment spots on the island of Spetses. Here you will enjoy some of the most famous Greek musicians playing live music events, as well as fresh cocktails and drinks accompanied with interesting *meze* dishes.
 ![](/images/Spetses-LaLuz.jpg)
 
-* [Fish Tavern Patralis](#https://www.tripadvisor.com/Restaurant_Review-g189496-d1799370-Reviews-Patralis_Psarotaverna-Spetses_Saronic_Gulf_Islands_Attica.html):
+* [Fish Tavern Patralis](https://www.tripadvisor.com/Restaurant_Review-g189496-d1799370-Reviews-Patralis_Psarotaverna-Spetses_Saronic_Gulf_Islands_Attica.html):
 If greek islands are a synonym of delicious fresh fish, then the fish tavern Patralis is a synonym of Spetses. This restaurant, with a history of more than 80 years, prepares and serves fresh fish in its own way. Try thebouillabaisse, the shrimp spaghetti, the seafood risotto, which are all created with talent, care and amazing ingredients fresh from the sea. Of course, you can also try other, traditional Greek dishes like moussaka and *papoutsakia*.
 ![](/images/Spetses-Patralis.jpg)
 
-* [On the Verandah](#https://www.tripadvisor.com/Restaurant_Review-g189496-d2450000-Reviews-On_the_Verandah-Spetses_Saronic_Gulf_Islands_Attica.html):
+* [On the Verandah](https://www.tripadvisor.com/Restaurant_Review-g189496-d2450000-Reviews-On_the_Verandah-Spetses_Saronic_Gulf_Islands_Attica.html):
 The multi-awarded restaurant On The Verandah offers creative contemporary Greek cuisine infused with local gastronomic traditions and ingredients. The sea-front dining rooms is steeped in the old-world grace with soaring ceilings and soft curve-backed chairs that complement the wrought iron balustrades on the magnificent terrace. Soft lighting adds to the understated elegance, indoors and out, as the stunning setting both competes with and complements the superb cuisine. A great dining experience is the perfect blend of food and setting, a shared journey of culinary magic. Take a moment to revel in the splendor of you surroundings as you sip an aperitif and choose from the menu, which rotates seasonally according to ensure ingredients of the highest quality and freshness. Fish and seafood have pride of place in island cuisine and the chef has added a contemporary twist to Spetses classics.
 ![](/images/Spetses-On_The_Verandah.jpg)
 
-* [Bluefield Burger Company](#https://www.facebook.com/BluefieldSpetses):
+* [Bluefield Burger Company](https://www.facebook.com/BluefieldSpetses):
 After trying the local and Mediterranean cuisine, you may seek for a change or want something more familiar. Without a doubt, Bluefield offers the best burgers in Spetses and is a highly preferred option in this case. Here, quantity meets quality! Ask for the advice of the friendly owners who will guide you to choose the best, always with respect to your personal culinary preferences and budget. ![](/images/Spetses-Burger_Company.jpg)
 
 #### <a name="photosSpetses"></a>Photos
