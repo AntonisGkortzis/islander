@@ -391,13 +391,19 @@ The volcanic nature of Santorini is what makes this place unique. All the beache
 
 ![](/images/Red_beach.jpg)
 
+source:https://www.google.com/search?biw=1600&bih=789&tbm=isch&sa=1&ei=Ap91XLjAAYqnUt_Ng6AP&q=red+beach+santorini&oq=red+beach+&gs_l=img.3.0.0i67j0j0i30l8.12412.13394..14699...3.0..0.171.540.0j4......1....1..gws-wiz-img.......0i19j0i8i30i19.qwJe-_fOH54#imgrc=cD_Zevd5GmNFXM:
+
 <b>Kamari</b>
 
 ![](/images/kamari_beach.jpg)
 
+source: https://www.google.com/search?biw=1600&bih=789&tbm=isch&sa=1&ei=JKB1XObVF--NlwSh46ugDA&q=kamari+beach&oq=kamari+b&gs_l=img.3.0.35i39j0l2j0i30l7.4346.5919..6917...0.0..0.146.992.0j8......1....1..gws-wiz-img.....0..0i67j0i10.dA19nqOg0GI#imgrc=R-sG2CLq_WWfvM:
+
 <b>Vlychada</b>
 
 ![](/images/vlychada_beach.jpg)
+
+source: https://www.google.com/search?q=vlychada+beach&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi1huClndrgAhWEyYUKHREsCHgQ_AUIDigB&biw=1600&bih=789#imgrc=c3I7TkOfY7hpGM:
 
 ### <a name="ios"></a>Ios
 * [General Info](#general_info_ios)
@@ -416,9 +422,14 @@ Most famous beach of Ios is Mylopotas, which is located in a very close distance
 
 ![](/images/mylopotas_beach.jpg)
 
+
+source: https://www.google.com/search?q=%CE%BC%CF%85%CE%BB%CE%BF%CF%80%CE%BF%CF%84%CE%B1%CF%82&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj8ysuvntrgAhUXxMQBHcTTBG8Q_AUIDigB&biw=1600&bih=789#imgrc=-Iq9ptTw5WR1uM:
+
 <b>Magganari Beach</b>
 
 ![](/images/magganari_beach.jpg)
+
+source : https://www.google.com/search?q=%CE%BC%CE%B1%CE%B3%CE%B3%CE%B1%CE%BD%CE%B1%CF%81%CE%B9+%CE%B9%CE%BF%CF%82&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiOnZm9ntrgAhUMWZoKHR9wA00Q_AUIDigB&biw=1600&bih=789#imgrc=EgDSmGotY63IGM
 
 #### <a name="activities_ios"></a>Activities
 <i> In <b>Mylopotas</b> beach you can find these water sport activities </i>
@@ -1506,6 +1517,8 @@ The locals are mostly working in shipping. They have really strong relationships
 
     It is located in the north-east side of the island, close to the airport.It is usually a quiet beach that not many people know. Until recently the access to this beach was impossible by car. This beach was named after the region that the temple of god Dionysos exists.
 
+source: https://www.google.com/search?biw=1600&bih=789&tbm=isch&sa=1&ei=s6F1XJfHIMy2afugmTg&q=%CE%B9%CE%B5%CF%81%CE%BF+%CF%80%CE%B1%CF%81%CE%B1%CE%BB%CE%B9%CE%B1&oq=%CE%B9%CE%B5%CF%81%CE%BF+%CF%80%CE%B1%CF%81%CE%B1%CE%BB%CE%B9%CE%B1&gs_l=img.3...11255.14265..14361...0.0..1.165.1415.0j10......2....1..gws-wiz-img.....0..0j0i8i30j0i24.G8SQXZBacCg#imgrc=0-Ly7JafhcAzUM:
+
 
   <b>Seychelles beach</b>
 
@@ -1514,6 +1527,7 @@ The locals are mostly working in shipping. They have really strong relationships
 
     One of the most beautiful beaches of the island. It was created hundreds of years ago from rocks crashing during the cutting of a tunnel that was leading towards Magganiti village. It is considered an exotic beach as its name reveals.
 
+source: https://www.google.com/search?q=%CF%83%CE%B5%CF%8B%CF%87%CE%AD%CE%BB%CE%BB%CE%B5%CF%82+%CF%80%CE%B1%CF%81%CE%B1%CE%BB%CE%B9%CE%B1&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiC29uFn9rgAhWNz6YKHYP5CoMQ_AUIDigB&biw=1600&bih=789#imgrc=2j-ZZoPulJFVJM:
 
   <b>Mesakti beach</b>
 
@@ -1521,6 +1535,8 @@ The locals are mostly working in shipping. They have really strong relationships
 
 
     The most famous beach of the island which you must visit if you pass by the island. The view to the iconic little church of Analipseos in the port is what makes the beach a must-visit.
+
+source: https://www.google.com/search?q=%CE%BC%CE%B5%CF%83%CE%B1%CE%BA%CF%84%CE%B9+%CF%80%CE%B1%CF%81%CE%B1%CE%BB%CE%B9%CE%B1&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiD_p6qn9rgAhVh16YKHSvuCo4Q_AUIDigB&biw=1600&bih=789#imgrc=LUJvMWjHgGCr1M:
 
 
 #### <a name="sightseeing_ikaria"></a>Sightseeing
