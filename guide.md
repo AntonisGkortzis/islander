@@ -174,7 +174,7 @@ Corfu is the second largest of the ionian islands. It has been a part of greek m
 
 ![](/images/Corfu_Town.jpg)
 
-source:[google images](https://www.google.com/search?q=corfu+by+night&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiZiPunwdrgAhUG26QKHT0yDKsQ_AUIDigB&biw=1440&bih=611#imgrc=D3wHl2CoGH5xPM)
+source: [google images](https://www.google.com/search?q=corfu+by+night&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiZiPunwdrgAhUG26QKHT0yDKsQ_AUIDigB&biw=1440&bih=611#imgrc=D3wHl2CoGH5xPM)
 
 #### <a name="beaches_corfu"></a>Beaches :shell:
 * [Porto Timoni](https://www.tripadvisor.com/Attraction_Review-g5485027-d8115796-Reviews-Porto_Timoni_Beach-Afionas_Corfu_Ionian_Islands.html):After going down a mountain for about half an hour (which of course you will have to climb back up at the end but i promise you it is totally worth it) you will find yourself in the middle of two sand beaches. Now you might be wondering:thought_balloon: what does this mean exactly? Well it means that in just a few steps you can go from one beach to another. The view from above where you can actually see that it is two different parts, because once you are down due to the dense vegetation you cannot really see it, is mesmerizing. Nevertheless the feeling of just being there is unique.
@@ -472,9 +472,24 @@ source : https://www.google.com/search?q=%CE%BC%CE%B1%CE%B3%CE%B3%CE%B1%CE%BD%CE
 #### <a name="party_ios"></a>What about the party?
 * [Far Out Beach Club](https://www.hostelworld.com/hosteldetails.php/Far-Out-Beach-Club/Ios/4118): One of the most crowded places in Ios, a club near the beach that offers also accommodation and a pool. The best place to party in summer you can be in your swimsuit dancing all day with great Djs on deck and get a temporary colorful "i :heart: Ios" tattoo from the body painters.
 
+![](/images/ios_farout.jpg)
+
+source: [farout club facebook page](https://www.facebook.com/FarOutBeachClub/)
+
+![](/images/ios_farout_party.jpg)
+
+source: [farout club facebook page](https://www.facebook.com/FarOutBeachClub/)
+
 * [Pathos Lounge Bar and Restaurant](https://www.tripadvisor.com/Restaurant_Review-g196481-d6940378-Reviews-Pathos_Lounge_Bar_Restaurant-Ios_Cyclades_South_Aegean.html): Breathtaking view, amazing people and organised events, and unique and beautiful designs in every corner giving you memories that will last forever.
 
+![](/images/ios_pathos.jpg)
+
+source: [pathos sunset lounge facebook page](https://www.facebook.com/pg/pathoslounge/posts/?ref=page_internal)
 * [Steps](https://www.tripadvisor.com/Attraction_Review-g196481-d10458435-Reviews-Steps-Ios_Cyclades_South_Aegean.html): An alternative and more relaxed bar situated on some stairs. You can relax on the steps enjoy a chat and some drinks while sitting on pillows with a kind of a hippie vibe.
+
+![](/images/ios_steps.jpg)
+
+source: [Steps bar ios facebook page](https://www.facebook.com/stepsbarios/)
 
 * [Shush Bar Ios](https://www.facebook.com/ShushBarIos/?hc_ref=ARQLVvqDqghFoyGl-dDKltcVkCsjn_KOitqYvuKBbihc0wdei3yXuGH2GMa_yLELGLI&__xts__[0]=68.ARAgdxPIVLWT6D0xNXh6nwhNxkvlNqQ3Ki1yPCkDq6mHKCDHsWHmsJriBxDwNBC9XevYwaVdaskDsUzD0m3ItpLsht6qZ9sqksI_tZH6H8boCIigKykMreV3dWCBCxphq6IUKBhSi43SYjyDpuVnKq9ymMyYrnYxfK674YtOqzQhL99zQKkYZbjC5uYB90SSdl418PVOI_VZLPQDJECVKtFh3paqBpbIcD5M-dHCmB0eIWeEZgOcnsGT1X1oRerjlok4_U__9A&__tn__=kC-R): The first and only silent:mute: disco in Ios, Greece. You are able to listen to one of the three different music channels and sync with whoever you want to dance on the same tones trough the wireless headphones provided.
 
