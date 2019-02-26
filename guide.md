@@ -345,11 +345,11 @@ Check it out here- https://www.youtube.com/watch?v=5oyje83lrOY
 #### <a name="beaches_zakynthos"></a>
  * What makes Zakynthos island unique is the magical beaches with the blue sea water, the variety of water sports available and of course the tiny isolated beaches.
 
- *<b>Kalamaki </b> beach is 8km away from Zakynthos town. Opposite stands the popular Cameo island accessible by a wooden bridge, that has a bar -cafe and a tiny beach with shallow, warm sea water.The restaurants and the bars situated along Kalamaki beach are open till sunset.
+ * <b>Kalamaki </b> beach is 8km away from Zakynthos town. Opposite stands the popular Cameo island accessible by a wooden bridge, that has a bar -cafe and a tiny beach with shallow, warm sea water.The restaurants and the bars situated along Kalamaki beach are open till sunset.
 
   ![](/images/kalamaki.jpg)
 
-  *<b>Makris Yialos </b> is 7.5 km away from Alykes and 25km from Zakynthos town. The sea water is clear, deep and blue appropriate for scuba diving. There are tiny pebbles, a bit sand and numerous caves to be explored.Makris Yialos is perfect for couples,swimmers and nature lovers.
+  * <b>Makris Yialos </b> is 7.5 km away from Alykes and 25km from Zakynthos town. The sea water is clear, deep and blue appropriate for scuba diving. There are tiny pebbles, a bit sand and numerous caves to be explored.Makris Yialos is perfect for couples,swimmers and nature lovers.
 
    ![](/images/makris-yialos.jpg)
 
