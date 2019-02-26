@@ -43,6 +43,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Kalymnos](#kalymnos)
 * [North-East Aegean Islands](#north_east_aegean_islands)
   * [Ikaria](#ikaria)
+  * [Lesvos](#lesvos)
 * [Saronic Gulf](#saronic)
   * [Aegina](#aegina)
   * [Spetses](#spetses)
@@ -254,8 +255,8 @@ Kythira can provide any traveller a while different experience, it's culture is 
 
 
 
-#### <a name="general_informations"></a> 
- * <b>The island of Odysseus</b> :The hero's adventurous journey to his homeland of Ithaca made this island mythical, immortal. The intense alternations of the landscape, adorned with the beauties of wild and calm nature, make up a provocatively special relief. Traditional settlements, deep blue waters and many landscapes are waiting for you to visit them!!! 
+#### <a name="general_informations"></a>
+ * <b>The island of Odysseus</b> :The hero's adventurous journey to his homeland of Ithaca made this island mythical, immortal. The intense alternations of the landscape, adorned with the beauties of wild and calm nature, make up a provocatively special relief. Traditional settlements, deep blue waters and many landscapes are waiting for you to visit them!!!
 
   * <b>About the nightlife in Ithaca island </b> : Nightlife in Ithaca is restricted to few taverns and lounge bars. The waterfronts of Vathi, Frikes and Kioni are lined up with many delicious restaurants and taverns that usually stay till a bit after midnight, creating a romantic atmosphere. Such taverns can also be found in the mountainous villages of Ithaca. Usually in the evenings, the cafeterias of Ithaca turn into lounge bars and stay open till a bit after midnight. Generally, nights in Ithaca are peaceful and romantic.
 
@@ -280,7 +281,7 @@ Kythira can provide any traveller a while different experience, it's culture is 
 ![](/images/filiatro.jpg)
 
 #### <a name="restaurants_ithaca"></a>Locale Cuisine :
-* <b> Tsirimbis Restaurant </b> is a local tavern that exists since 1956. Without losing its traditional character it offers you the opportunity to taste traditional pies (chicken, spinach, onion, cheese pie), pasta, garlic, fish (stuffed with garlic) and bourgeois, many home-made appetizers (taramosalata, tzatziki, cheese, eggplant). 
+* <b> Tsirimbis Restaurant </b> is a local tavern that exists since 1956. Without losing its traditional character it offers you the opportunity to taste traditional pies (chicken, spinach, onion, cheese pie), pasta, garlic, fish (stuffed with garlic) and bourgeois, many home-made appetizers (taramosalata, tzatziki, cheese, eggplant).
 
 * If you want to taste something sweet you can try the Hanou Patisserie that is located in the central square of the island overlooking the Odysseus statue and has been operating since 1972 with traditional recipes such as rhubanes, truffles and many tasty cakes.
 
@@ -302,7 +303,7 @@ Kythira can provide any traveller a while different experience, it's culture is 
 
 ![](/images/Parachori.jpg)
 
-* <b>No.3 Anemodouri-Arethousa Krini </b> : Before the end of the road from Vathi to Marathias there is a blue sign Arethousa Krini.  From this point begins the path leading to the water spring of the homeric references.If you are an athletic and risky type, you can go downhill to the last junction and you will reach the beach Pera Pigadi (name which refers to the water spring), where the cold waters of the Ionian Sea will compensate you for the heat! 
+* <b>No.3 Anemodouri-Arethousa Krini </b> : Before the end of the road from Vathi to Marathias there is a blue sign Arethousa Krini.  From this point begins the path leading to the water spring of the homeric references.If you are an athletic and risky type, you can go downhill to the last junction and you will reach the beach Pera Pigadi (name which refers to the water spring), where the cold waters of the Ionian Sea will compensate you for the heat!
 
 ![](/images/krini.jpg)
 
@@ -753,7 +754,7 @@ Andros is an island that attracts lots of visitors during the summer period and 
 * [You need to see](#YNTS_serifos)
 
 #### <a name="info_serifos"></a>General Info
-Serifos is a beautiful island of Western Cyclades, in a short ferry ride from Athens. Not much developed in tourism, Serifos island has kept its traditional character and the virgin landscape. Chora is the most picturesque spot in Serifos Greece, constructed on the slopes of a mountain and with fabulous view to the Aegean Sea. The most tourist places are Livadi and Livadakia, while the island has crystal beaches all around its coastline. Ideal for families or romantic couples, many trekking paths also cross the island, providing interesting landscape to explore. 
+Serifos is a beautiful island of Western Cyclades, in a short ferry ride from Athens. Not much developed in tourism, Serifos island has kept its traditional character and the virgin landscape. Chora is the most picturesque spot in Serifos Greece, constructed on the slopes of a mountain and with fabulous view to the Aegean Sea. The most tourist places are Livadi and Livadakia, while the island has crystal beaches all around its coastline. Ideal for families or romantic couples, many trekking paths also cross the island, providing interesting landscape to explore.
 
 #### <a name="beaches_serifos"></a>Beaches
 Andros has many and excellent quality beaches that satisfy all tastes. Beaches for families, fully organised, and easily accessible, but also beaches isolated. Beaches with cold waters and rich sand but also with pebbles and rocks for those who love fishing.
@@ -1334,6 +1335,12 @@ The locals are mostly working in shipping. They have really strong relationships
   * <b>Mounte Monastery</b>: Is a female monastery established in the 13th century with really iconic old pictures. It is located close to Xristos Rachwn in a magnificent green area with amazing view. If it happens you visit this monastery it is worth trying the handmade treats of the nun.
 
   * <b>Koskina Castle</b>: It is located in the center of Ikaria. This castle is also named castle of Nikarias because once is was the most important fort of the island. Having a 10 minute walk you will see the main fort that the legend says it was occupied only once.
+
+### <a name="lesvos"></a>Lesvos
+* [Discover Lesvos](#discoverLesvos)
+
+#### <a name="discoverLesvos"></a>Discover Lesvos
+Lesvos or Mytilini is called it "Archontissa" of the Aegean and hosts unique sights such as churches of particular architectural interest, the Ancient Theater, the Roman Aqueduct, the bronze Statue of Liberty, similar to New York City, and many museums.
 
 ## <a name="saronic"></a>Saronic Gulf
 
