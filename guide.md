@@ -1338,9 +1338,20 @@ The locals are mostly working in shipping. They have really strong relationships
 
 ### <a name="lesvos"></a>Lesvos
 * [Discover Lesvos](#discoverLesvos)
+* [Villages of Lesvos](#villagesLesvos)
 
 #### <a name="discoverLesvos"></a>Discover Lesvos
 Lesvos or Mytilini is called it "Archontissa" of the Aegean and hosts unique sights such as churches of particular architectural interest, the Ancient Theater, the Roman Aqueduct, the bronze Statue of Liberty, similar to New York City, and many museums.
+
+#### <a name="villagesLesvos"></a>Villages of Lesvos
+Mytilene has several places worth visiting.
+
+* [Agiasos](http://www.lesvosgreece.gr/en/agiasos): Located on the slope of Mt. Oympos Agiasos is a place full of nature. Small roads with simple houses but at the same time they look really beautiful with their wooden balconies which are decorated with flowers.
+* [Eressos](https://www.lesvos.com/erressos.html): An important commercial centre in Ancient Greece and the city of the famous poet Sappho.
+* [Plomari](http://www.lesvosgreece.gr/en/plomari): The capital of Ouzo! Visit Plomari, try Ouzo, buy some both for yourself and for your friends at home. It is also very nice to walk during the evening and it is a very commercial and touristic place.
+* [Molyvos or Mithimna](http://www.lesvosgreece.gr/en/molyvos): Molivos is one of the most popular places of the island. It is one of the most picturesque and beautiful villages. It is roughly 60 kilometres from the capital of the island and it certainly is the most touristic village. Its castle is what differentiate it and it is the first thing that every visitor sees as it is built on the highest hill; it is Molivos’ Acropolis. The castle has undergone many repairs both inside and outside, but it is still standing, and it is worth going to the top. There you will enjoy the breath-taking view and you can admire the amazing sunset, which for some unknown reason at least to me, takes shades of purple.
+
+
 
 ## <a name="saronic"></a>Saronic Gulf
 
