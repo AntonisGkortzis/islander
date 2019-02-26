@@ -1338,20 +1338,29 @@ The locals are mostly working in shipping. They have really strong relationships
 
 ### <a name="lesvos"></a>Lesvos
 * [Discover Lesvos](#discoverLesvos)
-* [Villages of Lesvos](#villagesLesvos)
+* [Villages](#villagesLesvos)
+* [Sights](#sightsLesvos)
 * [Where to swim](#swimLesvos)
 * [Where to eat](eatLesvos)
 
 #### <a name="discoverLesvos"></a>Discover Lesvos
 Lesvos or Mytilini is called it "Archontissa" of the Aegean and hosts unique sights such as churches of particular architectural interest, the Ancient Theater, the Roman Aqueduct, the bronze Statue of Liberty, similar to New York City, and many museums.
 
-#### <a name="villagesLesvos"></a>Villages of Lesvos
+#### <a name="villagesLesvos"></a>Villages
 Mytilene has several places worth visiting.
 
 * [Agiasos](http://www.lesvosgreece.gr/en/agiasos): Located on the slope of Mt. Oympos Agiasos is a place full of nature. Small roads with simple houses but at the same time they look really beautiful with their wooden balconies which are decorated with flowers.
 * [Eressos](https://www.lesvos.com/erressos.html): An important commercial centre in Ancient Greece and the city of the famous poet Sappho.
 * [Plomari](http://www.lesvosgreece.gr/en/plomari): The capital of Ouzo! Visit Plomari, try Ouzo, buy some both for yourself and for your friends at home. It is also very nice to walk during the evening and it is a very commercial and touristic place.
 * [Molyvos or Mithimna](http://www.lesvosgreece.gr/en/molyvos): Molivos is one of the most popular places of the island. It is one of the most picturesque and beautiful villages. It is roughly 60 kilometres from the capital of the island and it certainly is the most touristic village. Its castle is what differentiate it and it is the first thing that every visitor sees as it is built on the highest hill; it is Molivos’ Acropolis. The castle has undergone many repairs both inside and outside, but it is still standing, and it is worth going to the top. There you will enjoy the breath-taking view and you can admire the amazing sunset, which for some unknown reason at least to me, takes shades of purple.
+
+#### <a name="sightsLesvos"></a>Sights
+* [The Yeni Tzami](https://www.tripadvisor.com.gr/Attraction_Review-g1450327-d3643574-Reviews-The_Yeni_Tzami_Mosque-Mytilene_Lesbos_Northeast_Aegean_Islands.html): This historical monument from the early 1900s is the biggest Muslim mosque of the island.
+* [Art Gallery](http://www.lesvosgreece.gr/en/municipal-art-gallery): The Municipal Art Gallery is housed on an old three-floor building which belonged to Halim Bey. It hosts one of the most valuable art collections and it is a must visit for the art fans.
+* [Ancient Theatre of Mytilini](http://www.lesvosgreece.gr/en/ancient-theater-mytilini): The ancient theatre from the early Hellenistic years still maintains its characteristics. It looks similar to the Epidaurus theatre and could accommodate 15.000 people. Its sounding was impeccable.
+* [The Theophilos Museum](http://www.lesvosgreece.gr/en/theophilos-museum): The museum first opened in 1965 and since then it has got into the international spotlight. It attracts thousands of visitors each year and hosts and helps professors and students of the Fine Arts.
+* [Statue of Liberty](https://www.greeka.com/eastern_aegean/lesvos/liberty-statue.htm): The statue of Liberty is not an exact imitation and copy of the original, but it strongly resemblances it. It was a gift from Greek people from the US and it is located at the entrance of the port of Mytilini.
+
 
 #### <a name="swimLesvos"></a>Where to swim
 * [Agios Isidoros](https://www.tripadvisor.com.gr/Attraction_Review-g672162-d12728193-Reviews-Agios_Isidoros_Beach-Plomari_Lesbos_Northeast_Aegean_Islands.html): A huge beach with cool and clear waters and white small rocks. It is located next to Plomari and it has umbrellas and sunbeds.
