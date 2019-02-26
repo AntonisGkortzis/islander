@@ -229,7 +229,6 @@ Corfu is the second largest of the ionian islands. It has been a part of greek m
 * [Breathtaking Views](#viewskyth)
 * [Great nature](#naturekyth)
 * [So, why kythira](#whykyth)
-* [Tips from a local](#tips_kyth)
 
 #### <a name="infokyth"></a>Well it is...
 And it's beautiful. It is located under Pelopponese and the combination of the 3 open seas around it and the various influences from a wide variety of civilizations occupying it through the centuries ,has created a unique scenery. The island was a crossroad for merchants since the ancient times and also a fortress during wars due to its significant strategic position. The result of that reflects on the island's architecture, traditions and customs. Beside it's diversity, Kythira is also believed to be the island of Aphrodite,an ancient godess-protector of pure love. Due to that, during the modern days the island is believed to have an ability to create and maintain pure forever-lasting relationships for its occupants and visitors ,which is also the reason why many couples visit the island annually.:heart:
@@ -252,12 +251,7 @@ Kythira can provide any traveller a whole different experience, it's culture is 
 
 ![](/images/Kythira_cave.jpg)(www.kythera.gr)
 
-If all the above didn't convince you yet,well you should definately watch the following video from a drone :heart_eyes: [Kythira from Above](https://www.youtube.com/watch?v=pdA6xu342QA) 
-
-#### <a name="tips_kyth"></a>Tips from a local
-Must do on the island : You need to take captain Spyros Glass Bottom boat to the small island of Hytra the only place where the local flower Sempreviva grows. There you can use captain Spyros equipment to dive into the light blue waters and if you're a bit lucky you may face sea turtles staring at you  :turtle:
-Moreover don't hesitate asking the locals for traditional recipes , the will provide you with everything you need and probably also invite you for a proper kytherian dinner where you can taste the best food you can get on the island, i ensure you you will feel like you're visiting your grandmother for a weekend :whale: :stuck_out_tongue_closed_eyes:
-
+If all the above didn't convince you yet,well you should definately watch the following video from a drone :heart_eyes: [Kythira from Above](https://www.youtube.com/watch?v=pdA6xu342QA)
 
 
 ### <a name="ithaca"></a>Ithaca
@@ -1688,7 +1682,55 @@ It is packed with families thanks to its really shallow waters.  Along the way, 
 
 * Paralia
 
-Located on the beach of Salamina, it serves delicious seafood, octopus, sardines, squid
+Located on the beach of Salamina, it serves delicious seafood, octopus, sardines, squid.
+
+### <a name="Poros"></a>Poros
+  * [Discover Poros](#discoverPoros)
+  * [Where to swim](#swimPoros)
+  * [Where to eat](#eatPoros)
+  * [What  to see](#seePoros)
+
+#### <a name="discoverPoros"></a>Discover Poros
+A small island of the Saronic Gulf, Poros is a relaxing place for family vacations. As it is only an hour ferry ride from Athens, Poros island is a popular weekend destination in summer. The Town, constructed on the slopes of a hill, is the center of most activities on the island.
+
+![](/images/poros_1.jpg)
+#### <a name="swimPoros"></a>Where to swim
+* Askeli Beach Poros
+
+Located on one side of the village of Askeli (a few km north east of Poros Town), Askeli Beach is a beautiful long and large beach with golden sand and deep clear waters. A beach-volley court can be found on the beach. Bars, hotels, shops and taverns are available in the village of Askeli, near the beach. Askeli Beach is reachable by a local bus departing from Poros Town.
+
+![](/images/poros_2.jpg)
+
+* Love Bay Beach Poros:
+
+This adorable and charming bay is a real paradise on earth with fine white pebbles and sand and amazing crystal emerald waters. The beach is surrounded with pine trees and a camping site is located right under the shadow of the verdant vegetation. The superb beach of Lover Bay is reachable by the same bus that goes to Russian Bay, departing every hour from Poros Town.
+
+![](/images/poros_3.jpg)
+
+* Megalo Neorio Beach Poros
+
+ The large beach of Megalo (Large) Neorio is situated a few km north west of Neorio Beach. It also has to offer fine golden sand and crystal clear waters. A water sports centre is located on the beach and has all the needed facilities for every water sport. Hotels and taverns are also available in the area. Megalo Neorio Beach can be reached through a footpath from Neorio Beach.
+
+ ![](/images/poros_4.jpg)
+
+
+#### <a name="eatPoros"></a>Where to eat
+* Askeli
+
+This is a traditional Greek tavern located right on the beach of Askeli, the most popular beach of Poros
+
+#### <a name="seePoros"></a>What to see
+* Poros Clock Tower
+
+Visitors to the picturesque island of Poros identify it with its landmark, the Clock Tower. This clock tower was built in 1927 and is an imposing feature. It is definitely a bit of a climb from the waterfront being the highest point of the island, but when you reach it, the view from there is breathtaking and worth the effort. The clock tower also attracts a number of photographers for the view it offers, the coming together of land, water and sky.
+
+ ![](/images/poros_5.jpg)
+
+ * The monastery of Zoodochos Pigi on Poros
+
+  On the slopes of a large pine forest, 4 km east of the main city on Poros, lies the Holy Monastery of Zoodochos Pigi. This old monastery is an integral part of the history of Poros and has a rich heritage displayed within its walls.
+
+![](/images/poros_6.jpg)
 
 ## <a name="evia_island"></a>Evia
 The island of Evia is one of the closest to Athens and yet it is one of the most unknown. That is because Evia is so large that there is much to know about it. Second in size to Crete, it stretches from the tip of the Pelion Peninsula all the way south to the coast of Attika. It's southern tip is just a short distance from the Cycladic islands of Andros and Kea though unfortunately there is no ferry connection. If there were, more tourists would come here. As it is, because it is so close to the mainland that you can drive to it, Evia has been and remains a popular summer holiday destination for Greeks and Greek-Americans, Canadians, Australians and others whose families originally came from the island.The topography of the island is as varied as anywhere in Greece, with sparkling Aegean beaches and coves on its east coast, a mountainous interior with rivers, streams and forests, a west coast that is a mix of beaches, the city of Halkida, large towns, industry, agriculture, beaches and wetlands. And in the northwest the town of Edipsos is the most popular spa in Greece, with hot water gushing from rocks and crevices into the sea and pools of the many hotels and healing centers.There are several ways to reach Evia from Athens. Which way you choose depends on where in Evia you want to go, because as I said; Evia is a very large island and a very long one. How large and long? From one tip to the other could take you four or five hours by car.  You could drive almost to Thessaloniki from Athens in that time. Of course much of the journey will be on narrow winding roads where there is a good possibility that you will be stuck behind a big slow moving truck with nowhere to pass for at least part of the journey. And most likely you will stop to wade in the cool waters of the Kirea river that runs alongside the road that goes north from the modern city of Halkida to the fishing village of Limni, the spas of Edipsos and the beautiful beaches of the northern coast.
