@@ -686,7 +686,7 @@ Donousa has a population of 160; its inhabitants make their living from fishing,
 Donoussa has been known by this name since the Geometric era, a fact confirmed by the identification of Geometric-era ruins at several sites on the island.
 According to the mythology, the island is where Dionyssos hid Ariadne so Theseus would not be able to find her.
 
-#### <a name="beaches></a>Lets go to beach
+#### <a name="beaches"></a>Lets go to beach
 * [Kedros]
 ![](./images/kedros.jpg)
 
