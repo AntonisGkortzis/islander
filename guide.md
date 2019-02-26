@@ -1004,6 +1004,12 @@ In 1704 monks from Athos built the Evangelistria Monastery, which played a part 
 
 ![](./images/lechouni.jpg)
 
+#### <a name="eatSkiathos"></a>Where to eat
+* [Limanaki Tavern](https://www.tripadvisor.com.gr/Restaurant_Review-g775993-d1928279-Reviews-Limanaki-Skiathos_Town_Skiathos_Sporades.html)
+* [Marmita](https://www.tripadvisor.com.gr/Restaurant_Review-g775993-d4195146-Reviews-Marmita-Skiathos_Town_Skiathos_Sporades.html)
+* [Platanos Restaurant](https://www.tripadvisor.com.gr/Restaurant_Review-g775993-d2162863-Reviews-Platanos_Restaurant-Skiathos_Town_Skiathos_Sporades.html)
+* [Scuna Restaurant](https://www.tripadvisor.com.gr/Restaurant_Review-g775993-d1116122-Reviews-Scuna_Restaurant-Skiathos_Town_Skiathos_Sporades.html)
+
 ## <a name="dodecanese"></a>Dodecanese
 
 ### <a name="symi"></a>Symi
