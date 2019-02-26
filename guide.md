@@ -24,6 +24,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Kythnos](#kythnos)
   * [Milos](#milos)
   * [Donousa](#donousa)
+  * [Andros](#andros)
 * [Sporades](#sporades)
   * [Skopelos](#skopelos)
   * [Alonnisos](#alonnisos)
@@ -632,6 +633,49 @@ According to the mythology, the island is where Dionyssos hid Ariadne so Theseus
 * <b>Warship ruins in Kedros beach</b>:  the ruins of a German warship sunk by the Allied Forces in the second world war, can be seen on the seabed.
 ![](./images/warship.jpg)
 
+### <a name="andros"></a>Andros
+* [General Info](#info_andros)
+* [Beaches](#beaches_andros)
+* [Food](#food_andros)
+* [Night Life](#nightlife_andros)
+
+#### <a name="info_andros"></a>General Info
+Andros is the northrnmost and most unique island of the Cyclades. The rich nature and majestry of the island, combined with the abundant waters and the particular terrain, that gives Andros a special Cycladic character.
+
+#### <a name="beaches_andros"></a>Beaches
+Andros has many and excellent quality beaches that satisfy all tastes. Beaches for families, fully organised, and easily accessible, but also beaches isolated. Beaches with cold waters and rich sand but also with pebbles and rocks for those who love fishing.
+
+<b>Fellos</b>
+Fellos locates at northwest department of the Island. It has very long sandy beach with crystal clear waters and depth of which varies, but it's not organized.
+
+![](/images/fellos_andros.png)
+
+<b>San Petros</b>
+San Petros locates next to the main road leading Batsi to Gavrio. It's the biggest beach of the island, sandy, with shallow waters. It's a fully organized beach that include beach bar and family taverns.
+
+![](/images/San_petros_andros.jpg)
+
+<b>Golden Sand</b>
+Golden Sand locates next to the main road leading Batsi to Gavrio. It is the most cosmopolitan and the most popular beach of Andros. It's organized, eith beach bar and loud music. As its name suggests, it is paved with fine sand.
+
+![](/images/golden_sand_andros.jpg)
+
+#### <a name="food_andros"></a>Food
+
+* [Endochora](http://www.endochora.com/)
+
+* [Oti Kalo](https://www.e-kyklades.gr/showroom/tourism/OTIKALO?lang=en)
+
+* [Ta Mpinelikia](https://www.tripadvisor.com.gr/Restaurant_Review-g2698285-d8572189-Reviews-Ta_Binelikia-Andros_Town_Andros_Cyclades_South_Aegean.html)
+
+* [Ta Skalakia](https://www.tripadvisor.com.gr/Restaurant_Review-g580193-d2457509-Reviews-Ta_Skalakia-Andros_Cyclades_South_Aegean.html)
+
+#### <a name="nightlife_andros"></a>Night Life
+Andros is an island that attracts lots of visitors during the summer period and offers many suggestions for a night out. Chora, the capital town, offers a wide variety of lounge cafes and bars that stay open till around midnight. Such bars can also be found in Batsi, Gavrio and Ormos Korthiou that are the most tourist places on the island.
+
+* [Capriccio](https://foursquare.com/v/capriccio/4c40e5b8d7fad13a87ba06da)
+
+* [Moomba Afterlight](https://foursquare.com/v/moomba--restaurant--bar--afterlight/51c62218498e52a022de7514/photos)
 
 ## <a name="sporades"></a>Sporades
 
