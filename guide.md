@@ -302,8 +302,6 @@ If all the above didn't convince you yet,well you should definately watch the fo
 
 * <b> Sirens </b> is a combination of local and gourmet cuisine, where you can find pies,jams, saganaki, rabbit stiphado and other traditional foods.
 
-* <b>
-
 * If you want to taste something sweet you can try the Hanou Patisserie that is located in the central square of the island overlooking the Odysseus statue and has been operating since 1972 with traditional recipes such as rhubanes, truffles and many tasty cakes.
 
 ![](/images/tsirimpis.jpg)
