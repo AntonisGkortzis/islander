@@ -266,7 +266,7 @@ Moreover don't hesitate asking the locals for traditional recipes , the will pro
 * [Best Restaurants in Ithaca](#restaurants_ithaca)
 * [Best Places to Stay in Ithaca](#places_to_stay)
 * [Best Parks & Nature Attractions in Ithaca](#attractions)
-
+* [What Else...](#what_else)
 
 
 
@@ -327,6 +327,13 @@ Moreover don't hesitate asking the locals for traditional recipes , the will pro
 * <b>No.3 Anemodouri-Arethousa Krini </b> : Before the end of the road from Vathi to Marathias there is a blue sign Arethousa Krini.  From this point begins the path leading to the water spring of the homeric references.If you are an athletic and risky type, you can go downhill to the last junction and you will reach the beach Pera Pigadi (name which refers to the water spring), where the cold waters of the Ionian Sea will compensate you for the heat!
 
 ![](/images/krini.jpg)
+
+#### <a name="what_else"></a>What else...
+* If you are an adventure lover, you can visit <b>Odyssey Diving and Sea Kayak Club</b> where you can find the right equipment for every activity. Then you can explore the bottom of the sea and some of the secret beaches. 
+Check it out here- https://www.youtube.com/watch?v=5oyje83lrOY
+
+
+
 
 ## <a name="cyclades"></a>Cyclades
 
