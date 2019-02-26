@@ -16,12 +16,13 @@ The outcome will be published as an unofficial travel guide! [(Check last years'
 - Commit your changes
 - Push to the GitHub repository (if required pull and resolve merge conflicts)
 
-**Deadline – 12:59 PM, Feb 27, 2019** 
+**Deadline – 12:59 PM, Feb 27, 2019**
 
 ## Tips
 - Include links where necessary (i.e., locations, bars, etc.)
 - You can include pictures, but don't forget to commit and push them. Pictures should be placed in the ```Photos/``` directory
 - Rearrange text if you think that it should be organized different - refactorings are always welcome!
+- Use references for pictures and videos - You cannot reuse web content without citing the original source
 
 ## Grading system
 - Number of contributions - the more the better
