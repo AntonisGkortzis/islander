@@ -749,7 +749,7 @@ Andros is an island that attracts lots of visitors during the summer period and 
 ### <a name="serifos"></a>Serifos
 * [General Info](#info_serifos)
 * [Beaches](#beaches_serifos)
-* [You need to see)(#YNTS_serifos
+* [You need to see](#YNTS_serifos)
 
 #### <a name="info_serifos"></a>General Info
 Serifos is a beautiful island of Western Cyclades, in a short ferry ride from Athens. Not much developed in tourism, Serifos island has kept its traditional character and the virgin landscape. Chora is the most picturesque spot in Serifos Greece, constructed on the slopes of a mountain and with fabulous view to the Aegean Sea. The most tourist places are Livadi and Livadakia, while the island has crystal beaches all around its coastline. Ideal for families or romantic couples, many trekking paths also cross the island, providing interesting landscape to explore. 
