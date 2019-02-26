@@ -1339,6 +1339,7 @@ The locals are mostly working in shipping. They have really strong relationships
 ### <a name="lesvos"></a>Lesvos
 * [Discover Lesvos](#discoverLesvos)
 * [Villages of Lesvos](#villagesLesvos)
+* [Where to swim](#swimLesvos)
 
 #### <a name="discoverLesvos"></a>Discover Lesvos
 Lesvos or Mytilini is called it "Archontissa" of the Aegean and hosts unique sights such as churches of particular architectural interest, the Ancient Theater, the Roman Aqueduct, the bronze Statue of Liberty, similar to New York City, and many museums.
@@ -1351,7 +1352,12 @@ Mytilene has several places worth visiting.
 * [Plomari](http://www.lesvosgreece.gr/en/plomari): The capital of Ouzo! Visit Plomari, try Ouzo, buy some both for yourself and for your friends at home. It is also very nice to walk during the evening and it is a very commercial and touristic place.
 * [Molyvos or Mithimna](http://www.lesvosgreece.gr/en/molyvos): Molivos is one of the most popular places of the island. It is one of the most picturesque and beautiful villages. It is roughly 60 kilometres from the capital of the island and it certainly is the most touristic village. Its castle is what differentiate it and it is the first thing that every visitor sees as it is built on the highest hill; it is Molivos’ Acropolis. The castle has undergone many repairs both inside and outside, but it is still standing, and it is worth going to the top. There you will enjoy the breath-taking view and you can admire the amazing sunset, which for some unknown reason at least to me, takes shades of purple.
 
-
+#### <a name="swimLesvos"></a>Where to swim
+* [Agios Isidoros](https://www.tripadvisor.com.gr/Attraction_Review-g672162-d12728193-Reviews-Agios_Isidoros_Beach-Plomari_Lesbos_Northeast_Aegean_Islands.html): A huge beach with cool and clear waters and white small rocks. It is located next to Plomari and it has umbrellas and sunbeds.
+* [Vatera](http://www.lesvosgreece.gr/en/vatera-beach): The longest beach of Lesvos; it is 9 kilometers. Its blue waters and white sand offer an amazing experience.
+* [Panagiouda or Palm Tree Forest](https://www.aegeanvacation.com/panagiouda): A beautiful beach with a lot of Palm Trees.
+* [Anaxos](http://www.lesvosgreece.gr/en/petra-anaxos-beaches): An organized beach full of white sand. It is a location full of villas, taverns and hotels.
+* [Eftalou](https://www.greeka.com/eastern_aegean/lesvos/lesvos-beaches/lesvos-eftalou.htm): A pebbled and sandy beach and it is very popular for the natural springs that are located right next to the beach.
 
 ## <a name="saronic"></a>Saronic Gulf
 
