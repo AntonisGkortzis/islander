@@ -11,6 +11,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Paxoi](#paxoi)
   * [Corfu (Kerkyra)](#corfu)
   * [Kythira](#kythira)
+  * [Ithaca](#ithaca)
 * [Cyclades](#cyclades)
   * [Santorini](#santorini)
   * [Ios](#ios)
@@ -238,6 +239,72 @@ During Summer if you feel like you need some place to chill under a tree after a
 Kythira can provide any traveller a while different experience, it's culture is so different from any other island and the locals are so friendly the will make you feel like you visited your grandmother's house.All the traditional food, the scenery,the beaches and even the long walks in the cliffs during sunset will make you feel like you are in heaven. At last, as the locals say "If you visit Kythira once, you will fall in love with it"!
 
 ![](/images/Kythira_cave.jpg)
+
+
+### <a name="ithaca"></a>Ithaca
+* [General Informations About the Island](#general_informations)
+* [Best Beaches in Ithaca](#beaches_ithaca)
+* [Best Restaurants in Ithaca](#restaurants_ithaca)
+* [Best Places to Stay in Ithaca](#places_to_stay)
+* [Best Parks & Nature Attractions in Ithaca](#attractions)
+
+
+
+#### <a name="general_informations"></a> 
+ * <b>The island of Odysseus</b> :The hero's adventurous journey to his homeland of Ithaca made this island mythical, immortal. The intense alternations of the landscape, adorned with the beauties of wild and calm nature, make up a provocatively special relief. Traditional settlements, deep blue waters and many landscapes are waiting for you to visit them!!! 
+
+  * <b>About the nightlife in Ithaca island </b> : Nightlife in Ithaca is restricted to few taverns and lounge bars. The waterfronts of Vathi, Frikes and Kioni are lined up with many delicious restaurants and taverns that usually stay till a bit after midnight, creating a romantic atmosphere. Such taverns can also be found in the mountainous villages of Ithaca. Usually in the evenings, the cafeterias of Ithaca turn into lounge bars and stay open till a bit after midnight. Generally, nights in Ithaca are peaceful and romantic.
+
+  ![](/images/ithaca.jpg)
+
+#### <a name="beaches_ithaca"></a>Beaches in Ithaca :
+
+* <b>Dexa</b> : Situated 1.5 km north from Vathi, at the other side of the port, on the road to Aetos, this blue flagged beach is ideal for families with children, as it offers organized facilities.
+
+![](/images/dexa.jpg)
+
+* <b>Platia Ammos</b> : One of the best beaches on Ithaca that combines sand and wonderful pebbles as well as clear water, is accessible only by boat but you should visit it!!!
+
+![](/images/platia-ammos.jpg)
+
+* <b>Sarakiniko</b> : A magnificent pebbly beach with rich natural beauty and crystal clear waters. Ideal for relaxation, while the trees present offer ample shade.
+
+![](/images/sarakiniko.jpg)
+
+* <b>Filiatro</b> : The beach is the closest to Vathi, ideal for those who stay close to the city. It has crystal clear waters and is surrounded by trees that reach the sea.
+
+![](/images/filiatro.jpg)
+
+#### <a name="restaurants_ithaca"></a>Locale Cuisine :
+* <b> Tsirimbis Restaurant </b> is a local tavern that exists since 1956. Without losing its traditional character it offers you the opportunity to taste traditional pies (chicken, spinach, onion, cheese pie), pasta, garlic, fish (stuffed with garlic) and bourgeois, many home-made appetizers (taramosalata, tzatziki, cheese, eggplant). 
+
+* If you want to taste something sweet you can try the Hanou Patisserie that is located in the central square of the island overlooking the Odysseus statue and has been operating since 1972 with traditional recipes such as rhubanes, truffles and many tasty cakes.
+
+![](/images/tsirimpis.jpg)
+
+
+#### <a name ="places_to_stay"></a>Accomodation in Ithaca :
+ * The capital and port of the  island is <b>Vathi </b>.Vathi is an ideal starting point to get to know all the sights of the island. Just 3 km south, the picturesque Perachori with the magnificent view.
+ You can choose hotel or rental rooms in Vathi or Perachori such as Hotel Familia,Korina Gallery Hotel, Bay View House, Alicelia Boutique Inn and Christina Apartments, Erigonis Simiri House.  
+
+![](/images/accomodation_ithaca.jpg)
+
+#### <a name="attractions"></a> The Top 3 Attractions for Nature-Lovers:  
+* <b>No.1 Palaiochora-Nymphs Cave-Vathi</b> : From there begins the path that will lead you from Palaiochora to the cave where Odysseus hid the gifts of Phaeacians when he finally arrived in Ithaca.There are stone benches all over the route that offers you the chance to see the view of the bay of Ithaca and the Ionian Sea. The path passes through the buildings of the medievalk settlement of the island. From there you will go to Nymphs Cave and finally to Vathi.
+
+![](/images/vathi.jpg)
+
+* <b>No.2 Parachori-Agia Paraskevi-Dasos-Agios Gerasimos</b> : The forest of Perachori is just above the first houses of the village.Walking through the woods is quite easy and you will in your path two white chapels.The small chapel of Agia Paraskevi will appear in front of you amongst the tall trees. The panoramic views to Perachori and the Ionian Sea will take your breath away.   
+
+![](/images/Parachori.jpg)
+
+* <b>No.3 Anemodouri-Arethousa Krini </b> : Before the end of the road from Vathi to Marathias there is a blue sign Arethousa Krini.  From this point begins the path leading to the water spring of the homeric references.If you are an athletic and risky type, you can go downhill to the last junction and you will reach the beach Pera Pigadi (name which refers to the water spring), where the cold waters of the Ionian Sea will compensate you for the heat! 
+
+![](/images/krini.jpg)
+
+
+
+
 
 ## <a name="cyclades"></a>Cyclades
 
