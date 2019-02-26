@@ -782,11 +782,15 @@ According to the mythology, the island is where Dionyssos hid Ariadne so Theseus
 
 #### <a name="beaches"></a>Lets go to beach
 * Kedros
+
+
 ![](./images/kedros.jpg)
 
 Source: [https://gr.pinterest.com/pin/576249714803318079/?lp=true]
 
 * Meltemi
+
+
 ![](./images/meltemi.jpg)
 
 Source: [https://www.e-kyklades.gr/travel/tourism/donousa?lang=en&regionCd=DONOUSA]
@@ -798,7 +802,9 @@ Source: [https://www.e-kyklades.gr/travel/tourism/donousa?lang=en&regionCd=DONOU
 
 
 #### <a name="sights_don"></a>Sights to see :eyes:
-* <b>Warship ruins in Kedros beach</b>:  the ruins of a German warship sunk by the Allied Forces in the second world war, can be seen on the seabed.
+* <b>Warship ruins in Kedros beach</b>: the ruins of a German warship sunk by the Allied Forces in the second world war, can be seen on the seabed.
+
+
 ![](./images/warship.jpg)
 
 ### <a name="andros"></a>Andros
