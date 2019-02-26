@@ -27,6 +27,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Donousa](#donousa)
   * [Andros](#andros)
   * [Serifos](#serifos)
+  * [Folegandros](#folegandros)
 * [Sporades](#sporades)
   * [Skopelos](#skopelos)
   * [Alonnisos](#alonnisos)
@@ -762,13 +763,48 @@ The beach of Livadi is on the south-eastern side of Serifos, 4.5 km below Chora.
 
 ![](/images/livadi_serifos.jpg)
 
-#### <a name="YNTS"></a>You need to see
+#### <a name="YNTS_serifos"></a>You need to see
 
 <b>Serifos Old Mines</b>
 
 Old Mines located in Megalo Livadi Serifos. An integral part of the history of Serifos are the mines, some of which have galleries and facilities and the visitor can see them in the southwestern part of the island.
 
 ![](/images/mines_serifos.jpg)
+
+### <a name="folegandros"></a>Folegandros
+* [General Info](#info_folegandros)
+* [Beaches](#beaches_folegandros)
+* [Food](#food_folegandros)
+* [Things to do](#TTD_folegandros)
+
+#### <a name="info_folegandros"></a>General Info
+Folegandos belongs to the complex of the South-West Cyclades. It lies between Milos and Sikinos and is 104n.m. away from the Port of Piraeus.The island’s terrain is rocky. There are bushes and low vegetation with seasonal greens and herbs. The dry stones covering almost the whole island define arable lands, most of which remain unexploited. Small crops (mainly wheat, barley, oil, wine, legumes, onions, vegetables and figs) constitute a supplementary source of income for a limited number of households.  The climate is dry, characterized by little rainfall, cool summers and mild winters.Folegandros as a whole has been declared an Important Bird Area in Greece.
+
+#### <a name="beaches_folegandros"></a>Beaches
+
+<b>Agali</b>
+The splendid Agali beach is one of the most crowded beaches of the island. The beach is particularly busy in the summer months and needless to say, the tavernas here at this beach are open only during the summer months. If you have come with the mindset of staying overnight, there are a few rooms to let. The Agali beach is ideal for swimmers.
+
+![](/images/agali_folegandros.jpg)
+
+<b>Karavostasi</b>
+The Karavostasi beach is ideally located in close proximity to the port. This beach is perfect for swimming and the waters are crystal clear. This is one beach where you will find lots of trees that provide shade during the sweltering summer season.
+
+![](/images/karavostasi_folegandros.jpg)
+
+#### <a name="food_folegandros"></a>Food
+
+* [Blue Cuisine](https://www.bluecuisine.gr/)
+* [To Goupi](https://foursquare.com/v/%CF%84%CE%BF-%CE%B3%CE%BF%CF%85%CF%80%CE%AF/4e417a031495c3b7024a63b5)
+* [Pane a Vino Ristorante pizzeria](https://www.tripadvisor.co.za/ShowUserReviews-g189426-d4686462-r481317756-Pane_e_Vino_Ristorante_pizzeria-Folegandros_Cyclades_South_Aegean.html)
+
+#### <a name="TTD_folegandros"></a>Things to do
+
+<b>Explore the Underwater World</b>
+With spectacular landscapes and nature, it is not surprising that Folegandros’ underwater world is equally impressive. Go for scuba diving and snorkeling, or you can even free diving for advanced swimmers, to explore the wonders of the crystal-clear waters.
+
+![](/images/underwater_folegandros.jpg)
+
 
 ## <a name="sporades"></a>Sporades
 
