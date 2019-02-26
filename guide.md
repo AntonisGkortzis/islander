@@ -1340,6 +1340,7 @@ The locals are mostly working in shipping. They have really strong relationships
 * [Discover Lesvos](#discoverLesvos)
 * [Villages of Lesvos](#villagesLesvos)
 * [Where to swim](#swimLesvos)
+* [Where to eat](eatLesvos)
 
 #### <a name="discoverLesvos"></a>Discover Lesvos
 Lesvos or Mytilini is called it "Archontissa" of the Aegean and hosts unique sights such as churches of particular architectural interest, the Ancient Theater, the Roman Aqueduct, the bronze Statue of Liberty, similar to New York City, and many museums.
@@ -1358,6 +1359,12 @@ Mytilene has several places worth visiting.
 * [Panagiouda or Palm Tree Forest](https://www.aegeanvacation.com/panagiouda): A beautiful beach with a lot of Palm Trees.
 * [Anaxos](http://www.lesvosgreece.gr/en/petra-anaxos-beaches): An organized beach full of white sand. It is a location full of villas, taverns and hotels.
 * [Eftalou](https://www.greeka.com/eastern_aegean/lesvos/lesvos-beaches/lesvos-eftalou.htm): A pebbled and sandy beach and it is very popular for the natural springs that are located right next to the beach.
+
+#### <a name="eatLesvos"></a>Where to eat
+* [Chtapodi](https://www.xo.gr/profile/profile-911229188/en/): Located at the port of Molivos a unique traditional villa made of stone. There you can enjoy ouzo, fresh dishes and fish all cooked with traditional and local recipes. The vegetables come from the garden of the owner and the fish are caught earlier in the morning.
+* [Ermis](https://www.tripadvisor.com.gr/Restaurant_Review-g1450327-d3595754-Reviews-Kafeneion_O_Ermis-Mytilene_Lesbos_Northeast_Aegean_Islands.html): It is impossible for someone to visit Lesvos and not go at Ermis for food, ouzo or some snacks. It has an atmosphere of a café of the 1900s with old furniture as it used to be a Turkish cafe. It is located near the old port and at summer its garden is a meeting point of the locals.
+[Soulatso](https://www.tripadvisor.com.gr/Restaurant_Review-g1191369-d1871917-Reviews-Soulatso-Skala_Eresou_Lesbos_Northeast_Aegean_Islands.html): Located at Skala Eresou next to the beach. It is kind of a tradition to go to the beach, stay there all day and then go at Soulatso. Try the Mullet (barbouni) and you will remember me.
+
 
 ## <a name="saronic"></a>Saronic Gulf
 
