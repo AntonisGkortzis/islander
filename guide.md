@@ -413,11 +413,21 @@ Situated on the beach of Paradise Beach, the Paradise Club is considered as the 
 
 ![](/images/paradise_mykonos.jpg)
 
+
+source:https://www.google.com/search?q=mykonos+paradise&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjqy7DltNTgAhXqMewKHWowBH4Q_AUIDigB&biw=1536&bih=722#imgrc=VX0eoTiCzR2_QM
+
 * [Tropicana Beach Bar](https://www.tropicanamykonos.com/) (Paradise beach, Mykonos)
 Open daily from 9.00 to 1.00.
 Located Paradise Beach, the Tropicana Beach Bar is one of the most known for partying in Mykonos, a veritable institution for its Wild beach parties which attract many young people coming from all over Europe with the sole purpose of having fun.
 
 ![](/images/tropicana_mykonos.jpg)
+
+
+
+source:https://www.google.com/search?biw=1536&bih=674&tbm=isch&sa=1&ei=nJNyXI6QCIGRkwXy34iQCA&q=tropicana+beach+bar+mykonos&oq=tropicana+bar+m&gs_l=img.3.0.0i8i30l3.47815.57614..59014...1.0..1.213.2088.0j14j1......2....1..gws-wiz-img.....0..35i39j0j0i67j0i30j0i19j0i5i30i19j0i8i30i19j0i5i30.XIoJ3Yo1zbU#imgrc=YFyDSfjyplu8vM
+
+
+
 
 * [Cavo Paradiso](https://www.cavoparadiso.gr/) (Paradise Beach, Mykonos)
 Open daily from 23.30 to 7.30.
@@ -425,16 +435,28 @@ Located on a hill that overlooks Paradise Bay and with a breathtaking view of th
 
 ![](/images/cavo_mykonos.jpg)
 
+
+source:https://www.google.com/search?biw=1536&bih=674&tbm=isch&sa=1&ei=2JNyXL-4IY_9kwX42pPgBg&q=cavo+paradiso&oq=cavo+p&gs_l=img.3.0.0j0i67j0l4j0i30l4.29408.30893..32005...0.0..0.203.902.0j5j1......1....1..gws-wiz-img.......35i39.XxWpoPJ7OWg#imgrc=NsbFBfk4Pok1cM:
+
 * [Super Paradise](https://www.superparadise.com.gr/) (Super Paradise Beach, Mykonos)
 Super Paradise Beach and the club are a party continues, between sea, animation, dancers and dancers, dance performances and music blaring, that focuses on Greek and international hits. But above all, lots of people having fun from morning to night.
 
 ![](/images/super_mykonos.jpg)
+
+
+
+source:https://www.google.com/search?biw=1536&bih=674&tbm=isch&sa=1&ei=-ZNyXK-dKsLekgWCobOwCQ&q=super+paradise+mykonos&oq=super+pa&gs_l=img.3.1.0l10.19793.21488..22934...0.0..0.193.1091.0j8......1....1..gws-wiz-img.......35i39j0i67.ikSIAjLwERo#imgrc=A0arKsSGwuWvDM:
+
+
 
 * [Scandinavian Bar](http://www.skandinavianbar.com/) (Agios Ioannis Barkia, Mykonos)
 Open daily from 20.00 to 6.00.
 True icon of Mykonos nightlife Since 1978, lo Scandinavian Bar over the years remained one of the most beloved and popular night hangout spots on the island. A must for many young people and tourists who begin their evenings: the bar serves a variety of cocktails and great music, which ranges from dance, Rock and carefree songs.
 
 ![](/images/scan_mykonos.jpg)
+
+
+source:https://www.google.com/search?biw=1536&bih=674&tbm=isch&sa=1&ei=EZRyXLyNMM_isAfLpLm4CQ&q=scandinavian+bar+mykonos&oq=scandinavian+bar+mykonos&gs_l=img.3..0i10i24.34102.43485..43648...1.0..0.223.3443.0j21j2......1....1..gws-wiz-img.......35i39j0i67j0j0i30j0i19j0i30i19j0i8i30i19.7DL2G0Ovt4I#imgrc=zIz7Ws0IwEI7nM:
 
 ### <a name="antiparos"></a>Antiparos
 * [Some History](#info_antiparos)
