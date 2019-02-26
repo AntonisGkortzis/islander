@@ -1363,7 +1363,7 @@ Mytilene has several places worth visiting.
 #### <a name="eatLesvos"></a>Where to eat
 * [Chtapodi](https://www.xo.gr/profile/profile-911229188/en/): Located at the port of Molivos a unique traditional villa made of stone. There you can enjoy ouzo, fresh dishes and fish all cooked with traditional and local recipes. The vegetables come from the garden of the owner and the fish are caught earlier in the morning.
 * [Ermis](https://www.tripadvisor.com.gr/Restaurant_Review-g1450327-d3595754-Reviews-Kafeneion_O_Ermis-Mytilene_Lesbos_Northeast_Aegean_Islands.html): It is impossible for someone to visit Lesvos and not go at Ermis for food, ouzo or some snacks. It has an atmosphere of a café of the 1900s with old furniture as it used to be a Turkish cafe. It is located near the old port and at summer its garden is a meeting point of the locals.
-[Soulatso](https://www.tripadvisor.com.gr/Restaurant_Review-g1191369-d1871917-Reviews-Soulatso-Skala_Eresou_Lesbos_Northeast_Aegean_Islands.html): Located at Skala Eresou next to the beach. It is kind of a tradition to go to the beach, stay there all day and then go at Soulatso. Try the Mullet (barbouni) and you will remember me.
+* [Soulatso](https://www.tripadvisor.com.gr/Restaurant_Review-g1191369-d1871917-Reviews-Soulatso-Skala_Eresou_Lesbos_Northeast_Aegean_Islands.html): Located at Skala Eresou next to the beach. It is kind of a tradition to go to the beach, stay there all day and then go at Soulatso. Try the Mullet (barbouni) and you will remember me.
 
 
 ## <a name="saronic"></a>Saronic Gulf
