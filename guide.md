@@ -26,6 +26,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Milos](#milos)
   * [Donousa](#donousa)
   * [Andros](#andros)
+  * [Serifos](#serifos)
 * [Sporades](#sporades)
   * [Skopelos](#skopelos)
   * [Alonnisos](#alonnisos)
@@ -744,6 +745,30 @@ Andros is an island that attracts lots of visitors during the summer period and 
 * [Capriccio](https://foursquare.com/v/capriccio/4c40e5b8d7fad13a87ba06da)
 
 * [Moomba Afterlight](https://foursquare.com/v/moomba--restaurant--bar--afterlight/51c62218498e52a022de7514/photos)
+
+### <a name="serifos"></a>Serifos
+* [General Info](#info_serifos)
+* [Beaches](#beaches_serifos)
+* [You need to see)(#YNTS_serifos
+
+#### <a name="info_serifos"></a>General Info
+Serifos is a beautiful island of Western Cyclades, in a short ferry ride from Athens. Not much developed in tourism, Serifos island has kept its traditional character and the virgin landscape. Chora is the most picturesque spot in Serifos Greece, constructed on the slopes of a mountain and with fabulous view to the Aegean Sea. The most tourist places are Livadi and Livadakia, while the island has crystal beaches all around its coastline. Ideal for families or romantic couples, many trekking paths also cross the island, providing interesting landscape to explore. 
+
+#### <a name="beaches_serifos"></a>Beaches
+Andros has many and excellent quality beaches that satisfy all tastes. Beaches for families, fully organised, and easily accessible, but also beaches isolated. Beaches with cold waters and rich sand but also with pebbles and rocks for those who love fishing.
+
+<b>Livadi</b>
+The beach of Livadi is on the south-eastern side of Serifos, 4.5 km below Chora. It is sandy and pebbly, and its one side is connected with other beaches. Livadi beach is surrounded by a lush green area with trees that provide shade, it has many beach facilities and it is quite close to the settlement.
+
+![](/images/livadi_serifos.jpg)
+
+#### <a name="YNTS"></a>You need to see
+
+<b>Serifos Old Mines</b>
+
+Old Mines located in Megalo Livadi Serifos. An integral part of the history of Serifos are the mines, some of which have galleries and facilities and the visitor can see them in the southwestern part of the island.
+
+![](/images/mines_serifos.jpg)
 
 ## <a name="sporades"></a>Sporades
 
