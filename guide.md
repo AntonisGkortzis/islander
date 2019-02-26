@@ -971,6 +971,8 @@ Some of the best places to eat in Alonnisos are:
 #### <a name="discoverSkiathos"></a>Discover Skiathos
 Skiathos, the most cosmopolitan island in the Northern Sporades, is truly a paradise on earth, with lush pine forests and crystal-clear azure waters. Despite the rapid growth in tourism here in recent decades, it the island is still picturesque and unspoilt and blessed with more than 60 beautifully clean beaches. The most famous is Koukounariés, which has been declared the third most beautiful beach in the Mediterranean. When you add in its bustling nightlife, it is only natural that the island attracts thousands of young visitors every year!
 
+![](./images/skiathos.jpg)
+
 #### <a name="historyOfSkiathos"></a>History of Skiathos
 In Ancient times, the island played a minor role during the Persian Wars. In 480 BC, the fleet of the Persian King Xerxes was hit by a storm and was badly damaged on the rocks of the Skiathos coast. Following this the Greek fleet blockaded the adjacent seas to prevent the Persians from invading the mainland and supplying provisions to the army facing the 300 Spartans defending the pass at Thermopylae. The Persian fleet was defeated there at Artemisium and finally destroyed at the Battle of Salamis a year later. Skiathos then became part of the Delian League. The city was destroyed by Philip V of Macedon in 200 BC.
 
