@@ -912,7 +912,7 @@ If you are island hopping around the Cyclades, Kimolos is an interesting stop to
 
 
 #### <a name="beaches_kimolos"></a>Beaches
-Agios Georgios: Agios Georgios is one of the most beautiful and calm beaches of Kimolos. It is located on the north eastern side of the island and can be reached through a track road, at the end of the main road on the island. Agios Georgios has clean water and an excellent, sandy shore. A lot of other calm beaches are found in the surrounding area and some rooms to let.
+* Agios Georgios: Agios Georgios is one of the most beautiful and calm beaches of Kimolos. It is located on the north eastern side of the island and can be reached through a track road, at the end of the main road on the island. Agios Georgios has clean water and an excellent, sandy shore. A lot of other calm beaches are found in the surrounding area and some rooms to let.
 ![](./images/aggeorgios.jpg)
 
  Source: [https://travelgreecetraveleurope.com/prassa-beach-kimolos-mygreecemytravels-1/]
