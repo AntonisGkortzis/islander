@@ -247,9 +247,11 @@ During Summer if you feel like you need some place to chill under a tree after a
 ![](/images/Kythira_nature.jpg)(www.kythera.gr)
 
 #### <a name="whykyth"></a> If you're not sure yet:
-Kythira can provide any traveller a while different experience, it's culture is so different from any other island and the locals are so friendly the will make you feel like you visited your grandmother's house.All the traditional food, the scenery,the beaches and even the long walks in the cliffs during sunset will make you feel like you are in heaven. At last, as the locals say "If you visit Kythira once, you will fall in love with it"!
+Kythira can provide any traveller a whole different experience, it's culture is so different from any other island and the locals are so friendly the will make you feel like you visited your grandmother's house.All the traditional food, the scenery,the beaches and even the long walks in the cliffs during sunset will make you feel like you are in heaven. At last, as the locals say "If you visit Kythira once, you will fall in love with it"!
 
 ![](/images/Kythira_cave.jpg)(www.kythera.gr)
+
+If all the above didn't convince you yet,well you should definately watch the following video from a drone :heart_eyes: [Kythira from Above](https://www.youtube.com/watch?v=pdA6xu342QA) 
 
 
 ### <a name="ithaca"></a>Ithaca
