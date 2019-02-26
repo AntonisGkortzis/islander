@@ -784,12 +784,27 @@ Milos is the southwesternmost island in the Cyclades group. Milos is known mostl
 #### <a name="beaches_milos"></a>Lets go to beach
 * [Kleftiko](https://www.tripadvisor.com/Attraction_Review-g494953-d1572068-Reviews-Kleftiko_Beach-Milos_Cyclades_South_Aegean.html): This might not qualify exactly as a beach because there isn't one but there are a lot of boat trips around the island and almost all of them have this on their itinerary. You can swim in blue crystal waters and see the characteristic high rock with a whole going from one side to the other.
 
+![](/images/milos_kleftiko.jpg)
+
+source: [google images](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ferriesingreece.com%2Fphotos%2Fdestinations%2Fmilos-gallery-1-1920.jpg&imgrefurl=https%3A%2F%2Fwww.ferriesingreece.com%2Fdestinations%2Fferry-to-milos%2F&docid=S7UkJ9pGosIWFM&tbnid=kNq6ykqZkOTxbM%3A&vet=10ahUKEwj9s8Kxn9rgAhUMlhQKHVihA9oQMwhvKAUwBQ..i&w=1920&h=1280&bih=623&biw=1439&q=milos&ved=0ahUKEwj9s8Kxn9rgAhUMlhQKHVihA9oQMwhvKAUwBQ&iact=mrc&uact=8)
+
 * [Sarakiniko](https://www.tripadvisor.com/Attraction_Review-g494953-d2171292-Reviews-Sarakiniko_Beach-Milos_Cyclades_South_Aegean.html): Have you ever wanted to go to the moon? Your time has come this beach will make your dream come true. Well almost anyway:stuck_out_tongue_closed_eyes:. Of course i have not travelled to the moon myself either but from what i know and imagine that is what i felt when i first visited this beach, like i was walking on and exploring the moon.
 
+![](/images/milos_sarakiniko.jpg)
+
+source: [Andrew Urwin](http://www.andrewurwin.net/milos)
 * [Sikia](https://www.tripadvisor.com/Attraction_Review-g494953-d4988661-Reviews-Sikia_Beach-Milos_Cyclades_South_Aegean.html): Sikia is one of the miracles that can be accessed only by boat. It was previously a sea cave the roof of which collapsed. Now the sun is shinning over the green waters make it it a perfect swimming spot.
+
+![](/images/milos_sikia.jpg)
+
+source: [google images](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ferriesingreece.com%2Fphotos%2Fdestinations%2Fmilos-gallery-1-1920.jpg&imgrefurl=https%3A%2F%2Fwww.ferriesingreece.com%2Fdestinations%2Fferry-to-milos%2F&docid=S7UkJ9pGosIWFM&tbnid=kNq6ykqZkOTxbM%3A&vet=10ahUKEwj9s8Kxn9rgAhUMlhQKHVihA9oQMwhvKAUwBQ..i&w=1920&h=1280&bih=623&biw=1439&q=milos&ved=0ahUKEwj9s8Kxn9rgAhUMlhQKHVihA9oQMwhvKAUwBQ&iact=mrc&uact=8)
+
 
 * [Agia Kiriaki](https://www.tripadvisor.com/Attraction_Review-g494953-d1182210-Reviews-Agia_Kiriaki_Beach-Milos_Cyclades_South_Aegean.html): What makes this beach special is a layer of white pebbles that creates a sparkling effect. It is perfect for cloudy days too since the effect is more vibrant. The water is clear and has an amazing shade of blue also due to the pebbles.
 
+![](/images/milos_agia_kiriaki.jpg)
+
+source: [google images](https://www.google.com/search?biw=1439&bih=623&tbm=isch&sa=1&ei=MKp1XPGbJZHfkgW204zoDA&q=agia+kiriaki+milos&oq=agia+k&gs_l=img.1.0.35i39j0l8j0i8i30.6000.7111..8573...0.0..0.159.765.0j6......1....1..gws-wiz-img.r18jgW6ZNpw#imgrc=Fa-yGQVCffjeDM)
 * [Kalogries](https://www.tripadvisor.com/Attraction_Review-g494953-d7038059-Reviews-Kalogries_Beach-Milos_Cyclades_South_Aegean.html): It is accessible by a good car although it is not recommended so again a boat:boat: is the way for this one. It is award-winning beach with clear waters and sand since it has won a blue flag.
 
 #### <a name="sites_milos"></a>Sights to see :eyes:
@@ -798,6 +813,10 @@ Milos is the southwesternmost island in the Cyclades group. Milos is known mostl
 * [Bomb Shelter](https://www.tripadvisor.com/Attraction_Review-g635606-d6888602-Reviews-Adamas_World_War_Two_Bomb_Shelter-Adamas_Milos_Cyclades_South_Aegean.html):bomb: : As the name implies if you are wondering how a bomb shelter looked like Adamas world war two bomb shelter is the place to answer all your questions
 
 * [Explore the Papafragkas Caves](https://www.tripadvisor.com/Attraction_Review-g494953-d2171345-Reviews-Papafragas_Cave-Milos_Cyclades_South_Aegean.html): Along the main road to Pollonia (which also very nice to walk around) you will find the three Sea Caves of Papafragkas. These huge rocks were used as a base for Byzantine pirates. The pathways to the beach are troubling, but the reward is sweet. You can swim through mesmerizing waters that seem to change colours depending on the temperature and lighting.
+
+![](/images/milos_papafragkas.jpg)
+
+source: [Andrew Urwin](http://www.andrewurwin.net/milos)
 
 ### <a name="donousa"></a>Donousa
 * [Info](#info)
