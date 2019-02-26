@@ -31,6 +31,7 @@ This guide provides people who would like to visit a Greek island with tips rega
 * [Sporades](#sporades)
   * [Skopelos](#skopelos)
   * [Alonnisos](#alonnisos)
+  * [Skiathos](#skiathos)
 * [Dodecanese](#dodecanese)
   * [Symi](#symi)
   * [Leros](#leros)
@@ -306,10 +307,6 @@ Kythira can provide any traveller a while different experience, it's culture is 
 * <b>No.3 Anemodouri-Arethousa Krini </b> : Before the end of the road from Vathi to Marathias there is a blue sign Arethousa Krini.  From this point begins the path leading to the water spring of the homeric references.If you are an athletic and risky type, you can go downhill to the last junction and you will reach the beach Pera Pigadi (name which refers to the water spring), where the cold waters of the Ionian Sea will compensate you for the heat!
 
 ![](/images/krini.jpg)
-
-
-
-
 
 ## <a name="cyclades"></a>Cyclades
 
@@ -806,7 +803,6 @@ With spectacular landscapes and nature, it is not surprising that Folegandros’
 
 ![](/images/underwater_folegandros.jpg)
 
-
 ## <a name="sporades"></a>Sporades
 
 ### <a name="skopelos"></a>Skopelos
@@ -941,6 +937,29 @@ Some of the best places to eat in Alonnisos are:
   * Fish-mongers Night: End of July, Alonnisos holds the fishmongers night, a local celebration of the bounty of the sea. Locally caught fish are grilled on charcoal fires and plenty of wine. An unforgettable night of flavours and local hospitality.
 
   * Cheese Pie Night: In July, Alonnisos' local women demonstrate the art of hand made pastry and prepare cheese pies for everyone attending. Alonnisos has a long history of making mouth watering pies. Enjoy a piece with local wine while local dance groups enterntain.
+
+### <a name="skiathos"></a>Skiathos
+* [Discover Skiathos](#discoverSkiathos)
+* [History of Skiathos](#historyOfSkiathos)
+* [Getting there](#gettingThereSkiathos)
+* [Where to swim](#swimSkiathos)
+* [Where to eat](#eatSkiathos)
+* [Things to do](#toDoInSkiathos)
+
+#### <a name="discoverSkiathos"></a>Discover Skiathos
+Skiathos, the most cosmopolitan island in the Northern Sporades, is truly a paradise on earth, with lush pine forests and crystal-clear azure waters. Despite the rapid growth in tourism here in recent decades, it the island is still picturesque and unspoilt and blessed with more than 60 beautifully clean beaches. The most famous is Koukounariés, which has been declared the third most beautiful beach in the Mediterranean. When you add in its bustling nightlife, it is only natural that the island attracts thousands of young visitors every year!
+
+#### <a name="historyOfSkiathos"></a>History of Skiathos
+In Ancient times, the island played a minor role during the Persian Wars. In 480 BC, the fleet of the Persian King Xerxes was hit by a storm and was badly damaged on the rocks of the Skiathos coast. Following this the Greek fleet blockaded the adjacent seas to prevent the Persians from invading the mainland and supplying provisions to the army facing the 300 Spartans defending the pass at Thermopylae. The Persian fleet was defeated there at Artemisium and finally destroyed at the Battle of Salamis a year later. Skiathos then became part of the Delian League. The city was destroyed by Philip V of Macedon in 200 BC.
+
+In 1207 the Ghisi brothers captured the island and built the Bourtzi, a small Venetian-styled fortress similar to the Bourtzi in Nafplio, on an islet just out of Skiathos Town, to protect the capital from the pirates. But the Bourtzi was ineffective in protecting the population and in the mid-14th century the inhabitants moved the capital from the ancient site that lay where modern Skiathos Town is to Kastro (the Greek word for castle), located on a high rock, overlooking a steep cliff above the sea at the northernmost part of the island. Today, the ruins of Kastro are a tourist attraction.
+
+In 1704 monks from Athos built the Evangelistria Monastery, which played a part on the Greek War of Independence as a hide-out for Greek rebels. The first flag of Greece was created and hoisted in the Evangelistria Monastery in Skiathos in 1807, where several prominent military leaders (including Theodoros Kolokotronis and Andreas Miaoulis) had gathered for consultation concerning an uprising, and they were sworn to this flag by the local bishop.
+
+#### <a name="gettingThereSkiathos"></a>Getting there
+* By ferry or high speed ship from the port of Volos or Ayios Konstantinos.
+* By ferry from the port of Thessaloniki (only during summertime)
+* By air from Athens or Thessaloniki
 
 ## <a name="dodecanese"></a>Dodecanese
 
