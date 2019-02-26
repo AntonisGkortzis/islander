@@ -1509,7 +1509,8 @@ Spetses is an affluent island and a municipality in the islands regional unit, A
 
 #### <a name="foodSpetses"></a>Where to eat
 * [La Luz](#https://www.tripadvisor.com/Restaurant_Review-g2699968-d4274946-Reviews-La_Luz-Spetses_Town_Spetses_Saronic_Gulf_Islands_Attica.html):
-Established in the March of 2011 in an amazing location in the Old Port of Spetses, La Luz has quickly became one of the most entertainment spots on the island of Spetses. Here you will enjoy some of the most famous Greek musicians playing live music events, as well as fresh cocktails and drinks accompanied with interesting *meze* dishes. ![](/images/Spetses-La_Luz.jpg)
+Established in the March of 2011 in an amazing location in the Old Port of Spetses, La Luz has quickly became one of the most entertainment spots on the island of Spetses. Here you will enjoy some of the most famous Greek musicians playing live music events, as well as fresh cocktails and drinks accompanied with interesting *meze* dishes.
+![](/images/Spetses-LaLuz.jpg)
 
 * [Fish Tavern Patralis](#https://www.tripadvisor.com/Restaurant_Review-g189496-d1799370-Reviews-Patralis_Psarotaverna-Spetses_Saronic_Gulf_Islands_Attica.html):
 If greek islands are a synonym of delicious fresh fish, then the fish tavern Patralis is a synonym of Spetses. This restaurant, with a history of more than 80 years, prepares and serves fresh fish in its own way. Try thebouillabaisse, the shrimp spaghetti, the seafood risotto, which are all created with talent, care and amazing ingredients fresh from the sea. Of course, you can also try other, traditional Greek dishes like moussaka, *papoutsakia* and stuffed vegetables.
