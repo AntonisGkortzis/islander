@@ -1,4 +1,4 @@
-﻿# Greek Islands
+# Greek Islands
 
 This guide provides people who would like to visit a Greek island with tips regarding food, entertainment, places to visit etc.
 
@@ -24,7 +24,6 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Kythnos](#kythnos)
   * [Milos](#milos)
   * [Donousa](#donousa)
-  * [Andros](#andros)
 * [Sporades](#sporades)
   * [Skopelos](#skopelos)
   * [Alonnisos](#alonnisos)
@@ -441,9 +440,18 @@ Top 3:
 ### <a name="syros"></a>Syros
 * [General Information](#general_info_syros)
 * [Beaches](#beaches_syros)
+* [Ermoupolis City Hall](#cityhall_syros)
 
 #### <a name="general_info_syros"></a>General Information
 Syros is a Greek island and Ermoupoli is its capital, which is currently the capital of Cyclades. Syros flourished after the year of 1826 when refugees from Chios, Crete, Psara and Mikra Asia joined the island. Syros has been a naval, industrial and cultural center of the modern Greek nation. Syros consists of many settlements such as Ano Syros, Galissas, Kini, Foinikas, Ntelagratsia, Vari , Azolymnos and others. The island is widely known for its musical tradition as it has contributed to the Greek music history with the songs of Markos Vamvakaris and the musical myth that follows him. Syros, has been a "hot" destination for tourists throughout the years, but especially the last 3 years it has become the center of attention because of an athletic exhibition that is held in July (AegeanBall Festival).
+
+#### <a name="beaches_syros"></a>Beaches
+Posidonia, is a well organized beaches in Syros, located 13 km south west from Ermoupolis. It has a beautiful sandy coast and has highly recommended place to enjoy your coffee, or your food with the sight of this beautiful shore.  Agathopes is a small sandy beach close to Posidonia. It is a popular destination for tourist but mostly for family tranquil moments. Last but not least, my favorite place for a quick dive is Asteria beach which is actually a dock where you can perform dives but also admire the beautiful architectural achievements due to being very close to the center of Ermoupolis.
+
+#### <a name="cityhall_syros"></a>Ermoupolis City Hall
+The beautiful city hall of ermoupolis is placed in Miaouli square. It has a magnificent architectural design that combines both classic ancient Greece and romanticism of the West with it being characterized as a neoclassical one influenced by German an Italian architects. The city hall was completed in 1898 and was designed by Ernst Ziller. The central part is made entirely from marble. It hosts the Archaeological Museum of Syros, the Court of Law, the Land Registry, the Public Archives, and some other public services (source: www.greeka.com). The particular town hall is considered as one of the most beautiful amongst the Greek ones.
+
+![](/images/syros_town_hall.jpg)
 
 ### <a name="Amorgos"></a>Amorgos
 * [Discover Amorgos](#discoverAmorgos)
@@ -623,50 +631,6 @@ According to the mythology, the island is where Dionyssos hid Ariadne so Theseus
 #### <a name="sights_don"></a>Sights to see :eyes:
 * <b>Warship ruins in Kedros beach</b>:  the ruins of a German warship sunk by the Allied Forces in the second world war, can be seen on the seabed.
 ![](./images/warship.jpg)
-
-### <a name="andros"></a>Andros
-* [General Info](#info_andros)
-* [Beaches](#beaches_andros)
-* [Food](#food_andros)
-* [Night Life](#nightlife_andros)
-
-#### <a name="info_andros"></a>General Info
-Andros is the northrnmost and most unique island of the Cyclades. The rich nature and majestry of the island, combined with the abundant waters and the particular terrain, that gives Andros a special Cycladic character.
-
-#### <a name="beaches_andros"></a>Beaches
-Andros has many and excellent quality beaches that satisfy all tastes. Beaches for families, fully organised, and easily accessible, but also beaches isolated. Beaches with cold waters and rich sand but also with pebbles and rocks for those who love fishing.
-
-<b>Fellos</b>
-Fellos locates at northwest department of the Island. It has very long sandy beach with crystal clear waters and depth of which varies, but it's not organized.
-
-![](/images/fellos_andros.png)
-
-<b>San Petros</b>
-San Petros locates next to the main road leading Batsi to Gavrio. It's the biggest beach of the island, sandy, with shallow waters. It's a fully organized beach that include beach bar and family taverns.
-
-![](/images/San_petros_andros.jpg)
-
-<b>Golden Sand</b>
-Golden Sand locates next to the main road leading Batsi to Gavrio. It is the most cosmopolitan and the most popular beach of Andros. It's organized, eith beach bar and loud music. As its name suggests, it is paved with fine sand.
-
-![](/images/golden_sand_andros.jpg)
-
-#### <a name="food_andros"></a>Food
-
-* [Endochora](http://www.endochora.com/)
-
-* [Oti Kalo](https://www.e-kyklades.gr/showroom/tourism/OTIKALO?lang=en)
-
-* [Ta Mpinelikia](https://www.tripadvisor.com.gr/Restaurant_Review-g2698285-d8572189-Reviews-Ta_Binelikia-Andros_Town_Andros_Cyclades_South_Aegean.html)
-
-* [Ta Skalakia](https://www.tripadvisor.com.gr/Restaurant_Review-g580193-d2457509-Reviews-Ta_Skalakia-Andros_Cyclades_South_Aegean.html)
-
-#### <a name="nightlife_andros"></a>Night Life
-Andros is an island that attracts lots of visitors during the summer period and offers many suggestions for a night out. Chora, the capital town, offers a wide variety of lounge cafes and bars that stay open till around midnight. Such bars can also be found in Batsi, Gavrio and Ormos Korthiou that are the most tourist places on the island.
-
-* [Capriccio](https://foursquare.com/v/capriccio/4c40e5b8d7fad13a87ba06da)
-
-* [Moomba Afterlight](https://foursquare.com/v/moomba--restaurant--bar--afterlight/51c62218498e52a022de7514/photos)
 
 
 ## <a name="sporades"></a>Sporades
@@ -1214,15 +1178,15 @@ Spetses is an affluent island and a municipality in the islands regional unit, A
 * [Where to eat](#foodHydra)
 
 #### <a name="discoverHydra"></a>Discover Hydra
-Hydra is a pisturesque island close to Athens known for the stone mansions and the lack of cars or other motor vehicles. The transport is done on foot, by boat or riding a donkey. Strolling across the island is fully recommended if you are a fan of walking in the nature seeing the sea from above. 
+Hydra is a pisturesque island close to Athens known for the stone mansions and the lack of cars or other motor vehicles. The transport is done on foot, by boat or riding a donkey. Strolling across the island is fully recommended if you are a fan of walking in the nature seeing the sea from above.
 The towns and villages close to Hydra Town that you can visit are Vlichos and Mandraki but there are also Zogkeika, Limnioza, Klimaki, Zogeri, Molos and Palamidas further away.
 
 #### <a name="dontForgetHydra"></a>Don't forget to visit
 - <b>The Historical Archives Museum</b>: Founded in 1918 and located in the port of Hydra, the museum hosts historical objects such as archives, maps, traditional costumes, paintings etc.
-- <b>The Bastions with Cannons</b>: The cannons used to protect the town during the war of 18th century can still be seen. 
+- <b>The Bastions with Cannons</b>: The cannons used to protect the town during the war of 18th century can still be seen.
 
 #### <a name="beachesHydra"></a>Beaches
-The most beaches of Hydra are pebbled or a rocky coast with clean water. Three popoular ones are the folloowing: 
+The most beaches of Hydra are pebbled or a rocky coast with clean water. Three popoular ones are the folloowing:
 
 <b>
 Vlichos - 2 km west of Hydra Town
@@ -1240,9 +1204,9 @@ Hydroneta - In Hydra Town
 </b>
 
 #### <a name="foodHydra"></a>Where to eat
-- [Omilos](https://omilos-hydra.com/): It offers great dishes and it is next to the sea.
-- [Bratsera](https://bratserahotel.com/dining/): Its service and food are taken really seriously so that they make it an excellent restaurant.
-- [Kai Kremmidi](https://www.isaloshydra.gr/kai_kremmidi-h-5.html): The ideal option to taste souvlaki.
+- <b>Omilos</b>: It offers great dishes and it is next to the sea.
+- <b>Bratsera</b>: Its service and food are taken really seriously so that they make it an excellent restaurant.
+- <b>Kai Kremmidi</b>: The ideal option to taste souvlaki.
 
 ## <a name="evia_island"></a>Evia
 The island of Evia is one of the closest to Athens and yet it is one of the most unknown. That is because Evia is so large that there is much to know about it. Second in size to Crete, it stretches from the tip of the Pelion Peninsula all the way south to the coast of Attika. It's southern tip is just a short distance from the Cycladic islands of Andros and Kea though unfortunately there is no ferry connection. If there were, more tourists would come here. As it is, because it is so close to the mainland that you can drive to it, Evia has been and remains a popular summer holiday destination for Greeks and Greek-Americans, Canadians, Australians and others whose families originally came from the island.The topography of the island is as varied as anywhere in Greece, with sparkling Aegean beaches and coves on its east coast, a mountainous interior with rivers, streams and forests, a west coast that is a mix of beaches, the city of Halkida, large towns, industry, agriculture, beaches and wetlands. And in the northwest the town of Edipsos is the most popular spa in Greece, with hot water gushing from rocks and crevices into the sea and pools of the many hotels and healing centers.There are several ways to reach Evia from Athens. Which way you choose depends on where in Evia you want to go, because as I said; Evia is a very large island and a very long one. How large and long? From one tip to the other could take you four or five hours by car.  You could drive almost to Thessaloniki from Athens in that time. Of course much of the journey will be on narrow winding roads where there is a good possibility that you will be stuck behind a big slow moving truck with nowhere to pass for at least part of the journey. And most likely you will stop to wade in the cool waters of the Kirea river that runs alongside the road that goes north from the modern city of Halkida to the fishing village of Limni, the spas of Edipsos and the beautiful beaches of the northern coast.
