@@ -906,9 +906,21 @@ If you are island hopping around the Cyclades, Kimolos is an interesting stop to
 
 
 
-
 #### <a name="beaches_kimolos"></a>Beaches
- Agios Georgios Beach Kimolos: Agios Georgios is one of the most beautiful and calm beaches of Kimolos. It is located on the north eastern side of the island and can be reached through a track road, at the end of the main road on the island. Agios Georgios has clean water and an excellent, sandy shore. A lot of other calm beaches are found in the surrounding area and some rooms to let.
+Agios Georgios: Agios Georgios is one of the most beautiful and calm beaches of Kimolos. It is located on the north eastern side of the island and can be reached through a track road, at the end of the main road on the island. Agios Georgios has clean water and an excellent, sandy shore. A lot of other calm beaches are found in the surrounding area and some rooms to let.
+![](./images/aggeorgios.jpg)
+
+ Source: [https://travelgreecetraveleurope.com/prassa-beach-kimolos-mygreecemytravels-1/]
+
+ Aliki: Aliki is one of the most serene and beautiful beaches on Kimolos. It is located to the south of Chorio, near the port of Psathi. The rocky landscape, crystalline water, pebbles and beautiful sands make this beach a lovely choice for swimming and relaxing. 
+![](./images/aliki.jpg)
+
+ Source: [https://www.voyagevirtuel.co.uk/grece/pages/kimolos-aliki-beach-113.php]
+
+ Bonatsa: Bonatsa beach on Kimolos is a large beach with golden sand and crystal water. Bonatsa is one of the most famous beaches of the island and becomes quite popular in summer months. 
+![](./images/bonatsa.jpg)
+
+ Source: [https://www.tripadvisor.com/Attraction_Review-g189428-d7113605-Reviews-Bonatsa_Beach-Kimolos_Cyclades_South_Aegean.html]
 
 
 ## <a name="sporades"></a>Sporades
