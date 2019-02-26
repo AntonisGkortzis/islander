@@ -263,12 +263,15 @@ If all the above didn't convince you yet,well you should definately watch the fo
 
 
 
+
 #### <a name="general_informations"></a>
  * <b>The island of Odysseus</b> :The hero's adventurous journey to his homeland of Ithaca made this island mythical, immortal. The intense alternations of the landscape, adorned with the beauties of wild and calm nature, make up a provocatively special relief. Traditional settlements, deep blue waters and many landscapes are waiting for you to visit them!!!
 
   * <b>About the nightlife in Ithaca island </b> : Nightlife in Ithaca is restricted to few taverns and lounge bars. The waterfronts of Vathi, Frikes and Kioni are lined up with many delicious restaurants and taverns that usually stay till a bit after midnight, creating a romantic atmosphere. Such taverns can also be found in the mountainous villages of Ithaca. Usually in the evenings, the cafeterias of Ithaca turn into lounge bars and stay open till a bit after midnight. Generally, nights in Ithaca are peaceful and romantic.
 
   ![](/images/ithaca.jpg)
+
+
 
 #### <a name="beaches_ithaca"></a>Beaches in Ithaca :
 
@@ -287,6 +290,10 @@ If all the above didn't convince you yet,well you should definately watch the fo
 * <b>Filiatro</b> : The beach is the closest to Vathi, ideal for those who stay close to the city. It has crystal clear waters and is surrounded by trees that reach the sea.
 
 ![](/images/filiatro.jpg)
+
+* <b>Gidaki</b> : Ιf you want to cross a hilly path to find yourself on a beautiful beach with white sand and deep blue waters, then you should visit this place. You don't need any supplies, as the beach has a small canteen where you can find whatever you need.
+
+![](/images/gidaki.jpg)
 
 #### <a name="restaurants_ithaca"></a>Locale Cuisine :
 * <b> Tsirimbis Restaurant </b> is a local tavern that exists since 1956. Without losing its traditional character it offers you the opportunity to taste traditional pies (chicken, spinach, onion, cheese pie), pasta, garlic, fish (stuffed with garlic) and bourgeois, many home-made appetizers (taramosalata, tzatziki, cheese, eggplant).
