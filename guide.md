@@ -1,4 +1,4 @@
-# Greek Islands
+﻿# Greek Islands
 
 This guide provides people who would like to visit a Greek island with tips regarding food, entertainment, places to visit etc.
 
@@ -38,6 +38,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Rhodes](#rhodes)
   * [Tilos](#tilos)
   * [Kastellorizo](#kastellorizo)
+  * [Kalymnos](#kalymnos)
 * [North-East Aegean Islands](#north_east_aegean_islands)
   * [Ikaria](#ikaria)
 * [Saronic Gulf](#saronic)
@@ -1191,6 +1192,40 @@ You can dive at the amazing sea at [Mandraki]( https://www.tripadvisor.com.gr/Sh
 * If you visit Kastellorizo you definitely cannot miss visiting Ro (or Rho). You will go to that tiny island with a boat and see the statue of Despoina Achladioti, also known as Madam of Ro (Rho) who for so many years every day she would raise the Greek flag to show that this small and tiny island still belonged to Greece
 
 * [Blue Cave](https://www.tripadvisor.com.gr/Attraction_Review-g189441-d629575-Reviews-Blue_Grotto-Kastellorizo_Dodecanese_South_Aegean.html): One of the most beautiful caves of Greece. You can reach the cave with a small boat; the opening is really small and sometimes you can’t even see it. The tourists get in a very small boat and then they lie down so they can go through the opening. But then they come across one of the most magical images and sceneries they have ever encountered. Stalactites in combination with the water and the sunlight create a turquoise and green scenery that will mesmerize you and you will definitely remember it for your whole life.
+
+### <a name="kalymnos"></a>Kalymnos
+* [General Info](#info_kalymnos)
+* [Beaches](#beaches_kalymnos)
+* [You need to do](#YNTD_kalymnos)
+* [Food](#food_kalymnos)
+
+#### <a name="info_kalymnos"></a>General Info
+Kalymnos is located on the northern side of Dodecanese and close to the Turkish coasts. This island distinguishes for the wild rocky mountains, which is why it has developed as a rock climbing destination over the last years.In the past, the locals used to make their living from sponge fishing.
+
+#### <a name="beaches_kalymnos"></a>Beaches
+
+<b>Emporio Beach</b>
+Emporio is a lovely and serene beach located 24 km northwest of Pothia, the capital of Kalymnos. The entire settlement overlooks the natural bay. The beach consists of smooth pebbles and crystalline waters while some rock formations are found on either side. Some umbrellas and sunbeds are found right at the center. Trees provide nice shade for those who prefer the more isolated spots. There are frequent buses running to the village of Emporio but you can also access this beach by a boat from the village of Myrties.
+
+![](/images/emporios_kalymnos.jpg)
+
+<b>Myrties Beach</b>
+Myrties beach is located 8 km north-west of Pothia, the capital of Kalymnos. The beach extends to the natural port of Myrties and provides a perfect spot for swimming and sunbathing. A few accommodations, fine taverns and cafes are available in the village.
+
+![](/images/myrties_kalymnos.jpg)
+
+#### <a name="YNTD_kalymnos"></a>You need to do
+
+<b>Rock Climbing</b>
+Kalymnos has become one of the major rock climbing destinations for professional climbers as well as beginners on an international level. The island has various kinds of good quality limestone rocks with different difficulty degrees like overhangs, caves with stalactites and slabs. The quality of the limestone rock is excellent and has easy access. Cliffs are very close to the city and may require 5 to 10 minutes of driving or 5 to 20 minutes of walking.The best period to visit Kalymnos for Rock Climbing is during the spring and fall season.
+
+![](/images/rock_kalymnos.jpg)
+
+#### <a name="food_kalymnos"></a>Food
+
+* [Paradisio](https://foursquare.com/v/paradisio/500530cde4b0f953a312e5bf)
+
+* [Aegean Tavern](http://www.aegeancuisine.org/Aigaiopelagitiko)
 
 ## <a name="north_east_aegean_islands"></a>North East Aegean Islands
 
