@@ -29,6 +29,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Andros](#andros)
   * [Serifos](#serifos)
   * [Folegandros](#folegandros)
+  * [Kimolos](#kimolos)
 * [Sporades](#sporades)
   * [Skopelos](#skopelos)
   * [Alonnisos](#alonnisos)
@@ -881,6 +882,25 @@ The Karavostasi beach is ideally located in close proximity to the port. This be
 With spectacular landscapes and nature, it is not surprising that Folegandros’ underwater world is equally impressive. Go for scuba diving and snorkeling, or you can even free diving for advanced swimmers, to explore the wonders of the crystal-clear waters.
 
 ![](/images/underwater_folegandros.jpg)
+
+
+### <a name="kimolos"></a>Kimolos
+
+* [General Info](#info_kimolos)
+* [Beaches](#beaches_kimolos)
+* [Food](#food_kimolos)
+
+
+#### <a name="info_kimolos"></a>General Info
+Located next to Milos island, Kimolos is one of the least touristic of the Cyclades.  It does get its share of tourists in the summer months. However, by September, the island is pretty much emptied out of visitors.
+If you are island hopping around the Cyclades, Kimolos is an interesting stop to consider. It’s a big contrast to cosmopolitan Mykonos, for example.  Kimolos island is the perfect little trip for someone seeking an off-the-beaten path destination in the Greek islands.
+
+
+
+
+#### <a name="beaches_kimolos"></a>Beaches
+ Agios Georgios Beach Kimolos: Agios Georgios is one of the most beautiful and calm beaches of Kimolos. It is located on the north eastern side of the island and can be reached through a track road, at the end of the main road on the island. Agios Georgios has clean water and an excellent, sandy shore. A lot of other calm beaches are found in the surrounding area and some rooms to let.
+
 
 ## <a name="sporades"></a>Sporades
 
