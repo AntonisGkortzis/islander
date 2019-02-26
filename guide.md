@@ -912,16 +912,20 @@ Agios Georgios: Agios Georgios is one of the most beautiful and calm beaches of 
 
  Source: [https://travelgreecetraveleurope.com/prassa-beach-kimolos-mygreecemytravels-1/]
 
- Aliki: Aliki is one of the most serene and beautiful beaches on Kimolos. It is located to the south of Chorio, near the port of Psathi. The rocky landscape, crystalline water, pebbles and beautiful sands make this beach a lovely choice for swimming and relaxing. 
+ * Aliki: Aliki is one of the most serene and beautiful beaches on Kimolos. It is located to the south of Chorio, near the port of Psathi. The rocky landscape, crystalline water, pebbles and beautiful sands make this beach a lovely choice for swimming and relaxing. 
 ![](./images/aliki.jpg)
 
  Source: [https://www.voyagevirtuel.co.uk/grece/pages/kimolos-aliki-beach-113.php]
 
- Bonatsa: Bonatsa beach on Kimolos is a large beach with golden sand and crystal water. Bonatsa is one of the most famous beaches of the island and becomes quite popular in summer months. 
+ * Bonatsa: Bonatsa beach on Kimolos is a large beach with golden sand and crystal water. Bonatsa is one of the most famous beaches of the island and becomes quite popular in summer months. 
 ![](./images/bonatsa.jpg)
 
  Source: [https://www.tripadvisor.com/Attraction_Review-g189428-d7113605-Reviews-Bonatsa_Beach-Kimolos_Cyclades_South_Aegean.html]
 
+#### <a name="food_kimolos"></a>Food
+* [Meltemi](https://www.tripadvisor.com/Restaurant_Review-g189428-d8099479-Reviews-Meltemi_Restaurant-Kimolos_Cyclades_South_Aegean.html): Mediterranean, Greek, Seafood, Vegetarian Friendly, Vegan Options
+* [Postali](https://www.tripadvisor.com/Restaurant_Review-g4562659-d8478214-Reviews-Postali-Psathi_Kimolos_Cyclades_South_Aegean.html): Seafood, Greek, Mediterranean
+* [To Kyma](https://www.tripadvisor.com/Restaurant_Review-g4562659-d4550300-Reviews-To_Kyma-Psathi_Kimolos_Cyclades_South_Aegean.html): Local cuisine, Seafood, Mediterranean, Greek, Vegetarian Friendly
 
 ## <a name="sporades"></a>Sporades
 
