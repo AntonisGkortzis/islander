@@ -961,6 +961,13 @@ In 1704 monks from Athos built the Evangelistria Monastery, which played a part 
 * By ferry from the port of Thessaloniki (only during summertime)
 * By air from Athens or Thessaloniki
 
+#### <a name="swimSkiathos"></a>Where to swim
+* [Koukounaries](https://www.skiathos-tours.gr/en/what-to-see/beaches/koukounaries.php): A popular sandy beach, backed by pines. Bustling sandy stretch lined with umbrella pines, with rental chairs/parasols, water sports & bars.
+* [Lalaria](https://www.skiathos-tours.gr/en/what-to-see/beaches/lalaria.php): Visitors must take a boat ride to reach this secluded beach with rock formations & turquoise water. The majestic look of the scenery causes awe and admiration to guests who see it for the first time. The huge stone with the famous hole in the middle, the impressive cliffs that start from the top of the slope and end up back at the coast, round pebbles are all part of some unexplained nature phenomena of the area.
+* [Banana](http://www.skiathos-tours.gr/en/what-to-see/beaches/banana.php): If you are involved with windsurfing, then you have to visit the beaches Banana. The famous beaches of Banana, consist of the Little and Big Banana, also called Bay Krassa. They acquired its present name from nudists who once frequented there. Banana beach is also a magnet for young people, as it offers the opportunity to do all kinds of water sports.
+* [Kastro](https://www.skiathos-tours.gr/en/what-to-see/beaches/kastro.php): Under the old medieval town of Skiathos, at the northernmost point of the island, lies a beautiful beach called Kastro (Castle). The combination of a swim in the crystal clear waters and a visit to the ruins of the castle, it is definitely one of the tours you should not miss during your stay in Skiathos.
+* [Lechouni](https://www.skiathos-tours.gr/en/what-to-see/beaches/lechouni.php): The tradition says that Nikotsaras, a hero of the Greek Revolution 1821, has been buried here. The beach itself is rocky with white pebbles and offers a beautiful but also wild beauty. It is not an organized beach but the road access is good.
+
 ## <a name="dodecanese"></a>Dodecanese
 
 ### <a name="symi"></a>Symi
