@@ -1005,6 +1005,8 @@ In 1704 monks from Athos built the Evangelistria Monastery, which played a part 
 ![](./images/lechouni.jpg)
 
 #### <a name="eatSkiathos"></a>Where to eat
+There are about a hundred of interesting restaurants, taverns, cafes and bars on the island.
+
 * [Limanaki Tavern](https://www.tripadvisor.com.gr/Restaurant_Review-g775993-d1928279-Reviews-Limanaki-Skiathos_Town_Skiathos_Sporades.html)
 * [Marmita](https://www.tripadvisor.com.gr/Restaurant_Review-g775993-d4195146-Reviews-Marmita-Skiathos_Town_Skiathos_Sporades.html)
 * [Platanos Restaurant](https://www.tripadvisor.com.gr/Restaurant_Review-g775993-d2162863-Reviews-Platanos_Restaurant-Skiathos_Town_Skiathos_Sporades.html)
@@ -1015,9 +1017,13 @@ In 1704 monks from Athos built the Evangelistria Monastery, which played a part 
 
 * Visit [Bourtzi](https://www.skiathos-tours.gr/en/what-to-see/sights/peninsula-bourtzi.php): Don’t pass up the chance to visit Bourtzi, a small peninsula with lush vegetation where the ruins of a Venetian fortress still stand. Today it is one of the most romantic spots on Skiathos thanks to its densely planted pine trees and stunning views of the archipelago.
 
+![](./images/bourtzi.jpg)
+
 * Visit [Alexandros Papadiamantis' former house and now museum](http://enjoythessaly.com/sights/museums/327-the-papadiamanti-s-museum-in-skiathos): The Papadiamanti’s museum in Skiathos is actually the last residence of author Alexander Papadiamantis. All the objects inside the museum have been donated by Alexander Papadiamantis’ descendants. Around the house we find objects used by the author, among them the pen and the inkwell that he used, to write his 180 narratives.
 
 * Visit [Castle](https://www.skiathos-tours.gr/en/what-to-see/sights/kastro-skiathos.php): In the mid 14th century, the capital of Skiathos was moved to the castle located on a peninsula in the northern part of the island. The castle was under Byzantine administration until 1453. The Venetians had the castle in their possession until 1538. Afterwards the Turks occupied it until the Greek Revolution of 1821. In the year 1830 the Castle was abandoned and only the ruins of the walls, a church and some other buildings are proving the importance of the castle for the history of Skiathos island.
+
+![](./images/castle.jpg)
 
 * Go [scuba-diving](http://enjoythessaly.com/activities/scuba-diving/446-scubadiving-skiathos): Diving in Skiathos waters is a unique experience. You will be able to dive with experienced guides on reefs, wrecks, caves such as the Cave of Poseidon with red corals and other attractions of the Aegean's seabed.
 
