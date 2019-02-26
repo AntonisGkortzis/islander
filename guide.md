@@ -299,9 +299,9 @@ If all the above didn't convince you yet,well you should definately watch the fo
 #### <a name="restaurants_ithaca"></a>Locale Cuisine :
 * <b> Tsirimbis Restaurant </b> is a local tavern that exists since 1956. Without losing its traditional character it offers you the opportunity to taste traditional pies (chicken, spinach, onion, cheese pie), pasta, garlic, fish (stuffed with garlic) and bourgeois, many home-made appetizers (taramosalata, tzatziki, cheese, eggplant).
 
-* <b> Sirens </b> is a combination of local and gourmet cuisine, where you can find pies,jams, saganaki, rabbit stiphado and other traditional foods. 
+* <b> Sirens </b> is a combination of local and gourmet cuisine, where you can find pies,jams, saganaki, rabbit stiphado and other traditional foods.
 
-* <b> 
+* <b>
 
 * If you want to taste something sweet you can try the Hanou Patisserie that is located in the central square of the island overlooking the Odysseus statue and has been operating since 1972 with traditional recipes such as rhubanes, truffles and many tasty cakes.
 
@@ -345,11 +345,11 @@ Check it out here- https://www.youtube.com/watch?v=5oyje83lrOY
 #### <a name="beaches_zakynthos"></a>
  * What makes Zakynthos island unique is the magical beaches with the blue sea water, the variety of water sports available and of course the tiny isolated beaches.
 
- *<b>Kalamaki </b> beach is 8km away from Zakynthos town. Opposite stands the popular Cameo island accessible by a wooden bridge, that has a bar -cafe and a tiny beach with shallow, warm sea water.The restaurants and the bars situated along Kalamaki beach are open till sunset.
+ * <b>Kalamaki </b> beach is 8km away from Zakynthos town. Opposite stands the popular Cameo island accessible by a wooden bridge, that has a bar -cafe and a tiny beach with shallow, warm sea water.The restaurants and the bars situated along Kalamaki beach are open till sunset.
 
   ![](/images/kalamaki.jpg)
 
-  *<b>Makris Yialos </b> is 7.5 km away from Alykes and 25km from Zakynthos town. The sea water is clear, deep and blue appropriate for scuba diving. There are tiny pebbles, a bit sand and numerous caves to be explored.Makris Yialos is perfect for couples,swimmers and nature lovers.
+  * <b>Makris Yialos </b> is 7.5 km away from Alykes and 25km from Zakynthos town. The sea water is clear, deep and blue appropriate for scuba diving. There are tiny pebbles, a bit sand and numerous caves to be explored.Makris Yialos is perfect for couples,swimmers and nature lovers.
 
    ![](/images/makris-yialos.jpg)
 
@@ -360,7 +360,7 @@ It is located next to village Agios Leon. The beach has rocks surround the coast
 
 #### <a name="ent_zakynthos"></a>
 * <b>Laganas</b> is the most popular part of the island, famous for its intense nightlife. There are plenty of nightclubs along the main road. Greek music is seldom heard, since Laganas mainly hosts foreign holidaymakers. Many bars organize karaoke nights, quizzes and various other entertaining games. Many cafes show movies or sports matches on big screens. Most of them open from 18:30 in the afternoon until 4 in the morning in the weekdays and until 6 in the morning Friday and Saturday.
- 
+
 
  ![](/images/laganas.jpg)
 
