@@ -174,14 +174,22 @@ Corfu is the second largest of the ionian islands. It has been a part of greek m
 
 ![](/images/Corfu_Town.jpg)
 
+source:[google images](https://www.google.com/search?q=corfu+by+night&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiZiPunwdrgAhUG26QKHT0yDKsQ_AUIDigB&biw=1440&bih=611#imgrc=D3wHl2CoGH5xPM)
+
 #### <a name="beaches_corfu"></a>Beaches :shell:
 * [Porto Timoni](https://www.tripadvisor.com/Attraction_Review-g5485027-d8115796-Reviews-Porto_Timoni_Beach-Afionas_Corfu_Ionian_Islands.html):After going down a mountain for about half an hour (which of course you will have to climb back up at the end but i promise you it is totally worth it) you will find yourself in the middle of two sand beaches. Now you might be wondering:thought_balloon: what does this mean exactly? Well it means that in just a few steps you can go from one beach to another. The view from above where you can actually see that it is two different parts, because once you are down due to the dense vegetation you cannot really see it, is mesmerizing. Nevertheless the feeling of just being there is unique.
 
 ![](/images/corfu_porto_timoni.jpg)
 
+source: [google images](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ferriesingreece.com%2Fphotos%2Fdestinations%2Fmilos-gallery-1-1920.jpg&imgrefurl=https%3A%2F%2Fwww.ferriesingreece.com%2Fdestinations%2Fferry-to-milos%2F&docid=S7UkJ9pGosIWFM&tbnid=kNq6ykqZkOTxbM%3A&vet=10ahUKEwj9s8Kxn9rgAhUMlhQKHVihA9oQMwhvKAUwBQ..i&w=1920&h=1280&bih=623&biw=1439&q=milos&ved=0ahUKEwj9s8Kxn9rgAhUMlhQKHVihA9oQMwhvKAUwBQ&iact=mrc&uact=8)
 * [Pazuzu](https://www.tripadvisor.com/Restaurant_Review-g2667806-d8421341-Reviews-Pazuzu-Glyfada_Corfu_Ionian_Islands.html): A really nice organised beach with both a beautiful scenery and a very well designed beach bar called Pazuzu offers all the amenities from the comfortable sunbeams and beanbags to the amazing parties organised on the weekends and often during the week with popular artists.
 
 * [Cape Drastis & Canal D'Amour](https://www.tripadvisor.com/Attraction_Review-g1187633-d12619113-Reviews-Cape_Drastis-Peroulades_Corfu_Ionian_Islands.html): Corfu also has an abundance of natural clay especially in this beach. It is located in the northernmost part of the island and it consists of magnificent formations of the ground which in many cases is clay creating a beautiful landscape that does not lack in green either. The road is a bit difficult so you will need a jeep or you can just walk down and arrive in a small beach where you can either enjoy the sun and do a spa with natural clay mask you can just pick up from the ground or the rocks or take a boat to the famous [Canal D'Amour](https://www.tripadvisor.com/Attraction_Review-g676295-d2469814-Reviews-Canal_D_Amour-Sidari_Corfu_Ionian_Islands.html):heart: so you can enjoy the view on the way and possibly fall in love:heart_eyes: with the person you will swim with as the legend says.
+
+<b>Canal D'amour:heart:</b>
+![](/images/corfu_canal_d'amour.jpg)
+
+source: [google images](https://www.google.com/search?q=canal+damour&tbm=isch&tbs=rimg:CcRo6ej5a2lPIjhdtCTSL0ekbhBARwUGBZ4cnw3ai-4Ngze4H9uleHdlASwlPvIEUOTQ3TUkKm3_1AWb_1L9Fakw9jwCoSCV20JNIvR6RuEUAA0MjH05xjKhIJEEBHBQYFnhwRhyxv2tFM3pEqEgmfDdqL7g2DNxFhB68ASl8BBioSCbgf26V4d2UBEZ5tPtcfJIeoKhIJLCU-8gRQ5NARkwVlP11HoO8qEgndNSQqbf8BZhHit2sCUc4u6ioSCf8v0VqTD2PAEX1xIxckc8An&tbo=u&sa=X&ved=2ahUKEwi_oaTrxdrgAhXQaFAKHSrHBYkQ9C96BAgBEBs&biw=1439&bih=623&dpr=2#imgrc=kqCpTyr37VL9SM:)
 
 #### <a name="foods_corfu"></a>Foods you need to try :yum:
 
@@ -211,17 +219,25 @@ Corfu is the second largest of the ionian islands. It has been a part of greek m
 
 ![](/images/corfu_Liston.jpg)
 
+source: [google images](https://www.google.com/imgres?imgurl=http%3A%2F%2Fsotiriaparamonas.gr%2Fwp-content%2Fuploads%2F2016%2F04%2Fbg-liston.jpg&imgrefurl=http%3A%2F%2Fsotiriaparamonas.gr%2Findex.php%2Fold-town%2F&docid=OwRfHCltFBdYYM&tbnid=biqGo7zl_fyokM%3A&vet=12ahUKEwja1unqv9rgAhUINOwKHetSBEo4ZBAzKBAwEHoECAEQEQ..i&w=1382&h=727&bih=611&biw=1439&q=kantounia&ved=2ahUKEwja1unqv9rgAhUINOwKHetSBEo4ZBAzKBAwEHoECAEQEQ&iact=mrc&uact=8)
+
 <b>Kantounia</b>
 
 ![](/images/corfu_kantounia.jpg)
+
+source: [google images](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi2.prth.gr%2Ffiles%2F2013%2F08%2F09%2Fkantouniaa.jpg&imgrefurl=https%3A%2F%2Fwww.protothema.gr%2Ftravelling%2Farticle%2F301463%2Fkerkura-i-komissa-tou-ioniou%2F&docid=09ZqAjZxqQwnqM&tbnid=3pNvNaUnds9jTM%3A&vet=10ahUKEwiZ0eLAwNrgAhWHMewKHYCKB_oQMwhJKAswCw..i&w=620&h=386&bih=611&biw=1440&q=kantounia&ved=0ahUKEwiZ0eLAwNrgAhWHMewKHYCKB_oQMwhJKAswCw&iact=mrc&uact=8)
 
 * [Vlacherna Monastery & Mouse Island](https://www.tripadvisor.com/Attraction_Review-g189458-d6979708-Reviews-Vlacherna_Monastery-Corfu_Ionian_Islands.html): The most iconic site of Corfu. This monastery has its own island in which you can get to through a road over the water. Interesting enough if you stand on the road for a bit during flights rush hour you can get some amazing shots:camera: where you can pretend that you are touching the :airplane: since the airport is right next to the water so at this point the planes are flying low. From there you can also get a small boat and visit mouse island (Pontikonissi), which is said to be the ship that brought the king of Ithaca and the hero of Odyssey to the island of the Phaeacians that washed out on the shore and god later on turned it into this beautiful small green rock.
 
 ![](/images/corfu_mouse_island.jpg)
 
+source: [google images](https://www.google.com/search?q=vlacherna+monastery&source=lnms&tbm=isch&sa=X&ved=0ahUKEwii8dz3v9rgAhWIJVAKHbYBDdcQ_AUIDigB&biw=1439&bih=611#imgrc=KtydXl-X0iw7OM)
+
 * [Achilleion](https://www.tripadvisor.com/Restaurant_Review-g662629-d1097320-Reviews-Achilleion-Corfu_Town_Corfu_Ionian_Islands.html): A palace built as a home for the Austrian Royalty Elisabeth of Bavaria also known as princess Sisi. Corfu was Sisis favourite vacation place so she wanted the palace to be as beautiful as her thoughts for the island. As a result the palace is stunning on the inside as well as on the outside with huge gardens filled with flowers and statues inspired from greek mythology.
 
 ![](/images/corfu_achilleion.jpg)
+
+source: [google images](https://www.google.com/search?biw=1440&bih=611&tbm=isch&sa=1&ei=Z8R1XKy5IMf8kwXV3JbYCQ&q=achilleion+inside&oq=achillei&gs_l=img.1.1.35i39l2j0l8.350115.352034..353665...0.0..0.107.752.6j2......1....1..gws-wiz-img.XcHRWCtINcM#imgrc=HFtiHoz0GbfqBM)
 
 ### <a name="kythira"></a>Kythira
 
@@ -929,12 +945,12 @@ If you are island hopping around the Cyclades, Kimolos is an interesting stop to
 
  Source: [https://travelgreecetraveleurope.com/prassa-beach-kimolos-mygreecemytravels-1/]
 
- * Aliki: Aliki is one of the most serene and beautiful beaches on Kimolos. It is located to the south of Chorio, near the port of Psathi. The rocky landscape, crystalline water, pebbles and beautiful sands make this beach a lovely choice for swimming and relaxing. 
+ * Aliki: Aliki is one of the most serene and beautiful beaches on Kimolos. It is located to the south of Chorio, near the port of Psathi. The rocky landscape, crystalline water, pebbles and beautiful sands make this beach a lovely choice for swimming and relaxing.
 ![](./images/aliki.jpg)
 
  Source: [https://www.voyagevirtuel.co.uk/grece/pages/kimolos-aliki-beach-113.php]
 
- * Bonatsa: Bonatsa beach on Kimolos is a large beach with golden sand and crystal water. Bonatsa is one of the most famous beaches of the island and becomes quite popular in summer months. 
+ * Bonatsa: Bonatsa beach on Kimolos is a large beach with golden sand and crystal water. Bonatsa is one of the most famous beaches of the island and becomes quite popular in summer months.
 ![](./images/bonatsa.jpg)
 
  Source: [https://www.tripadvisor.com/Attraction_Review-g189428-d7113605-Reviews-Bonatsa_Beach-Kimolos_Cyclades_South_Aegean.html]
