@@ -222,6 +222,8 @@ Corfu is the second largest of the ionian islands. It has been a part of greek m
 ![](/images/corfu_achilleion.jpg)
 
 ### <a name="kythira"></a>Kythira
+
+![](/images/avlemonas_kythira.jpg)(www.kythera.gr)
 * [Is that an island](#infokyth)
 * [Astonishing Beaches](#beacheskyth)
 * [Breathtaking Views](#viewskyth)
@@ -234,7 +236,7 @@ And it's beautiful. It is located under Pelopponese and the combination of the 3
 #### <a name="beacheskyth"></a>For every taste
 The island offers a wide variety of unique majestic beaches numbering more than 100. A high percentage of them is also honored with the [Blue Flag](http://www.blueflag.global/)
 
-![](/images/kythira_beach.jpg)
+![](/images/kythira_beach.jpg)(www.kythera.gr)
 
 #### <a name="viewskyth"></a>Views you need to see
 During sunset the siland hills provide a majestic view to the Aegean or the Ionian sea which no one should miss.(Not recommendable if you feel a bit tipsy :cold_sweat:)
@@ -242,12 +244,12 @@ During sunset the siland hills provide a majestic view to the Aegean or the Ioni
 #### <a name ="naturekyth"></a>A Tropical nature
 During Summer if you feel like you need some place to chill under a tree after a long day in the sun ,there is a location on the island called Mylopotamos where you can see a while different scenery.You can find waterfallls and small lakes and you could also take the small path to the old watermills. A true majestic scenery :open_mouth:
 
-![](/images/Kythira_nature.jpg)
+![](/images/Kythira_nature.jpg)(www.kythera.gr)
 
 #### <a name="whykyth"></a> If you're not sure yet:
 Kythira can provide any traveller a while different experience, it's culture is so different from any other island and the locals are so friendly the will make you feel like you visited your grandmother's house.All the traditional food, the scenery,the beaches and even the long walks in the cliffs during sunset will make you feel like you are in heaven. At last, as the locals say "If you visit Kythira once, you will fall in love with it"!
 
-![](/images/Kythira_cave.jpg)
+![](/images/Kythira_cave.jpg)(www.kythera.gr)
 
 
 ### <a name="ithaca"></a>Ithaca
