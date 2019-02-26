@@ -1513,7 +1513,7 @@ Established in the March of 2011 in an amazing location in the Old Port of Spets
 ![](/images/Spetses-LaLuz.jpg)
 
 * [Fish Tavern Patralis](#https://www.tripadvisor.com/Restaurant_Review-g189496-d1799370-Reviews-Patralis_Psarotaverna-Spetses_Saronic_Gulf_Islands_Attica.html):
-If greek islands are a synonym of delicious fresh fish, then the fish tavern Patralis is a synonym of Spetses. This restaurant, with a history of more than 80 years, prepares and serves fresh fish in its own way. Try thebouillabaisse, the shrimp spaghetti, the seafood risotto, which are all created with talent, care and amazing ingredients fresh from the sea. Of course, you can also try other, traditional Greek dishes like moussaka, *papoutsakia* and stuffed vegetables.
+If greek islands are a synonym of delicious fresh fish, then the fish tavern Patralis is a synonym of Spetses. This restaurant, with a history of more than 80 years, prepares and serves fresh fish in its own way. Try thebouillabaisse, the shrimp spaghetti, the seafood risotto, which are all created with talent, care and amazing ingredients fresh from the sea. Of course, you can also try other, traditional Greek dishes like moussaka and *papoutsakia*.
 ![](/images/Spetses-Patralis.jpg)
 
 * [On the Verandah](#https://www.tripadvisor.com/Restaurant_Review-g189496-d2450000-Reviews-On_the_Verandah-Spetses_Saronic_Gulf_Islands_Attica.html):
