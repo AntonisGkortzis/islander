@@ -1646,8 +1646,39 @@ The ultimate destination to combine swimming at Aponisos’ beach & eating after
 #### <a name="seeAgistri"></a>What to see
 * Church of Agioi Anargyroi
 
-This is the most photographed church on Agistri. Located next to the beach of Skala, it is white in color and has a blue dome. Source: www.greeka.com
-![](/images/sifnos_4.jpg)
+This is the most photographed church on Agistri. Located next to the beach of Skala, it is white in color and has a blue dome.
+
+### <a name="Salamina"></a>Salamina
+  * [Discover Salamina](#discoverSalamina)
+  * [Where to swim](#swimSalamina)
+  * [Where to eat](#eatSalamina)
+
+#### <a name="discoverSalamina"></a>Discover Salamina
+It’s not a famous island like Mykonos, Crete or Santorini.
+It’s even kept out of the loop when compared to its sister Saronic islands like Aegina, Agistri or Hydra.
+That’s because, as I found out, Salamina is not the kind of island destination that requires a lot of planning.
+![](/images/salamina_1.jpg)
+#### <a name="swimAgistri"></a>Where to swim
+* Psili Ammos
+
+It is packed with families thanks to its really shallow waters.  Along the way, there are many small beach coves with turquoise waters.
+
+![](/images/salamina_2.jpg)
+
+* Kanakia
+
+ a sandy pebble beach with a calming view of a little Kanakia island in the distance.
+
+![](/images/salamina_3.jpg)
+
+#### <a name="eatSalamina"></a>Where to eat
+* Ouzeri o Kakias
+
+"Kakias" in Salamina is the king of fresh shells and fish
+
+* Paralia
+
+Located on the beach of Salamina, it serves delicious seafood, octopus, sardines, squid
 
 ## <a name="evia_island"></a>Evia
 The island of Evia is one of the closest to Athens and yet it is one of the most unknown. That is because Evia is so large that there is much to know about it. Second in size to Crete, it stretches from the tip of the Pelion Peninsula all the way south to the coast of Attika. It's southern tip is just a short distance from the Cycladic islands of Andros and Kea though unfortunately there is no ferry connection. If there were, more tourists would come here. As it is, because it is so close to the mainland that you can drive to it, Evia has been and remains a popular summer holiday destination for Greeks and Greek-Americans, Canadians, Australians and others whose families originally came from the island.The topography of the island is as varied as anywhere in Greece, with sparkling Aegean beaches and coves on its east coast, a mountainous interior with rivers, streams and forests, a west coast that is a mix of beaches, the city of Halkida, large towns, industry, agriculture, beaches and wetlands. And in the northwest the town of Edipsos is the most popular spa in Greece, with hot water gushing from rocks and crevices into the sea and pools of the many hotels and healing centers.There are several ways to reach Evia from Athens. Which way you choose depends on where in Evia you want to go, because as I said; Evia is a very large island and a very long one. How large and long? From one tip to the other could take you four or five hours by car.  You could drive almost to Thessaloniki from Athens in that time. Of course much of the journey will be on narrow winding roads where there is a good possibility that you will be stuck behind a big slow moving truck with nowhere to pass for at least part of the journey. And most likely you will stop to wade in the cool waters of the Kirea river that runs alongside the road that goes north from the modern city of Halkida to the fishing village of Limni, the spas of Edipsos and the beautiful beaches of the northern coast.
