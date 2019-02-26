@@ -22,6 +22,7 @@ The outcome will be published as an unofficial travel guide! [(Check last years'
 - Include links where necessary (i.e., locations, bars, etc.)
 - You can include pictures, but don't forget to commit and push them. Pictures should be placed in the ```Photos/``` directory
 - Rearrange text if you think that it should be organized different - refactorings are always welcome!
+- Use references for pictures and videos - You cannot reuse web content without citing the original source
 
 ## Grading system
 - Number of contributions - the more the better
