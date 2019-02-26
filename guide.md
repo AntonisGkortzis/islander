@@ -1602,6 +1602,53 @@ Hydroneta - In Hydra Town
 - <b>Bratsera</b>: Its service and food are taken really seriously so that they make it an excellent restaurant.
 - <b>Kai Kremmidi</b>: The ideal option to taste souvlaki.
 
+### <a name="Agistri"></a>Agistri
+  * [Discover Agistri](#discoverAgistri)
+  * [Where to swim](#swimAgistri)
+  * [Where to eat](#eatAgistri)
+  * [What  to see](#seeAgistri)
+
+#### <a name="discoverAgistri"></a>Discover Agistri
+Agistri the diamond of the Argosaronic Gulf full of pine trees and crystal clean waters
+Agistri is a small paradise, only 55 min. from Piraeus Port.
+
+![](/images/agistri_1.jpg)
+#### <a name="swimAgistri"></a>Where to swim
+* Megalochori
+
+Megalochori has two beaches with light blue crystal waters in natural coves that create sandy and pebbled areas. The first beach is located at the left of the Megalochori port, in front of "Seaside Studios", and is pebbled and sandy in some places.
+![](/images/agistri_2.jpg)
+
+* Skala
+
+Skala is on the island's northeastern coast and has a natural port where ferry-boats arriving from Piraeus or Aegina dock.
+Skala is a settlement which has a very good tourism infrastructure with sparkling clean hotels, rooms to let and studios.
+It has 354 inhabitants and is 1 kilometer from Megalochori.
+At Skala, with its imposing, white-washed Church of Agioi Anargiroi, there is a large sandy beach, with golden sand and crystal clea, shallow waters.
+![](/images/agistri_3.jpg)
+
+* Dragonera
+
+The coastal road after Megalochori turns south and passes parallel to the beach, at a distance from it.
+It crosses a dense forest and come across beautiful moorings with emerald waters.
+
+![](/images/agistri_4.jpg)
+
+#### <a name="eatAgistri"></a>Where to eat
+* Aktaion
+
+Try the true Greek Cuisine at our Aktaion restaurant. It is the place to enjoy traditional Greek dishes, fresh fish and seafood, all at affordable prices. The restaurant overlooks the main sandy beach of Skala. At night, the view of Aegina island is stunning. This restaurant and coffee shop has been around since 1900 and now operated by the family’s 5th generation
+
+* Aponisos
+
+The ultimate destination to combine swimming at Aponisos’ beach & eating after at the fish tavern. Here you can taste fresh fish every day, spaghetti with fresh lobster, octopus, shell fish and meze with ouzo. Enjoy your food next to the sea and viewing all the yachts that choose this bay to anchor.
+
+#### <a name="seeAgistri"></a>What to see
+* Church of Agioi Anargyroi
+
+This is the most photographed church on Agistri. Located next to the beach of Skala, it is white in color and has a blue dome. Source: www.greeka.com
+![](/images/sifnos_4.jpg)
+
 ## <a name="evia_island"></a>Evia
 The island of Evia is one of the closest to Athens and yet it is one of the most unknown. That is because Evia is so large that there is much to know about it. Second in size to Crete, it stretches from the tip of the Pelion Peninsula all the way south to the coast of Attika. It's southern tip is just a short distance from the Cycladic islands of Andros and Kea though unfortunately there is no ferry connection. If there were, more tourists would come here. As it is, because it is so close to the mainland that you can drive to it, Evia has been and remains a popular summer holiday destination for Greeks and Greek-Americans, Canadians, Australians and others whose families originally came from the island.The topography of the island is as varied as anywhere in Greece, with sparkling Aegean beaches and coves on its east coast, a mountainous interior with rivers, streams and forests, a west coast that is a mix of beaches, the city of Halkida, large towns, industry, agriculture, beaches and wetlands. And in the northwest the town of Edipsos is the most popular spa in Greece, with hot water gushing from rocks and crevices into the sea and pools of the many hotels and healing centers.There are several ways to reach Evia from Athens. Which way you choose depends on where in Evia you want to go, because as I said; Evia is a very large island and a very long one. How large and long? From one tip to the other could take you four or five hours by car.  You could drive almost to Thessaloniki from Athens in that time. Of course much of the journey will be on narrow winding roads where there is a good possibility that you will be stuck behind a big slow moving truck with nowhere to pass for at least part of the journey. And most likely you will stop to wade in the cool waters of the Kirea river that runs alongside the road that goes north from the modern city of Halkida to the fishing village of Limni, the spas of Edipsos and the beautiful beaches of the northern coast.
 * [A nice video about Evia](https://www.youtube.com/watch?v=ZSLe_zK2qd8)
