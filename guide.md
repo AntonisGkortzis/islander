@@ -1492,8 +1492,8 @@ Mytilene has several places worth visiting.
 * [Plomari](http://www.lesvosgreece.gr/en/plomari): The capital of Ouzo! Visit Plomari, try Ouzo, buy some both for yourself and for your friends at home. It is also very nice to walk during the evening and it is a very commercial and touristic place.
 * [Molyvos or Mithimna](http://www.lesvosgreece.gr/en/molyvos): Molivos is one of the most popular places of the island. It is one of the most picturesque and beautiful villages. It is roughly 60 kilometres from the capital of the island and it certainly is the most touristic village. Its castle is what differentiate it and it is the first thing that every visitor sees as it is built on the highest hill; it is Molivos’ Acropolis. The castle has undergone many repairs both inside and outside, but it is still standing, and it is worth going to the top. There you will enjoy the breath-taking view and you can admire the amazing sunset, which for some unknown reason at least to me, takes shades of purple.
 
-![](/images/.Lesvos_Molyvos_sunset.jpg)
-Molyvos Sunset by kbabetas
+![](/images/Lesvos_Molyvos_sunset.jpg)
+Molyvos Sunset by @kbabetas
 
 #### <a name="sightsLesvos"></a>Sights
 * [The Yeni Tzami](https://www.tripadvisor.com.gr/Attraction_Review-g1450327-d3643574-Reviews-The_Yeni_Tzami_Mosque-Mytilene_Lesbos_Northeast_Aegean_Islands.html): This historical monument from the early 1900s is the biggest Muslim mosque of the island.
