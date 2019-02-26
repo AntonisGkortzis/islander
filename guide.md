@@ -12,6 +12,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Corfu (Kerkyra)](#corfu)
   * [Kythira](#kythira)
   * [Ithaca](#ithaca)
+  * [Zakynthos](#zakynthos)
 * [Cyclades](#cyclades)
   * [Santorini](#santorini)
   * [Ios](#ios)
@@ -330,7 +331,38 @@ If all the above didn't convince you yet,well you should definately watch the fo
 * If you are an adventure lover, you can visit <b>Odyssey Diving and Sea Kayak Club</b> where you can find the right equipment for every activity. Then you can explore the bottom of the sea and some of the secret beaches. 
 Check it out here- https://www.youtube.com/watch?v=5oyje83lrOY
 
+### <a name="zakynthos"></a>Zakynthos
+* [General Informations About the Island](#gen_info)
+* [Best Beaches in Zakynthos](#beaches_zakynthos)
+* [Nightlife and Party](#ent_zakynthos)
 
+
+#### <a name="gen_info"></a>
+ * <b>Zákynthos (Zante)</b> is a verdant island endowed with valleys . Its landscape diversity has resulted in different types of beaches: there are sandy beaches in secluded coves where the tranquil waters are deep blue ; yet, if rugged cliffs and an interesting underwater world are to your liking, try the western part of the island.
+
+ ![](/images/zante.jpg)
+
+#### <a name="beaches_zakynthos"></a>
+ * What makes Zakynthos island unique is the magical beaches with the blue sea water, the variety of water sports available and of course the tiny isolated beaches.
+
+ *<b>Kalamaki </b> beach is 8km away from Zakynthos town. Opposite stands the popular Cameo island accessible by a wooden bridge, that has a bar -cafe and a tiny beach with shallow, warm sea water.The restaurants and the bars situated along Kalamaki beach are open till sunset.
+
+  ![](/images/kalamaki.jpg)
+
+  *<b>Makris Yialos </b> is 7.5 km away from Alykes and 25km from Zakynthos town. The sea water is clear, deep and blue appropriate for scuba diving. There are tiny pebbles, a bit sand and numerous caves to be explored.Makris Yialos is perfect for couples,swimmers and nature lovers.
+
+   ![](/images/makris-yialos.jpg)
+
+* <b>Porto Limnionas</b> is a coast with magical natural beauty
+It is located next to village Agios Leon. The beach has rocks surround the coast and the sea water is deep, cool and crystal, perfect for diving. In the distance of 30m a tavern serves fresh fish and other traditional dishes.The coast is perfect for swimmers, snorkelling and scuba diving.
+
+ ![](/images/porto-limnionas.jpg)
+
+#### <a name="ent_zakynthos"></a>
+* <b>Laganas</b> is the most popular part of the island, famous for its intense nightlife. There are plenty of nightclubs along the main road. Greek music is seldom heard, since Laganas mainly hosts foreign holidaymakers. Many bars organize karaoke nights, quizzes and various other entertaining games. Many cafes show movies or sports matches on big screens. Most of them open from 18:30 in the afternoon until 4 in the morning in the weekdays and until 6 in the morning Friday and Saturday.
+ 
+
+ ![](/images/laganas.jpg)
 
 
 ## <a name="cyclades"></a>Cyclades
