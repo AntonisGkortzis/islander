@@ -229,6 +229,7 @@ Corfu is the second largest of the ionian islands. It has been a part of greek m
 * [Breathtaking Views](#viewskyth)
 * [Great nature](#naturekyth)
 * [So, why kythira](#whykyth)
+* [Tips from a local](#tips_kyth)
 
 #### <a name="infokyth"></a>Well it is...
 And it's beautiful. It is located under Pelopponese and the combination of the 3 open seas around it and the various influences from a wide variety of civilizations occupying it through the centuries ,has created a unique scenery. The island was a crossroad for merchants since the ancient times and also a fortress during wars due to its significant strategic position. The result of that reflects on the island's architecture, traditions and customs. Beside it's diversity, Kythira is also believed to be the island of Aphrodite,an ancient godess-protector of pure love. Due to that, during the modern days the island is believed to have an ability to create and maintain pure forever-lasting relationships for its occupants and visitors ,which is also the reason why many couples visit the island annually.:heart:
@@ -252,6 +253,11 @@ Kythira can provide any traveller a whole different experience, it's culture is 
 ![](/images/Kythira_cave.jpg)(www.kythera.gr)
 
 If all the above didn't convince you yet,well you should definately watch the following video from a drone :heart_eyes: [Kythira from Above](https://www.youtube.com/watch?v=pdA6xu342QA) 
+
+#### <a name="tips_kyth"></a>Tips from a local
+Must do on the island : You need to take captain Spyros Glass Bottom boat to the small island of Hytra the only place where the local flower Sempreviva grows. There you can use captain Spyros equipment to dive into the light blue waters and if you're a bit lucky you may face sea turtles staring at you  :turtle:
+Moreover don't hesitate asking the locals for traditional recipes , the will provide you with everything you need and probably also invite you for a proper kytherian dinner where you can taste the best food you can get on the island, i ensure you you will feel like you're visiting your grandmother for a weekend :whale: :stuck_out_tongue_closed_eyes:
+
 
 
 ### <a name="ithaca"></a>Ithaca
