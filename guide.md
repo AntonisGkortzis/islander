@@ -298,6 +298,10 @@ If all the above didn't convince you yet,well you should definately watch the fo
 #### <a name="restaurants_ithaca"></a>Locale Cuisine :
 * <b> Tsirimbis Restaurant </b> is a local tavern that exists since 1956. Without losing its traditional character it offers you the opportunity to taste traditional pies (chicken, spinach, onion, cheese pie), pasta, garlic, fish (stuffed with garlic) and bourgeois, many home-made appetizers (taramosalata, tzatziki, cheese, eggplant).
 
+* <b> Sirens </b> is a combination of local and gourmet cuisine, where you can find pies,jams, saganaki, rabbit stiphado and other traditional foods. 
+
+* <b> 
+
 * If you want to taste something sweet you can try the Hanou Patisserie that is located in the central square of the island overlooking the Odysseus statue and has been operating since 1972 with traditional recipes such as rhubanes, truffles and many tasty cakes.
 
 ![](/images/tsirimpis.jpg)
