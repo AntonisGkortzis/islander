@@ -781,14 +781,20 @@ Donoussa has been known by this name since the Geometric era, a fact confirmed b
 According to the mythology, the island is where Dionyssos hid Ariadne so Theseus would not be able to find her.
 
 #### <a name="beaches"></a>Lets go to beach
-* [Kedros]
+* Kedros
 ![](./images/kedros.jpg)
 
-* [Meltemi]
+Source: [https://gr.pinterest.com/pin/576249714803318079/?lp=true]
+
+* Meltemi
 ![](./images/meltemi.jpg)
 
-* [Mirsini]
+Source: [https://www.e-kyklades.gr/travel/tourism/donousa?lang=en&regionCd=DONOUSA]
+
+* Mirsini
 ![](./images/mirsini.jpg)
+
+Source: [https://www.e-kyklades.gr/travel/tourism/donousa?lang=en&regionCd=DONOUSA]  
 
 
 #### <a name="sights_don"></a>Sights to see :eyes:
