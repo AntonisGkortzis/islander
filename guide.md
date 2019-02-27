@@ -193,6 +193,11 @@ One of the most beautiful beaches which is located in the north part of Antipaxo
 * [Monodendri Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189461-d7071058-Reviews-Monodendri_Beach-Paxos_Ionian_Islands.html):
 If you are looking for a non-organized beach, Monodendri is your solution. Though unorganized, you can lay on the sand, swim safely and at 7 p.m. you can enjoy the wonderful sunset. At a glance you may face some difficulties on accessing Monodendri Beach, but in reality it is not that difficult and it is absolutely worth making an effort to reach this beach.
 
+* [Galazio](https://www.tripadvisor.com.gr/ShowUserReviews-g189461-d2061955-r593750940-Vrika_Beach-Paxos_Ionian_Islands.html)
+Where: on the west coast, just across the island from Gaios.
+A small shingle beach carved out of the cliffs of the west coast. The colour of the water is particularly striking.
+Access: only by boat.
+
 #### <a name='foodPaxoi'></a>Where to eat
 In order to get in real touch with the atmosphere of an island you need to taste the greek traditional food with a view to the sea during the sunset. Here is a list of restos you can find in the most beautiful spots of the island:
 
