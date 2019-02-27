@@ -18,7 +18,6 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Santorini](#santorini)
   * [Ios](#ios)
   * [Mykonos](#mykonos)
-  * [Paros](#paros)
   * [Antiparos](#antiparos)
   * [Naxos](#naxos)
   * [Syros](#syros)
