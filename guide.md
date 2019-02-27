@@ -8,7 +8,7 @@ This guide provides people who would like to visit a Greek island with tips rega
 * [Greek Cheat Sheet](#greek)
 * [Ionian Islands](#ionian_islands)
   * [Cephalonia](#cephalonia)
-  * [Leukada](#leukada)
+  * [Leukada](#lefkada)
   * [Paxoi](#paxoi)
   * [Corfu (Kerkyra)](#corfu)
   * [Kythira](#kythira)
