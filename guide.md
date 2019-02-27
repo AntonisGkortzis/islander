@@ -1638,7 +1638,43 @@ Kalymnos has become one of the major rock climbing destinations for professional
 * [General Info](#info_kos)
 * [Beaches](#beaches_kos)  
 * [You need to do](#do_kos)  
-* [Food](#food_kos)  
+* [Food](#food_kos) 
+
+
+#### <a name="info_kos"></a>General Info  
+Kos island, Greece, is located in the middle of the Dodecanese , really close to the  
+Turkish coastline and Rhodes to the south, and Patmos, in the north. Vacations in Kos are
+very popular amongst many nationalities all over the world and especially the British.  
+
+Kos is ont typical example of a very rich island as far as it concerns it's natural beauty.  
+It also of the best islands in Greece when it comes to a typical beach holiday. It was among the  
+first to go for mass-market tourism in a big way with many Kos hotels thrown up on the long, sandy  
+coastlines to the east and the south and this contributed a lot to the tourist flaurish.  
+
+Kos is long and thin, about 45 by 11 kilometres and, unlike many other Greek islands, it's mostly  
+flat and low-lying, especially in the north and west. As a result, much of the scenery on Kos is not  
+outstanding by Greece standards, although it does get more mountainous in the south and east.  
+It's topography makes easy an ideal to tour it all around even with a small vehicle and that's  
+very important because so you can visit every corner of the island and learn about it's sevrets!
+ 
+
+![](/images/kos1.jpg)  
+  
+  
+#### <a name="beaches_kos"></a>Beaches  
+Beaches as far as the eye can see! Kos, as we said before is one of the most popular Mediterranean  
+islands when it comes to beach holidays. Not only party holidaymakers, who want to party all day  
+and all night long, in order let off steam in the clubs and get ready the full of work upcoming  
+winter, but also mature people and connoisseurs who want to spend relaxing days alone or with their  
+families in the sun and in the clear waters of the Mediterranean Sea. The mountains in the background  
+ and the wide sea right in front of your eyes, you can make yourself comfortable in small bays or on long   
+beaches with a lot of service. You should also consider that in Kos there are many award wining beaches  
+like Agios Stefanos and Psalidi.  
+
+![](/images/kos1.jpg)  
+
+![](/images/kos1.jpg)  
+ 
 
 ## <a name="northAegean"></a>North Aegean Sea Islands
 
