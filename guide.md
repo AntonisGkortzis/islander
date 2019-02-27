@@ -30,6 +30,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Serifos](#serifos)
   * [Folegandros](#folegandros)
   * [Kimolos](#kimolos)
+  * [Kea](#kea)
 * [Sporades](#sporades)
   * [Skopelos](#skopelos)
   * [Alonnisos](#alonnisos)
