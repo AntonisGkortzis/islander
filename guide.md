@@ -1671,9 +1671,9 @@ families in the sun and in the clear waters of the Mediterranean Sea. The mounta
 beaches with a lot of service. You should also consider that in Kos there are many award wining beaches  
 like Agios Stefanos and Psalidi.  
 
-![](/images/kos1.jpg)  
+![](/images/kos2.jpg)  
 
-![](/images/kos1.jpg)  
+![](/images/kos3.jpg)  
  
 
 ## <a name="northAegean"></a>North Aegean Sea Islands
