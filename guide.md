@@ -1072,25 +1072,37 @@ Beaches in Skopelos are known for their crystal waters and the marvelous green l
 
 ![](./images/panormos.jpg)
 
+[image source](https://www.google.com/search?q=skopelos+panormos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3pryok9zgAhWELewKHXyIBRUQ_AUIDigB&biw=1366&bih=632#imgrc=SUjdbkd4cfWjqM:)
+
 * [Stafilos](https://www.tripadvisor.com.gr/Attraction_Review-g2201005-d2282961-Reviews-Stafilos_Beach-Stafylos_Skopelos_Sporades.html): Stafilos, on the southern side of Skopelos, is among the most popular and picturesque beaches on the island. It is surrounded by high cliffs and the coast is organized.
 
 ![](./images/stafilos.jpg)
+
+[image source](https://www.google.com/search?q=skopelos+stafilos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi1pa3DlNzgAhUiuqQKHULGB54Q_AUIDigB#imgrc=NFfctbVOUPwMUM:)
 
 * [Hovolo](https://www.tripadvisor.com.gr/Attraction_Review-g2698254-d7187630-Reviews-Hovolo_Beach-Neo_Klima_Skopelos_Sporades.html): This is an amazing beach close to Elios. Surrounded by greenery, Hovolo has exotic water and a calm ambience.
 
 ![](./images/hovolo.jpg)
 
+[image source](https://www.google.com/search?q=hovolo+skopelos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-2NH4lNzgAhVKC-wKHbMNAUYQ_AUIDigB&biw=1366&bih=632#imgrc=Nn8Ta2cTRz4EOM:)
+
 * [Milia](https://www.tripadvisor.com.gr/Attraction_Review-g189501-d2283275-Reviews-Milia_Beach-Skopelos_Sporades.html): This is a fine beach with white pebbles and crystal water. Part of this beach is organized with sunbeds and umbrellas.
 
 ![](./images/milia.jpg)
+
+[image source](https://www.google.com/search?q=milia+skopelos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjXgr6YldzgAhXICewKHVw5ACsQ_AUIDigB&biw=1366&bih=632#imgrc=7IEAckRW9h1fuM:)
 
 * [Elios](https://www.feelgreece.com/el/elios-beach-skopelos): Elios, or else Neo Klima, is a fine tourist resort surrounded by a dense pine forest. Small boats moor in the port of Elios.
 
 ![](./images/elios.jpg)
 
+[image source](https://www.google.com/search?client=firefox-b-d&tbm=isch&sa=1&ei=ZqR2XIGJOJHZxgO60K3gBQ&q=elios+skopelos&oq=elios+skopelos&gs_l=img.3..0i24.56251.56251..56676...0.0..0.131.131.0j1......0....1..gws-wiz-img.Y5sSKZL2a-M#imgrc=3lFz9bumDKMboM:)
+
 * [Perivoliou](https://www.feelgreece.com/el/elios-beach-skopelos): This is a remote beach on the northernmost part of the island. Due to its secluded spot, it doesn't get frequented at all.
 
 ![](./images/perivoliou.jpg)
+
+[image source](https://www.google.com/search?q=perivoliou+skopelos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiPz7OYltzgAhWRPFAKHQBmAosQ_AUIDigB&biw=1366&bih=632#imgrc=TOQhjU-Z9YHWcM:)
 
 #### <a name="eatSkopelos"></a>Where to eat
 The majority of places to eat and drink in Skopelos are found in Skopelos Town. This is the main nightlife spot on the island, with family restaurants with seafood and grilled dishes, cafeterias by the port promenade and lounge bars in the narrow streets of the Old Town. Except for one or two bars in Glossa, all the other bars on the island are found in Skopelos Town.
@@ -1103,6 +1115,8 @@ The majority of places to eat and drink in Skopelos are found in Skopelos Town. 
 * Visit [church of Agios Ioannis Kastri](https://www.skopelostravel.net/agios-ioannis/): The small church of Agios Ioannis is located in the region of Kastri, about 7 km east of Glossa, northern Skopelos. This lovely church stands on top of a rock and provides an amazing view to the coasts of Skopelos and to Alonissos. Its name actually means Saint John on the Castle, assuming that probably there was a small castle there in the past to protect the island from pirates and enemy invasions. This small church gained a huge reputation after the Hollywood movie Mamma Mia was released, where many scenes from the wedding were actually filmed there. The impressive rock is linked to the rest of the island through a narrow path with 110 steps carved into the stone. A small beach is formed right beneath the rock and it gets pretty crowded in summer. The interior of the church has beautiful icons and old ecclesiastical items to see.
 
 ![](./images/agiosioannis.jpg)
+
+[image source](https://www.google.com/search?q=agios+ioannis+skopelos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiG-fKultzgAhXHUlAKHZ_BDIYQ_AUIDigB#imgdii=CtwBrR3lZdhyTM:&imgrc=Yo7U5vDDEXRW3M:)
 
 * [Painting courses](https://www.greeka.com/sporades/skopelos/other/painting_courses/skopelos-art.htm): Skopelos Art offers painting classes during the spring and summer months for people of all levels of experience, from absolute beginners to those who have previous experience looking to refresh or enhance their skills in a new environment.
 
