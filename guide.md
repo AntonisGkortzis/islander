@@ -608,8 +608,11 @@ True icon of Mykonos nightlife Since 1978, lo Scandinavian Bar over the years re
 
 ![](/images/scan_mykonos.jpg)
 
-
 source:https://www.google.com/search?biw=1536&bih=674&tbm=isch&sa=1&ei=EZRyXLyNMM_isAfLpLm4CQ&q=scandinavian+bar+mykonos&oq=scandinavian+bar+mykonos&gs_l=img.3..0i10i24.34102.43485..43648...1.0..0.223.3443.0j21j2......1....1..gws-wiz-img.......35i39j0i67j0j0i30j0i19j0i30i19j0i8i30i19.7DL2G0Ovt4I#imgrc=zIz7Ws0IwEI7nM:
+
+
+* [Galeraki Coctail Bar](https://www.mykonosnow.gr/el/diaskedasi/384-galleraki-2) 
+One of the most atmospheric cocktail bars in Mykonos, Galleraki perches right above the sea and lies in the middle of Little Venice.From there the view encompasses the Windmills and Little Venice as well. It is a classic example of the traditional architecture found in the Cyclades.
 
 ### <a name="antiparos"></a>Antiparos
 * [Some History](#info_antiparos)
