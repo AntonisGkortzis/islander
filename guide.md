@@ -795,6 +795,7 @@ For those of you that want to relax on your vacation and do not want to share a 
 * *Kolona* - the most famous of the bunch and truly stunning.
 
 ![Kolona beach](./images/kolona.jpg)
+[Source](https://www.tripadvisor.com.gr/Attraction_Review-g189429-d6784711-Reviews-Kolona_Beach-Kithnos_Cyclades_South_Aegean.html)
 
 * *Agios Dimitrios* - a personal favourite, located at the north side of the island.
 * *Episkopi*
@@ -1282,6 +1283,7 @@ How can you visit Greece and not try souvlaki? Meraklis tavern offers one of the
 A beautiful island of the Dodecanese, worthy of its long distance from Athens. Characterized by its natural beauty, Leros has managed to be beautiful with its own uniquely recognizable, but exceptional style.
 
 ![Leros](./images/leros.jpg)
+[Source](https://www.greeka.com/dodecanese/leros/)
 
 #### <a name="beaches_leros"></a>Beaches
 Leros' most famous beaches are listed below:
@@ -1291,6 +1293,7 @@ Leros' most famous beaches are listed below:
 * *Kokkina*
 
 ![paralia kokkina](./images/paralia_kokkina.jpg)
+[Source](https://lerosisland.gr/listings/%CE%BA%CF%8C%CE%BA%CE%BA%CE%B9%CE%BD%CE%B1/)
 
 #### <a name="nightlife_leros"></a>Nightlife
 Mostly located at the Agia Marina region, it proudly has bars and clubs, such as:
