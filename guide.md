@@ -2001,6 +2001,7 @@ The interior is home to the White Mountains, which soar to over 2,000m in the we
 The last thing that makes Crete stand out from the other islands is the breadth of its history: from the mysterious Minoans with their labyrinthine palaces, through Venetian control, to the daring deeds during the German occupation.
 * [A nice video about Crete](https://www.youtube.com/watch?v=NKxj-jmfxlA)
 
+
 #### <a name= “elafonisos”></a> Elafonhsos
 
 * [General Information](#infoelaf)
