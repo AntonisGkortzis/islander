@@ -9,7 +9,7 @@ The outcome will be published as an unofficial travel guide! [(Check last years'
 - Clone this repository locally
 - Add information about Greek islands or anything interesting for a tourist to the guide.md file
 - Contribute generously
-- Add interesting things
+- Add interesting things [use references]
 - Make categories, organize things
 - Feel free to add images/videos
 - You may change/modify text added by others
