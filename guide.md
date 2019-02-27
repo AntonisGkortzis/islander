@@ -1207,6 +1207,8 @@ Skiathos, the most cosmopolitan island in the Northern Sporades, is truly a para
 
 ![](./images/skiathos.jpg)
 
+[image source](https://www.google.com/search?q=skiathos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiurIm6q9zgAhVI4qQKHXYNA4IQ_AUIDygC&biw=1366&bih=632#imgrc=2zAWn7_PDQl-aM:)
+
 #### <a name="historyOfSkiathos"></a>History of Skiathos
 In Ancient times, the island played a minor role during the Persian Wars. In 480 BC, the fleet of the Persian King Xerxes was hit by a storm and was badly damaged on the rocks of the Skiathos coast. Following this the Greek fleet blockaded the adjacent seas to prevent the Persians from invading the mainland and supplying provisions to the army facing the 300 Spartans defending the pass at Thermopylae. The Persian fleet was defeated there at Artemisium and finally destroyed at the Battle of Salamis a year later. Skiathos then became part of the Delian League. The city was destroyed by Philip V of Macedon in 200 BC.
 
@@ -1226,21 +1228,31 @@ In 1704 monks from Athos built the Evangelistria Monastery, which played a part 
 
 ![](./images/koukounaries.jpg)
 
+[image source](https://www.google.com/search?q=koukounaries+skiathos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiY0daFq9zgAhVOzqQKHV9nD8QQ_AUIDigB&biw=1366&bih=632#imgdii=fOT-bLZUjXa4qM:&imgrc=puLIf-XNacLjkM:)
+
 * [Lalaria](https://www.skiathos-tours.gr/en/what-to-see/beaches/lalaria.php): Visitors must take a boat ride to reach this secluded beach with rock formations & turquoise water. The majestic look of the scenery causes awe and admiration to guests who see it for the first time. The huge stone with the famous hole in the middle, the impressive cliffs that start from the top of the slope and end up back at the coast, round pebbles are all part of some unexplained nature phenomena of the area.
 
 ![](./images/lalaria.jpg)
+
+[image source](https://www.google.com/search?q=lalaria+skiathos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjGy4bZq9zgAhUxMewKHWTnCNYQ_AUIDigB&biw=1366&bih=632#imgrc=9W4qcyTJ6HUSoM:)
 
 * [Banana](http://www.skiathos-tours.gr/en/what-to-see/beaches/banana.php): If you are involved with windsurfing, then you have to visit the beaches Banana. The famous beaches of Banana, consist of the Little and Big Banana. They acquired its present name from nudists who once frequented there. Banana beach is also a magnet for young people, as it offers the opportunity to do all kinds of water sports.
 
 ![](./images/banana.jpg)
 
+[image source](https://www.google.com/search?q=banana+skiathos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiAtIrZrNzgAhVG6KQKHQ7qB2cQ_AUIDigB&biw=1366&bih=632#imgrc=20AIltBeA94BVM:)
+
 * [Kastro](https://www.skiathos-tours.gr/en/what-to-see/beaches/kastro.php): Under the old town of Skiathos, at the northernmost point of the island, lies a beautiful beach called Kastro (Castle). The combination of a swim in the crystal clear waters and a visit to the ruins of the castle, it is definitely one of the tours you should not miss during your stay in Skiathos.
 
 ![](./images/kastro.jpg)
 
+[image source](https://www.google.com/search?q=kastro+beach+skiathos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiai9iJrdzgAhVIr6QKHSnGAZUQ_AUIDigB&biw=1366&bih=632#imgrc=5s0eqGX8EH6M5M:)
+
 * [Lechouni](https://www.skiathos-tours.gr/en/what-to-see/beaches/lechouni.php): The tradition says that Nikotsaras, a hero of the Greek Revolution 1821, has been buried here. The beach itself is rocky with white pebbles and offers a beautiful but also wild beauty. It is not an organized beach, but the road access is good.
 
 ![](./images/lechouni.jpg)
+
+[image source](https://www.google.com/search?q=lechouni+skiathos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiJ88mprdzgAhVDy6QKHQc1DqkQ_AUIDigB&biw=1366&bih=632#imgrc=Hqy-6xNe35ltgM:)
 
 #### <a name="eatSkiathos"></a>Where to eat
 There are about a hundred of interesting restaurants and taverns on the island, some of which are listed down below:
@@ -1257,11 +1269,15 @@ There are about a hundred of interesting restaurants and taverns on the island, 
 
 ![](./images/bourtzi.jpg)
 
+[image source](https://www.google.com/search?q=bourtzi+skiathos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjHs8a9rdzgAhUC36QKHQEpACMQ_AUIDigB&biw=1366&bih=632#imgrc=swm5hUxZSLsPbM:)
+
 * Visit [Alexandros Papadiamantis' former house and now museum](http://enjoythessaly.com/sights/museums/327-the-papadiamanti-s-museum-in-skiathos): The Papadiamanti’s museum in Skiathos is actually the last residence of author Alexander Papadiamantis. All the objects inside the museum have been donated by Alexander Papadiamantis’ descendants. Around the house we find objects used by the author, among them the pen and the inkwell that he used, to write his 180 narratives.
 
 * Visit [Castle](https://www.skiathos-tours.gr/en/what-to-see/sights/kastro-skiathos.php): In the mid 14th century, the capital of Skiathos was moved to the castle located on a peninsula in the northern part of the island. The castle was under Byzantine administration until 1453. The Venetians had the castle in their possession until 1538. Afterwards the Turks occupied it until the Greek Revolution of 1821. In the year 1830 the Castle was abandoned and only the ruins of the walls, a church and some other buildings are proving the importance of the castle for the history of Skiathos island.
 
 ![](./images/castle.jpg)
+
+[image source](https://www.google.com/search?q=castle+skiathos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiQy5rWrdzgAhVRyKQKHX2XATMQ_AUIDigB#imgrc=ux2PZcOmdWmDtM:)
 
 * Go [scuba-diving](http://enjoythessaly.com/activities/scuba-diving/446-scubadiving-skiathos): Diving in Skiathos waters is a unique experience. You will be able to dive with experienced guides on reefs, wrecks, caves such as the Cave of Poseidon with red corals and other attractions of the Aegean's seabed.
 
