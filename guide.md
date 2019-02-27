@@ -2,7 +2,7 @@
 
 This guide provides people who would like to visit a Greek island with tips regarding food, entertainment, places to visit etc.
 
-<i>Work tip: Stand up. Stretch. Take a walk. Go to the airport. Get on a plane. Go to a <b>Greek Island</b>. Never return. </i>
+><b>Work tip</b>: Stand up. Stretch. Take a walk. Go to the airport. Get on a plane. Go to a <b>Greek Island</b>. Never return. </i>
 
 ## <a name="menu"></a>Menu
 * [Ionian Islands](#ionian_islands)
