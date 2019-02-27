@@ -45,6 +45,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Tilos](#tilos)
   * [Kastellorizo](#kastellorizo)
   * [Kalymnos](#kalymnos)
+  * [Kos](#kos)  
 * [North Aegean Sea](#northAegean)
   * [Thasos](#thasos)
 * [North-East Aegean Islands](#north_east_aegean_islands)
@@ -1632,6 +1633,12 @@ Kalymnos has become one of the major rock climbing destinations for professional
 * [Paradisio](https://foursquare.com/v/paradisio/500530cde4b0f953a312e5bf)
 
 * [Aegean Tavern](http://www.aegeancuisine.org/Aigaiopelagitiko)
+
+### <a name="kos"></a>Kos  
+* [General Info](#info_kos)
+* [Beaches](#beaches_kos)  
+* [You need to do](#do_kos)  
+* [Food](#food_kos)  
 
 ## <a name="northAegean"></a>North Aegean Sea Islands
 
