@@ -184,6 +184,7 @@ You want a restaurant where you will find a very different concept from the conv
 * [Foods you need to try](#foods_corfu)
 * [Nightlife](#nightlife_corfu)
 * [Attractions](#attractions_corfu)
+* [When to visit?](#visitcorfu)
 
 #### <a name="info_corfu"></a>History/Why Corfu?
 Corfu is the second largest of the ionian islands. It has been a part of greek mythology many times but now it is mostly known for its aged venetian architecture. The name Kerkyra is a modern version but it is only used in Greece. Now why visit Corfu? Well if you are not intrigued by an island that has amazing beaches, mountains to climb, lush vegetation to give you all the green you want to see, traditions and nice cuisine then at least visit it to see a landmark protected by [UNESCO](https://whc.unesco.org/en/list/978)
@@ -254,6 +255,11 @@ source: [google images](https://www.google.com/search?q=vlacherna+monastery&sour
 ![](/images/corfu_achilleion.jpg)
 
 source: [google images](https://www.google.com/search?biw=1440&bih=611&tbm=isch&sa=1&ei=Z8R1XKy5IMf8kwXV3JbYCQ&q=achilleion+inside&oq=achillei&gs_l=img.1.1.35i39l2j0l8.350115.352034..353665...0.0..0.107.752.6j2......1....1..gws-wiz-img.XcHRWCtINcM#imgrc=HFtiHoz0GbfqBM)
+
+#### <a name"visitcorfu"></a>When to visit?
+If not in the summer when it is best for almost all islands then i would recommend Orthodox Easter time. Corfu has some unique traditions that make it a very popular destination around this time so be prepared for a big crowd but it's worth it.Two of the rituals that stand out are Good Friday
+when the epitaph processions which have different colours depeding on the church come out all intersect at the centre of town and Holy Saturday
+when suddenly the mood changes within a few minutes from the mourning of the epitaph to the joy of the first Easter which here happens at 11:00 a.m in the morning of Saturday.Locals throw in the streets large clay pitchers filled with water from every balcony of the island while the church bells peal joyfully. After that the three marching bands come out again to parade around the town playing joyfull music this time.
 
 ### <a name="kythira"></a>Kythira
 
