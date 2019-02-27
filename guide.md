@@ -1528,7 +1528,7 @@ Food-wise, you’ll find some stunning locations for watching the sunset, while 
 
  If you are willing to spend a bit more time looking for good places to eat try avoiding the touristy areas and go where the locals go. Υou should definitely visit:
 
- ![](/images/mimakos_taverna.jpg)
+ ![](/images/mimakos-taverna.jpg)
 
  * [Taverna Mimakos](https://media-cdn.tripadvisor.com/media/photo-s/0c/f2/e0/da/mimakos-taverna.jpg): The first thing that comes to mind when you hear the word "tavern". It's a classic tavern with very good prices, quality food and unique view from the mountain.
 
