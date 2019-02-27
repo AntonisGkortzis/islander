@@ -1261,8 +1261,14 @@ There are about a hundred of interesting restaurants, taverns, cafes and bars on
 #### <a name="discoverSymi"></a>Discover Symi
 Symi is a small island located just 30 minutes by boat from Rhodes. It's a perfect destination for people who want to see the Greek way of life, get away from their daily routine and find themselves.
 
+![](/images/Symi_Discover.jpg)
+Symi by [kbabetas](https://github.com/kbabetas)
+
 #### <a name="swimSymi"></a>Where to swim
 Are you bored of taking the car or the local buses to finally reach, after a long and hot journey, the beach? Well if the answer is yes look no further than Symi. You take the local boats and you can reach all beaches within a few minutes. Don't let the small size of the island fool you. There are some great and very different choices.
+
+![](/images/Symi_Houses.jpg)
+Symi by [kbabetas](https://github.com/kbabetas)
 
 * [Nanou Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189450-d7125012-Reviews-Nanou_Beach-Symi_Dodecanese_South_Aegean.html):
 Nanou is one of the largest beaches of Symi and it is definitely one of the most beautiful ones. Sunbeds and umbrellas are included so you will be able to stay there and relax the whole day. Want a snack or something to drink? Don't worry there is a restaurant just behind the beach.
@@ -1281,7 +1287,7 @@ Symi despite being a very small island has a great variety of restaurants and ca
 If you want a combination of a great atmosphere, an amazing view and great food then Mythos of Symi is the place for you. Although it can be a bit pricey it is absolutely worth it.
 Pro tip: go before the sun sets and you will not be disappointed.
 
-![](/images/Symi_Mythos.JPG)
+![](/images/Symi_Mythos.jpg)
 Mythos by [kbabetas](https://github.com/kbabetas)
 
 * [Taverna o Charis](https://www.tripadvisor.com.gr/Restaurant_Review-g1188751-d4270385-Reviews-Taverna_O_Haris-Gialos_Symi_Dodecanese_South_Aegean.html):
