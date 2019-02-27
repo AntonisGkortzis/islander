@@ -1926,6 +1926,13 @@ After trying the local and Mediterranean cuisine, you may seek for a change or w
 #### <a name="discoverHydra"></a>Discover Hydra
 Hydra is a picturesque island close to Athens known for the stone mansions and the lack of cars or other motor vehicles. The transport is done on foot, by boat or riding a donkey. Strolling across the island is fully recommended if you are a fan of walking in the nature seeing the sea from above.
 The towns and villages close to Hydra Town that you can visit are Vlichos and Mandraki but there are also Zogkeika, Limnioza, Klimaki, Zogeri, Molos and Palamidas further away.
+There are no automobiles on Hydra, only donkeys for hauling luggage, food, supplies and building materials up the stepped streets of an amphitheater like village.
+Few quality beaches but who cares since there are stone platforms on the rocks, with ladders that make it like swimming in a big pool. Cafes on waterfront are for people-watching.
+For good inexpensive food search the back-streets or walk down the coast. 
+To go there wake up early and take a cab to the Flying Dolphins dock in Pireaus. 
+Buy your ticket either in advance or through your travel agent, or from the ticket booth in Pireaus. 
+They run fairly frequently, usually one every hour or two. 
+Be sure to look at the schedule and buy your return ticket when you arrive in Hydra if you haven't gotten it in advance.
 
 #### <a name="dontForgetHydra"></a>Don't forget to visit
 - <b>The Historical Archives Museum</b>: Founded in 1918 and located in the port of Hydra, the museum hosts historical objects such as archives, maps, traditional costumes, paintings etc.
