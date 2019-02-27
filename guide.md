@@ -1559,6 +1559,9 @@ Food-wise, you’ll find some stunning locations for watching the sunset, while 
 Tilos is a small island near Rhodes. It is quiet, authentic with some untouched physical scenery and it will magnetize you from the first moment. The statues, caves and churches of the island will say a lot about its culture.
 Tilos is also the first “green” island of the Mediterranean. It combines the wind and solar energy and saves it on special batteries. The total energy is estimated that will cover by far the energy needs of Tilos and there are plans in motion to transfer that energy under the sea to Kos.
 
+![](/images/Tilos_Discover.jpg)
+Halki by [kbabetas](https://github.com/kbabetas)
+
 Megalo Chorio (The Big Village) is the capital of the island and there it is worth visiting the museum in which you can find bones of dwarf elephants.
 Those who love hiking will not be disappointed as there are several paths to go explore and admire the nature. You will also find several partridges but bear in mind that hunting is strongly prohibited.
 
