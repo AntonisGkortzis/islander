@@ -105,22 +105,33 @@ Cephalonia is the largest of the Ionian Islands. The sapphire waters of Cephalon
 * [Bee's Knees The Bar](http://beeskneesthebar.com/)
 * [Costa Costa Beach Bar](https://www.facebook.com/costacostakefalonia/)
 
-### <a name="leukada"></a>Leukada
+### <a name="lefkada"></a>Lefkada
 * [Pack your bags](#pack)
 * [Mom's spagetti](#hungry)
-* [Beaches](#beaches1)
+* [Beaches](#lefkada_beaches)
 * [Happy Hour](#happy_hour)
 
 #### <a name="pack"></a>Pack your bags
 What if I tell you that there is a place in Leukada from which you can see earth's curvature. (take that Flat Earth Society! :earth_asia:)
 
-![](/images/leukada.png)
+![](/images/lefkada.png)
 
 It's simple. Grab your +1 😻, get in the car (yes you can drive to the island) and start the most exciting experience of your life.
 
 #### <a name="hungry"></a>Mom's spagetti
 * [O Molos](https://www.facebook.com/omolos.lefkada/?ref=bookmarks&utm_source=tripadvisor&utm_medium=referral) (try "mom's spaggeti" from the menu! 🍝)
 * [T'aloni](http://www.t-aloni.gr/?utm_source=tripadvisor&utm_medium=referral) (wonderful view)
+
+#### <a name="lefkada_beaches"></a>Beaches
+
+* [Porto Katsiki](https://www.tripadvisor.com/Attraction_Review-g189460-d1230867-Reviews-Porto_Katsiki-Lefkada_Ionian_Islands.html):
+_The most famous beach of Lefkada._
+
+* [Egremni](https://www.tripadvisor.com/Attraction_Review-g189460-d2225641-Reviews-Egremni_Beach-Lefkada_Ionian_Islands.html):
+_One of the 13 places with the bluest water in the world among Maldives and Palawan._
+
+* [Megali Petra](https://www.tripadvisor.com/Attraction_Review-g189460-d12803262-Reviews-Megali_Petra_Beach-Lefkada_Ionian_Islands.html):
+_In translation "Big Rock" getting its name from the rocks scattered around the beach and the bottom of the sea._
 
 #### <a name="happy_hour"></a>Happy Hour
 "From ancient times man wanted to fly like a bird and see the world from above." We have all heard stories like Icarus with the feathered sandals of Hermes.
