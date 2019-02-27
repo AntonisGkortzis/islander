@@ -1674,6 +1674,20 @@ like Agios Stefanos and Psalidi.
 ![](/images/kos2.jpg)  
 
 ![](/images/kos3.jpg)  
+
+#### <a name="food_kos"></a>Food
+Greece in general, is vary famous about it's ytaditional mediteranean cuisine and it's delicious dishes.  
+Kos couldn't be an exception. In kos you whave to chose amongst very different but also very tasty dishes. 
+You can visit from old school traditional greek taverns, to very stylish and modern restaurants. Also you  
+have a very big variety of local meat, fresh seafood and homegrown vegetables, in order to enjoy whatever  
+kind of food you want. These are only 3 from the many reastaurants and taverns that you can visit if you  
+ever travel to Kos island. 
+
+* [Taverna Romeo](https://www.tripadvisor.com/Restaurant_Review-g663504-d4406622-Reviews-Taverna_Romeo-Psalidi_Kos_Dodecanese_South_Aegean.html)
+
+* [Broadway Restaurant](https://www.tripadvisor.com/Restaurant_Review-g666312-d1094942-Reviews-Broadway_Restaurant-Kos_Town_Kos_Dodecanese_South_Aegean.html)
+
+* [Lofaki](https://www.tripadvisor.com/Restaurant_Review-g666312-d1497569-Reviews-Lofaki-Kos_Town_Kos_Dodecanese_South_Aegean.html)
  
 
 ## <a name="northAegean"></a>North Aegean Sea Islands
