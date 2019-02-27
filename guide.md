@@ -1969,7 +1969,8 @@ Hydroneta - In Hydra Town
 
 #### <a name="discoverAgistri"></a>Discover Agistri
 Agistri the diamond of the Argosaronic Gulf full of pine trees and crystal clean waters
-Agistri is a small paradise, only 55 min. from Piraeus Port.
+Agistri is a small paradise, only 55 min. from Piraeus Port- near Aegina- with beautiful sandy beaches and a devoted following. Famous for being one of the first places in Greece to experiment with naturalism, or in plain English it was one of the first islands to have a nudist beach, and in fact it still does.
+The far side of the island is mostly agricultural and in the village of Limineria, named after its lake, the inhabitants devote themselves mostly to farming and fishing. Like The other islands near Athens, Angistri is a good destination for the winter months when weather is unpredictable and you don't want to be too far from Athens.
 
 ![](/images/agistri_1.jpg)
 #### <a name="swimAgistri"></a>Where to swim
