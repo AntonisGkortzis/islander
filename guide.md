@@ -2000,6 +2000,8 @@ This is the most photographed church on Agistri. Located next to the beach of Sk
 It’s not a famous island like Mykonos, Crete or Santorini.
 It’s even kept out of the loop when compared to its sister Saronic islands like Aegina, Agistri or Hydra.
 That’s because, as I found out, Salamina is not the kind of island destination that requires a lot of planning.
+This island is not on anybody's list of islands to visit besides a few people who are interested enough in history to know that the entire fate of western civilization hinged on a battle that took place here over 2000 years ago when the Greek fleet defeated the Persians in the narrow straits that separate Salamina from the mainland. Interestingly, Salamina was the location of the first Club Med, though now it is almost an extenstion of Pireaus with small car ferries going back and forth continuously. There are a few OK beaches in the southern part of the island where the sea is clean, and the friends who have inherited summer homes here tell me there are great tavernas and Salamis is under-rated and popular with the Athenians who have been coming here for decades. But chances are unless you have been to Greece countless times and are running out of islands to go to, you probably have no interest in visiting Salamina. But if you do, you will want to have a car to explore the island since the main port of Paloukia and the main city of Salamina are just about all you will see without one and it is a large island with ancient archaeological sites, historic churches and an amazing house sculpture in the village of Peristeria that must be seen to be believed.
+
 ![](/images/salamina_1.jpg)
 #### <a name="swimAgistri"></a>Where to swim
 * Psili Ammos
