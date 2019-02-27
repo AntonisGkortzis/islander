@@ -1280,6 +1280,10 @@ Symi despite being a very small island has a great variety of restaurants and ca
 * [Mythos of Symi](https://www.facebook.com/mythosofsimi/?ref=py_c):
 If you want a combination of a great atmosphere, an amazing view and great food then Mythos of Symi is the place for you. Although it can be a bit pricey it is absolutely worth it.
 Pro tip: go before the sun sets and you will not be disappointed.
+
+![](/images/Symi_Mythos.JPG)
+Mythos by [kbabetas](https://github.com/kbabetas)
+
 * [Taverna o Charis](https://www.tripadvisor.com.gr/Restaurant_Review-g1188751-d4270385-Reviews-Taverna_O_Haris-Gialos_Symi_Dodecanese_South_Aegean.html):
 If you want to try traditional Greek food and want to have a taste of the delicious fish that exist in the Greek sea then you ought to pay Taverna o Charis a visit.
 * [To Spitiko](https://www.tripadvisor.com.gr/Restaurant_Review-g1188751-d4869613-Reviews-Taverna_To_Spitiko-Gialos_Symi_Dodecanese_South_Aegean.html):
@@ -1560,7 +1564,7 @@ Tilos is a small island near Rhodes. It is quiet, authentic with some untouched 
 Tilos is also the first “green” island of the Mediterranean. It combines the wind and solar energy and saves it on special batteries. The total energy is estimated that will cover by far the energy needs of Tilos and there are plans in motion to transfer that energy under the sea to Kos.
 
 ![](/images/Tilos_Discover.jpg)
-Halki by [kbabetas](https://github.com/kbabetas)
+Tilos by [kbabetas](https://github.com/kbabetas)
 
 Megalo Chorio (The Big Village) is the capital of the island and there it is worth visiting the museum in which you can find bones of dwarf elephants.
 Those who love hiking will not be disappointed as there are several paths to go explore and admire the nature. You will also find several partridges but bear in mind that hunting is strongly prohibited.
@@ -1576,7 +1580,7 @@ Eristos is the most popular beach of the island. The crystal waters in combinati
 <b>Pro Tip:</b> At [Ilidi Rock Hotel](http://www.ilidirock.gr/) there are three small organized beaches. Access is very easy, you just have to cross a small bridge and continue straight until you see them. There is a snack bar that offers refreshments and some plates of the day which are cooked by the owner’s mother and served daily until 16:00 (4:00pm)
 
 ![](/images/Tilos_Ilidi_Rock.jpg)
-Halki by [kbabetas](https://github.com/kbabetas)
+Ilidi Rock by [kbabetas](https://github.com/kbabetas)
 
 #### <a name="eatTilos"></a>Where to eat
 * [Nautilos](https://www.tripadvisor.com.gr/Restaurant_Review-g2654085-d2190055-Reviews-Nautilos_Restaurant-Livadia_Tilos_Dodecanese_South_Aegean.html): Nautilos in Livadia is a family-owned restaurant that offers a lot of sea-based snacks as well as many grill dishes. Relax while observing the amazing view! Sometimes it also has live music.
