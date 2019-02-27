@@ -2030,7 +2030,8 @@ Located on the beach of Salamina, it serves delicious seafood, octopus, sardines
   * [What  to see](#seePoros)
 
 #### <a name="discoverPoros"></a>Discover Poros
-A small island of the Saronic Gulf, Poros is a relaxing place for family vacations. As it is only an hour ferry ride from Athens, Poros island is a popular weekend destination in summer. The Town, constructed on the slopes of a hill, is the center of most activities on the island.
+A small island of the Saronic Gulf, Poros is a relaxing place for family vacations. As it is only an hour ferry ride from Athens, Poros island is a popular weekend destination in summer. The Town, constructed on the slopes of a hill, is the center of most activities on the island.Poros is simply beautiful, with pine forests that come right down to the beaches, excellent restaurants, cafe life, and really nice hotels that won't break your budget. The island is about 45 minutes from Pireaus by high-speed with frequent ferry and Flying Dolphin service so you can easily make connections to other islands or come into Athens for the day. You could leave your hotel and be walking on the Acropolis in less then 90 minutes. Poros is also a 3 minute boat ride from the Peloponessos with a small car ferry going back and forth every 15 minutes and small taxi boats that go back and forth 24 hours a day across a strait of sea that looks more like a river. 
+
 
 ![](/images/poros_1.jpg)
 #### <a name="swimPoros"></a>Where to swim
