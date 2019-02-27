@@ -2002,14 +2002,15 @@ The last thing that makes Crete stand out from the other islands is the breadth 
 * [A nice video about Crete](https://www.youtube.com/watch?v=NKxj-jmfxlA)
 
 
-#### <a name= “elafonisos”></a> Elafonhsos
+## <a name= “elafonisos”></a> Elafonhsos
 
 * [General Information](#infoelaf)
 * [Food Lovers](#foodelaf)
 * [Lifetime Adventures](#adventureselaf)
 * [Magical Beaches](#beacheselaf)
 * [Accommodation](#accomelaf)
-#### <a name= “infoelaf”></a><u>General Information</u> 
+
+### <a name= “infoelaf”></a><u>General Information</u> 
 A small paradise that is located under Peloponnese known as Elafonisos , it is a pole of attraction for people of all ages during the summer holidays. Families, students , elder people, friends who are looking for cheap and at the same time entertaining and relaxing  vacations, visit this small island. If you are searching for something overcrowded then you should visit Elafoniso on August. The easiest way to get there is by car or by bus.  It is 337km from Athens and you drive until Pounta Elafonisou where you take the ferry boat.
 <details>
 	<summary> Ferry Details </summary>
@@ -2019,7 +2020,8 @@ A small paradise that is located under Peloponnese known as Elafonisos , it is a
 	</p>
 </details>
 
-#### <a name= “foodelaf”></a><u>Food Lovers</u> 
+
+### <a name= “foodelaf”></a><u>Food Lovers</u> 
 [Trakaina](https://www.tripadvisor.com.gr/Restaurant_Review-g949051-d6877340-Reviews-Trakena-Elafonisos_Laconia_Region_Peloponnese.html): 
 The traditional greek meal at its finest. They say you can find there the best souvlaki in the island.  If you want to eat something fast because you want to run straight to the beach this is a very good choice.
 
@@ -2035,41 +2037,46 @@ This is a place that makes you feel really familiar with the owner. You can try 
 [Sthn Akrh](https://www.tripadvisor.com.gr/Restaurant_Review-g949051-d4832738-Reviews-Stin_Akri-Elafonisos_Laconia_Region_Peloponnese.html): 
 The best place for eating breakfast. Waffles, pancakes and whatever you would like to eat in the morning. It is not only known about its tasty breakfast though, but also about the drinks you can have there. It may be a little bit expensive but in my opinion it is worth to have one drink on the beach.
 
-#### <a name= “adventureselaf”></a><u> Lifetime Adventures</u>
+
+### <a name= “adventureselaf”></a><u> Lifetime Adventures</u>
 <b> Cave in Simos : </b>  If you prefer something more adventurous rather than staying all day at the beach, you should try hiking  until the cave in Simos. The view is breathtaking so definitely it is worth trying it.
 
-![](/images/CaveinSimoselaf.jpg)
+![](/images/elafonisos/CaveinSimoselaf.jpg)
 
 <b> Church of Saint Patapios: </b> The location of this church is very appealing to the tourists. It is isolated and you get there by feet of course. The view is magical and that’s  the only reason I think it is worth it.
 
-![](/images/Patapios_Elaf.jpg)
+![](/images/elafonisos/Patapios_Elaf.jpg)
 
 
 <b>Villages at Lakwnia : </b> The island of Elafonisos has an extra advantage over most of the greek islands. That’s mainly because of the location. You can easily leave the island for one day trip and visit some of the traditional villages of Lakwnia. The beauty is exceptional and Monemvasia is an example of that.
 
-![](/images/Monemvasiaelaf.jpg)
+![](/images/elafonisos/Monemvasiaelaf.jpg)
 
 <b>Paulopetri: </b> If you go to Elafonisos you can’t miss swimming or going with a boat over the city Paulotetri that is under the water because of an earthquake before 2.800 B.C
 
-![](/images/Pavlopetrielaf.jpg)
+![](/images/elafonisos/Pavlopetrielaf.jpg)
 
-![](/images/pavlopetrielaf2.jpg)
+![](/images/elafonisos/pavlopetrielaf2.jpg)
 
-#### <a name="beacheselaf"></a><u>Magical Beaches</u>
+
+
+### <a name="beacheselaf"></a><u>Magical Beaches</u>
 
 <b> Simos Beach:  </b> The first thing you will see if you search about Elafoniso is Simos beach. One of the best beaches across Europe and one of the main reasons to visit Elafoniso. Simos is divided into two beaches, Sarakiniko and Fragkos and their sand is endless.
 
-![](/images/SimosBeachelaf.jpg)
+![](/images/elafonisos/SimosBeachelaf.jpg)
 
 <b>Aglyfths Beach: </b> If you prefer a beach that has not only sand but pebbles too you should go to Aglyfths beach. It is a bit hard to go there and only by walking. That means that not many people will swim there if you want some privacy.
 
-![](/images/aglyfthselaf.jpg)
+![](/images/elafonisos/aglyfthselaf.jpg)
 
 <b> Leukhs Beach: </b>  Its location is on the west side of the island and it’s the best place to swim if its windy on Simos. The water is magical and the beach without any pebbles so why not visit it?
 
-![](/images/lefkielaf.jpg)
+![](/images/elafonisos/lefkielaf.jpg)
 
-#### <a name= "accomelaf"></a><u> Accommodation</u>
+
+
+### <a name= "accomelaf"></a><u> Accommodation</u>
 [Simos Camping](http://simoscamping.gr/): 
 Next to Simos beach there is a camping with many facilities hosting many guests every year. A very cheap option and should be very interesting for those who want to meet new people and relax next to the beach. 
 
