@@ -18,6 +18,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Santorini](#santorini)
   * [Ios](#ios)
   * [Mykonos](#mykonos)
+  * [Paros](#paros)
   * [Antiparos](#antiparos)
   * [Naxos](#naxos)
   * [Syros](#syros)
@@ -30,7 +31,6 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Serifos](#serifos)
   * [Folegandros](#folegandros)
   * [Kimolos](#kimolos)
-  * [Kea](#kea)
 * [Sporades](#sporades)
   * [Skopelos](#skopelos)
   * [Alonnisos](#alonnisos)
@@ -45,7 +45,6 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Tilos](#tilos)
   * [Kastellorizo](#kastellorizo)
   * [Kalymnos](#kalymnos)
-  * [Kos](#kos)  
 * [North Aegean Sea](#northAegean)
   * [Thasos](#thasos)
 * [North-East Aegean Islands](#north_east_aegean_islands)
@@ -55,11 +54,9 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Aegina](#aegina)
   * [Spetses](#spetses)
   * [Hydra](#hydra)
-  * [Poros](#poros)
-  * [Agistri](#agistri)
-  * [Methana](#methana)
 * [Evia](#evia_island)
 * [Crete](#crete_island)
+* [Elafonhsos](#elafonisos)
 
 ## <a name="greek"></a>Greek Cheat Sheet
 _Want to get the whole experience visiting one of the greek islands and feel like a true greek?(maybe even a greek god/ess) Here are some of the basic greek you can use anytime to make you feel at home._
@@ -102,7 +99,6 @@ Cephalonia is the largest of the Ionian Islands. The sapphire waters of Cephalon
 * [Skala Beach](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-skala_beach.htm)
 * [Lourdas](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-lourdas.htm)
 * [Foki Fiskardo](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-foki_fiskardo.htm)
-* [Platis Gialos](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-platis_gialos.htm)
 
 #### <a name="entertainment_cephalonia"></a>Entertainment
 * [Gymland](https://www.facebook.com/Gymland-413803865346952/)
@@ -193,11 +189,6 @@ Except for the beaches you can reach by boat, in order to reach the most remarka
 One of the most beautiful beaches which is located in the north part of Antipaxoi is called Vrika Beach. The light-blue and green water can be easily visible when approaching the beach with the boat. The almost white sand in combination with the landscape and the clear sea will impress you. It is a well-organized beach where you can rent an umbrella and/or sunbeds and enjoy the hot summer days.
 * [Monodendri Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189461-d7071058-Reviews-Monodendri_Beach-Paxos_Ionian_Islands.html):
 If you are looking for a non-organized beach, Monodendri is your solution. Though unorganized, you can lay on the sand, swim safely and at 7 p.m. you can enjoy the wonderful sunset. At a glance you may face some difficulties on accessing Monodendri Beach, but in reality it is not that difficult and it is absolutely worth making an effort to reach this beach.
-
-* [Galazio](https://www.tripadvisor.com.gr/ShowUserReviews-g189461-d2061955-r593750940-Vrika_Beach-Paxos_Ionian_Islands.html)
-Where: on the west coast, just across the island from Gaios.
-A small shingle beach carved out of the cliffs of the west coast. The colour of the water is particularly striking.
-Access: only by boat.
 
 #### <a name='foodPaxoi'></a>Where to eat
 In order to get in real touch with the atmosphere of an island you need to taste the greek traditional food with a view to the sea during the sunset. Here is a list of restos you can find in the most beautiful spots of the island:
@@ -617,11 +608,8 @@ True icon of Mykonos nightlife Since 1978, lo Scandinavian Bar over the years re
 
 ![](/images/scan_mykonos.jpg)
 
+
 source:https://www.google.com/search?biw=1536&bih=674&tbm=isch&sa=1&ei=EZRyXLyNMM_isAfLpLm4CQ&q=scandinavian+bar+mykonos&oq=scandinavian+bar+mykonos&gs_l=img.3..0i10i24.34102.43485..43648...1.0..0.223.3443.0j21j2......1....1..gws-wiz-img.......35i39j0i67j0j0i30j0i19j0i30i19j0i8i30i19.7DL2G0Ovt4I#imgrc=zIz7Ws0IwEI7nM:
-
-
-* [Galeraki Coctail Bar](https://www.mykonosnow.gr/el/diaskedasi/384-galleraki-2) 
-One of the most atmospheric cocktail bars in Mykonos, Galleraki perches right above the sea and lies in the middle of Little Venice.From there the view encompasses the Windmills and Little Venice as well. It is a classic example of the traditional architecture found in the Cyclades.
 
 ### <a name="antiparos"></a>Antiparos
 * [Some History](#info_antiparos)
@@ -1057,15 +1045,6 @@ If you are island hopping around the Cyclades, Kimolos is an interesting stop to
 * [Postali](https://www.tripadvisor.com/Restaurant_Review-g4562659-d8478214-Reviews-Postali-Psathi_Kimolos_Cyclades_South_Aegean.html): Seafood, Greek, Mediterranean
 * [To Kyma](https://www.tripadvisor.com/Restaurant_Review-g4562659-d4550300-Reviews-To_Kyma-Psathi_Kimolos_Cyclades_South_Aegean.html): Local cuisine, Seafood, Mediterranean, Greek, Vegetarian Friendly
 
-### <a name="kea"></a>Kea(Tzia)
-The closest of the Cyclades islands to Athens is the island of Kea which you can get to on a one hour ferry ride from the port town of Lavrion which is close to Sounion. 
-Unlike the Saronic islands, Kea will give you the feeling of being much further away. 
-It is a traditional island where people are still farmers, but close enough for Athenians to have their summer homes. It also has the best beaches of any island close to Athens. 
-It has exceptional beaches and one of the best system of walking paths and trails of any Greek island. Kea is a hiker's paradise with numbered routes that take you through a variety of landcapes to remote coves and the ruins of ancient cities. 
-The hora, or the main village, is in the mountains and has no automobiles within the town, which has several excellent restaurants. 
-You can take a KTEL Attika bus to Lavrion from Pedion Areos Park, or catch it at the airport. 
-It is about a 2 hour trip though and for that reason many people hire a taxi and go there for the day since it is only a 45 minute drive.
-
 ## <a name="sporades"></a>Sporades
 
 ### <a name="skopelos"></a>Skopelos
@@ -1282,14 +1261,8 @@ There are about a hundred of interesting restaurants, taverns, cafes and bars on
 #### <a name="discoverSymi"></a>Discover Symi
 Symi is a small island located just 30 minutes by boat from Rhodes. It's a perfect destination for people who want to see the Greek way of life, get away from their daily routine and find themselves.
 
-![](/images/Symi_Discover.jpg)
-Symi by [kbabetas](https://github.com/kbabetas)
-
 #### <a name="swimSymi"></a>Where to swim
 Are you bored of taking the car or the local buses to finally reach, after a long and hot journey, the beach? Well if the answer is yes look no further than Symi. You take the local boats and you can reach all beaches within a few minutes. Don't let the small size of the island fool you. There are some great and very different choices.
-
-![](/images/Symi_Houses.jpg)
-Symi by [kbabetas](https://github.com/kbabetas)
 
 * [Nanou Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189450-d7125012-Reviews-Nanou_Beach-Symi_Dodecanese_South_Aegean.html):
 Nanou is one of the largest beaches of Symi and it is definitely one of the most beautiful ones. Sunbeds and umbrellas are included so you will be able to stay there and relax the whole day. Want a snack or something to drink? Don't worry there is a restaurant just behind the beach.
@@ -1307,10 +1280,6 @@ Symi despite being a very small island has a great variety of restaurants and ca
 * [Mythos of Symi](https://www.facebook.com/mythosofsimi/?ref=py_c):
 If you want a combination of a great atmosphere, an amazing view and great food then Mythos of Symi is the place for you. Although it can be a bit pricey it is absolutely worth it.
 Pro tip: go before the sun sets and you will not be disappointed.
-
-![](/images/Symi_Mythos.jpg)
-Mythos by [kbabetas](https://github.com/kbabetas)
-
 * [Taverna o Charis](https://www.tripadvisor.com.gr/Restaurant_Review-g1188751-d4270385-Reviews-Taverna_O_Haris-Gialos_Symi_Dodecanese_South_Aegean.html):
 If you want to try traditional Greek food and want to have a taste of the delicious fish that exist in the Greek sea then you ought to pay Taverna o Charis a visit.
 * [To Spitiko](https://www.tripadvisor.com.gr/Restaurant_Review-g1188751-d4869613-Reviews-Taverna_To_Spitiko-Gialos_Symi_Dodecanese_South_Aegean.html):
@@ -1355,16 +1324,9 @@ Mostly located at the Agia Marina region, it proudly has bars and clubs, such as
 #### <a name="discoverHalki"></a>Discover Halki
 Halki is a lesser-known Greek island that even most Greeks will not know about. And that is a good thing. It offers an amazing scenery and beauty and it is not packed with tourists. What more can you ask?
 
-![](/images/Halki_Discover.jpg)
-Halki by [kbabetas](https://github.com/kbabetas)
-
 #### <a name="swimHalki"></a>Where to swim
 * [Kania Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189443-d4885218-Reviews-Kania_Beach-Halki_Dodecanese_South_Aegean.html):
 I honestly don't think that places with more clear waters than Kania exist. Don't forget to try the snacks that are offered by the local taverna; they are delicious.
-
-![](/images/Halki_Kania.jpg)
-Kania Beach by [kbabetas](https://github.com/kbabetas)
-
 * [Potamos](https://www.tripadvisor.com.gr/Attraction_Review-g189443-d8721050-Reviews-Potamos_Beach-Halki_Dodecanese_South_Aegean.html):
 Want to explore the sea? Or build sandcastles? Or do both and then enjoy some ouzo? Well then Potamos is the perfect choice.
 * [Ftenagia](https://www.tripadvisor.com.gr/Attraction_Review-g189443-d8744594-Reviews-Ftenagia_Beach-Halki_Dodecanese_South_Aegean.html):
@@ -1560,8 +1522,8 @@ A surprise find in such a balmy location is Lindos Ice Bar on Krana Square. Part
 
 #### <a name="food-Rhodes"></a>Where to eat?
 Food-wise, you’ll find some stunning locations for watching the sunset, while enjoying a glass of local wine and the catch of the day.
- * Try Philosophia Beach Taverna In Pefkos for romantic views of the bay and a chance to dip your toes in the water.
- * In a similar vein is Dapapa on Kavos Beach, where the seafood is glorious with a backdrop to match.
+ * Try Philosophia Beach Taverna In Pefkos for romantic views of the bay and a chance to dip your toes in the water. 
+ * In a similar vein is Dapapa on Kavos Beach, where the seafood is glorious with a backdrop to match. 
  * Ambrosia Restaurant in Lindos is sheer foodie heaven.
  * Call in after a day exploring the acropolis, for a family-friendly atmosphere and seafood you’ll remember long after your tan fades.
 
@@ -1590,9 +1552,6 @@ Food-wise, you’ll find some stunning locations for watching the sunset, while 
 Tilos is a small island near Rhodes. It is quiet, authentic with some untouched physical scenery and it will magnetize you from the first moment. The statues, caves and churches of the island will say a lot about its culture.
 Tilos is also the first “green” island of the Mediterranean. It combines the wind and solar energy and saves it on special batteries. The total energy is estimated that will cover by far the energy needs of Tilos and there are plans in motion to transfer that energy under the sea to Kos.
 
-![](/images/Tilos_Discover.jpg)
-Tilos by [kbabetas](https://github.com/kbabetas)
-
 Megalo Chorio (The Big Village) is the capital of the island and there it is worth visiting the museum in which you can find bones of dwarf elephants.
 Those who love hiking will not be disappointed as there are several paths to go explore and admire the nature. You will also find several partridges but bear in mind that hunting is strongly prohibited.
 
@@ -1605,9 +1564,6 @@ Eristos is the most popular beach of the island. The crystal waters in combinati
 * [Livadia](https://www.tripadvisor.com.gr/Attraction_Review-g189448-d12818182-Reviews-Livadia_Beach-Tilos_Dodecanese_South_Aegean.html): is one of the largest beaches of Tilos. Umbrellas and sunbed have been put by the bars and restaurants all of which are located on the other side of the road. It is the most accessible beach, next to the port and near most of the hotels and rooms and, as a result, it attracts the most people. It is usually preferred by families.
 
 <b>Pro Tip:</b> At [Ilidi Rock Hotel](http://www.ilidirock.gr/) there are three small organized beaches. Access is very easy, you just have to cross a small bridge and continue straight until you see them. There is a snack bar that offers refreshments and some plates of the day which are cooked by the owner’s mother and served daily until 16:00 (4:00pm)
-
-![](/images/Tilos_Ilidi_Rock.jpg)
-Ilidi Rock by [kbabetas](https://github.com/kbabetas)
 
 #### <a name="eatTilos"></a>Where to eat
 * [Nautilos](https://www.tripadvisor.com.gr/Restaurant_Review-g2654085-d2190055-Reviews-Nautilos_Restaurant-Livadia_Tilos_Dodecanese_South_Aegean.html): Nautilos in Livadia is a family-owned restaurant that offers a lot of sea-based snacks as well as many grill dishes. Relax while observing the amazing view! Sometimes it also has live music.
@@ -1677,62 +1633,6 @@ Kalymnos has become one of the major rock climbing destinations for professional
 * [Paradisio](https://foursquare.com/v/paradisio/500530cde4b0f953a312e5bf)
 
 * [Aegean Tavern](http://www.aegeancuisine.org/Aigaiopelagitiko)
-
-### <a name="kos"></a>Kos  
-* [General Info](#info_kos)
-* [Beaches](#beaches_kos)  
-* [You need to do](#do_kos)  
-* [Food](#food_kos)
-
-
-#### <a name="info_kos"></a>General Info  
-Kos island, Greece, is located in the middle of the Dodecanese , really close to the  
-Turkish coastline and Rhodes to the south, and Patmos, in the north. Vacations in Kos are
-very popular amongst many nationalities all over the world and especially the British.  
-
-Kos is ont typical example of a very rich island as far as it concerns it's natural beauty.  
-It also of the best islands in Greece when it comes to a typical beach holiday. It was among the  
-first to go for mass-market tourism in a big way with many Kos hotels thrown up on the long, sandy  
-coastlines to the east and the south and this contributed a lot to the tourist flaurish.  
-
-Kos is long and thin, about 45 by 11 kilometres and, unlike many other Greek islands, it's mostly  
-flat and low-lying, especially in the north and west. As a result, much of the scenery on Kos is not  
-outstanding by Greece standards, although it does get more mountainous in the south and east.  
-It's topography makes easy an ideal to tour it all around even with a small vehicle and that's  
-very important because so you can visit every corner of the island and learn about it's sevrets!
-
-
-![](/images/kos1.jpg)  
-
-
-#### <a name="beaches_kos"></a>Beaches  
-Beaches as far as the eye can see! Kos, as we said before is one of the most popular Mediterranean  
-islands when it comes to beach holidays. Not only party holidaymakers, who want to party all day  
-and all night long, in order let off steam in the clubs and get ready the full of work upcoming  
-winter, but also mature people and connoisseurs who want to spend relaxing days alone or with their  
-families in the sun and in the clear waters of the Mediterranean Sea. The mountains in the background  
- and the wide sea right in front of your eyes, you can make yourself comfortable in small bays or on long   
-beaches with a lot of service. You should also consider that in Kos there are many award wining beaches  
-like Agios Stefanos and Psalidi.  
-
-![](/images/kos2.jpg)  
-
-![](/images/kos3.jpg)  
-
-#### <a name="food_kos"></a>Food
-Greece in general, is vary famous about it's ytaditional mediteranean cuisine and it's delicious dishes.  
-Kos couldn't be an exception. In kos you whave to chose amongst very different but also very tasty dishes.
-You can visit from old school traditional greek taverns, to very stylish and modern restaurants. Also you  
-have a very big variety of local meat, fresh seafood and homegrown vegetables, in order to enjoy whatever  
-kind of food you want. These are only 3 from the many reastaurants and taverns that you can visit if you  
-ever travel to Kos island.
-
-* [Taverna Romeo](https://www.tripadvisor.com/Restaurant_Review-g663504-d4406622-Reviews-Taverna_Romeo-Psalidi_Kos_Dodecanese_South_Aegean.html)
-
-* [Broadway Restaurant](https://www.tripadvisor.com/Restaurant_Review-g666312-d1094942-Reviews-Broadway_Restaurant-Kos_Town_Kos_Dodecanese_South_Aegean.html)
-
-* [Lofaki](https://www.tripadvisor.com/Restaurant_Review-g666312-d1497569-Reviews-Lofaki-Kos_Town_Kos_Dodecanese_South_Aegean.html)
-
 
 ## <a name="northAegean"></a>North Aegean Sea Islands
 
@@ -1833,7 +1733,7 @@ Mytilene has several places worth visiting.
 * [Molyvos or Mithimna](http://www.lesvosgreece.gr/en/molyvos): Molivos is one of the most popular places of the island. It is one of the most picturesque and beautiful villages. It is roughly 60 kilometres from the capital of the island and it certainly is the most touristic village. Its castle is what differentiate it and it is the first thing that every visitor sees as it is built on the highest hill; it is Molivos’ Acropolis. The castle has undergone many repairs both inside and outside, but it is still standing, and it is worth going to the top. There you will enjoy the breath-taking view and you can admire the amazing sunset, which for some unknown reason at least to me, takes shades of purple.
 
 ![](/images/Lesvos_Molyvos_sunset.jpg)
-Molyvos Sunset by [kbabetas](https://github.com/kbabetas)
+Molyvos Sunset by @kbabetas
 
 #### <a name="sightsLesvos"></a>Sights
 * [The Yeni Tzami](https://www.tripadvisor.com.gr/Attraction_Review-g1450327-d3643574-Reviews-The_Yeni_Tzami_Mosque-Mytilene_Lesbos_Northeast_Aegean_Islands.html): This historical monument from the early 1900s is the biggest Muslim mosque of the island.
@@ -1889,7 +1789,6 @@ Akrogiali is open for breakfast, lunch and dinner. At night, Pavlos gives Akrogi
 
 #### <a name="discoverSpetses"></a>Discover Spetses
 Spetses is an affluent island and a municipality in the islands regional unit, Attica, Greece. It is sometimes included as one of the Saronic Islands. Until 1948, it was part of the old prefecture of Argolidocrinthia, whichis now split intoArgolis and Corinthia. In ancient times, it was known as Pityoussa, and later as Petses. Spetses is an ideal destination for a quick retreat, while it has the ability to make you feel unique, special, exclusive. Once you travel to Spetses you will experience horse-drawn carriages, people riding their bicycles as motorcycles are forbidden by the local authorities. The island of Spetses has forever been a favourite destination for high-society, as reflected in the smart cafes, art stores and stylish boutiques that populate the Old port. Luxury and local tradition coexist on this beautiful island.
-Beautiful beaches and pine forests, and like Hydra, no cars allowed, but unlike Hydra they do allow motorbikes and that is one of the drawbacks of Spetses, unless you are riding one of course. The highspeed boats to Spetses take about an hour and a half. You can also drive to Porto Heli or Kosta in the Argolis and get there via a short ferry ride. But since it will take about 3 hours to get to those 2 ports in the Argolis this only makes sense if you are coming from Nafplion, or happen to be doing a private tour of the Argolis, or you hate ferries and want as short a trip as humanly possible.
 
 #### <a name="dontForgetSpetses"></a>Don't forget to visit
 
@@ -1936,13 +1835,6 @@ After trying the local and Mediterranean cuisine, you may seek for a change or w
 #### <a name="discoverHydra"></a>Discover Hydra
 Hydra is a picturesque island close to Athens known for the stone mansions and the lack of cars or other motor vehicles. The transport is done on foot, by boat or riding a donkey. Strolling across the island is fully recommended if you are a fan of walking in the nature seeing the sea from above.
 The towns and villages close to Hydra Town that you can visit are Vlichos and Mandraki but there are also Zogkeika, Limnioza, Klimaki, Zogeri, Molos and Palamidas further away.
-There are no automobiles on Hydra, only donkeys for hauling luggage, food, supplies and building materials up the stepped streets of an amphitheater like village.
-Few quality beaches but who cares since there are stone platforms on the rocks, with ladders that make it like swimming in a big pool. Cafes on waterfront are for people-watching.
-For good inexpensive food search the back-streets or walk down the coast. 
-To go there wake up early and take a cab to the Flying Dolphins dock in Pireaus. 
-Buy your ticket either in advance or through your travel agent, or from the ticket booth in Pireaus. 
-They run fairly frequently, usually one every hour or two. 
-Be sure to look at the schedule and buy your return ticket when you arrive in Hydra if you haven't gotten it in advance.
 
 #### <a name="dontForgetHydra"></a>Don't forget to visit
 - <b>The Historical Archives Museum</b>: Founded in 1918 and located in the port of Hydra, the museum hosts historical objects such as archives, maps, traditional costumes, paintings etc.
@@ -1979,8 +1871,7 @@ Hydroneta - In Hydra Town
 
 #### <a name="discoverAgistri"></a>Discover Agistri
 Agistri the diamond of the Argosaronic Gulf full of pine trees and crystal clean waters
-Agistri is a small paradise, only 55 min. from Piraeus Port- near Aegina- with beautiful sandy beaches and a devoted following. Famous for being one of the first places in Greece to experiment with naturalism, or in plain English it was one of the first islands to have a nudist beach, and in fact it still does.
-The far side of the island is mostly agricultural and in the village of Limineria, named after its lake, the inhabitants devote themselves mostly to farming and fishing. Like The other islands near Athens, Angistri is a good destination for the winter months when weather is unpredictable and you don't want to be too far from Athens.
+Agistri is a small paradise, only 55 min. from Piraeus Port.
 
 ![](/images/agistri_1.jpg)
 #### <a name="swimAgistri"></a>Where to swim
@@ -2027,8 +1918,6 @@ This is the most photographed church on Agistri. Located next to the beach of Sk
 It’s not a famous island like Mykonos, Crete or Santorini.
 It’s even kept out of the loop when compared to its sister Saronic islands like Aegina, Agistri or Hydra.
 That’s because, as I found out, Salamina is not the kind of island destination that requires a lot of planning.
-This island is not on anybody's list of islands to visit besides a few people who are interested enough in history to know that the entire fate of western civilization hinged on a battle that took place here over 2000 years ago when the Greek fleet defeated the Persians in the narrow straits that separate Salamina from the mainland. Interestingly, Salamina was the location of the first Club Med, though now it is almost an extenstion of Pireaus with small car ferries going back and forth continuously. There are a few OK beaches in the southern part of the island where the sea is clean, and the friends who have inherited summer homes here tell me there are great tavernas and Salamis is under-rated and popular with the Athenians who have been coming here for decades. But chances are unless you have been to Greece countless times and are running out of islands to go to, you probably have no interest in visiting Salamina. But if you do, you will want to have a car to explore the island since the main port of Paloukia and the main city of Salamina are just about all you will see without one and it is a large island with ancient archaeological sites, historic churches and an amazing house sculpture in the village of Peristeria that must be seen to be believed.
-
 ![](/images/salamina_1.jpg)
 #### <a name="swimAgistri"></a>Where to swim
 * Psili Ammos
@@ -2059,8 +1948,7 @@ Located on the beach of Salamina, it serves delicious seafood, octopus, sardines
   * [What  to see](#seePoros)
 
 #### <a name="discoverPoros"></a>Discover Poros
-A small island of the Saronic Gulf, Poros is a relaxing place for family vacations. As it is only an hour ferry ride from Athens, Poros island is a popular weekend destination in summer. The Town, constructed on the slopes of a hill, is the center of most activities on the island.Poros is simply beautiful, with pine forests that come right down to the beaches, excellent restaurants, cafe life, and really nice hotels that won't break your budget. The island is about 45 minutes from Pireaus by high-speed with frequent ferry and Flying Dolphin service so you can easily make connections to other islands or come into Athens for the day. You could leave your hotel and be walking on the Acropolis in less then 90 minutes. Poros is also a 3 minute boat ride from the Peloponessos with a small car ferry going back and forth every 15 minutes and small taxi boats that go back and forth 24 hours a day across a strait of sea that looks more like a river. 
-
+A small island of the Saronic Gulf, Poros is a relaxing place for family vacations. As it is only an hour ferry ride from Athens, Poros island is a popular weekend destination in summer. The Town, constructed on the slopes of a hill, is the center of most activities on the island.
 
 ![](/images/poros_1.jpg)
 #### <a name="swimPoros"></a>Where to swim
@@ -2101,10 +1989,6 @@ Visitors to the picturesque island of Poros identify it with its landmark, the C
 
 ![](/images/poros_6.jpg)
 
-### <a name="methana"></a>Methana
-No this is not actually an island but it may as well be. The town of Methana is located on a peninsula that juts out from the Argolis in the Peloponessos and because the easiest way to get here is by boat, the ferries to the Saronic Islands also stop here. It is actually on a volcano that last errupted in 230 BC and it is believed that it will erupt again in the not to distant future. The peninsula actually has 32 separate volcanoes and a popular hike is to the largest.  Along with volcanos you also get hot springs and has been a spa, attracting old people who want to soothe their aches and pains since 1870. There are volcanic beaches, ancient archaeological sites, fishing villages and plenty of restaurants and cafes, and hotels if you decide to stay the night. This island that is not an island is best seen by car or taxi. You can take the early ferry here and then drive back to Athens through the Argolis, stopping at Epidavros and/or Myceneae and Nafplion on the return.
-
-
 ## <a name="evia_island"></a>Evia
 The island of Evia is one of the closest to Athens and yet it is one of the most unknown. That is because Evia is so large that there is much to know about it. Second in size to Crete, it stretches from the tip of the Pelion Peninsula all the way south to the coast of Attika. It's southern tip is just a short distance from the Cycladic islands of Andros and Kea though unfortunately there is no ferry connection. If there were, more tourists would come here. As it is, because it is so close to the mainland that you can drive to it, Evia has been and remains a popular summer holiday destination for Greeks and Greek-Americans, Canadians, Australians and others whose families originally came from the island.The topography of the island is as varied as anywhere in Greece, with sparkling Aegean beaches and coves on its east coast, a mountainous interior with rivers, streams and forests, a west coast that is a mix of beaches, the city of Halkida, large towns, industry, agriculture, beaches and wetlands. And in the northwest the town of Edipsos is the most popular spa in Greece, with hot water gushing from rocks and crevices into the sea and pools of the many hotels and healing centers.There are several ways to reach Evia from Athens. Which way you choose depends on where in Evia you want to go, because as I said; Evia is a very large island and a very long one. How large and long? From one tip to the other could take you four or five hours by car.  You could drive almost to Thessaloniki from Athens in that time. Of course much of the journey will be on narrow winding roads where there is a good possibility that you will be stuck behind a big slow moving truck with nowhere to pass for at least part of the journey. And most likely you will stop to wade in the cool waters of the Kirea river that runs alongside the road that goes north from the modern city of Halkida to the fishing village of Limni, the spas of Edipsos and the beautiful beaches of the northern coast.
 * [A nice video about Evia](https://www.youtube.com/watch?v=ZSLe_zK2qd8)
@@ -2116,3 +2000,81 @@ The interior is home to the White Mountains, which soar to over 2,000m in the we
 
 The last thing that makes Crete stand out from the other islands is the breadth of its history: from the mysterious Minoans with their labyrinthine palaces, through Venetian control, to the daring deeds during the German occupation.
 * [A nice video about Crete](https://www.youtube.com/watch?v=NKxj-jmfxlA)
+
+
+#### <a name= “elafonisos”></a> Elafonhsos
+
+* [General Information](#infoelaf)
+* [Food Lovers](#foodelaf)
+* [Lifetime Adventures](#adventureselaf)
+* [Magical Beaches](#beacheselaf)
+* [Accommodation](#accomelaf)
+#### <a name= “infoelaf”></a><u>General Information</u> 
+A small paradise that is located under Peloponnese known as Elafonisos , it is a pole of attraction for people of all ages during the summer holidays. Families, students , elder people, friends who are looking for cheap and at the same time entertaining and relaxing  vacations, visit this small island. If you are searching for something overcrowded then you should visit Elafoniso on August. The easiest way to get there is by car or by bus.  It is 337km from Athens and you drive until Pounta Elafonisou where you take the ferry boat.
+<details>
+	<summary> Ferry Details </summary>
+	<p>
+	Ferry boat ticket costs 1€ for adults and 11€ for cars. From 7.30 a.m. until 17.00 p.m.	there are boats to take you to the island in about 8 minutes.
+	You can only pay with cash for the tickets. 
+	</p>
+</details>
+
+#### <a name= “foodelaf”></a><u>Food Lovers</u> 
+[Trakaina](https://www.tripadvisor.com.gr/Restaurant_Review-g949051-d6877340-Reviews-Trakena-Elafonisos_Laconia_Region_Peloponnese.html): 
+The traditional greek meal at its finest. They say you can find there the best souvlaki in the island.  If you want to eat something fast because you want to run straight to the beach this is a very good choice.
+
+[Ourania’s Tavern](https://www.tripadvisor.com.gr/Restaurant_Review-g949051-d6902685-Reviews-Ourania_Taverna_Ouzeri-Elafonisos_Laconia_Region_Peloponnese.html):
+If you have in mind eating a snack and drinking ouzo next to the sea then this family business is what you are looking for. It is said that squids, ouzo and the sea are the reason you should visit Ourania’s Tavern.
+
+[Antonis Tavern](https://www.tripadvisor.com.gr/Restaurant_Review-g949051-d3321885-Reviews-Antonis_Restaurant-Elafonisos_Laconia_Region_Peloponnese.html):
+If you are fish lover then this is an excellent choice to enjoy fresh fish next to the sea with reasonable prices.
+
+[Spyros and Spyridoula](https://www.tripadvisor.com.gr/Restaurant_Review-g949051-d6979603-Reviews-Spiros_Spiridoula-Elafonisos_Laconia_Region_Peloponnese.html):
+This is a place that makes you feel really familiar with the owner. You can try spaghetti with shrimps and after that you should try the exceptional desserts.
+
+[Sthn Akrh](https://www.tripadvisor.com.gr/Restaurant_Review-g949051-d4832738-Reviews-Stin_Akri-Elafonisos_Laconia_Region_Peloponnese.html): 
+The best place for eating breakfast. Waffles, pancakes and whatever you would like to eat in the morning. It is not only known about its tasty breakfast though, but also about the drinks you can have there. It may be a little bit expensive but in my opinion it is worth to have one drink on the beach.
+
+#### <a name= “adventureselaf”></a><u> Lifetime Adventures</u>
+<b> Cave in Simos : </b>  If you prefer something more adventurous rather than staying all day at the beach, you should try hiking  until the cave in Simos. The view is breathtaking so definitely it is worth trying it.
+
+![](/images/CaveinSimoselaf.jpg)
+
+<b> Church of Saint Patapios: </b> The location of this church is very appealing to the tourists. It is isolated and you get there by feet of course. The view is magical and that’s  the only reason I think it is worth it.
+
+![](/images/Patapios_Elaf.jpg)
+
+
+<b>Villages at Lakwnia : </b> The island of Elafonisos has an extra advantage over most of the greek islands. That’s mainly because of the location. You can easily leave the island for one day trip and visit some of the traditional villages of Lakwnia. The beauty is exceptional and Monemvasia is an example of that.
+
+![](/images/Monemvasiaelaf.jpg)
+
+<b>Paulopetri: </b> If you go to Elafonisos you can’t miss swimming or going with a boat over the city Paulotetri that is under the water because of an earthquake before 2.800 B.C
+
+![](/images/Pavlopetrielaf.jpg)
+
+![](/images/pavlopetrielaf2.jpg)
+
+#### <a name="beacheselaf"></a><u>Magical Beaches</u>
+
+<b> Simos Beach:  </b> The first thing you will see if you search about Elafoniso is Simos beach. One of the best beaches across Europe and one of the main reasons to visit Elafoniso. Simos is divided into two beaches, Sarakiniko and Fragkos and their sand is endless.
+
+![](/images/SimosBeachelaf.jpg)
+
+<b>Aglyfths Beach: </b> If you prefer a beach that has not only sand but pebbles too you should go to Aglyfths beach. It is a bit hard to go there and only by walking. That means that not many people will swim there if you want some privacy.
+
+![](/images/aglyfthselaf.jpg)
+
+<b> Leukhs Beach: </b>  Its location is on the west side of the island and it’s the best place to swim if its windy on Simos. The water is magical and the beach without any pebbles so why not visit it?
+
+![](/images/lefkielaf.jpg)
+
+#### <a name= "accomelaf"></a><u> Accommodation</u>
+[Simos Camping](http://simoscamping.gr/): 
+Next to Simos beach there is a camping with many facilities hosting many guests every year. A very cheap option and should be very interesting for those who want to meet new people and relax next to the beach. 
+
+[Coralli Rooms](https://www.tripadvisor.com.gr/Hotel_Review-g949051-d12692834-Reviews-Coralli_Rooms-Elafonisos_Laconia_Region_Peloponnese.html):
+A very good option for those who are looking for something convenient and near the everything. Coralli rooms are only 10 minutes away from Simos beach and they are next to the port with the ferry boats.
+
+[Kontogoni Rooms](https://www.booking.com/hotel/gr/kontogoni-rooms.el.html):
+At the same location as Coralli rooms, Kontogoni rooms provide good services making your stay there unforgettable. Very polite owner and the rooms in a good condition.
