@@ -1526,7 +1526,7 @@ Food-wise, you’ll find some stunning locations for watching the sunset, while 
  * Ambrosia Restaurant in Lindos is sheer foodie heaven.
  * Call in after a day exploring the acropolis, for a family-friendly atmosphere and seafood you’ll remember long after your tan fades.
 
- If you are willing to spend a bit more time looking for good places to eat try avoiding the touristy areas and go where the locals go. Υou should definitely visit:
+ If you are willing to spend a bit more time looking for good places to eat, try avoiding the touristy areas and go where the locals go. Υou should definitely visit:
 
  ![](/images/mimakos-taverna.jpg)
 
@@ -1536,6 +1536,9 @@ Food-wise, you’ll find some stunning locations for watching the sunset, while 
 ![](/images/rnr_burger.jpg)
 
  * [Rock n' Roll](https://www.tripadvisor.com.gr/Restaurant_Review-g635613-d3750407-Reviews-Rock_n_Roll_Music_Diner-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html#photos;aggregationId=101&albumid=101&filter=7&ff=192918758): A vintage music diner, incuding a bar, events and late-night dancing. One of the best, if not the best, burger place hidden in the Old Town of Rhodes. Try the appetisers!!!
+
+ <b>Pro Tip:</b>
+ Rhodes is a very big island to explore and there is a vast amount of villages and areas that visitors don't find easily. As a local, my tip would be to avoid staying in touristy areas and try exploring the island with the help of a local. Never hesitate to ask locals for places that are worth exploring, places to eat, etc. If you know someone that lives there, let him guide you around and if you don't know anyone, then by all means try making some friends, you will not regret it.
 
 
 ### <a name="tilos"></a>Tilos
