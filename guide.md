@@ -1479,20 +1479,20 @@ Rhodes has a lot of beautiful beaches, some are popular and easily accessible, b
 
 ![](/images/kallithea_beach.jpg)
 
-<b>Kallithea Springs:<b>
+<b>Kallithea Springs:</b>
 Is located in a renovated venue with a cafe-bar next to the beach.
 Fun fact: This is the location where the classic movie "The Guns of Navarone" was filmed.
 
 
 ![](/images/tsambika_beach.jpg)
 
-<b>Tsambika Beach:<b>
+<b>Tsambika Beach:</b>
 Very warm and shallow waters, perfect for families and kids to play.
 
 
 ![](/images/lindos_beach.jpg)
 
-<b>Lindos Beach:<b>
+<b>Lindos Beach:</b>
 Located below the castle and graphic village of Lindos.
 
 
