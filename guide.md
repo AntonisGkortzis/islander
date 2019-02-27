@@ -1324,6 +1324,9 @@ Mostly located at the Agia Marina region, it proudly has bars and clubs, such as
 #### <a name="discoverHalki"></a>Discover Halki
 Halki is a lesser-known Greek island that even most Greeks will not know about. And that is a good thing. It offers an amazing scenery and beauty and it is not packed with tourists. What more can you ask?
 
+![](/images/Halki_Discover.jpg)
+Halki by [kbabetas](https://github.com/kbabetas)
+
 #### <a name="swimHalki"></a>Where to swim
 * [Kania Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189443-d4885218-Reviews-Kania_Beach-Halki_Dodecanese_South_Aegean.html):
 I honestly don't think that places with more clear waters than Kania exist. Don't forget to try the snacks that are offered by the local taverna; they are delicious.
@@ -1522,8 +1525,8 @@ A surprise find in such a balmy location is Lindos Ice Bar on Krana Square. Part
 
 #### <a name="food-Rhodes"></a>Where to eat?
 Food-wise, you’ll find some stunning locations for watching the sunset, while enjoying a glass of local wine and the catch of the day.
- * Try Philosophia Beach Taverna In Pefkos for romantic views of the bay and a chance to dip your toes in the water. 
- * In a similar vein is Dapapa on Kavos Beach, where the seafood is glorious with a backdrop to match. 
+ * Try Philosophia Beach Taverna In Pefkos for romantic views of the bay and a chance to dip your toes in the water.
+ * In a similar vein is Dapapa on Kavos Beach, where the seafood is glorious with a backdrop to match.
  * Ambrosia Restaurant in Lindos is sheer foodie heaven.
  * Call in after a day exploring the acropolis, for a family-friendly atmosphere and seafood you’ll remember long after your tan fades.
 
@@ -1638,7 +1641,7 @@ Kalymnos has become one of the major rock climbing destinations for professional
 * [General Info](#info_kos)
 * [Beaches](#beaches_kos)  
 * [You need to do](#do_kos)  
-* [Food](#food_kos) 
+* [Food](#food_kos)
 
 
 #### <a name="info_kos"></a>General Info  
@@ -1656,11 +1659,11 @@ flat and low-lying, especially in the north and west. As a result, much of the s
 outstanding by Greece standards, although it does get more mountainous in the south and east.  
 It's topography makes easy an ideal to tour it all around even with a small vehicle and that's  
 very important because so you can visit every corner of the island and learn about it's sevrets!
- 
+
 
 ![](/images/kos1.jpg)  
-  
-  
+
+
 #### <a name="beaches_kos"></a>Beaches  
 Beaches as far as the eye can see! Kos, as we said before is one of the most popular Mediterranean  
 islands when it comes to beach holidays. Not only party holidaymakers, who want to party all day  
@@ -1677,18 +1680,18 @@ like Agios Stefanos and Psalidi.
 
 #### <a name="food_kos"></a>Food
 Greece in general, is vary famous about it's ytaditional mediteranean cuisine and it's delicious dishes.  
-Kos couldn't be an exception. In kos you whave to chose amongst very different but also very tasty dishes. 
+Kos couldn't be an exception. In kos you whave to chose amongst very different but also very tasty dishes.
 You can visit from old school traditional greek taverns, to very stylish and modern restaurants. Also you  
 have a very big variety of local meat, fresh seafood and homegrown vegetables, in order to enjoy whatever  
 kind of food you want. These are only 3 from the many reastaurants and taverns that you can visit if you  
-ever travel to Kos island. 
+ever travel to Kos island.
 
 * [Taverna Romeo](https://www.tripadvisor.com/Restaurant_Review-g663504-d4406622-Reviews-Taverna_Romeo-Psalidi_Kos_Dodecanese_South_Aegean.html)
 
 * [Broadway Restaurant](https://www.tripadvisor.com/Restaurant_Review-g666312-d1094942-Reviews-Broadway_Restaurant-Kos_Town_Kos_Dodecanese_South_Aegean.html)
 
 * [Lofaki](https://www.tripadvisor.com/Restaurant_Review-g666312-d1497569-Reviews-Lofaki-Kos_Town_Kos_Dodecanese_South_Aegean.html)
- 
+
 
 ## <a name="northAegean"></a>North Aegean Sea Islands
 
@@ -1789,7 +1792,7 @@ Mytilene has several places worth visiting.
 * [Molyvos or Mithimna](http://www.lesvosgreece.gr/en/molyvos): Molivos is one of the most popular places of the island. It is one of the most picturesque and beautiful villages. It is roughly 60 kilometres from the capital of the island and it certainly is the most touristic village. Its castle is what differentiate it and it is the first thing that every visitor sees as it is built on the highest hill; it is Molivos’ Acropolis. The castle has undergone many repairs both inside and outside, but it is still standing, and it is worth going to the top. There you will enjoy the breath-taking view and you can admire the amazing sunset, which for some unknown reason at least to me, takes shades of purple.
 
 ![](/images/Lesvos_Molyvos_sunset.jpg)
-Molyvos Sunset by @kbabetas
+Molyvos Sunset by [kbabetas](https://github.com/kbabetas)
 
 #### <a name="sightsLesvos"></a>Sights
 * [The Yeni Tzami](https://www.tripadvisor.com.gr/Attraction_Review-g1450327-d3643574-Reviews-The_Yeni_Tzami_Mosque-Mytilene_Lesbos_Northeast_Aegean_Islands.html): This historical monument from the early 1900s is the biggest Muslim mosque of the island.
