@@ -1127,10 +1127,12 @@ The majority of places to eat and drink in Skopelos are found in Skopelos Town. 
 * [Things to do](#toDoInAlonnisos)
 
 #### <a name="discoverAlonnisos"></a>Discover Alonnisos
-On the western side of the Aegean, on the edge of the Sporades, you’ll find one of the less developed islands, Alonnisos. It will captivate you  with its unpretentious magic. Charming and pure, its lush, green landscape and pristine beaches with crystal-clear water make it the perfect destination for a relaxing holiday in Greece, filled with beautiful imagery. If you’re looking for a quiet vacation, ensconced in nature, you need  look no further. Unspoiled and authentic, it discreetly lets the wind share its secrets.
+On the western side of the Aegean, on the edge of the Sporades, you’ll find one of the less developed islands, Alonnisos. Charming and pure, its green landscape and beautiful beaches with crystal-clear water make it the perfect destination for a relaxing holiday in Greece. If you’re looking for a quiet vacation, ensconced in nature, you need  look no further. Unspoiled and authentic, it discreetly lets the wind share its secrets.
 
 #### <a name="historyOfAlonnisos"></a>History of Alonnisos
 "Ikos", as was named the island in antiquity, was first inhabited by Stafylos, the son of Dionysus and Ariadne. This myth explains the island’s strong bonds with viticulture from ancient times until today. Urns bearing the stamp "IKION" were exported all around the ancient world confirming the island’s great fame as excellent wine-producing region. According to the myth, Pileas, the father of Achilles, was buried on Alonnisos. This is the reason why the island’s second name is "Achilliodromia". Different versions of this name have survived throughout the years: "Hiliodromia", "Liadromia", "Diadromia".
+
+[source](https://en.wikipedia.org/wiki/Alonnisos)
 
 #### <a name="gettingThereAlonnisos"></a>Getting there
 * From Athens or any major Greek city you can travel by bus or car to Volos, which is daily connected to Alonnisos by ferry or hydrofoil.
@@ -1144,20 +1146,28 @@ Alonnisos is an amazing island famous for its clean water and the green landscap
 
 ![](./images/votsi.jpg)
 
+[image source](https://www.google.com/search?client=firefox-b-d&tbm=isch&q=%CE%B2%CE%BF%CF%84%CF%83%CE%B7+%CE%B1%CE%BB%CE%BF%CE%BD%CE%BD%CE%B7%CF%83%CE%BF%CF%82&spell=1&sa=X&ved=0ahUKEwjawrDFodzgAhXk1uAKHRqpB_cQBQg9KAA&biw=1366&bih=632&dpr=1#imgrc=_)
+
 * [Chrissi Milia](https://www.greeka.com/sporades/alonissos/alonissos-beaches/alonissos-chrisi_milia.htm): The sand on Chrissi Milia is soft and golden and the waters are limpid of an amazing turquoise colour. It is one of the very few organized beaches on the island which offers sun beds, umbrellas and some water sports. A nice tavern is standing on a little hill on a side of the beach.
 
 ![](./images/chrissimilia.jpg)
+
+[image source](https://www.google.com/search?q=chrissi+milia+alonissos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiN39-XotzgAhVQKlAKHRTRCpsQ_AUIDigB&biw=1366&bih=632)
 
 * [Glyfa](https://www.greeka.com/sporades/alonissos/alonissos-beaches/alonissos-glyfa.htm): Glyfa beach is a nice sandy beach with some small pebbles that is worth a visit for its tranquil atmosphere. Fortunately, the place has not been spoiled by mass tourism, and is the ideal location for those who like seclusion and peace. Tourists enjoy watching the green fertile valleys, taking or hiring small boats to visit the islands nearby or sitting on the beach while watching the soft waves in the clean greenish blue waters.
 
 ![](./images/glyfa.jpg)
 
+[image source](https://www.google.com/search?q=%CE%B3%CE%BB%CF%85%CF%86%CE%B1+%CE%B1%CE%BB%CE%BF%CE%BD%CE%BD%CE%B7%CF%83%CE%BF%CF%82&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiozubkotzgAhUJJVAKHc5kAnUQ_AUIDigB&biw=1366&bih=632#imgrc=_)
+
 * [Rousoum Gialos](https://www.greeka.com/sporades/alonissos/alonissos-beaches/alonissos-roussoum_gialos.htm): This is an area with great tourist development and is considered an important pole of attraction for many tourists due to its unique beauty. The beach has clean waters and small white pebbles along the coastline. After swimming, you can have lunch in the coastal taverns and taste many of the local recipes.
 
 ![](./images/rousoumgialos.jpg)
 
+[image source](https://www.google.com/search?q=rousoum+gialos+alonissos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj2t8uSo9zgAhVDbFAKHa5MAJAQ_AUIDigB&biw=1366&bih=632#imgrc=0WTmKPDcl-RRdM:)
+
 #### <a name="eatAlonnisos"></a>Where to eat
-This might be a relatively small island, but it has thriving culinary traditions and that will delight the gourmet enthusiast. Seafood is of course a major ingredient on the island's table, and a small fleet of fishermen supplies it daily with fresh fish. The quality is so good that it is sold for premium prices not only in Athens, but also in fish-loving Japan. Delicious options include sea bream, white bait, red mullet, swordfish, octopus, squid (kalamari) and prawns. Alonissos is also known for its lobster pasta as well as the high-quality tuna that will appear often on menus across the island. Octopus on charcoal, called Kakavia, is another must if you're into seafood.
+This might be a relatively small island, but it has thriving culinary traditions. Seafood is of course a major ingredient on the island's table. Delicious options include sea bream, white bait, red mullet, swordfish, octopus, squid and prawns. Alonissos is also known for its lobster pasta as well as the high-quality tuna that will appear often on menus across the island. Octopus on charcoal, called Kakavia, is another must if you're into seafood.
 
 Some of the best places to eat in Alonnisos are:
 
@@ -1174,7 +1184,7 @@ Some of the best places to eat in Alonnisos are:
 
 * Visit the [The Blue Cave of Alonnisos](https://www.greeka.com/sporades/alonissos/alonissos-excursions/blue-cave.htm): The wild and rocky coastline of Alonissos island is gifted with many small and amazing caves with deep and blue waters that impress every visitor. Water around the Blue Cave is so clear that the wild rocks around are reflected on them. This is a nice and impressive place to see. Usually, the boats that arrive there get inside the blue cave and tourists can take some nice dives.
 
-* Go hiking: Whether on a leisurely walk or more strenuous hike, you'll encounter dense pine forests, bushes, lush vegetation, cedar trees and holly  bushes, not to mention wild herbs of all kinds. Make a point of hiking to  one of the most stunning spots on the island, the chapel of Agion Anargyron.
+* Go hiking: Whether on a leisurely walk or more strenuous hike, you'll encounter dense pine forests, bushes, lush vegetation, cedar trees and holly bushes, not to mention wild herbs of all kinds. Make a point of hiking to  one of the most stunning spots on the island, the chapel of Agion Anargyron.
 
 * Cultural events
 
