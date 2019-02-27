@@ -6,7 +6,7 @@ The outcome will be published as an unofficial travel guide! [(Check last years'
 **Important:** Please send your GitHub username to Antonis (if you have not shared it yet either in the lab or via email) so that you can contribute to this repository as a collaborator.
 
 ## Tasks
-- Clone this repository
+- Clone this repository locally
 - Add information about Greek islands or anything interesting for a tourist to the guide.md file
 - Contribute generously
 - Add interesting things
