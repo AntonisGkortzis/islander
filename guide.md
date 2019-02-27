@@ -1056,17 +1056,19 @@ If you are island hopping around the Cyclades, Kimolos is an interesting stop to
 * [Things to do](#toDoInSkopelos)
 
 #### <a name="discoverSkopelos"></a>Discover Skopelos
-If your holiday priorities are tranquillity, relaxation and natural beauty, then make your way to Skopelos in the Sporades. Layer upon layer of luscious shades of green make a stunning vista; a pine trees stretching out for the seashore, hidden coves with their fishing boats, winding paths through dense virgin forests. Banish any thoughts of timetables or deadlines and spend whole afternoons wandering around the picturesque main town, a cluster of cobblestone streets, tiny chapels and neoclassical buildings. Art comes to life everywhere here in Skopelos; in the hand-crafted vases and hand-painted plates, in the embroidery and miniature model boats. The star of the hit musical Mamma Mia, which gave the island its recent fame, will also be the star of your holiday.
+If your holiday priorities are relaxation and natural beauty, then make your way to Skopelos in the Sporades. Layer upon layer of shades of green make a stunning vista; a pine trees stretching out for the seashore, hidden coves with their fishing boats, winding paths through dense forests. Banish any thoughts of timetables or deadlines and spend whole afternoons wandering around the picturesque main town.
 
 #### <a name="historyOfSkopelos"></a>History of Skopelos
 According to the legend, Skopelos was founded by Staphylos or Staphylus (Greek for grape), one of the sons of the god Dionysos and the princess Ariadne of Crete. Historically, in the Late Bronze Age the island, then known as Peparethos or Peparethus, was colonised by Cretans, who introduced viticulture to the island.
+
+[source](https://en.wikipedia.org/wiki/Skopelos)
 
 #### <a name="gettingThereSkopelos"></a>Getting there
 * By ferry or high speed boat from the port of Volos or Ayios Konstantinos
 * By ferry from the port of Thessaloniki (only during summertime)
 
 #### <a name="swimSkopelos"></a>Where to swim
-Beaches in Skopelos are known for their crystal waters and the marvelous green landscape that surrounds them. Skopelos has a rare quality because it is rich in vegetation, mainly pine trees, that grow densely until the water edge. Among the most popular Skopelos beaches are Stafylos, Hovolo, Panormos, and Elios. You will find below a list with the best beaches in Skopelos island.
+Beaches in Skopelos are known for their crystal waters and the marvelous green landscape that surrounds them. Skopelos has a rare quality because it is rich in vegetation, mainly pine trees, that grow densely until the water edge. Among the most popular Skopelos beaches are Stafilos, Hovolo, Panormos and Perivoliou. You will find below a list with the best beaches in Skopelos island.
 
 * [Panormos](https://www.tripadvisor.com.gr/Attraction_Review-g189501-d2283169-Reviews-Panormos_Beach-Skopelos_Sporades.html): Panormos is considered among the most beautiful beaches on Skopelos. It has sandy coast, sparkling water and gives a great view to the sunset.
 
@@ -1086,18 +1088,6 @@ Beaches in Skopelos are known for their crystal waters and the marvelous green l
 
 [image source](https://www.google.com/search?q=hovolo+skopelos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-2NH4lNzgAhVKC-wKHbMNAUYQ_AUIDigB&biw=1366&bih=632#imgrc=Nn8Ta2cTRz4EOM:)
 
-* [Milia](https://www.tripadvisor.com.gr/Attraction_Review-g189501-d2283275-Reviews-Milia_Beach-Skopelos_Sporades.html): This is a fine beach with white pebbles and crystal water. Part of this beach is organized with sunbeds and umbrellas.
-
-![](./images/milia.jpg)
-
-[image source](https://www.google.com/search?q=milia+skopelos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjXgr6YldzgAhXICewKHVw5ACsQ_AUIDigB&biw=1366&bih=632#imgrc=7IEAckRW9h1fuM:)
-
-* [Elios](https://www.feelgreece.com/el/elios-beach-skopelos): Elios, or else Neo Klima, is a fine tourist resort surrounded by a dense pine forest. Small boats moor in the port of Elios.
-
-![](./images/elios.jpg)
-
-[image source](https://www.google.com/search?client=firefox-b-d&tbm=isch&sa=1&ei=ZqR2XIGJOJHZxgO60K3gBQ&q=elios+skopelos&oq=elios+skopelos&gs_l=img.3..0i24.56251.56251..56676...0.0..0.131.131.0j1......0....1..gws-wiz-img.Y5sSKZL2a-M#imgrc=3lFz9bumDKMboM:)
-
 * [Perivoliou](https://www.feelgreece.com/el/elios-beach-skopelos): This is a remote beach on the northernmost part of the island. Due to its secluded spot, it doesn't get frequented at all.
 
 ![](./images/perivoliou.jpg)
@@ -1105,14 +1095,14 @@ Beaches in Skopelos are known for their crystal waters and the marvelous green l
 [image source](https://www.google.com/search?q=perivoliou+skopelos&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiPz7OYltzgAhWRPFAKHQBmAosQ_AUIDigB&biw=1366&bih=632#imgrc=TOQhjU-Z9YHWcM:)
 
 #### <a name="eatSkopelos"></a>Where to eat
-The majority of places to eat and drink in Skopelos are found in Skopelos Town. This is the main nightlife spot on the island, with family restaurants with seafood and grilled dishes, cafeterias by the port promenade and lounge bars in the narrow streets of the Old Town. Except for one or two bars in Glossa, all the other bars on the island are found in Skopelos Town.
+The majority of places to eat and drink in Skopelos are found in Skopelos Town. This is the main nightlife spot on the island, with family restaurants with seafood and grilled dishes, cafeterias by the port promenade and lounge bars in the narrow streets of the Old Town.
 
 * [Agnanti Restaurant](https://www.tripadvisor.com.gr/Restaurant_Review-g2032935-d1580333-Reviews-Agnanti_Restaurant-Glossa_Skopelos_Sporades.html): Agnanti is completely different from any other eating establishment on the island and one of the most famous restaurants in the whole Aegean. The cooking is lighter and finer than you will find in the hearty tavernas of Skopelos.
 * [Stafilos Restaurant](https://www.tripadvisor.com.gr/Restaurant_Review-g189501-d3319288-Reviews-Stafilos_Restaurant-Skopelos_Sporades.html): Stafilos offers an amazing view to Stafilos beach and is perfect for romantic dinners next to the sea.
 * [Kymata](https://www.tripadvisor.com.gr/Restaurant_Review-g1187810-d4559856-Reviews-O_Aggelos_sta_Kymata-Skopelos_Town_Skopelos_Sporades.html): Kymata is probably the oldest taverna in town and a shrine of magireftá dishes like lamb and vegetables in a phyllo crust and beets with their greens.
 
 #### <a name="toDoInSkopelos"></a>Things to do
-* Visit [church of Agios Ioannis Kastri](https://www.skopelostravel.net/agios-ioannis/): The small church of Agios Ioannis is located in the region of Kastri, about 7 km east of Glossa, northern Skopelos. This lovely church stands on top of a rock and provides an amazing view to the coasts of Skopelos and to Alonissos. Its name actually means Saint John on the Castle, assuming that probably there was a small castle there in the past to protect the island from pirates and enemy invasions. This small church gained a huge reputation after the Hollywood movie Mamma Mia was released, where many scenes from the wedding were actually filmed there. The impressive rock is linked to the rest of the island through a narrow path with 110 steps carved into the stone. A small beach is formed right beneath the rock and it gets pretty crowded in summer. The interior of the church has beautiful icons and old ecclesiastical items to see.
+* Visit [church of Agios Ioannis Kastri](https://www.skopelostravel.net/agios-ioannis/): The small church of Agios Ioannis is located in the region of Kastri northern Skopelos. This lovely church stands on top of a rock and provides an amazing view to the coasts of Skopelos and to Alonissos. Its name actually means Saint John on the Castle, assuming that probably there was a small castle there in the past to protect the island from pirates and enemy invasions. This small church gained a huge reputation after the Hollywood movie Mamma Mia was released, where many scenes from the wedding were actually filmed there. The impressive rock is linked to the rest of the island through a narrow path with 110 steps carved into the stone. A small beach is formed right beneath the rock and it gets pretty crowded in summer. The interior of the church has beautiful icons and old ecclesiastical items to see.
 
 ![](./images/agiosioannis.jpg)
 
