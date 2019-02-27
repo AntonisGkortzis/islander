@@ -259,7 +259,11 @@ source: [google images](https://www.google.com/search?biw=1440&bih=611&tbm=isch&
 #### <a name"visitcorfu"></a>When to visit?
 If not in the summer when it is best for almost all islands then i would recommend Orthodox Easter time. Corfu has some unique traditions that make it a very popular destination around this time so be prepared for a big crowd but it's worth it.Two of the rituals that stand out are Good Friday
 when the epitaph processions which have different colours depeding on the church come out all intersect at the centre of town and Holy Saturday
-when suddenly the mood changes within a few minutes from the mourning of the epitaph to the joy of the first Easter which here happens at 11:00 a.m in the morning of Saturday.Locals throw in the streets large clay pitchers filled with water from every balcony of the island while the church bells peal joyfully. After that the three marching bands come out again to parade around the town playing joyfull music this time.
+when suddenly the mood changes within a few minutes from the mourning of the epitaph to the joy of the first Easter which here happens at 11:00 a.m in the morning of Saturday.Locals throw in the streets large clay pitchers filled with water from every balcony of the island while the church bells peal joyfully. After that the three marching bands come out again to parade around the town playing joyful music this time. You are not convinced yet? Make sure to check out the video below.
+
+<b>Youtube video: Easter in Corfu</b>
+[![Easter in corfu](/images/easter_in_corfu.png)](https://www.youtube.com/watch?v=POPGKaSnUWI)
+source: Ani Skevi
 
 ### <a name="kythira"></a>Kythira
 
