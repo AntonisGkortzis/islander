@@ -1330,6 +1330,10 @@ Halki by [kbabetas](https://github.com/kbabetas)
 #### <a name="swimHalki"></a>Where to swim
 * [Kania Beach](https://www.tripadvisor.com.gr/Attraction_Review-g189443-d4885218-Reviews-Kania_Beach-Halki_Dodecanese_South_Aegean.html):
 I honestly don't think that places with more clear waters than Kania exist. Don't forget to try the snacks that are offered by the local taverna; they are delicious.
+
+![](/images/Halki_Kania.jpg)
+Kania Beach by [kbabetas](https://github.com/kbabetas)
+
 * [Potamos](https://www.tripadvisor.com.gr/Attraction_Review-g189443-d8721050-Reviews-Potamos_Beach-Halki_Dodecanese_South_Aegean.html):
 Want to explore the sea? Or build sandcastles? Or do both and then enjoy some ouzo? Well then Potamos is the perfect choice.
 * [Ftenagia](https://www.tripadvisor.com.gr/Attraction_Review-g189443-d8744594-Reviews-Ftenagia_Beach-Halki_Dodecanese_South_Aegean.html):
