@@ -58,7 +58,7 @@ This guide provides people who would like to visit a Greek island with tips rega
 * [Crete](#crete_island)
 
 ## <a name="greek"></a>Greek Cheat Sheet
-_Want to get the whole experience visiting one of the greek islands and feel like a true greek?(maybe even a greek god/ess) Here are some of the basic greek you can use anytime_
+_Want to get the whole experience visiting one of the greek islands and feel like a true greek?(maybe even a greek god/ess) Here are some of the basic greek you can use anytime to make you feel at home._
 
 | English        | Greek      |
 |----------------|------------|
