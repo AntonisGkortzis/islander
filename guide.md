@@ -5,6 +5,7 @@ This guide provides people who would like to visit a Greek island with tips rega
 ><b>Work tip</b>: Stand up. Stretch. Take a walk. Go to the airport. Get on a plane. Go to a <b>Greek Island</b>. Never return. </i>
 
 ## <a name="menu"></a>Menu
+* [Greek Cheat Sheet](#greek)
 * [Ionian Islands](#ionian_islands)
   * [Cephalonia](#cephalonia)
   * [Leukada](#leukada)
@@ -55,6 +56,21 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Hydra](#hydra)
 * [Evia](#evia_island)
 * [Crete](#crete_island)
+
+## <a name="greek"></a>Greek Cheat Sheet
+_Want to get the whole experience visiting one of the greek islands and feel like a true greek?(maybe even a greek god/ess) Here are some of the basic greek you can use anytime_
+
+| English        | Greek      |
+|----------------|------------|
+| Hello!         | Ya su!     |
+| How are you?   | Ti kanis?  |
+| Good!          | Kala!      |
+| Good morning   | Kalimera   |
+| My name is ... | Me lene ...|
+| Cheers!        | Ya mas!    |
+| Thank you      | Efharisto  |
+| You are welcome| Parakalo   |
+| I love you     | S'agapo    |
 
 ## <a name="ionian_islands"></a>Ionian Islands
 
