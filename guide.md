@@ -1479,26 +1479,26 @@ Rhodes has a lot of beautiful beaches, some are popular and easily accessible, b
 
 ![](/images/kallithea_beach.jpg)
 
-Kallithea Springs
+<b>Kallithea Springs:<b>
 Is located in a renovated venue with a cafe-bar next to the beach.
 Fun fact: This is the location where the classic movie "The Guns of Navarone" was filmed.
 
 
 ![](/images/tsambika_beach.jpg)
 
-Tsambika Beach
+<b>Tsambika Beach:<b>
 Very warm and shallow waters, perfect for families and kids to play.
 
 
 ![](/images/lindos_beach.jpg)
 
-Lindos Beach
+<b>Lindos Beach:<b>
 Located below the castle and graphic village of Lindos.
 
 
 ![](/images/Anthony_Quinn_Bay.jpg)
 
-[Anthony Quinn Bay](https://i.ytimg.com/vi/8Payy768Lqw/maxresdefault.jpg)
+[Anthony Quinn Bay](https://i.ytimg.com/vi/8Payy768Lqw/maxresdefault.jpg):
 One of the most beautiful places to go snorkelling. The area is protected from fishers so if you happen to go by boat or go a bit deeper than most people you can see an amazing wildlife and many colourful fishes swimming just bellow your feet.
 
 #### <a name="nightlife-Rhodes"></a>Nightlife
@@ -1528,7 +1528,7 @@ Food-wise, you’ll find some stunning locations for watching the sunset, while 
 
  If you are willing to spend a bit more time looking for good places to eat try avoiding the touristy areas and go where the locals go. Υou should definitely visit:
 
- ![](/images/mimakos.taverna.jpg)
+ ![](/images/mimakos_taverna.jpg)
 
  * [Taverna Mimakos](https://media-cdn.tripadvisor.com/media/photo-s/0c/f2/e0/da/mimakos-taverna.jpg): The first thing that comes to mind when you hear the word "tavern". It's a classic tavern with very good prices, quality food and unique view from the mountain.
 
