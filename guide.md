@@ -54,6 +54,9 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Aegina](#aegina)
   * [Spetses](#spetses)
   * [Hydra](#hydra)
+  * [Poros](#poros)
+  * [Agistri](#agistri)
+  * [Methana](#methana)
 * [Evia](#evia_island)
 * [Crete](#crete_island)
 
