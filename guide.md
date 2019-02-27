@@ -1572,6 +1572,9 @@ Eristos is the most popular beach of the island. The crystal waters in combinati
 
 <b>Pro Tip:</b> At [Ilidi Rock Hotel](http://www.ilidirock.gr/) there are three small organized beaches. Access is very easy, you just have to cross a small bridge and continue straight until you see them. There is a snack bar that offers refreshments and some plates of the day which are cooked by the owner’s mother and served daily until 16:00 (4:00pm)
 
+![](/images/Tilos_Ilidi_Rock.jpg)
+Halki by [kbabetas](https://github.com/kbabetas)
+
 #### <a name="eatTilos"></a>Where to eat
 * [Nautilos](https://www.tripadvisor.com.gr/Restaurant_Review-g2654085-d2190055-Reviews-Nautilos_Restaurant-Livadia_Tilos_Dodecanese_South_Aegean.html): Nautilos in Livadia is a family-owned restaurant that offers a lot of sea-based snacks as well as many grill dishes. Relax while observing the amazing view! Sometimes it also has live music.
 
