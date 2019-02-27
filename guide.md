@@ -2002,7 +2002,7 @@ The last thing that makes Crete stand out from the other islands is the breadth 
 * [A nice video about Crete](https://www.youtube.com/watch?v=NKxj-jmfxlA)
 
 
-## <a name= “elafonisos”></a> Elafonhsos
+## <a name= "elafonisos"></a> Elafonhsos
 
 * [General Information](#infoelaf)
 * [Food Lovers](#foodelaf)
@@ -2010,7 +2010,7 @@ The last thing that makes Crete stand out from the other islands is the breadth 
 * [Magical Beaches](#beacheselaf)
 * [Accommodation](#accomelaf)
 
-### <a name= “infoelaf”></a><u>General Information</u> 
+### <a name= "infoelaf"></a><u>General Information</u> 
 A small paradise that is located under Peloponnese known as Elafonisos , it is a pole of attraction for people of all ages during the summer holidays. Families, students , elder people, friends who are looking for cheap and at the same time entertaining and relaxing  vacations, visit this small island. If you are searching for something overcrowded then you should visit Elafoniso on August. The easiest way to get there is by car or by bus.  It is 337km from Athens and you drive until Pounta Elafonisou where you take the ferry boat.
 <details>
 	<summary> Ferry Details </summary>
@@ -2021,7 +2021,7 @@ A small paradise that is located under Peloponnese known as Elafonisos , it is a
 </details>
 
 
-### <a name= “foodelaf”></a><u>Food Lovers</u> 
+### <a name= "foodelaf"></a><u>Food Lovers</u> 
 [Trakaina](https://www.tripadvisor.com.gr/Restaurant_Review-g949051-d6877340-Reviews-Trakena-Elafonisos_Laconia_Region_Peloponnese.html): 
 The traditional greek meal at its finest. They say you can find there the best souvlaki in the island.  If you want to eat something fast because you want to run straight to the beach this is a very good choice.
 
@@ -2038,7 +2038,7 @@ This is a place that makes you feel really familiar with the owner. You can try 
 The best place for eating breakfast. Waffles, pancakes and whatever you would like to eat in the morning. It is not only known about its tasty breakfast though, but also about the drinks you can have there. It may be a little bit expensive but in my opinion it is worth to have one drink on the beach.
 
 
-### <a name= “adventureselaf”></a><u> Lifetime Adventures</u>
+### <a name= "adventureselaf"></a><u> Lifetime Adventures</u>
 <b> Cave in Simos : </b>  If you prefer something more adventurous rather than staying all day at the beach, you should try hiking  until the cave in Simos. The view is breathtaking so definitely it is worth trying it.
 
 ![](/images/elafonisos/CaveinSimoselaf.jpg)
