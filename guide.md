@@ -30,6 +30,7 @@ This guide provides people who would like to visit a Greek island with tips rega
   * [Serifos](#serifos)
   * [Folegandros](#folegandros)
   * [Kimolos](#kimolos)
+  * [Kea](#kea)
 * [Sporades](#sporades)
   * [Skopelos](#skopelos)
   * [Alonnisos](#alonnisos)
@@ -1056,6 +1057,15 @@ If you are island hopping around the Cyclades, Kimolos is an interesting stop to
 * [Postali](https://www.tripadvisor.com/Restaurant_Review-g4562659-d8478214-Reviews-Postali-Psathi_Kimolos_Cyclades_South_Aegean.html): Seafood, Greek, Mediterranean
 * [To Kyma](https://www.tripadvisor.com/Restaurant_Review-g4562659-d4550300-Reviews-To_Kyma-Psathi_Kimolos_Cyclades_South_Aegean.html): Local cuisine, Seafood, Mediterranean, Greek, Vegetarian Friendly
 
+### <a name="kea"></a>Kea(Tzia)
+The closest of the Cyclades islands to Athens is the island of Kea which you can get to on a one hour ferry ride from the port town of Lavrion which is close to Sounion. 
+Unlike the Saronic islands, Kea will give you the feeling of being much further away. 
+It is a traditional island where people are still farmers, but close enough for Athenians to have their summer homes. It also has the best beaches of any island close to Athens. 
+It has exceptional beaches and one of the best system of walking paths and trails of any Greek island. Kea is a hiker's paradise with numbered routes that take you through a variety of landcapes to remote coves and the ruins of ancient cities. 
+The hora, or the main village, is in the mountains and has no automobiles within the town, which has several excellent restaurants. 
+You can take a KTEL Attika bus to Lavrion from Pedion Areos Park, or catch it at the airport. 
+It is about a 2 hour trip though and for that reason many people hire a taxi and go there for the day since it is only a 45 minute drive.
+
 ## <a name="sporades"></a>Sporades
 
 ### <a name="skopelos"></a>Skopelos
@@ -1925,6 +1935,13 @@ After trying the local and Mediterranean cuisine, you may seek for a change or w
 #### <a name="discoverHydra"></a>Discover Hydra
 Hydra is a picturesque island close to Athens known for the stone mansions and the lack of cars or other motor vehicles. The transport is done on foot, by boat or riding a donkey. Strolling across the island is fully recommended if you are a fan of walking in the nature seeing the sea from above.
 The towns and villages close to Hydra Town that you can visit are Vlichos and Mandraki but there are also Zogkeika, Limnioza, Klimaki, Zogeri, Molos and Palamidas further away.
+There are no automobiles on Hydra, only donkeys for hauling luggage, food, supplies and building materials up the stepped streets of an amphitheater like village.
+Few quality beaches but who cares since there are stone platforms on the rocks, with ladders that make it like swimming in a big pool. Cafes on waterfront are for people-watching.
+For good inexpensive food search the back-streets or walk down the coast. 
+To go there wake up early and take a cab to the Flying Dolphins dock in Pireaus. 
+Buy your ticket either in advance or through your travel agent, or from the ticket booth in Pireaus. 
+They run fairly frequently, usually one every hour or two. 
+Be sure to look at the schedule and buy your return ticket when you arrive in Hydra if you haven't gotten it in advance.
 
 #### <a name="dontForgetHydra"></a>Don't forget to visit
 - <b>The Historical Archives Museum</b>: Founded in 1918 and located in the port of Hydra, the museum hosts historical objects such as archives, maps, traditional costumes, paintings etc.
@@ -1961,7 +1978,8 @@ Hydroneta - In Hydra Town
 
 #### <a name="discoverAgistri"></a>Discover Agistri
 Agistri the diamond of the Argosaronic Gulf full of pine trees and crystal clean waters
-Agistri is a small paradise, only 55 min. from Piraeus Port.
+Agistri is a small paradise, only 55 min. from Piraeus Port- near Aegina- with beautiful sandy beaches and a devoted following. Famous for being one of the first places in Greece to experiment with naturalism, or in plain English it was one of the first islands to have a nudist beach, and in fact it still does.
+The far side of the island is mostly agricultural and in the village of Limineria, named after its lake, the inhabitants devote themselves mostly to farming and fishing. Like The other islands near Athens, Angistri is a good destination for the winter months when weather is unpredictable and you don't want to be too far from Athens.
 
 ![](/images/agistri_1.jpg)
 #### <a name="swimAgistri"></a>Where to swim
@@ -2008,6 +2026,8 @@ This is the most photographed church on Agistri. Located next to the beach of Sk
 It’s not a famous island like Mykonos, Crete or Santorini.
 It’s even kept out of the loop when compared to its sister Saronic islands like Aegina, Agistri or Hydra.
 That’s because, as I found out, Salamina is not the kind of island destination that requires a lot of planning.
+This island is not on anybody's list of islands to visit besides a few people who are interested enough in history to know that the entire fate of western civilization hinged on a battle that took place here over 2000 years ago when the Greek fleet defeated the Persians in the narrow straits that separate Salamina from the mainland. Interestingly, Salamina was the location of the first Club Med, though now it is almost an extenstion of Pireaus with small car ferries going back and forth continuously. There are a few OK beaches in the southern part of the island where the sea is clean, and the friends who have inherited summer homes here tell me there are great tavernas and Salamis is under-rated and popular with the Athenians who have been coming here for decades. But chances are unless you have been to Greece countless times and are running out of islands to go to, you probably have no interest in visiting Salamina. But if you do, you will want to have a car to explore the island since the main port of Paloukia and the main city of Salamina are just about all you will see without one and it is a large island with ancient archaeological sites, historic churches and an amazing house sculpture in the village of Peristeria that must be seen to be believed.
+
 ![](/images/salamina_1.jpg)
 #### <a name="swimAgistri"></a>Where to swim
 * Psili Ammos
@@ -2038,7 +2058,8 @@ Located on the beach of Salamina, it serves delicious seafood, octopus, sardines
   * [What  to see](#seePoros)
 
 #### <a name="discoverPoros"></a>Discover Poros
-A small island of the Saronic Gulf, Poros is a relaxing place for family vacations. As it is only an hour ferry ride from Athens, Poros island is a popular weekend destination in summer. The Town, constructed on the slopes of a hill, is the center of most activities on the island.
+A small island of the Saronic Gulf, Poros is a relaxing place for family vacations. As it is only an hour ferry ride from Athens, Poros island is a popular weekend destination in summer. The Town, constructed on the slopes of a hill, is the center of most activities on the island.Poros is simply beautiful, with pine forests that come right down to the beaches, excellent restaurants, cafe life, and really nice hotels that won't break your budget. The island is about 45 minutes from Pireaus by high-speed with frequent ferry and Flying Dolphin service so you can easily make connections to other islands or come into Athens for the day. You could leave your hotel and be walking on the Acropolis in less then 90 minutes. Poros is also a 3 minute boat ride from the Peloponessos with a small car ferry going back and forth every 15 minutes and small taxi boats that go back and forth 24 hours a day across a strait of sea that looks more like a river. 
+
 
 ![](/images/poros_1.jpg)
 #### <a name="swimPoros"></a>Where to swim
@@ -2078,6 +2099,10 @@ Visitors to the picturesque island of Poros identify it with its landmark, the C
   On the slopes of a large pine forest, 4 km east of the main city on Poros, lies the Holy Monastery of Zoodochos Pigi. This old monastery is an integral part of the history of Poros and has a rich heritage displayed within its walls.
 
 ![](/images/poros_6.jpg)
+
+### <a name="methana"></a>Methana
+No this is not actually an island but it may as well be. The town of Methana is located on a peninsula that juts out from the Argolis in the Peloponessos and because the easiest way to get here is by boat, the ferries to the Saronic Islands also stop here. It is actually on a volcano that last errupted in 230 BC and it is believed that it will erupt again in the not to distant future. The peninsula actually has 32 separate volcanoes and a popular hike is to the largest.  Along with volcanos you also get hot springs and has been a spa, attracting old people who want to soothe their aches and pains since 1870. There are volcanic beaches, ancient archaeological sites, fishing villages and plenty of restaurants and cafes, and hotels if you decide to stay the night. This island that is not an island is best seen by car or taxi. You can take the early ferry here and then drive back to Athens through the Argolis, stopping at Epidavros and/or Myceneae and Nafplion on the return.
+
 
 ## <a name="evia_island"></a>Evia
 The island of Evia is one of the closest to Athens and yet it is one of the most unknown. That is because Evia is so large that there is much to know about it. Second in size to Crete, it stretches from the tip of the Pelion Peninsula all the way south to the coast of Attika. It's southern tip is just a short distance from the Cycladic islands of Andros and Kea though unfortunately there is no ferry connection. If there were, more tourists would come here. As it is, because it is so close to the mainland that you can drive to it, Evia has been and remains a popular summer holiday destination for Greeks and Greek-Americans, Canadians, Australians and others whose families originally came from the island.The topography of the island is as varied as anywhere in Greece, with sparkling Aegean beaches and coves on its east coast, a mountainous interior with rivers, streams and forests, a west coast that is a mix of beaches, the city of Halkida, large towns, industry, agriculture, beaches and wetlands. And in the northwest the town of Edipsos is the most popular spa in Greece, with hot water gushing from rocks and crevices into the sea and pools of the many hotels and healing centers.There are several ways to reach Evia from Athens. Which way you choose depends on where in Evia you want to go, because as I said; Evia is a very large island and a very long one. How large and long? From one tip to the other could take you four or five hours by car.  You could drive almost to Thessaloniki from Athens in that time. Of course much of the journey will be on narrow winding roads where there is a good possibility that you will be stuck behind a big slow moving truck with nowhere to pass for at least part of the journey. And most likely you will stop to wade in the cool waters of the Kirea river that runs alongside the road that goes north from the modern city of Halkida to the fishing village of Limni, the spas of Edipsos and the beautiful beaches of the northern coast.
