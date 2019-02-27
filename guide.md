@@ -98,6 +98,7 @@ Cephalonia is the largest of the Ionian Islands. The sapphire waters of Cephalon
 * [Skala Beach](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-skala_beach.htm)
 * [Lourdas](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-lourdas.htm)
 * [Foki Fiskardo](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-foki_fiskardo.htm)
+* [Platis Gialos](https://www.greeka.com/ionian/kefalonia/kefalonia-beaches/kefalonia-platis_gialos.htm)
 
 #### <a name="entertainment_cephalonia"></a>Entertainment
 * [Gymland](https://www.facebook.com/Gymland-413803865346952/)
