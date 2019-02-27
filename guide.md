@@ -1048,6 +1048,15 @@ If you are island hopping around the Cyclades, Kimolos is an interesting stop to
 * [Postali](https://www.tripadvisor.com/Restaurant_Review-g4562659-d8478214-Reviews-Postali-Psathi_Kimolos_Cyclades_South_Aegean.html): Seafood, Greek, Mediterranean
 * [To Kyma](https://www.tripadvisor.com/Restaurant_Review-g4562659-d4550300-Reviews-To_Kyma-Psathi_Kimolos_Cyclades_South_Aegean.html): Local cuisine, Seafood, Mediterranean, Greek, Vegetarian Friendly
 
+### <a name="kea"></a>Kea(Tzia)
+The closest of the Cyclades islands to Athens is the island of Kea which you can get to on a one hour ferry ride from the port town of Lavrion which is close to Sounion. 
+Unlike the Saronic islands, Kea will give you the feeling of being much further away. 
+It is a traditional island where people are still farmers, but close enough for Athenians to have their summer homes. It also has the best beaches of any island close to Athens. 
+It has exceptional beaches and one of the best system of walking paths and trails of any Greek island. Kea is a hiker's paradise with numbered routes that take you through a variety of landcapes to remote coves and the ruins of ancient cities. 
+The hora, or the main village, is in the mountains and has no automobiles within the town, which has several excellent restaurants. 
+You can take a KTEL Attika bus to Lavrion from Pedion Areos Park, or catch it at the airport. 
+It is about a 2 hour trip though and for that reason many people hire a taxi and go there for the day since it is only a 45 minute drive.
+
 ## <a name="sporades"></a>Sporades
 
 ### <a name="skopelos"></a>Skopelos
