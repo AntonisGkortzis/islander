@@ -8,7 +8,7 @@ This guide provides people who would like to visit a Greek island with tips rega
 * [Greek Cheat Sheet](#greek)
 * [Ionian Islands](#ionian_islands)
   * [Cephalonia](#cephalonia)
-  * [Leukada](#lefkada)
+  * [Lefkada](#lefkada)
   * [Paxoi](#paxoi)
   * [Corfu (Kerkyra)](#corfu)
   * [Kythira](#kythira)
@@ -1441,7 +1441,7 @@ The most recent strong explosion occurred in 1888. A cylindrical conduit of volc
 * [Nightlife](#nightlife-Rhodes)
 
 #### <a name="gen-info-Rhodes"></a>General Information
-Rhodes is the largest of the Dodecanese islands of Greece and is also the island group's historical capital. Administratively the island forms a separate municipality within the Rhodes regional unit, which is part of the South Aegean administrative region. The principal town of the island and seat of the municipality is Rhodes. The city of Rhodes had 50,636 inhabitants in 2011.
+Rhodes is the largest of the Dodecanese islands of Greece and is also the island group's historical capital. Administratively the island forms a separate municipality within the Rhodes regional unit, which is part of the South Aegean administrative region. The principal town of the island and seat of the municipality is Rhodes. The city of Rhodes has a population of approximately 90,000 inhabitants.
 It is located northeast of Crete, southeast of Athens and just off the Anatolian coast of Turkey. Rhodes' nickname is The island of the Knights, named after the Knights of Saint John of Jerusalem, who once conquered the land.
 
 #### <a name="history-Rhodes"></a>History
@@ -1462,18 +1462,31 @@ Historical sites on the island of Rhodes include the Acropolis of Lindos, the Ac
 Kolossos of Rhodes
 
 #### <a name="beaches-Rhodes"></a>Beaches
+Rhodes has a lot of beautiful beaches, some are popular and easily accessible, but there are also some hidden gems that not many visitors find on their own. Most of the organised beaches in Rhodes provide equipment for water sports for the more extreme visitors. Nevertheless, you should definitely visit the ones mentioned below:
 
 ![](/images/kallithea_beach.jpg)
 
 Kallithea Springs
+Is located in a renovated venue with a cafe-bar next to the beach.
+Fun fact: This is the location where the classic movie "The Guns of Navarone" was filmed.
+
 
 ![](/images/tsambika_beach.jpg)
 
 Tsambika Beach
+Very warm and shallow waters, perfect for families and kids to play.
+
 
 ![](/images/lindos_beach.jpg)
 
 Lindos Beach
+Located below the castle and graphic village of Lindos.
+
+
+![](/images/Anthony_Quinn_Bay.jpg)
+
+Anthony Quinn Bay
+One of the most beautiful places to go snorkelling. The area is protected from fishers so if you happen to go by boat or go a bit deeper than most people you can see an amazing wildlife and many colourful fishes swimming just bellow your feet.
 
 #### <a name="nightlife-Rhodes"></a>Nightlife
 On an island of contrasts, Rhodes’ nightlife can take you from lively and raucous to chilled and romantic in the space of a single evening. For sheer number and variety, Rhodes’ nightclubs are the places to be seen, while plentiful tavernas and eateries leave you spoilt for choice too. Here’s our guide to Rhodes’ four main locations and their evening hotspots.
