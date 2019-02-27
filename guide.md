@@ -1451,6 +1451,7 @@ The most recent strong explosion occurred in 1888. A cylindrical conduit of volc
 * [Archaeology](#archaeology-Rhodes)
 * [Beaches](#beaches-Rhodes)
 * [Nightlife](#nightlife-Rhodes)
+* [Where to eat?](#food-Rhodes)
 
 #### <a name="gen-info-Rhodes"></a>General Information
 Rhodes is the largest of the Dodecanese islands of Greece and is also the island group's historical capital. Administratively the island forms a separate municipality within the Rhodes regional unit, which is part of the South Aegean administrative region. The principal town of the island and seat of the municipality is Rhodes. The city of Rhodes has a population of approximately 90,000 inhabitants.
@@ -1497,7 +1498,7 @@ Located below the castle and graphic village of Lindos.
 
 ![](/images/Anthony_Quinn_Bay.jpg)
 
-Anthony Quinn Bay
+[Anthony Quinn Bay](https://i.ytimg.com/vi/8Payy768Lqw/maxresdefault.jpg)
 One of the most beautiful places to go snorkelling. The area is protected from fishers so if you happen to go by boat or go a bit deeper than most people you can see an amazing wildlife and many colourful fishes swimming just bellow your feet.
 
 #### <a name="nightlife-Rhodes"></a>Nightlife
@@ -1518,7 +1519,24 @@ Off the beaten track but adored by locals, the resorts of Lindos and Pefkos on t
 
 A surprise find in such a balmy location is Lindos Ice Bar on Krana Square. Partygoers seek out this refuge from the Grecian sunshine, donning big coats and huge smiles as they drink at an ice bar from glasses made from the same. The beats and light show are equally cool. Meanwhile, the Eclipse Bar in Pefkos attracts a young crowd with something for everyone, from pool and games to music and dancing, plus the only cliff-jumping waterfall in Greece.
 
-Food-wise, you’ll find some stunning locations for watching the sunset, while enjoying a glass of local wine and the catch of the day. Try Philosophia Beach Taverna In Pefkos for romantic views of the bay and a chance to dip your toes in the water. In a similar vein is Dapapa on Kavos Beach, where the seafood is glorious with a backdrop to match. Ambrosia Restaurant in Lindos is sheer foodie heaven. Call in after a day exploring the acropolis, for a family-friendly atmosphere and seafood you’ll remember long after your tan fades.
+#### <a name="food-Rhodes"></a>Where to eat?
+Food-wise, you’ll find some stunning locations for watching the sunset, while enjoying a glass of local wine and the catch of the day.
+ * Try Philosophia Beach Taverna In Pefkos for romantic views of the bay and a chance to dip your toes in the water. 
+ * In a similar vein is Dapapa on Kavos Beach, where the seafood is glorious with a backdrop to match. 
+ * Ambrosia Restaurant in Lindos is sheer foodie heaven.
+ * Call in after a day exploring the acropolis, for a family-friendly atmosphere and seafood you’ll remember long after your tan fades.
+
+ If you are willing to spend a bit more time looking for good places to eat try avoiding the touristy areas and go where the locals go. Υou should definitely visit:
+
+ ![](/images/mimakos.taverna.jpg)
+
+ * [Taverna Mimakos](https://media-cdn.tripadvisor.com/media/photo-s/0c/f2/e0/da/mimakos-taverna.jpg): The first thing that comes to mind when you hear the word "tavern". It's a classic tavern with very good prices, quality food and unique view from the mountain.
+
+
+![](/images/rnr_burger.jpg)
+
+ * [Rock n' Roll](https://www.tripadvisor.com.gr/Restaurant_Review-g635613-d3750407-Reviews-Rock_n_Roll_Music_Diner-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html#photos;aggregationId=101&albumid=101&filter=7&ff=192918758): A vintage music diner, incuding a bar, events and late-night dancing. One of the best, if not the best, burger place hidden in the Old Town of Rhodes. Try the appetisers!!!
+
 
 ### <a name="tilos"></a>Tilos
 * [Discover Tilos](#discoverTilos)
