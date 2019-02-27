@@ -8,7 +8,7 @@ This guide provides people who would like to visit a Greek island with tips rega
 * [Greek Cheat Sheet](#greek)
 * [Ionian Islands](#ionian_islands)
   * [Cephalonia](#cephalonia)
-  * [Leukada](#leukada)
+  * [Lefkada](#lefkada)
   * [Paxoi](#paxoi)
   * [Corfu (Kerkyra)](#corfu)
   * [Kythira](#kythira)
@@ -127,11 +127,21 @@ It's simple. Grab your +1 😻, get in the car (yes you can drive to the island)
 * [Porto Katsiki](https://www.tripadvisor.com/Attraction_Review-g189460-d1230867-Reviews-Porto_Katsiki-Lefkada_Ionian_Islands.html):
 _The most famous beach of Lefkada._
 
+![](/images/Lefkada_porto_katsiki.jpg)
+
+source: [google images](https://www.google.com/search?q=porto+katsiki&tbm=isch&source=univ&sa=X&ved=2ahUKEwjehYaA4drgAhUEr6QKHYSoCeoQsAR6BAgBEAE&biw=1440&bih=546#imgrc=kEEYV_uB8xeBgM)
+
+
 * [Egremni](https://www.tripadvisor.com/Attraction_Review-g189460-d2225641-Reviews-Egremni_Beach-Lefkada_Ionian_Islands.html):
 _One of the 13 places with the bluest water in the world among Maldives and Palawan._
+![](/images/lefkada_egremni.jpg)
+source: [google images](https://www.google.com/search?biw=1440&bih=546&tbm=isch&sa=1&ei=4Oh1XJGxBeyU1fAP7OiQgAo&q=egremni+blue+water&oq=egremni+blue+water&gs_l=img.3...95381.97987..98507...0.0..0.139.1269.0j11......1....1..gws-wiz-img.......0j0i67j0i30j0i24.aILfbkcpF7Y#imgrc=FgCfyZMqEVYKtM)
 
 * [Megali Petra](https://www.tripadvisor.com/Attraction_Review-g189460-d12803262-Reviews-Megali_Petra_Beach-Lefkada_Ionian_Islands.html):
 _In translation "Big Rock" getting its name from the rocks scattered around the beach and the bottom of the sea._
+
+![](/images/lefkada_megali_petra.jpg)
+source: [google images](https://www.google.com/search?q=megali+petra&tbm=isch&source=univ&sa=X&ved=2ahUKEwjK4KOw4trgAhVQ3qQKHc6zD5gQsAR6BAgEEAE&biw=1440&bih=546#imgrc=YspS2uUGqmB-dM:megali)
 
 #### <a name="happy_hour"></a>Happy Hour
 "From ancient times man wanted to fly like a bird and see the world from above." We have all heard stories like Icarus with the feathered sandals of Hermes.
