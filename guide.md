@@ -1203,7 +1203,7 @@ Some of the best places to eat in Alonnisos are:
 * [Things to do](#toDoInSkiathos)
 
 #### <a name="discoverSkiathos"></a>Discover Skiathos
-Skiathos, the most cosmopolitan island in the Northern Sporades, is truly a paradise on earth, with lush pine forests and crystal-clear azure waters. Despite the rapid growth in tourism here in recent decades, it the island is still picturesque and unspoilt and blessed with more than 60 beautifully clean beaches. The most famous is Koukounariés, which has been declared the third most beautiful beach in the Mediterranean. When you add in its bustling nightlife, it is only natural that the island attracts thousands of young visitors every year!
+Skiathos, the most cosmopolitan island in the Northern Sporades, is truly a paradise on earth, with lush pine forests and crystal-clear waters. Despite the rapid growth in tourism here in recent decades, it the island is still unspoilt and blessed with more than 60 beautiful beaches. When you add in its bustling nightlife, it is only natural that the island attracts thousands of young visitors every year!
 
 ![](./images/skiathos.jpg)
 
@@ -1213,6 +1213,8 @@ In Ancient times, the island played a minor role during the Persian Wars. In 480
 In 1207 the Ghisi brothers captured the island and built the Bourtzi, a small Venetian-styled fortress similar to the Bourtzi in Nafplio, on an islet just out of Skiathos Town, to protect the capital from the pirates. But the Bourtzi was ineffective in protecting the population and in the mid-14th century the inhabitants moved the capital from the ancient site that lay where modern Skiathos Town is to Kastro (the Greek word for castle), located on a high rock, overlooking a steep cliff above the sea at the northernmost part of the island. Today, the ruins of Kastro are a tourist attraction.
 
 In 1704 monks from Athos built the Evangelistria Monastery, which played a part on the Greek War of Independence as a hide-out for Greek rebels. The first flag of Greece was created and hoisted in the Evangelistria Monastery in Skiathos in 1807, where several prominent military leaders (including Theodoros Kolokotronis and Andreas Miaoulis) had gathered for consultation concerning an uprising, and they were sworn to this flag by the local bishop.
+
+[source](https://en.wikipedia.org/wiki/Skiathos)
 
 #### <a name="gettingThereSkiathos"></a>Getting there
 * By ferry or high speed ship from the port of Volos or Ayios Konstantinos.
@@ -1228,20 +1230,20 @@ In 1704 monks from Athos built the Evangelistria Monastery, which played a part 
 
 ![](./images/lalaria.jpg)
 
-* [Banana](http://www.skiathos-tours.gr/en/what-to-see/beaches/banana.php): If you are involved with windsurfing, then you have to visit the beaches Banana. The famous beaches of Banana, consist of the Little and Big Banana, also called Bay Krassa. They acquired its present name from nudists who once frequented there. Banana beach is also a magnet for young people, as it offers the opportunity to do all kinds of water sports.
+* [Banana](http://www.skiathos-tours.gr/en/what-to-see/beaches/banana.php): If you are involved with windsurfing, then you have to visit the beaches Banana. The famous beaches of Banana, consist of the Little and Big Banana. They acquired its present name from nudists who once frequented there. Banana beach is also a magnet for young people, as it offers the opportunity to do all kinds of water sports.
 
 ![](./images/banana.jpg)
 
-* [Kastro](https://www.skiathos-tours.gr/en/what-to-see/beaches/kastro.php): Under the old medieval town of Skiathos, at the northernmost point of the island, lies a beautiful beach called Kastro (Castle). The combination of a swim in the crystal clear waters and a visit to the ruins of the castle, it is definitely one of the tours you should not miss during your stay in Skiathos.
+* [Kastro](https://www.skiathos-tours.gr/en/what-to-see/beaches/kastro.php): Under the old town of Skiathos, at the northernmost point of the island, lies a beautiful beach called Kastro (Castle). The combination of a swim in the crystal clear waters and a visit to the ruins of the castle, it is definitely one of the tours you should not miss during your stay in Skiathos.
 
 ![](./images/kastro.jpg)
 
-* [Lechouni](https://www.skiathos-tours.gr/en/what-to-see/beaches/lechouni.php): The tradition says that Nikotsaras, a hero of the Greek Revolution 1821, has been buried here. The beach itself is rocky with white pebbles and offers a beautiful but also wild beauty. It is not an organized beach but the road access is good.
+* [Lechouni](https://www.skiathos-tours.gr/en/what-to-see/beaches/lechouni.php): The tradition says that Nikotsaras, a hero of the Greek Revolution 1821, has been buried here. The beach itself is rocky with white pebbles and offers a beautiful but also wild beauty. It is not an organized beach, but the road access is good.
 
 ![](./images/lechouni.jpg)
 
 #### <a name="eatSkiathos"></a>Where to eat
-There are about a hundred of interesting restaurants, taverns, cafes and bars on the island.
+There are about a hundred of interesting restaurants and taverns on the island, some of which are listed down below:
 
 * [Limanaki Tavern](https://www.tripadvisor.com.gr/Restaurant_Review-g775993-d1928279-Reviews-Limanaki-Skiathos_Town_Skiathos_Sporades.html)
 * [Marmita](https://www.tripadvisor.com.gr/Restaurant_Review-g775993-d4195146-Reviews-Marmita-Skiathos_Town_Skiathos_Sporades.html)
@@ -1249,7 +1251,7 @@ There are about a hundred of interesting restaurants, taverns, cafes and bars on
 * [Scuna Restaurant](https://www.tripadvisor.com.gr/Restaurant_Review-g775993-d1116122-Reviews-Scuna_Restaurant-Skiathos_Town_Skiathos_Sporades.html)
 
 #### <a name="toDoInSkiathos"></a>Things to do
-* Visit [Skiathos town](https://www.skiathos-tours.gr/en/what-to-see/sights/skiathos-town.php): The island's capital and its port is the town of Skiathos, which stretches from the beach to the hills. It is the main place of residence for the locals and economical, cultural and administrative center of Skiathos. The port is divided into two by the beautiful little peninsula Bourtzi. The city is vibrant all summer long and offers every visitor a variety of options in dining, entertainment, accommodation and anything else needed. Skiathos town is ideal for walks in its narrow alleys, as well as for shopping and its intense nightlife. It is also the main starting point for most boat day trips around the island since they perform daily routes.
+* Visit [Skiathos town](https://www.skiathos-tours.gr/en/what-to-see/sights/skiathos-town.php): The island's capital and its port is the town of Skiathos, which stretches from the beach to the hills. The port is divided into two by the beautiful little peninsula Bourtzi. The city is vibrant all summer long and offers every visitor a variety of options in dining, entertainment, accommodation and anything else needed. Skiathos town is ideal for walks in its narrow alleys, as well as for shopping and its intense nightlife.
 
 * Visit [Bourtzi](https://www.skiathos-tours.gr/en/what-to-see/sights/peninsula-bourtzi.php): Don’t pass up the chance to visit Bourtzi, a small peninsula with lush vegetation where the ruins of a Venetian fortress still stand. Today it is one of the most romantic spots on Skiathos thanks to its densely planted pine trees and stunning views of the archipelago.
 
@@ -1263,7 +1265,7 @@ There are about a hundred of interesting restaurants, taverns, cafes and bars on
 
 * Go [scuba-diving](http://enjoythessaly.com/activities/scuba-diving/446-scubadiving-skiathos): Diving in Skiathos waters is a unique experience. You will be able to dive with experienced guides on reefs, wrecks, caves such as the Cave of Poseidon with red corals and other attractions of the Aegean's seabed.
 
-* Go [mountain biking](http://enjoythessaly.com/activities/mountain-bike/581-mountain-biking-in-skiathos): During the months from May to October and any day of the week you can try mountain biking in Skiathos. Skiathos island although offers trails among lush vegetation with trails from 3-5 hours and starting point in the attitude of the No.3 bus route Skiathos - Koukounaries.
+* Go [mountain biking](http://enjoythessaly.com/activities/mountain-bike/581-mountain-biking-in-skiathos): During the months from May to October and any day of the week you can try mountain biking in Skiathos. Skiathos island offers trails among lush vegetation with trails from 3-5 hours.
 
 ## <a name="dodecanese"></a>Dodecanese
 
